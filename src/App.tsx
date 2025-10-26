@@ -1,9 +1,16 @@
 import React, { useState, useEffect } from 'react';
+import { Header } from './components/Header';
+import { Footer } from './components/Footer';
+
+interface NameSourcePair {
+  name: string;
+  source: string;
+}
 
 interface DataItem {
   id: number;
   hex: string;
-  names: string[];
+  name_source_pairs: NameSourcePair[];
 }
 
 function App() {
@@ -40,12 +47,9 @@ function App() {
             console.log(`Status:`, response.status);
             
             if (response.ok) {
-              const responseText = await response.text();
-              console.log(`Raw:`, responseText);
-              
+              const responseText = await response.text();              
               try {
                 const jsonData = JSON.parse(responseText);
-                console.log(`Parsed:`, jsonData);
                 allData.push(...(Array.isArray(jsonData) ? jsonData : [jsonData]));
               } catch (parseError) {
                 console.error(`JSON error:`, parseError);
@@ -58,7 +62,6 @@ function App() {
           }
         }
         
-        console.log('All data:', allData);
         setData(allData);
       } catch (error) {
         console.error('Error:', error);
@@ -83,11 +86,13 @@ function App() {
         return (
           String(item.id) === search ||
           item.hex.toLowerCase().includes(searchLower) ||
-          item.names.some(name => name.toLowerCase().includes(searchLower))
+          item.name_source_pairs.some(pair => 
+            pair.name.toLowerCase().includes(searchLower) ||
+            pair.source.toLowerCase().includes(searchLower)
+          )
         );
       });
 
-      console.log('Search results for:', search, filtered);
       setResults(filtered);
       setHasSearched(true);
     }, 500);
@@ -97,21 +102,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-900">
-      <header className="bg-gray-800 border-b border-gray-700">
-        <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
-          <div className="flex items-center space-x-8">
-            <div className="text-xl font-semibold text-white">CrunchDB</div>
-            <nav className="flex space-x-6">
-              <a href="#" className="text-sm text-gray-300 hover:text-white">
-                <i className="fas fa-question-circle mr-2"></i>What am I looking at?
-              </a>
-              <a href="#" className="text-sm text-gray-300 hover:text-white">
-                <i className="fas fa-globe mr-2"></i>Website
-              </a>
-            </nav>
-          </div>
-        </div>
-      </header>
+      <Header />
 
       <main className="max-w-3xl mx-auto px-4 pt-32">
         <div className="mb-8 text-center">
@@ -156,17 +147,26 @@ function App() {
               <thead className="bg-gray-750 border-b border-gray-700">
                 <tr>
                   <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Name</th>
-                  <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Value</th>
+                  <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Balue</th>
                   <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Hex value</th>
+                  <th className="px-4 py-3 text-left text-sm font-semibold text-gray-300">Source</th>
                 </tr>
               </thead>
               <tbody>
                 {results.map(item => (
-                  <tr key={item.id} className="border-b border-gray-700 last:border-b-0 hover:bg-gray-750">
-                    <td className="px-4 py-3 text-white">{item.names.join(', ')}</td>
-                    <td className="px-4 py-3 text-gray-300">{item.id}</td>
-                    <td className="px-4 py-3 text-blue-400 font-mono">{item.hex}</td>
-                  </tr>
+                  <React.Fragment key={item.id}>
+                    {item.name_source_pairs.map((pair, index) => (
+                      <tr 
+                        key={`${item.id}-${index}`} 
+                        className="border-b border-gray-700 last:border-b-0 hover:bg-gray-750"
+                      >
+                        <td className="px-4 py-3 text-white">{pair.name}</td>
+                        <td className="px-4 py-3 text-gray-300">{item.id}</td>
+                        <td className="px-4 py-3 text-blue-400 font-mono">{item.hex}</td>
+                        <td className="px-4 py-3 text-blue-400 font-mono">{pair.source}</td>
+                      </tr>
+                    ))}
+                  </React.Fragment>
                 ))}
               </tbody>
             </table>
@@ -179,9 +179,7 @@ function App() {
           </div>
         )}
 
-        <footer className="fixed bottom-0 left-0 right-0 py-4 text-center text-sm text-gray-500">
-          <p>© 2025 Crunch Doing Re. Based on the amazing <u><a target="_blank" href="https://www.magnumdb.com/">MagnumDB</a></u>.</p>
-        </footer>
+        <Footer />
       </main>
     </div>
   );
