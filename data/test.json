@@ -1,12 +1,18 @@
 [
     {
-      "id": 1,
-      "hex": "0x01",
-      "names": ["Item One", "First"]
+        "id": 1,
+        "hex": "0x01",
+        "name_source_pairs": [
+            {"name": "Item One", "source": "main.c"},
+            {"name": "First", "source": "alternate.c"}
+        ]
     },
     {
-      "id": 2,
-      "hex": "0x02",
-      "names": ["Item Two", "Second"]
+        "id": 2,
+        "hex": "0x02",
+        "name_source_pairs": [
+            {"name": "Item Two", "source": "header.h"},
+            {"name": "Second", "source": "definitions.h"}
+        ]
     }
 ]
