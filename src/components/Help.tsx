@@ -8,7 +8,7 @@ export const Help = () => {
           <h2 className="text-2xl font-semibold mb-4 text-white">About CrunchDB</h2>
           <p className="text-gray-300">
             CrunchDB is Apple's Magic Number Database - a comprehensive collection of identifiers, 
-            hex values, and their corresponding names used across Apple's ecosystem.
+            hex values, and their corresponding names used across Apple's ecosystem. Swift support WIP!
           </p>
         </section>
 
@@ -26,7 +26,7 @@ export const Help = () => {
           <p className="text-gray-300">
             The data in CrunchDB is compiled from various Apple documentation, 
             header files, and reverse engineering efforts to provide accurate 
-            magic number references.
+            magic number references. JSONs are obtained with <a href="https://github.com/zeropio/CrunchFinder" target="_blank">CrunchFinder</a>.
           </p>
         </section>
 

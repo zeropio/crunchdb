@@ -1,36 +1,33 @@
-import { useState, useEffect } from 'react';
+import { useMemo } from 'react';
 import { DataItem } from '../types';
 
 export const useSearch = (search: string, data: DataItem[]) => {
-  const [results, setResults] = useState<DataItem[]>([]);
-  const [hasSearched, setHasSearched] = useState(false);
-
-  useEffect(() => {
+  const results = useMemo(() => {
     if (!search.trim()) {
-      setResults([]);
-      setHasSearched(false);
-      return;
+      return [];
     }
 
-    const timer = setTimeout(() => {
-      const searchLower = search.toLowerCase();
-      const filtered = data.filter(item => {
-        return (
-          String(item.id) === search ||
-          item.hex.toLowerCase().includes(searchLower) ||
-          item.name_source_pairs.some(pair => 
-            pair.name.toLowerCase().includes(searchLower) ||
-            pair.source.toLowerCase().includes(searchLower)
-          )
-        );
-      });
+    const searchLower = search.toLowerCase().trim();
+    
+    const filtered = data.filter(item => {
+    const regex = new RegExp(`\\b${searchLower}\\b`, 'i');
+    return (
+      regex.test(item.hex) ||
+      regex.test(item.name) ||
+      regex.test(item.type) ||
+      regex.test(item.source)
+    );
+  });
 
-      setResults(filtered);
-      setHasSearched(true);
-    }, 500);
+    return filtered;
+  }, [data, search]);
 
-    return () => clearTimeout(timer);
-  }, [search, data]);
+  const hasSearched = useMemo(() => {
+    return search.trim().length > 0;
+  }, [search]);
 
-  return { results, hasSearched };
+  return {
+    results,
+    hasSearched,
+  };
 };

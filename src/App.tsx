@@ -1,3 +1,4 @@
+// App.tsx
 import React, { useState, useEffect } from 'react';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
@@ -7,13 +8,20 @@ import { Help } from './components/Help';
 import { Changelog } from './components/Changelog';
 import { useDataLoader } from './hooks/useDataLoader';
 import { useSearch } from './hooks/useSearch';
-import { DataItem } from './types';
 
 function App() {
   const [search, setSearch] = useState('');
   const [currentView, setCurrentView] = useState<'search' | 'help' | 'changelog'>('search');
   const { data, loading } = useDataLoader();
+  const [currentPage, setCurrentPage] = useState(1);
+  
   const { results, hasSearched } = useSearch(search, data);
+  const totalItems = results.length;
+
+  // Reset to page 1 when search changes
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [search]);
 
   // Handle browser navigation
   useEffect(() => {
@@ -53,10 +61,10 @@ function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-gray-900">
+    <div className="min-h-screen bg-gray-900 flex flex-col">
       <Header />
 
-      <main className="max-w-3xl mx-auto px-4 pt-32">
+      <main className="max-w-7xl mx-auto px-6 pt-32 pb-20 w-full"> {/* Removed flex-grow, added w-full */}
         {currentView === 'search' ? (
           <>
             <div className="mb-8 text-center">
@@ -68,7 +76,7 @@ function App() {
               </p>
               {!loading && (
                 <p className="text-sm text-gray-500 mt-2">
-                  {data.length} items loaded
+                  {data.length.toLocaleString('de-DE')} items loaded
                 </p>
               )}
             </div>
@@ -77,6 +85,9 @@ function App() {
               search={search}
               onSearchChange={setSearch}
               loading={loading}
+              currentPage={currentPage}
+              totalItems={totalItems}
+              onPageChange={setCurrentPage}
             />
 
             {loading && (
@@ -89,6 +100,7 @@ function App() {
               results={results}
               hasSearched={hasSearched}
               search={search}
+              currentPage={currentPage}
             />
           </>
         ) : currentView === 'help' ? (
@@ -96,9 +108,11 @@ function App() {
         ) : (
           <Changelog />
         )}
-
-        <Footer />
       </main>
+
+      <div className="mt-auto"> {/* This div will push the footer to the bottom */}
+        <Footer />
+      </div>
     </div>
   );
 }

@@ -11,7 +11,7 @@ export const useDataLoader = () => {
         setLoading(true);
         const allData: DataItem[] = [];
         
-        const jsonFiles = ['test.json'];
+        const jsonFiles = ['xnu.json'];
         
         for (const filename of jsonFiles) {
           try {
