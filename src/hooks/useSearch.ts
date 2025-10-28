@@ -1,33 +1,58 @@
-import { useMemo } from 'react';
+import { useState, useCallback } from 'react';
 import { DataItem } from '../types';
 
-export const useSearch = (search: string, data: DataItem[]) => {
-  const results = useMemo(() => {
-    if (!search.trim()) {
-      return [];
+interface SearchResponse {
+  results: DataItem[];
+  pagination: {
+    current: number;
+    total: number;
+    totalItems: number;
+  };
+}
+
+export const useSearch = () => {
+  const [results, setResults] = useState<DataItem[]>([]);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [pagination, setPagination] = useState<SearchResponse['pagination'] | null>(null);
+
+  const search = useCallback(async (query: string, page: number = 1) => {
+    if (!query.trim()) {
+      setResults([]);
+      setPagination(null);
+      return;
     }
 
-    const searchLower = search.toLowerCase().trim();
-    
-    const filtered = data.filter(item => {
-    const regex = new RegExp(`\\b${searchLower}\\b`, 'i');
-    return (
-      regex.test(item.hex) ||
-      regex.test(item.name) ||
-      regex.test(item.type) ||
-      regex.test(item.source)
-    );
-  });
+    try {
+      setLoading(true);
+      setError(null);
+      
+      const params = new URLSearchParams({
+        q: query.trim(),
+        page: page.toString(),
+        limit: '100'
+      });
 
-    return filtered;
-  }, [data, search]);
-
-  const hasSearched = useMemo(() => {
-    return search.trim().length > 0;
-  }, [search]);
+      const response = await fetch(`/api/search?${params}`);
+      if (!response.ok) throw new Error('Search failed');
+      
+      const data: SearchResponse = await response.json();
+      setResults(data.results);
+      setPagination(data.pagination);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Search error');
+      setResults([]);
+      setPagination(null);
+    } finally {
+      setLoading(false);
+    }
+  }, []);
 
   return {
     results,
-    hasSearched,
+    loading,
+    error,
+    pagination,
+    search
   };
 };

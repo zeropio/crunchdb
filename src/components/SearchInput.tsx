@@ -1,5 +1,4 @@
-// components/SearchInput.tsx
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
 interface SearchInputProps {
   search: string;
@@ -18,8 +17,21 @@ export const SearchInput: React.FC<SearchInputProps> = ({
   totalItems,
   onPageChange,
 }) => {
+  const [localSearch, setLocalSearch] = useState(search);
   const itemsPerPage = 100;
   const totalPages = Math.ceil(totalItems / itemsPerPage);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      onSearchChange(localSearch);
+    }, 500);
+
+    return () => clearTimeout(timer);
+  }, [localSearch, onSearchChange]);
+
+  useEffect(() => {
+    setLocalSearch(search);
+  }, [search]);
 
   const handlePreviousPage = () => currentPage > 1 && onPageChange(currentPage - 1);
   const handleNextPage = () => currentPage < totalPages && onPageChange(currentPage + 1);
@@ -29,18 +41,12 @@ export const SearchInput: React.FC<SearchInputProps> = ({
       <div className="relative">
         <input
           type="text"
-          value={search}
-          onChange={(e) => onSearchChange(e.target.value)}
+          value={localSearch}
+          onChange={(e) => setLocalSearch(e.target.value)}
           placeholder="Search..."
           className="w-full px-6 py-4 text-lg bg-gray-800 text-white border border-gray-700 rounded-full focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500 placeholder-gray-400"
           disabled={loading}
         />
-        <button
-          className="absolute right-2 top-1/2 transform -translate-y-1/2 px-6 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 disabled:opacity-50"
-          disabled={loading}
-        >
-          <i className="fas fa-search"></i>
-        </button>
       </div>
 
       {totalItems > 0 && (

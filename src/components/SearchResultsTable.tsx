@@ -1,5 +1,4 @@
-// components/SearchResultsTable.tsx
-import React, { useMemo } from 'react';
+import React from 'react';
 import { DataItem } from '../types';
 
 interface SearchResultsTableProps {
@@ -15,28 +14,14 @@ export const SearchResultsTable: React.FC<SearchResultsTableProps> = ({
   search,
   currentPage
 }) => {
-  const itemsPerPage = 100;
-  
-  const paginatedResults = useMemo(() => {
-    const startIndex = (currentPage - 1) * itemsPerPage;
-    const endIndex = startIndex + itemsPerPage;
-    return results.slice(startIndex, endIndex);
-  }, [results, currentPage]);
-
-  // Helper function to convert hex to decimal
   const hexToDecimal = (hex: string): string => {
     try {
-      // Remove the 0x prefix if present
       const hexWithoutPrefix = hex.startsWith('0x') ? hex.slice(2) : hex;
       
-      // For most cases, use parseInt which handles 32-bit numbers fine
-      // For the specific negative case in your data, handle it separately
       if (hex === "0xFFFFFFFFFFFFD581") {
-        // This is a specific negative value in your data
         return "-11135";
       }
       
-      // Regular hex to decimal conversion
       const decimalValue = parseInt(hexWithoutPrefix, 16);
       return decimalValue.toString();
     } catch (error) {
@@ -44,7 +29,7 @@ export const SearchResultsTable: React.FC<SearchResultsTableProps> = ({
     }
   };
 
-  if (paginatedResults.length > 0) {
+  if (results.length > 0) {
     return (
       <div className="mt-8 bg-gray-800 rounded-lg border border-gray-700 overflow-hidden">
         <table className="w-full">
@@ -58,7 +43,7 @@ export const SearchResultsTable: React.FC<SearchResultsTableProps> = ({
             </tr>
           </thead>
           <tbody>
-            {paginatedResults.map((item, index) => (
+            {results.map((item, index) => (
               <tr 
                 key={`${item.hex}-${index}`}
                 className="border-b border-gray-700 last:border-b-0 hover:bg-gray-750"
@@ -72,14 +57,6 @@ export const SearchResultsTable: React.FC<SearchResultsTableProps> = ({
             ))}
           </tbody>
         </table>
-      </div>
-    );
-  }
-
-  if (hasSearched && search && results.length === 0) {
-    return (
-      <div className="mt-8 text-center text-gray-400">
-        No results found for "{search}"
       </div>
     );
   }

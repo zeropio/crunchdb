@@ -1,5 +1,6 @@
 {
   "name": "webapp",
+  "type": "module",
   "version": "0.1.0",
   "homepage": "https://crunch.doing.re/",
   "private": true,
@@ -12,6 +13,10 @@
     "@types/node": "^16.18.126",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-scripts": "5.0.1",
@@ -21,10 +26,14 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "node server/index.js",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:frontend": "react-scripts start",
+    "dev:backend": "nodemon server/index.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "import-data": "node server/importData.js"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +54,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "concurrently": "^9.2.1",
+    "gh-pages": "^6.3.0",
+    "nodemon": "^3.1.10"
   }
 }
