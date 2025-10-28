@@ -1,0 +1,794 @@
+[
+  {
+    "hex": "0x1",
+    "name": "retries",
+    "source": "AppleI2C/I2CUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "realCount",
+    "source": "AppleI2C/I2CUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retries",
+    "source": "AppleI2C/I2CUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "realCount",
+    "source": "AppleI2C/I2CUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retries",
+    "source": "AppleI2C/I2CUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retries",
+    "source": "AppleI2C/I2CUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kI2CUCBufSize",
+    "source": "AppleI2C/I2CUserClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "I2CUSERCLIENT_DEBUG",
+    "source": "AppleI2C/I2CUserClientPrivate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "I2C_REGISTERDELAY",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ISR",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "registerValue",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nMask",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reg",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reg",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "loop",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Status",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loopsPerMic",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A98",
+    "name": "waitTime",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nub",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "propertyPtr",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A98",
+    "name": "waitTime",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "waitTime",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secondaryBusNum",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secondaryBusNum",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "readLen",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "shift",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shift",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shift",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "readLen",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptMask",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kMaxClients",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientCalledCount",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientAddressInfo",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientAddressInfo",
+    "source": "AppleI2C/PPCI2CInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ki2cStateIdle",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPortMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDumbMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStandardMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStandardSubMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCombinedMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModeMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSimpleI2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSubaddressI2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCombinedI2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSubaddress4I2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kCombined4I2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k100KhzMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k50KhzMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k25KhzMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReservedMode",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "I2CPortShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "I2CModeShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "I2CSpeedShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kClrCNTRL",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAakCNTRL",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXAddrCNTRL",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStopCNTRL",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStartCNTRL",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCNTRLMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "I2CControlShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBusySTATUS",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLastAakSTATUS",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLastReadWriteSTATUS",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIsdaSTATUS",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSclSTATUS",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSTATUSMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "I2CStatusShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIDataISR",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIAddrISR",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIStopISR",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIStartISR",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kISRMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "I2CInterruptStatusShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEDataIER",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEAddrIER",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEStopIER",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEStartIER",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIERMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "I2CInterruptEnableShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADDRMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWriteADDR",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReadADDR",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRWMask",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "I2CAddressShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "I2CRWShift",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kSMUSleepDelay",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSMU_Open",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSMU_I2C_Cmd",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSMU_Close",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUI2CCmd",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSimpleI2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSubaddressI2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCombinedI2CStream",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kI2CNoErr",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kI2CReadData",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF9",
+    "name": "kI2CDataBufSize",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kI2CStatusBus",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSystemClockBus",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPowerSupplyBus",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAXIICRETRYCOUNT",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STATUS_DATAREAD",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STATUS_OK",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STATUS_BUSY",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "command",
+    "source": "AppleI2C/PPCI2CInterface.h",
+    "type": "EnumCase"
+  }
+]

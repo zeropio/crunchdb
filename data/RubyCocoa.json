@@ -1,0 +1,2648 @@
+[
+  {
+    "hex": "0x80",
+    "name": "MAX_ARGS",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x514",
+    "name": "BS_BOXED_OCTYPE_THRESHOLD",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAX_ENCODE_LEN",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "field_idx",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_fields_count",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "field_count",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type_id",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type_id",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupport.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "switch",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "TOTAL_KEYWORDS",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MIN_WORD_LENGTH",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "MAX_WORD_LENGTH",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MIN_HASH_VALUE",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "MAX_HASH_VALUE",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "range",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BS_XML_CONSTANT",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BS_XML_ENUM",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "BS_XML_STRUCT",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BS_XML_INFORMAL_PROTOCOL",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "BS_XML_ARG",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "BS_XML_RETVAL",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "BS_XML_FUNCTION",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "BS_XML_CLASS",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "BS_XML_METHOD",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "BS_XML_CFTYPE",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "BS_XML_OPAQUE",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "BS_XML_FUNCTION_ALIAS",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "BS_XML_STRING_CONSTANT",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/BridgeSupportLexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/cls_objcptr.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/cls_objcptr.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/cls_objcptr.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pointers_args_count",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skipped",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length_value",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/libffi.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/mdl_objwrapper.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/mdl_objwrapper.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/mdl_objwrapper.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/mdl_objwrapper.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "method_count",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/objc_compat.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "_PRIV_C_BOOL",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CACHE_LOCKING",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "v",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nested",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/ocdata_conv.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/OverrideMixin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/OverrideMixin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/OverrideMixin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/OverrideMixin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/OverrideMixin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ivar_count",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/OverrideMixin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "space",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/OverrideMixin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBClassUtils.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBClassUtils.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "version",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBClassUtils.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBObject.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBObject.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBObject.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ruby_argc",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "frequently_init_stack_mode",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rubycocoa_initialized_flag",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rubycocoa_initialized_flag",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rb_cocoa_thread_debug",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUBY_THREADSWITCH_INIT",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUBY_THREADSWITCH_FREE",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUBY_THREADSWITCH_SAVE",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUBY_THREADSWITCH_RESTORE",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_numItems",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_highWat",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_highWatRes",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_poppingCount",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_qstate",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "_numPoolSlots",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_numPools",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_startSlot",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "_numHandlerSlots",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_numHandlers",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_altHandlerCtr",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_qstate",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBRuntime.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEFAULT_WAIT",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBThreadSwitcher.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEFAULT_INTERVAL",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBThreadSwitcher.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "RubyCocoa/RubyCocoa/framework/src/objc/RBThreadSwitcher.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FFI_OK",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FFI_TYPE_VOID",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FFI_TYPE_INT",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FFI_TYPE_FLOAT",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FFI_TYPE_DOUBLE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FFI_TYPE_LONGDOUBLE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FFI_TYPE_UINT8",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "FFI_TYPE_SINT8",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "FFI_TYPE_UINT16",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "FFI_TYPE_SINT16",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "FFI_TYPE_UINT32",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FFI_TYPE_SINT32",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "FFI_TYPE_UINT64",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "FFI_TYPE_SINT64",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "FFI_TYPE_STRUCT",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "FFI_TYPE_POINTER",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/ffi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FFI_NO_RAW_API",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA_H",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMCPY",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MMAP_ANON",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MMAP_FILE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/include/fficonfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_SMST",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_NOTHING",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_FP",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_64BITS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_128BITS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_ARG_NEEDS_COPY",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_FP_ARGUMENTS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_4_GPR_ARGUMENTS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETVAL_REFERENCE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "NUM_GPR_ARG_REGISTERS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "NUM_FPR_ARG_REGISTERS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ASM_NEEDS_REGISTERS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intarg_count",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fparg_count",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "NUM_GPR_ARG_REGISTERS64",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "NUM_FPR_ARG_REGISTERS64",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ASM_NEEDS_REGISTERS64",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fparg_count",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fparg_count",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "struct_copy_size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "MIN_CACHE_LINE_SIZE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nf",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ng",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FFI_FIRST_ABI",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffitarget.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FFI_CLOSURES",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FFI_NATIVE_RAW_API",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "FFI_TRAMPOLINE_SIZE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "FFI_TRAMPOLINE_SIZE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_NOTHING",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_FP",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_64BITS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETURNS_128BITS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_ARG_NEEDS_COPY",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_FP_ARGUMENTS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_4_GPR_ARGUMENTS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLAG_RETVAL_REFERENCE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "NUM_GPR_ARG_REGISTERS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "NUM_FPR_ARG_REGISTERS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ASM_NEEDS_REGISTERS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "4",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fparg_count",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_al",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "FFI_TYPE_DOUBLE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fparg_count",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_al",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "FFI_TYPE_DOUBLE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "4",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x68",
+    "name": "8",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "4",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "MIN_LINE_SIZE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nf",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ng",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "FFI_TYPE_DOUBLE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/powerpc/ffi_darwin.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "curalign",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/prep_cif.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/prep_cif.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/prep_cif.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "align",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/prep_cif.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "MAX_GPR_REGS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "MAX_SSE_REGS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MAX_CLASSES",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "UNITS_PER_WORD",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsse",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssecount",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "align",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssecount",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "align",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssecount",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "align",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffi64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FFI_FIRST_ABI",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffitarget.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FFI_CLOSURES",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "FFI_TRAMPOLINE_SIZE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FFI_NATIVE_RAW_API",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FFI_TRAMPOLINE_SIZE",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FFI_NATIVE_RAW_API",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/src/x86/ffitarget.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/closure_fn4.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/closure_fn5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/closure_fn5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_12byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_12byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_16byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_16byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_18byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_18byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_19byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_19byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_1_1byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_1_1byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_20byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_20byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_20byte1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_20byte1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_24byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_24byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_2byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_2byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_3byte1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_3byte1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_3byte2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_3byte2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_3_1byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_3_1byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_4byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_4byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_4_1byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_4_1byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_5byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_5byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_64byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_64byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_6byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_6byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_7byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_7byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_8byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_8byte.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_9byte1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_9byte1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_9byte2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_9byte2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_double.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_double.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_longdouble.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_longdouble.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_pointer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_pointer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_sint16.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_sint16.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_sint32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_sint32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_sint64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_sint64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_uint16.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_uint16.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_uint32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_uint32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_uint64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_align_uint64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "a",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_schar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D",
+    "name": "b",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_schar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "a",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_sshort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7FFD",
+    "name": "b",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_sshort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_sshortchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7FFD",
+    "name": "b",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_sshortchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "c",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_sshortchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_uchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "b",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_uchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "c",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_uchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D",
+    "name": "d",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_uchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "a",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_ushort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7FFD",
+    "name": "b",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_ushort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_ushortchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "b",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_ushortchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "c",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_ushortchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "d",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/cls_multi_ushortchar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_ARGS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/ffitest.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "si1",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "f",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ld",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "si2",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "f",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/float1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "f",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/float2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "ld",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/float2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/many.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ul",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/many_win32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/nested_struct3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/problem1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/problem1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "us",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/promotion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ul",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/promotion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "us",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/promotion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "o",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "l",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/pyobjc-tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ll",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/return_ll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3287092776B8",
+    "name": "ll",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/return_ll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "d",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x22B",
+    "name": "ui",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "d1",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "d2",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct4.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct4.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ui1",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct4.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ui2",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct4.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ui3",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct4.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "c1",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "c2",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "c1",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "c2",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "f",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "d",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "f1",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "f2",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "d",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "f1",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "f2",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "f",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.call/struct9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_ARGS",
+    "source": "RubyCocoa/RubyCocoa/misc/libffi/testsuite/libffi.special/ffitestcxx.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "loaded",
+    "source": "RubyCocoa/RubyCocoa/sample/Fortune.wdgt/SimplePlugin/MyPluginClass.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loaded",
+    "source": "RubyCocoa/RubyCocoa/sample/Fortune.wdgt/SimplePlugin/MyPluginClass.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ruby_argc",
+    "source": "RubyCocoa/RubyCocoa/sample/Hakoiri-Musume/main_0.3.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/sample/Hakoiri-Musume/main_0.3.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/sample/Hakoiri-Musume/main_0.3.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "RubyCocoa/RubyCocoa/sample/PassengerPane/SecurityHelper.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/sample/PassengerPane/SecurityHelper.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "installed",
+    "source": "RubyCocoa/RubyCocoa/sample/RubyAnywhere/RubyAnywhereLoader.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "installed",
+    "source": "RubyCocoa/RubyCocoa/sample/RubyAnywhere/RubyAnywhereLoader.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "installed",
+    "source": "RubyCocoa/RubyCocoa/sample/VPRubyPluginEnabler/VPRubyPluginEnabler.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "installed",
+    "source": "RubyCocoa/RubyCocoa/sample/VPRubyPluginEnabler/VPRubyPluginEnabler.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "integer",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "floating",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "integer",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "floating",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14D",
+    "name": "integer",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14D",
+    "name": "floating",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "foo",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "f2",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x65B9AA",
+    "name": "d2",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "ll2",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "foo",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFF",
+    "name": "i",
+    "source": "RubyCocoa/RubyCocoa/tests/objc_test.m",
+    "type": "EnumCase"
+  }
+]

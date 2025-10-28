@@ -1,0 +1,608 @@
+[
+  {
+    "hex": "0x0",
+    "name": "MAX_DMA_XFER",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLevelISR",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLevelLocked",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLevelSIH",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLevelLatched",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "i",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "i",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kdp",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intLevel",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "initiatorId",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "maxTargetsSupported",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "maxLunsSupported",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "minTransferPeriodpS",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "maxTransferOffset",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maxTransferWidth",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxCommandsPerController",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "maxCommandsPerTarget",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxCommandsPerLun",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "maxTags",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "number_of_power_states",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "heathrowFCROffset",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scsiEnMask",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "heathrowIDOffset",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scsiTermPowerMask",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMsgOutFlag",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fInitiatorIDMask",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA",
+    "name": "fSelectionTimeout",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptSelect",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waitSelect",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "branchSelect",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fReadAlignmentCount",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesTransferred",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "savedDataPosition",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalXferLen",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fReadAlignmentCount",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "groupLength",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "fReadAlignmentCount",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMsgInFlag",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "negResult",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "transferPeriodpS",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "transferPeriodpS",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "transferWidth",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fInterruptEvent",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMemoryCursor",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogBuf",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fReadAlignmentCount",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCmd",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgOneByteMax",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgTwoByteMin",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgTwoByteMax",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMsgInCount",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transferCount1",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "transferCount0",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fMsgInCount",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "period",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "period",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "period",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busStatus0",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transferCount1",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "transferCount0",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIFOcnt",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "targetID",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitValue",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "defaultSelectionTimeout",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busStatus1",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xEE6B280",
+    "name": "tv_nsec",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interrupt",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMsgInFlag",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "transferCount0",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transferCount1",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busStatus0",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fReadAlignmentCount",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMESH/mesh.cpp",
+    "type": "EnumCase"
+  }
+]

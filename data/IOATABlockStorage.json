@@ -1,0 +1,662 @@
+[
+  {
+    "hex": "0x0",
+    "name": "fProvider",
+    "source": "IOATABlockStorage/IOATABlockStorageDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "features",
+    "source": "IOATABlockStorage/IOATABlockStorageDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectorCount",
+    "source": "IOATABlockStorage/IOATABlockStorageDriver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectorNumber",
+    "source": "IOATABlockStorage/IOATABlockStorageDriver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cylinderLow",
+    "source": "IOATABlockStorage/IOATABlockStorageDriver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cylinderHigh",
+    "source": "IOATABlockStorage/IOATABlockStorageDriver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "IOATABlockStorage/IOATABlockStorageDriver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAIdentifyConfiguration",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kATAIdentifyLogicalCylinderCount",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kATAIdentifyLogicalHeadCount",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kATAIdentifySectorsPerTrack",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kATAIdentifySerialNumber",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "kATAIdentifyFirmwareRevision",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "kATAIdentifyModelNumber",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2F",
+    "name": "kATAIdentifyMultipleSectorCount",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31",
+    "name": "kATAIdentifyDriveCapabilities",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "kATAIdentifyDriveCapabilitiesExtended",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x33",
+    "name": "kATAIdentifyPIOTiming",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x35",
+    "name": "kATAIdentifyExtendedInfoSupport",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x36",
+    "name": "kATAIdentifyCurrentCylinders",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "kATAIdentifyCurrentHeads",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x38",
+    "name": "kATAIdentifyCurrentSectors",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x39",
+    "name": "kATAIdentifyCurrentCapacity",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B",
+    "name": "kATAIdentifyCurrentMultipleSectors",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "kATAIdentifyLBACapacity",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E",
+    "name": "kATAIdentifySingleWordDMA",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "kATAIdentifyMultiWordDMA",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kATAIdentifyAdvancedPIOModes",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x41",
+    "name": "kATAIdentifyMinMultiWordDMATime",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x42",
+    "name": "kATAIdentifyRecommendedMultiWordDMATime",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x43",
+    "name": "kATAIdentifyMinPIOTime",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x44",
+    "name": "kATAIdentifyMinPIOTimeWithIORDY",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4B",
+    "name": "kATAIdentifyQueueDepth",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "kATAIdentifyMajorVersion",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x51",
+    "name": "kATAIdentifyMinorVersion",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x52",
+    "name": "kATAIdentifyCommandSetSupported",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x53",
+    "name": "kATAIdentifyCommandSetSupported2",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x54",
+    "name": "kATAIdentifyCommandExtension1",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x55",
+    "name": "kATAIdentifyCommandExtension2",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x56",
+    "name": "kATAIdentifyCommandsEnabled",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x57",
+    "name": "kATAIdentifyCommandsDefault",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x58",
+    "name": "kATAIdentifyUltraDMASupported",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "kATAIdentifyIntegrity",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFixedDeviceBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kRemoveableMediaBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kNonMagneticDriveBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kDMABit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kLBABit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kIORDYDisableBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kIORDYBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kStandbyTimerBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCurFieldsValidBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kExtFieldsValidBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMode3Bit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kChecksumValidCookie",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "kSizeOfATAModelString",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSizeOfATARevisionString",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "kATATimeout10Seconds",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7530",
+    "name": "kATATimeout30Seconds",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAFC8",
+    "name": "kATATimeout45Seconds",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xEA60",
+    "name": "kATATimeout1Minute",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAZeroRetries",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kATADefaultRetries",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kIOATASectorCount8Bit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kIOATASectorCount16Bit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "kSecondsInAMinute",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "k5Minutes",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASupportsSMARTBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kATASupportsPowerManagementBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kATASupportsWriteCacheBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kATASupportsCompactFlashBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kATASupportsAdvancedPowerManagementBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kATASupports48BitAddressingBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kATASupportsFlushCacheBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kATASupportsFlushCacheExtendedBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATADataIsValidMask",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kATAWriteCacheEnabledBit",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAFeaturePowerManagement",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAFeatureWriteCache",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAFeatureAdvancedPowerManagement",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAFeatureCompactFlash",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAFeature48BitLBA",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAFeatureSMART",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAMaxPerformance",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATADefaultPerformance",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAMaxPowerSavings",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOATAPowerStateSystemSleep",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOATAPowerStateSleep",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOATAPowerStateStandby",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOATAPowerStateIdle",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOATAPowerStateActive",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kIOATAPowerStates",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAEnableUltraDMAModeMask",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAEnableMultiWordDMAModeMask",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAEnablePIOModeMask",
+    "source": "IOATABlockStorage/IOATAStorageDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTOffLineCollectionNeverStarted",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTOffLineCollectionNoError",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTOffLineCollectionSuspendedByHost",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTOffLineCollectionAbortedByHost",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTOffLineCollectionFatalError",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTOffLineCollectionMask",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusNoError",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusAbortedByHost",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusInterruptedByReset",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusFatalError",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusPreviousTestUnknownFailure",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusPreviousTestElectricalFailure",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusPreviousTestServoFailure",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusPreviousTestReadFailure",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASMARTSelfTestStatusInProgress",
+    "source": "IOATABlockStorage/UserClientLib/ATASMARTLib.h",
+    "type": "EnumCase"
+  }
+]

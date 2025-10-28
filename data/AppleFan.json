@@ -1,0 +1,1778 @@
+[
+  {
+    "hex": "0x0",
+    "name": "kConfigReg1",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfigReg2",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatusReg1",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatusReg2",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtTempReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFan1SpeedReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFan2SpeedReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalOffsetReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1OffsetReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2OffsetReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFan1TachHighLimitReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFan2TachHighLimitReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempHighLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempLowLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempThermLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempHighLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempLowLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempThermLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempHighLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempLowLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempThermLimReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFan1CharReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFan2CharReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedCfgReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFanFilterReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocTminTrangeReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRmt1TminTrangeReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRmt2TminTrangeReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDeviceIDReg",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalExtMask",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalExtShift",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1ExtMask",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kRemote1ExtShift",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2ExtMask",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kRemote2ExtShift",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDeviceIDADM1030",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDeviceIDADM1031",
+    "source": "AppleFan/ADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDeviceIDADT7460",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDeviceIDADT7467",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k2_5VReading",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k2_5VccpReading",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVccReading",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1Temp",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTemperature",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2Temp",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH1LowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH1HighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH2LowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH2HighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH3LowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH3HighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH4LowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH4HighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM1DutyCycle",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM2DutyCycle",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM3DutyCycle",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1OperatingPoint",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocakTempOperatingPoint",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2OperatingPoint",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDynTminContReg1",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDynTminContReg2",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDeviceIDReg",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCompanyIDNum",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRevisionNum",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfigReg1",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIntStatusReg1",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIntStatusReg2",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVIDReg",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k2_5VLowLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k2_5VHighLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVccLowLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVccHighLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempLowLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempHighLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempLowLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempHighLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempLowLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempHighLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH1MinLowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH1MinHighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH2MinLowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH2MinHighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH3MinLowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH3MinHighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH4MinLowByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACH5MinHighByte",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM1ConfigReg",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM2ConfigReg",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM3ConfigReg",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1Trange",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTrange",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2Trange",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEnhanceAcousticsReg1",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEnhanceAcousticsReg2",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM1MinDutyCycle",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM2MinDutyCycle",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWM3MinDutyCycle",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempTmin",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempTmin",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempTmin",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1THERMLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTHERMLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2THERMLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1LocalHysteresis",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2LocalHysteresis",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXORTreeTestEnable",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1TempOffset",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempOffset",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2TempOffset",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfigReg2",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInterruptMask1Reg",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInterruptMask2Reg",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtendedRes1",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtendedRes2",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfigReg3",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTHERMTimerLimit",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFanPulsePerRev",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfigReg4",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTestRegister1",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTestRegister2",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalExtMask",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kLocalExtShift",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote1ExtMask",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kRemote1ExtShift",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2ExtMask",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemote2ExtShift",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kVoltageShift",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtVoltageMask",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtVoltageShift",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k2_5VAttenuationMask",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB1C7",
+    "name": "kIncrementPerVolt2_25Max",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7936",
+    "name": "kIncrementPerVolt3_3Max",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAE02",
+    "name": "kUnitsPerVoltWithAttenuation7467",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8555",
+    "name": "kUnitsPerVoltWithoutAttenuation7467",
+    "source": "AppleFan/ADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CBus",
+    "source": "AppleFan/AppleADM103x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CAddr",
+    "source": "AppleFan/AppleADM103x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleFan/AppleADM103x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "workValue",
+    "source": "AppleFan/AppleADM103x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_sensors",
+    "source": "AppleFan/AppleADM103x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleFan/AppleADM103x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "APPLEADM103x_DEBUG",
+    "source": "AppleFan/AppleADM103x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kNumRetries",
+    "source": "AppleFan/AppleADM103x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADM103xProbeFailureScore",
+    "source": "AppleFan/AppleADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2AF8",
+    "name": "kADM103xProbeSuccessScore",
+    "source": "AppleFan/AppleADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHWSensorPollingPeriodNULL",
+    "source": "AppleFan/AppleADM103x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CBus",
+    "source": "AppleFan/AppleADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CAddr",
+    "source": "AppleFan/AppleADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleFan/AppleADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleFan/AppleADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_sensors",
+    "source": "AppleFan/AppleADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleFan/AppleADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fanWhole",
+    "source": "AppleFan/AppleADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "APPLEADT746x_DEBUG",
+    "source": "AppleFan/AppleADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kNumRetries",
+    "source": "AppleFan/AppleADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADT746xProbeFailureScore",
+    "source": "AppleFan/AppleADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2AF8",
+    "name": "kADT746xProbeSuccessScore",
+    "source": "AppleFan/AppleADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFanTachOne",
+    "source": "AppleFan/AppleADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFanTachTwo",
+    "source": "AppleFan/AppleADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHWSensorPollingPeriodNULL",
+    "source": "AppleFan/AppleADT746x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gDefaultHysteresisTemp",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "gDefaultPollingPeriod",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "gDefaultSpeedupDelay",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "gDefaultSlowdownDelay",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "I2C_iface",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpu_thermo",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CAddr",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLastFanSpeed",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLastRmtTemp",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "score",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newSpeed",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "speed",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "speed",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "Tmin",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "Trange",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regval",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleFan/AppleFan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "APPLEFAN_DEBUG",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfigReg1",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfigReg2",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtTempReg",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalTempReg",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemoteTempReg",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFanCharReg",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedCfgReg",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFanFilterReg",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocTminTrange",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRmtTminTrange",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMonitorEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kINTEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACHModeSelect",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMInvertEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFanFaultEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMModeSelectMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMModeRemote",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMModeFastest",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAutoEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMOutputEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTACHInputEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocTempINTEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRmtTempINTEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSWReset",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRemoteExtMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "kRemoteExtShift",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocalExtMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUpTimeMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp200MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp400MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp600MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp800MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp1000MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp2000MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp4000MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUp8000MS",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreqMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq11Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq15Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq23Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq31Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq37Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq46Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq62Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPWMFreq93Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedRangeMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedRange2647",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedRange1324",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedRange662",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpeedRange331",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycleOff",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle07",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle14",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle20",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle27",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle33",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle40",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle47",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle53",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle60",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle67",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle73",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle80",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle87",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycle93",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDutyCycleFull",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterEnable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRateMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate87_5Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate175Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate350Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate700Hz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate1_4KHz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate2_8KHz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate5_6KHz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSampleRate11_2KHz",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRampRateMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRampRate1",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRampRate2",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRampRate4",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRampRate8",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSpinUpDisable",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTminMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTrangeMask",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kNumRetries",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "kTempMaxDelta",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "kNumFanSpeeds",
+    "source": "AppleFan/AppleFan.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10000",
+    "name": "count",
+    "source": "AppleFan/AppleK2Fan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "AppleFan/AppleK2Fan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleFan/AppleK2Fan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleFan/AppleK2Fan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "fPollingMS",
+    "source": "AppleFan/AppleK2Fan.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOPPluginMessageRegister",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOPPluginMessageUnregister",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOPPluginMessageLowThresholdHit",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOPPluginMessageHighThresholdHit",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kIOPPluginMessageCurrentValue",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kIOPPluginMessageStateChanged",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kIOPPluginMessagePowerMonitor",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kIOPPluginMessageError",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kIOPPluginMessageGetPlatformID",
+    "source": "AppleFan/AppleK2Fan.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleFan/IOI2CADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_sensors",
+    "source": "AppleFan/IOI2CADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleFan/IOI2CADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fanWhole",
+    "source": "AppleFan/IOI2CADT746x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOI2CADT746x_DEBUG",
+    "source": "AppleFan/IOI2CADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kNumRetries",
+    "source": "AppleFan/IOI2CADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFanTachOne",
+    "source": "AppleFan/IOI2CADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFanTachTwo",
+    "source": "AppleFan/IOI2CADT746x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHWSensorPollingPeriodNULL",
+    "source": "AppleFan/IOI2CADT746x.h",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,728 @@
+[
+  {
+    "hex": "0x1F4",
+    "name": "kSCC_Settle_time",
+    "source": "AppleRS232Serial/AppleRS232Power.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCC_PowerStateOff",
+    "source": "AppleRS232Serial/AppleRS232Power.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "AppleRS232Serial/AppleRS232Power.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gXTrace",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "dumplen",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Count",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Count",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlen",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wlen",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Hxpnt",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debugFlags",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fCurrentPowerState",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busyState",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busyState",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busyState",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "CharLength",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "StopBits",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "WatchStateMask",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delta",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DLRimage",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmaTransferSize",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmaTransferSize",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "activeRxChannelIndex",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "WatchStateMask",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BaudRate",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CharLength",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "StopBits",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TX_Parity",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RX_Parity",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FlowControl",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmp",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ints",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txInts",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rxInts",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mdmInts",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txChars",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rxChars",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastCTSTime",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctsTransitionCount",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txDMAInterruptSource",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rxDMAInterruptSource",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sccInterruptSource",
+    "source": "AppleRS232Serial/AppleRS232Serial.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LDEBUG",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_ELG",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOG_DATA",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUMPALL",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "Sleep_Time",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__xtrace",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSerialOut",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSerialIn",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSerialOther",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "USE_FILTER_EVENT_SOURCES",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IDLE_XO",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NEEDS_XOFF",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SENT_XOFF",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NEEDS_XON",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "SENT_XON",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONTINUE_SEND",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "PAUSE_SEND",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTxInterrupts",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kRxInterrupts",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSccInterrupts",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelDataOffsetRISC",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelControlOffsetRISC",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "channelDataOffset",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelControlOffset",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIntChipSet",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "DMABufferSize",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NoParity",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serialPortA",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "serialPortB",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2580",
+    "name": "kDefaultBaudRate",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x38400",
+    "name": "kMaxBaudRate",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxDBDMACmd_First_Read",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxDBDMACmd_Write",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kRxDBDMABufferSize",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kTxDBDMABufferSize",
+    "source": "AppleRS232Serial/AppleRS232Serial.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "dumplen",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Hxpnt",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Count",
+    "source": "AppleRS232Serial/SccLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSerialOut",
+    "source": "AppleRS232Serial/SccLog.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSerialIn",
+    "source": "AppleRS232Serial/SccLog.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSerialOther",
+    "source": "AppleRS232Serial/SccLog.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "number_of_power_states",
+    "source": "AppleRS232Serial/SccPower.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "InQueue",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Start",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "End",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NextChar",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LastChar",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Size",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "InQueue",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BytesWritten",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BytesReceived",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retVal",
+    "source": "AppleRS232Serial/SccQueue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "queueNoError",
+    "source": "AppleRS232Serial/SccQueue.h",
+    "type": "EnumCase"
+  }
+]

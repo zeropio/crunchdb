@@ -1,0 +1,3710 @@
+[
+  {
+    "hex": "0x0",
+    "name": "LBA_CAPABLE",
+    "source": "pdisk/ATA_media.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDevUnknown",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kDevATA",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kDevATAPI",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kDevPCMCIA",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNoDevice",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "kATAtimeout",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdATAPIPacket",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ata_inited",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ata_inited",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exists",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busCount",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "atapi",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "atapi",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lba",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "heads",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectors",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lba",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "grain",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "grain",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "grain",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "grain",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lba",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lba",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ataTFCount",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFSDH",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lba",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lba",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ataTFCount",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFSDH",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "block_size",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "blocks",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFSDH",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "atapiPacketSize",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFSDH",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "atapiPacketSize",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ataPBByteCount",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ataTFCylinder",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slave",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFSDH",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "atapiPacketSize",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataPBDeviceID",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ataDeviceNextID",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus_index",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus_index",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "id",
+    "source": "pdisk/ATA_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CMD_FAIL",
+    "source": "pdisk/cmdline.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_SUCCESS",
+    "source": "pdisk/cmdline.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MIN_PARTITION_SIZE",
+    "source": "pdisk/cmdline.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4D2",
+    "name": "LITTLE_ENDIAN",
+    "source": "pdisk/convert.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E1",
+    "name": "BIG_ENDIAN",
+    "source": "pdisk/convert.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E1",
+    "name": "BYTE_ORDER",
+    "source": "pdisk/convert.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4D2",
+    "name": "BYTE_ORDER",
+    "source": "pdisk/convert.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/convert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CFLAG_DEFAULT",
+    "source": "pdisk/cvt_pt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DFLAG_DEFAULT",
+    "source": "pdisk/cvt_pt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HFLAG_DEFAULT",
+    "source": "pdisk/cvt_pt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INTERACT_DEFAULT",
+    "source": "pdisk/cvt_pt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFLAG_DEFAULT",
+    "source": "pdisk/cvt_pt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg_option",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bool_option",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opterr",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getopt_error",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getopt_error",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bool_option",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "pdisk/cvt_pt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deblock_inited",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "deblock_inited",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_filtering",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_filtering",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/deblock_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "kMaxSCSIRetries",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errorCode",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errorCode",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scsiStatusByte",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scsiMsgByte",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myTransferCount",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scParam2",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scParam2",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scParam1",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scParam2",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalTries",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getTries",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iCount",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iCount",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "result",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "result",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "result",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus",
+    "source": "pdisk/DoSCSICommand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "pdisk/DoSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "pdisk/DoSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "pdisk/DoSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK0_SIGNATURE",
+    "source": "pdisk/dpme.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "DPISTRLEN",
+    "source": "pdisk/dpme.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DPME_SIGNATURE",
+    "source": "pdisk/dpme.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZBMAGIC",
+    "source": "pdisk/dpme.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DeviceType",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "digits",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "max_type_length",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "max_type_length",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "max_name_length",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "j",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DeviceType",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "j",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "i",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "LINE_LEN",
+    "source": "pdisk/dump.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "UNIT_LEN",
+    "source": "pdisk/dump.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "OTHER_LEN",
+    "source": "pdisk/dump.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "pdisk/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AFLAG_DEFAULT",
+    "source": "pdisk/dump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PFLAG_DEFAULT",
+    "source": "pdisk/dump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FFLAG_DEFAULT",
+    "source": "pdisk/dump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "hflag",
+    "source": "pdisk/errors.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7FFFFFFFFFFFFFFF",
+    "name": "LOFF_MAX",
+    "source": "pdisk/file_media.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSI_Disks",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kATA_Devices",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSI_CDs",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMaxStyle",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file_inited",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "file_inited",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_size",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "off",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regular_file",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "style",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "style",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bump",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bump",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bump",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "pdisk/file_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "MDB_OFFSET",
+    "source": "pdisk/hfs_misc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HFS_SIG",
+    "source": "pdisk/hfs_misc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HFS_PLUS_SIG",
+    "source": "pdisk/hfs_misc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "BAD_DIGIT",
+    "source": "pdisk/io.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "STRING_CHUNK",
+    "source": "pdisk/io.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "UNGET_MAX_COUNT",
+    "source": "pdisk/io.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "SCSI_FD",
+    "source": "pdisk/io.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "base",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "base",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret_value",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret_value",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "digit",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "digit",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "extra",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "extra",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "pdisk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "MAXIOSIZE",
+    "source": "pdisk/io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_name",
+    "source": "pdisk/layout_dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "pdisk/layout_dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kLineSize",
+    "source": "pdisk/layout_dump.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineStart",
+    "source": "pdisk/layout_dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/layout_dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/layout_dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquiryRMB",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquiryRelAdr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquiryWBus32",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquiryWBus16",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquirySync",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquiryLinked",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquiryReserved",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquiryCmdQue",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiInquirySftRe",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeDirect",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeUnknownOrMissing",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeMask",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeQualifierConnected",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeQualifierNotConnected",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeQualifierReserved",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeQualifierMissing",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeQualifierVendorSpecific",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiDevTypeQualifierMask",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseHasLBN",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseInfoValid",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseInfoMask",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseKeyMask",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseILI",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseEOM",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseFileMark",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseNone",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseRecoveredErr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseNotReady",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseMediumErr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseHardwareErr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseIllegalReq",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseUnitAtn",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseDataProtect",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseBlankCheck",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseVendorSpecific",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseCopyAborted",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseAbortedCmd",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseEqual",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseVolumeOverflow",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseMiscompare",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseCurrentErr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiSenseDeferredErr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusGood",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusCheckCondition",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusConditionMet",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusBusy",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusIntermediate",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusResConflict",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusQueueFull",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiStatusReservedMask",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdChangeDefinition",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdCompare",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdCopy",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdCopyAndVerify",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdInquiry",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdLogSelect",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdLogSense",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdModeSelect10",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdModeSelect6",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdModeSense10",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdModeSense6",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdReadBuffer",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdRecvDiagResult",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdRequestSense",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSendDiagnostic",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdTestUnitReady",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdWriteBuffer",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdFormatUnit",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdCopy",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdCopyAndVerify",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdLockUnlockCache",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdPrefetch",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdPreventAllowRemoval",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdRead6",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdRead10",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdReadCapacity",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdReadDefectData",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdReadLong",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdReassignBlocks",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdRelease",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdReserve",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdRezeroUnit",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSearchDataEql",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSearchDataHigh",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSearchDataLow",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSeek6",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSeek10",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSetLimits",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdStartStopUnit",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSynchronizeCache",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdVerify",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdWrite6",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdWrite10",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdWriteAndVerify",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdWriteLong",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdWriteSame",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdRewind",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdWriteFilemarks",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdSpace",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdLoadUnload",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiCmdReadCDTableOfContents",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgAbort",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgAbortTag",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgBusDeviceReset",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgClearQueue",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgCmdComplete",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgDisconnect",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgIdentify",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgIgnoreWideResdue",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgInitiateRecovery",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgInitiatorDetectedErr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgLinkedCmdComplete",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgLinkedCmdCompleteFlag",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgParityErr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgRejectMsg",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgModifyDataPtr",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgNop",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgHeadOfQueueTag",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgOrderedQueueTag",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgSimpleQueueTag",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgReleaseRecovery",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgRestorePointers",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgSaveDataPointers",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgSyncXferReq",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgWideDataXferReq",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgTerminateIOP",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgExtended",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgEnableDisconnectMask",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgTwoByte",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgTwoByteMin",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kScsiMsgTwoByteMax",
+    "source": "pdisk/MacSCSICommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "media_kind",
+    "source": "pdisk/media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kind",
+    "source": "pdisk/media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kind",
+    "source": "pdisk/media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "APPLE_HFS_FLAGS_VALUE",
+    "source": "pdisk/partition_map.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReplace",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAdd",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSplit",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valid_file",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "writable",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "writable",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "valid_file",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changed",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "written",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blocks_in_map",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "logical_block",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ix",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blocks_in_map",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "number",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dpme_map_entries",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dpme_pblock_start",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dpme_lblock_start",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbBlkCount",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbDevType",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbDevId",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbData",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbDrvrCount",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "adjusted_base",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "adjusted_length",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_base",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_length",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dpme_map_entries",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dpme_lblock_start",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slice",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bzb_inode",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bzb_inode",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ix",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valid",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "r",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HFS_name",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "incr",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ddSize",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ddType",
+    "source": "pdisk/partition_map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "PBLOCK_SIZE",
+    "source": "pdisk/partition_map.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAX_LINUX_MAP",
+    "source": "pdisk/partition_map.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHFS_not",
+    "source": "pdisk/partition_map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kHFS_std",
+    "source": "pdisk/partition_map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kHFS_embed",
+    "source": "pdisk/partition_map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kHFS_plus",
+    "source": "pdisk/partition_map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "pdisk/pathname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/pathname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "pdisk/pathname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/pathname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ix",
+    "source": "pdisk/pathname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ix",
+    "source": "pdisk/pathname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ix",
+    "source": "pdisk/pathname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ARGV_CHUNK",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CFLAG_DEFAULT",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DFLAG_DEFAULT",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HFLAG_DEFAULT",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INTERACT_DEFAULT",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LFLAG_DEFAULT",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFLAG_DEFAULT",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VFLAG_DEFAULT",
+    "source": "pdisk/pdisk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLongOption",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kOptionArg",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E9",
+    "name": "kListOption",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3EA",
+    "name": "kLogicalOption",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first_get",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "rows",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "autocloseonquit",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asktosaveonclose",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interactive",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interactive",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interactive",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "autocloseonquit",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first_get",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ask_logical_size",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ask_logical_size",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cflag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optind",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opterr",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getopt_error",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getopt_error",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flag",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first_get",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "order",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "get_type",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "order",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "get_type",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slice",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type_name",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changed",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "written",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quit",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first_get",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quit",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "display_g",
+    "source": "pdisk/pdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNoDevice",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x24",
+    "name": "kRequiredSCSIinquiryLength",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scsi_inited",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scsi_inited",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exists",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_scsi",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bus_count",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "old_scsi",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus_count",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sort_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_id",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "master_id",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "result",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "x",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "x",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "x",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "x",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "x",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "x",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "y",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "y",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "y",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diReserved",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LUN",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diReserved",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LUN",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diReserved",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LUN",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diReserved",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LUN",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diReserved",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LUN",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scsiFlags",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus_index",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bus_index",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_disk",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_cdrom",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loaded",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loaded",
+    "source": "pdisk/SCSI_media.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "development",
+    "source": "pdisk/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn_value",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn_value",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "valid",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "the_map",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "pdisk/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVersionMajor",
+    "source": "pdisk/version.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVersionMinor",
+    "source": "pdisk/version.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVersionBugFix",
+    "source": "pdisk/version.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVersionDelta",
+    "source": "pdisk/version.h",
+    "type": "PreprocessorConstant"
+  }
+]

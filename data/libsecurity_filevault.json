@@ -1,0 +1,272 @@
+[
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "timeout",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5F5E100",
+    "name": "tv_nsec",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalRead",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usedBufLen",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lossByte",
+    "source": "libsecurity_filevault/lib/ExecCLITool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "kReadBufSize",
+    "source": "libsecurity_filevault/lib/ExecCLITool.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "READ",
+    "source": "libsecurity_filevault/lib/ExecCLITool.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "WRITE",
+    "source": "libsecurity_filevault/lib/ExecCLITool.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cspHand",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tpHand",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clHand",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numExts",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "numSubjectNames",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numIssuerNames",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notBefore",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "notAfter",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfRequests",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfPolicyIds",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumSelectionPredicates",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TimeLimit",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SizeLimit",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QueryFlags",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfAttributes",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "SR_KEY_SIZE_IN_BITS",
+    "source": "libsecurity_filevault/lib/SecFileVaultCert.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_UNMOUNT",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_RECOVER",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_COMPACT",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_RESIZE",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x135CE93E",
+    "name": "hostName",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xACE9BA0",
+    "name": "rval",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usedBufLen",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usedBufLen",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lossByte",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usedBufLen",
+    "source": "libsecurity_filevault/lib/SFFileVault.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dlHand",
+    "source": "libsecurity_filevault/lib/srCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DO_DSA_GEN_PARAMS",
+    "source": "libsecurity_filevault/lib/srCdsaUtils.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn",
+    "source": "libsecurity_filevault/lib/srCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_filevault/lib/srCdsaUtils.cpp",
+    "type": "EnumCase"
+  }
+]

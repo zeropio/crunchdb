@@ -1,0 +1,1484 @@
+[
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelFeature_WideDataTransfer",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSIParallelFeature_SynchronousDataTransfer",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSIParallelFeature_QuickArbitrationAndSelection",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSCSIParallelFeature_DoubleTransitionDataTransfers",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSCSIParallelFeature_InformationUnitTransfers",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelFeature_NoNegotiation",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSIParallelFeature_AttemptNegotiation",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSIParallelFeature_ClearNegotiation",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelFeature_NegotitiationUnchanged",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSIParallelFeature_NegotitiationCleared",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSIParallelFeature_NegotitiationSuccess",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelControllerCharacteristics.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCSI_PARALLEL_INTERFACE_CONTROLLER_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kWorldWideNameDataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kAddressIdentifierDataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kALPADataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSASAddressDataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kPhysicalInterconnectDictionaryEntryCount",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kHBAContraintsDictionaryEntryCount",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSCSIParallelDomainCount",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "taskSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lockState",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indexID",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indexID",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lockState",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lockState",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indexID",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "value",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "value",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_TASK_COMPLETE",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_EXTENDED_MESSAGE",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_SAVE_DATA_POINTER",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_RESTORE_POINTERS",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_DISCONNECT",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_INITIATOR_DETECTED_ERROR",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_MESSAGE_REJECT",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_NO_OPERATION",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_MESSAGE_PARITY_ERROR",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_IGNORE_WIDE_RESIDUE",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_QAS_REQUEST",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_IDENTIFY",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_MODIFY_DATA_POINTER",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_SYNCHONOUS_DATA_TRANSFER_REQUEST",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Reserved",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_WIDE_DATA_TRANSFER_REQUEST",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_PARALLEL_PROTOCOL_REQUEST",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Reserved",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_ACA",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_HEAD_OF_QUEUE",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_LINKED_COMMAND_COMPLETE",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_ORDERED",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_SIMPLE",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_ABORT_TASK",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_ABORT_TASK_SET",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_CLEAR_ACA",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_CLEAR_TASK_SET",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_LOGICAL_UNIT_RESET",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelMessage_TARGET_RESET",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelTaskControllerIDQueueHead",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIControllerNotificationBusReset",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeoutOverride",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kSCSIParallelDeviceListArrayCount",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelDeviceListIndexMask",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCSI_PARALLEL_DEVICE_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kMaxTaskRetryCount",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kWorldWideNameDataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kAddressIdentifierDataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kALPADataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSASAddressDataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSCSIPortIdentifierDataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHBADataSize",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceFeatures",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ITNexusFeatures",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inqSCSIVersion",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inqDataLength",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forArg",
+    "source": "IOSCSIParallelFamily/IOSCSIParallelInterfaceDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIUntaggedTaskIdentifier",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITask_SIMPLE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSITask_ORDERED",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSITask_HEAD_OF_QUEUE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSCSITask_ACA",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskState_NEW_TASK",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSITaskState_ENABLED",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSITaskState_BLOCKED",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSCSITaskState_DORMANT",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSCSITaskState_ENDED",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIServiceResponse_Request_In_Process",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSIServiceResponse_SERVICE_DELIVERY_OR_TARGET_FAILURE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSIServiceResponse_TASK_COMPLETE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSCSIServiceResponse_LINK_COMMAND_COMPLETE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSCSIServiceResponse_FUNCTION_COMPLETE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kSCSIServiceResponse_FUNCTION_REJECTED",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_GOOD",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_CHECK_CONDITION",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_CONDITION_MET",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_BUSY",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_INTERMEDIATE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_INTERMEDIATE_CONDITION_MET",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_RESERVATION_CONFLICT",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_TASK_SET_FULL",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_ACA_ACTIVE",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_TaskTimeoutOccurred",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_ProtocolTimeoutOccurred",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_DeviceNotResponding",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_DeviceNotPresent",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_DeliveryFailure",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITaskStatus_No_Status",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kSCSICDBSize_Maximum",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSCSICDBSize_6Byte",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kSCSICDBSize_10Byte",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kSCSICDBSize_12Byte",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kSCSICDBSize_16Byte",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDataTransfer_NoDataTransfer",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDataTransfer_FromInitiatorToTarget",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDataTransfer_FromTargetToInitiator",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelFeature_WideDataTransfer",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSIParallelFeature_SynchronousDataTransfer",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSIParallelFeature_QuickArbitrationAndSelection",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSCSIParallelFeature_DoubleTransitionDataTransfers",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSCSIParallelFeature_InformationUnitTransfers",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelFeature_NoNegotiation",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSIParallelFeature_AttemptNegotiation",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSIParallelFeature_ClearNegotiation",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIParallelFeature_NegotitiationUnchanged",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSCSIParallelFeature_NegotitiationCleared",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSCSIParallelFeature_NegotitiationSuccess",
+    "source": "IOSCSIParallelFamily/SCSIControllerDriverKit/SCSIDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCSI_PARALLEL_TASK_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SPI_MODULE",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTargetID",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRealizedTransferCount",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTaskRetryCount",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSCSIParallelFeatureRequestCount",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSCSIParallelFeatureRequestResultCount",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "IOSCSIParallelFamily/SCSIParallelTask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/SCSIParallelTimer.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCSI_PARALLEL_TIMER_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/SCSIParallelTimer.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "inTimeoutMS",
+    "source": "IOSCSIParallelFamily/SCSIParallelTimer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTimeoutValueNone",
+    "source": "IOSCSIParallelFamily/SCSIParallelTimer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "action",
+    "source": "IOSCSIParallelFamily/SCSIParallelTimer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/SCSIParallelWorkLoop.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCSI_PARALLEL_WORKLOOP_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/SCSIParallelWorkLoop.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EMULATOR_ADAPTER_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "kMaxTargetID",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxLUN",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "maxTasks",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "taskDataSize",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hbaDataSize",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "targetID",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logicalUnitNumber",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scsiStatus",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ADAPTER_UC_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIEmulatorAdapterUserClientAccessMask",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "kSCSIEmulatorAdapterUserClientConnection",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "kInitiatorID",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUserClientCreateLUN",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kUserClientDestroyLUN",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kUserClientDestroyTarget",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorAdapterUC.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x424",
+    "name": "MAC_OS_X_VERSION_10_6",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "USE_LUN_BYTES",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "USE_LUN_BYTES",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIEmulatorDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSILogicalUnitEmulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EMULATOR_ADAPTER_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSILogicalUnitEmulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "EMULATOR_ADAPTER_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prevent",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "senseBufferLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "senseBufferLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pageCode",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MEDIUM_TYPE",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEVICE_SPECIFIC_PARAMETER",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_DESCRIPTOR_LENGTH",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "senseBufferLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pageCode",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MEDIUM_TYPE",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEVICE_SPECIFIC_PARAMETER",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_DESCRIPTOR_LENGTH",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "kBlockSize",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT00Emulator.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT03Emulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "EMULATOR_ADAPTER_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT03Emulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT03Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataLen",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSIPDT03Emulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TARGET_EMULATOR_DEBUGGING_LEVEL",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLUNReportBufferSize",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSize",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSize",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logicalUnitBytes",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logicalUnit",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LUN",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTargetStateChangeActiveBit",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTargetStateChangeActiveWaitBit",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/AppleSCSITargetEmulator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outCount",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gInquiryPage00Data",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outCount",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outCount",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "domain",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "targetID",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LUN",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdt",
+    "source": "IOSCSIParallelFamily/TestTools/AppleSCSIHBAEmulator/emulator.c",
+    "type": "EnumCase"
+  }
+]

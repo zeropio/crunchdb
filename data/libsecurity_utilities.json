@@ -1,0 +1,1454 @@
+[
+  {
+    "hex": "0x0",
+    "name": "normal",
+    "source": "libsecurity_utilities/lib/alloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sensitive",
+    "source": "libsecurity_utilities/lib/alloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurity_utilities/lib/blob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minSize",
+    "source": "libsecurity_utilities/lib/blob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libsecurity_utilities/lib/blob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxSize",
+    "source": "libsecurity_utilities/lib/blob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSize",
+    "source": "libsecurity_utilities/lib/bufferfifo.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "es",
+    "source": "libsecurity_utilities/lib/bufferfifo.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "libsecurity_utilities/lib/ccaudit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "machine",
+    "source": "libsecurity_utilities/lib/ccaudit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errNone",
+    "source": "libsecurity_utilities/lib/ccaudit.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x457",
+    "name": "errInvalidCredential",
+    "source": "libsecurity_utilities/lib/ccaudit.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "libsecurity_utilities/lib/cfclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libsecurity_utilities/lib/cfclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gNumTimesCalled",
+    "source": "libsecurity_utilities/lib/cfmach++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "more",
+    "source": "libsecurity_utilities/lib/cfmunge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "libsecurity_utilities/lib/cfmunge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/cfutilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/cfutilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/cfutilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/cfutilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mCount",
+    "source": "libsecurity_utilities/lib/cfutilities.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/cfutilities.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/cfutilities.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/coderepository.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_utilities/lib/crc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "forkTries",
+    "source": "libsecurity_utilities/lib/daemon.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ENABLE_SECTRACE",
+    "source": "libsecurity_utilities/lib/debugging.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "plen",
+    "source": "libsecurity_utilities/lib/debugging.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "maxLength",
+    "source": "libsecurity_utilities/lib/debugsupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "messageConstructionSize",
+    "source": "libsecurity_utilities/lib/debugsupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "maxProgNameLength",
+    "source": "libsecurity_utilities/lib/debugsupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "procLength",
+    "source": "libsecurity_utilities/lib/debugsupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "dumpBufferSize",
+    "source": "libsecurity_utilities/lib/debugsupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bigEndian",
+    "source": "libsecurity_utilities/lib/dyldcache.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "littleEndian",
+    "source": "libsecurity_utilities/lib/dyldcache.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_utilities/lib/dyldcache.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "errSecErrnoBase",
+    "source": "libsecurity_utilities/lib/errors.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1879F",
+    "name": "errSecErrnoLimit",
+    "source": "libsecurity_utilities/lib/errors.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/errors.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/errors.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_namelen",
+    "source": "libsecurity_utilities/lib/fdmover.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "libsecurity_utilities/lib/fdmover.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_controllen",
+    "source": "libsecurity_utilities/lib/fdmover.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_flags",
+    "source": "libsecurity_utilities/lib/fdmover.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "maxFds",
+    "source": "libsecurity_utilities/lib/fdmover.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pointer",
+    "source": "libsecurity_utilities/lib/globalizer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/hashing.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/headermap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libsecurity_utilities/lib/headermap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "maxKeyLength",
+    "source": "libsecurity_utilities/lib/headermap.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/hosts.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/hosts.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defaultPort",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "protocol",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "protocol",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backlog",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shutdownRead",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "listenMaxQueue",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "protocol",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "protocol",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fdFlags",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fdFlags",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fdFlags",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fdFlags",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fdFlags",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fdFlags",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "depth",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "depth",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "depth",
+    "source": "libsecurity_utilities/lib/ip++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ffl",
+    "source": "libsecurity_utilities/lib/kq++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libsecurity_utilities/lib/kq++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libsecurity_utilities/lib/kq++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libsecurity_utilities/lib/kq++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libsecurity_utilities/lib/kq++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "APP_DEBUG_CLASS",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_SUB_CLASS",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "APP_CLASS_SFAUTHORIZATION",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "APP_CLASS_SECURITY_AGENT",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "APP_CLASS_AUTHORIZATION",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "APP_CLASS_SECURITY_SERVER",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "APP_CLASS_ADHOC",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CODE_CLASS_SFAUTHORIZATION_BUTTON_PRESSED",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CODE_CLASS_SFAUTHORIZATION_AUTHORIZATION",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CODE_CLASS_SECURITY_AGENT_START",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CODE_CLASS_SECURITY_AGENT_STARTED_BY_SECURITY_SERVER",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CODE_CLASS_SECURITY_AGENT_BEFORE_MECHANISM_INVOKE",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CODE_CLASS_SECURITY_AGENT_CONFIRM_ACCESS",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CODE_CLASS_AUTHORIZATION_CREATE",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CODE_CLASS_AUTHORIZATION_COPY_RIGHTS",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CODE_CLASS_AUTHORIZATION_COPY_INFO",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CODE_CLASS_SECURITY_SERVER_INITIALIZE",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CODE_CLASS_ADHOC_FINDGENERICPASSWORD_BEGIN",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CODE_CLASS_ADHOC_UCSP_CLIENT_BEGIN",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CODE_CLASS_ADHOC_UCSP_SERVER_DECRYPT_BEGIN",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CODE_CLASS_ADHOC_UCSP_QUERYKEYCHAINACCESS_BEGIN",
+    "source": "libsecurity_utilities/lib/ktracecodes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/logging.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "infoCount",
+    "source": "libsecurity_utilities/lib/mach++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "delta",
+    "source": "libsecurity_utilities/lib/mach++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sync",
+    "source": "libsecurity_utilities/lib/mach++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/mach++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/mach++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/mach++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mArchCount",
+    "source": "libsecurity_utilities/lib/macho++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mArchCount",
+    "source": "libsecurity_utilities/lib/macho++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/macho++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "none",
+    "source": "libsecurity_utilities/lib/macho++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libsecurity_utilities/lib/macho++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libsecurity_utilities/lib/macho++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "maxSize",
+    "source": "libsecurity_utilities/lib/machrunloopserver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "workerTimeout",
+    "source": "libsecurity_utilities/lib/machserver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "maxWorkerCount",
+    "source": "libsecurity_utilities/lib/machserver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "workerCount",
+    "source": "libsecurity_utilities/lib/machserver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "leastIdleWorkers",
+    "source": "libsecurity_utilities/lib/machserver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "highestWorkerCount",
+    "source": "libsecurity_utilities/lib/machserver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_bits",
+    "source": "libsecurity_utilities/lib/machserver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "maxSize",
+    "source": "libsecurity_utilities/lib/machserver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TypeCheck",
+    "source": "libsecurity_utilities/lib/mach_notify.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LimitCheck",
+    "source": "libsecurity_utilities/lib/mach_notify.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "UseStaticTemplates",
+    "source": "libsecurity_utilities/lib/mach_notify.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "notify_MSG_COUNT",
+    "source": "libsecurity_utilities/lib/mach_notify.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libsecurity_utilities/lib/memstreams.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "systemAlignment",
+    "source": "libsecurity_utilities/lib/memutils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "object",
+    "source": "libsecurity_utilities/lib/memutils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/muscle++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/muscle++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/muscle++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/muscle++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/muscle++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/osxcode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/osxcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_utilities/lib/osxcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "libsecurity_utilities/lib/pcsc++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "libsecurity_utilities/lib/pcsc++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libsecurity_utilities/lib/pcsc++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mTransactionNestLevel",
+    "source": "libsecurity_utilities/lib/pcsc++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mTransactionNestLevel",
+    "source": "libsecurity_utilities/lib/pcsc++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_utilities/lib/pcsc++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "libsecurity_utilities/lib/pcsc++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "libsecurity_utilities/lib/pcsc++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "libsecurity_utilities/lib/pcsc++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mRetainCount",
+    "source": "libsecurity_utilities/lib/seccfobject.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5F5E100",
+    "name": "tv_sec",
+    "source": "libsecurity_utilities/lib/selector.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "types",
+    "source": "libsecurity_utilities/lib/selector.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "none",
+    "source": "libsecurity_utilities/lib/selector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "input",
+    "source": "libsecurity_utilities/lib/selector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output",
+    "source": "libsecurity_utilities/lib/selector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "critical",
+    "source": "libsecurity_utilities/lib/selector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cval",
+    "source": "libsecurity_utilities/lib/simpleprefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "int",
+    "source": "libsecurity_utilities/lib/socks++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "int",
+    "source": "libsecurity_utilities/lib/socks++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "int",
+    "source": "libsecurity_utilities/lib/socks++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "libsecurity_utilities/lib/socks++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "socksConnect",
+    "source": "libsecurity_utilities/lib/socks++4.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "socksBind",
+    "source": "libsecurity_utilities/lib/socks++4.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5A",
+    "name": "requestAccepted",
+    "source": "libsecurity_utilities/lib/socks++4.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5B",
+    "name": "requestFailed",
+    "source": "libsecurity_utilities/lib/socks++4.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5C",
+    "name": "requestIdentFailed",
+    "source": "libsecurity_utilities/lib/socks++4.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5D",
+    "name": "requestIdentRejected",
+    "source": "libsecurity_utilities/lib/socks++4.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "version",
+    "source": "libsecurity_utilities/lib/socks++5.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "libsecurity_utilities/lib/socks++5.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "length",
+    "source": "libsecurity_utilities/lib/socks++5.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "version",
+    "source": "libsecurity_utilities/lib/socks++5.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "libsecurity_utilities/lib/socks++5.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "length",
+    "source": "libsecurity_utilities/lib/socks++5.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "length",
+    "source": "libsecurity_utilities/lib/socks++5.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "socksConnect",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "socksBind",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "socksUDP",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "socksSuccess",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "socksFailed",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "socksDenied",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "socksNetUnreach",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "socksHostUnreach",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "socksConRefused",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "socksTTLExpired",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "socksUnsupported",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "socksAddressNotSupported",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "socksAuthPublic",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "socksAuthGSSAPI",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "socksAuthUsername",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "socksAuthNoneAcceptable",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "socksIPv4",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "socksName",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "socksIPv6",
+    "source": "libsecurity_utilities/lib/socks++5.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "errSecErrnoBase",
+    "source": "libsecurity_utilities/lib/sqlite++.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1879F",
+    "name": "errSecErrnoLimit",
+    "source": "libsecurity_utilities/lib/sqlite++.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurity_utilities/lib/streams.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mMax",
+    "source": "libsecurity_utilities/lib/streams.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxSize",
+    "source": "libsecurity_utilities/lib/superblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "libsecurity_utilities/lib/superblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size1",
+    "source": "libsecurity_utilities/lib/superblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_utilities/lib/superblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "libsecurity_utilities/lib/superblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_utilities/lib/superblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "ntries",
+    "source": "libsecurity_utilities/lib/threading.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "init",
+    "source": "libsecurity_utilities/lib/threading.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "libsecurity_utilities/lib/timeflow.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "libsecurity_utilities/lib/timeflow.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "libsecurity_utilities/lib/timeflow.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "libsecurity_utilities/lib/timeflow.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "libsecurity_utilities/lib/unix++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29A",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x309",
+    "name": "mode",
+    "source": "libsecurity_utilities/lib/unix++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPid",
+    "source": "libsecurity_utilities/lib/unixchild.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mStatus",
+    "source": "libsecurity_utilities/lib/unixchild.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "maxDelay",
+    "source": "libsecurity_utilities/lib/unixchild.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "delay",
+    "source": "libsecurity_utilities/lib/unixchild.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defaultPort",
+    "source": "libsecurity_utilities/lib/url.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gDictionaryCreated",
+    "source": "libsecurity_utilities/lib/utilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_CSSM_ERRCODE_INVALID_POINTER",
+    "source": "libsecurity_utilities/lib/utilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_USE_IO_POSIX",
+    "source": "libsecurity_utilities/lib/utility_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_USE_IO_MACOS",
+    "source": "libsecurity_utilities/lib/utility_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_USE_NO_THREADS",
+    "source": "libsecurity_utilities/lib/utility_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_USE_PTHREADS",
+    "source": "libsecurity_utilities/lib/utility_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "_USE_MPTHREADS",
+    "source": "libsecurity_utilities/lib/utility_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "COMPAT_OSX_10_0",
+    "source": "libsecurity_utilities/lib/utility_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BUG_GCC",
+    "source": "libsecurity_utilities/lib/utility_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "vp",
+    "source": "libsecurity_utilities/lib/vproc++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vp",
+    "source": "libsecurity_utilities/lib/vproc++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mTransaction",
+    "source": "libsecurity_utilities/lib/vproc++.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mTransaction",
+    "source": "libsecurity_utilities/lib/vproc++.h",
+    "type": "EnumCase"
+  }
+]

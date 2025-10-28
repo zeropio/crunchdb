@@ -1,0 +1,770 @@
+[
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "IndexNull",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NOTIFYD_PROCESS_FLAG",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STATUS_REQUEST_SHORT",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STATUS_REQUEST_LONG",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "N_NOTIFY_TYPES",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_pid",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gid",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notifyd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_id",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_id",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_slot",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "new_slot",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot_id",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_id",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_id",
+    "source": "notify/notifyd.tproj/notify_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_ALL",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_STAT_OK",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PATH_STAT_FAILED",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "PATH_STAT_ACCESS",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VPATH_NODE_TYPE_REG",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "VPATH_NODE_TYPE_LINK",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "VPATH_NODE_TYPE_DELETED",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gL1CacheEnabled",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_path_node_count",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_path_node_count",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_vnode_count",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_vnode_count",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pname_count",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "pname_count",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "plen",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyd.tproj/pathwatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_TYPE_GHOST",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PATH_NODE_TYPE_FILE",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "PATH_NODE_TYPE_LINK",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "PATH_NODE_TYPE_DIR",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PATH_NODE_TYPE_OTHER",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_DELETE",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_WRITE",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_EXTEND",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_ATTRIB",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_LINK",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_RENAME",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_REVOKE",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_CREATE",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_MTIME",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_CTIME",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATH_NODE_ALL",
+    "source": "notify/notifyd.tproj/pathwatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "NOTIFY_PATH_SERVICE_LEN",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "NOTIFY_TIMER_SERVICE_LEN",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "now",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "e",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "e",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "notify/notifyd.tproj/service.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SERVICE_TYPE_NONE",
+    "source": "notify/notifyd.tproj/service.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SERVICE_TYPE_PATH_PUBLIC",
+    "source": "notify/notifyd.tproj/service.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SERVICE_TYPE_PATH_PRIVATE",
+    "source": "notify/notifyd.tproj/service.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SERVICE_TYPE_TIMER_PUBLIC",
+    "source": "notify/notifyd.tproj/service.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SERVICE_TYPE_TIMER_PRIVATE",
+    "source": "notify/notifyd.tproj/service.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "SERVICE_PREFIX_LEN",
+    "source": "notify/notifyd.tproj/service.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "MINUTE",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE10",
+    "name": "HOUR",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15180",
+    "name": "DAY",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "tm_mday",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "tm_wday",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "tm_mon",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tm_mday",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "tm_mon",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tm_mday",
+    "source": "notify/notifyd.tproj/timer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TIME_EVENT_NONE",
+    "source": "notify/notifyd.tproj/timer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TIME_EVENT_ONESHOT",
+    "source": "notify/notifyd.tproj/timer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TIME_EVENT_CLOCK",
+    "source": "notify/notifyd.tproj/timer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TIME_EVENT_CAL",
+    "source": "notify/notifyd.tproj/timer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRINT_QUIET",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRINT_KEY",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRINT_STATE",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRINT_TIME",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRINT_UTIME",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "USEC_PER_SEC",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tnmap_count",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tnmap_count",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tnmap_count",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tnmap_count",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_mach",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_mach",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_mach",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "simple",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "simple",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "notify/notifyutil.tproj/notifyutil.c",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,6656 @@
+[
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "gnumake/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "gnumake/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "gnumake/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "stack_dir",
+    "source": "gnumake/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stkl",
+    "source": "gnumake/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/amiga.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "gnumake/amiga.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "status",
+    "source": "gnumake/amiga.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "gnumake/amiga.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filename",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_name",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "bufsize",
+    "source": "gnumake/ansi2knr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "convert_varargs",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "convert_varargs",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "contin",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "contin",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "num_breaks",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vararg",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "level",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vararg",
+    "source": "gnumake/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arname_used",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arname_used",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arname_used",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arname_used",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "val",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "open",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "open",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chain",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/ar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PORTAR",
+    "source": "gnumake/arscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PORTAR",
+    "source": "gnumake/arscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "big_archive",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "long_name",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "namemap",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "big_archive",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "long_name",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "long_name",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_namemap",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ui",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "gnumake/arscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plus_value",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qmark_max",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plus_len",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bar_len",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "nlines",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backslash",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any_recurse",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handling_fatal_signal",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "handling_fatal_signal",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "deleted",
+    "source": "gnumake/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "COMMANDS_RECURSE",
+    "source": "gnumake/commands.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "COMMANDS_SILENT",
+    "source": "gnumake/commands.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "COMMANDS_NOERROR",
+    "source": "gnumake/commands.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILE_TIMESTAMP_HI_RES",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ANSI_COMPILER",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ATEXIT",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_BSD_SIGNAL",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_SYS_SIGLIST",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL__SYS_SIGLIST",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL___SYS_SIGLIST",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DIRENT_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DUP2",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FCNTL_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FDOPEN",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FORK",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETCWD",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETGROUPS",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETLOADAVG",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETRLIMIT",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETTIMEOFDAY",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIMITS_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LOCALE_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LSTAT",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMCPY",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMMOVE",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MKSTEMP",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MKTEMP",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PIPE",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_READLINK",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_REALPATH",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SA_RESTART",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETEGID",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETEUID",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETLINEBUF",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETREGID",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETREUID",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETRLIMIT",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETVBUF",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SIGACTION",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SIGSETMASK",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDARG_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCHR",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCOLL",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRDUP",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRERROR",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRSIGNAL",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_PARAM_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_RESOURCE_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TIMEB_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TIME_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_WAIT_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VFORK",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VPRINTF",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAIT3",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAITPID",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WORKING_FORK",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WORKING_VFORK",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MAKE_JOBSERVER",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MAKE_SYMLINKS",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PROTOTYPES",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "gnumake/config.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TIME_WITH_SYS_TIME",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__PROTOTYPES",
+    "source": "gnumake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenm",
+    "source": "gnumake/default.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command_lines",
+    "source": "gnumake/default.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RM_NOFLAG",
+    "source": "gnumake/dep.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "d_ino",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_USE_LFN",
+    "source": "gnumake/dir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "df",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "df",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "st_dev",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC7",
+    "name": "DIRECTORY_BUCKETS",
+    "source": "gnumake/dir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FS_FAT",
+    "source": "gnumake/dir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FS_NTFS",
+    "source": "gnumake/dir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FS_UNKNOWN",
+    "source": "gnumake/dir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAX_OPEN_DIRECTORIES",
+    "source": "gnumake/dir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "open_directories",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6B",
+    "name": "DIRFILE_BUCKETS",
+    "source": "gnumake/dir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "contents",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_vec",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rehash",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rehash",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rehash",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "impossible",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirstream",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "impossible",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "impossible",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "im",
+    "source": "gnumake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "VARIABLE_BUFFER_ZONE",
+    "source": "gnumake/expand.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "variable_buffer_length",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable_buffer",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable_buffer_length",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set_reading",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "set_reading",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "expanding",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expanding",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reading_file",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "free_beg",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "free_beg",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "colon",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rpercent",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reading_file",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable_buffer",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable_buffer",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable_buffer",
+    "source": "gnumake/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "snapped_deps",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3EF",
+    "name": "FILE_BUCKETS",
+    "source": "gnumake/file.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "all_secondary",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ln",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ignore_mtime",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "intermediate",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialized",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "updating",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "staticpattern",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initialized",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dl",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "staticpattern",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_2nd_expansion",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "precious",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "low_resolution_time",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "phony",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_target",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "intermediate",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "secondary",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "all_secondary",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "export_all_variables",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ignore_errors_flag",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "silent_flag",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "posix_pedantic",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "not_parallel",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "snapped_deps",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "r",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "r",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "r",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ood",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_targ_count",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "FLOOR_LOG2_SECONDS_PER_YEAR",
+    "source": "gnumake/filedef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNKNOWN_MTIME",
+    "source": "gnumake/filedef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NONEXISTENT_MTIME",
+    "source": "gnumake/filedef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "OLD_MTIME",
+    "source": "gnumake/filedef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replace_postpercent_len",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fail",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "length",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p2",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p2",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end_p",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "literals",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "words",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashing",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pattail",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chain",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wordtail",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "word_start",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "words",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nwords",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wordi",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shell_function_pid",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fpipe",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dos_command_running",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_status",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_command_running",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "pidp",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shell_function_completed",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "func_shell",
+    "source": "gnumake/function.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "shell_function_completed",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "maxlen",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shell_function_pid",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "maxlen",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "path",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "path",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneany",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nargs",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nargs",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_args",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exp_count",
+    "source": "gnumake/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpus",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elem",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elem",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elem",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_next",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_next",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_sizeused",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elem",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "w_length",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_name",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_name",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getloadavg_initialized",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "naptime",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnumake/getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "gnumake/getopt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__getopt_initialized",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opterr",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_max_len",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_len",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__getopt_initialized",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indfound",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "gnumake/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GETOPT_H",
+    "source": "gnumake/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_argument",
+    "source": "gnumake/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "required_argument",
+    "source": "gnumake/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "optional_argument",
+    "source": "gnumake/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "gnumake/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "gnumake/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "gnumake/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnumake/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_LIBGETTEXT_H",
+    "source": "gnumake/gettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "gnumake/glob/fnmatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_FNMATCH_H",
+    "source": "gnumake/glob/fnmatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FNM_NOMATCH",
+    "source": "gnumake/glob/fnmatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NDEBUG",
+    "source": "gnumake/glob/glob.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GLOB_INTERFACE_VERSION",
+    "source": "gnumake/glob/glob.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "depth",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gl_pathc",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirlen",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirlen",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gl_pathc",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "buflen",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "pwbuflen",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "buflen",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirlen",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "open",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "open",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfound",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nfound",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "meta",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfound",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "meta",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfound",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nfound",
+    "source": "gnumake/glob/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GLOB_H",
+    "source": "gnumake/glob/glob.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GLOB_NOSPACE",
+    "source": "gnumake/glob/glob.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "GLOB_ABORTED",
+    "source": "gnumake/glob/glob.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "GLOB_NOMATCH",
+    "source": "gnumake/glob/glob.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "GLOB_NOSYS",
+    "source": "gnumake/glob/glob.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_fill",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_collisions",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_lookups",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_rehashes",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deleted_slot",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash_2",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vec",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_fill",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vec",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_fill",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_collisions",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_lookups",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_rehashes",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_fill",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_vec",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ht_capacity",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vector",
+    "source": "gnumake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result_",
+    "source": "gnumake/hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intermediate_file",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remove_explicit_deps",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stem",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stemlen",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fullstemlen",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "specific_rule_matched",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastslash",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastslash",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nrules",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check_lastslash",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "specific_rule_matched",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intermed_ok",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "failed",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file_variables_set",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remove_explicit_deps",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_use",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "order_only",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "add_dir",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "had_stem",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "add_dir",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "had_stem",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "file_variables_set",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "add_dir",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "had_stem",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ignore_mtime",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "had_stem",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "order_only",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stem",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failed",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intermediate_file",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failed",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_use",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rule",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_name",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "precious",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_target",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "precious",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "intermediate",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tried_implicit",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tried_implicit",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_target",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "precious",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "precious",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_target",
+    "source": "gnumake/implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_default_sh_exe",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "batch_mode_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch_mode_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch_mode_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch_mode_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch_mode_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch_mode_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch_mode_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7B",
+    "name": "dos_pid",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7B",
+    "name": "amiga_pid",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "job_slots_used",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "good_stdin_used",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waiting_jobs",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "unixy_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "job_counter",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jobserver_tokens",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "path_is_dot",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uniq",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "path_is_dot",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "path_is_dot",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dead_children",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reap_more",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remote",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printed",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any_remote",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "remote",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reap_more",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "remote",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "coredump",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exit_sig",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "coredump",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exit_code",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exit_sig",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "coredump",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handle",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "coredump",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shell_function_completed",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastc",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "good_stdin_used",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "update_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child_failed",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "update_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "already_set_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "noerror",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "update_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "already_set_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "execute_by_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "good_stdin_used",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deleted",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "good_stdin",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "good_stdin_used",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remote",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spawn_flags",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dos_command_running",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "execute_by_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dos_command_running",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_command_running",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amiga_batch_file",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "update_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quoted",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command_ptr",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOAD_WEIGHT_A",
+    "source": "gnumake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOAD_WEIGHT_B",
+    "source": "gnumake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "load",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_sec",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "job_counter",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_argv",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argstr",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slow_flag",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_argument_was_empty",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "instring",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_argument_was_empty",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "word_has_equals",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_argument_was_empty",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "word_has_equals",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "execute_by_shell",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "minus_c_len",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "minus_c_len",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warn_undefined_variables_flag",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "init",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "init",
+    "source": "gnumake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4E20",
+    "name": "__stack",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "db_level",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suspend_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "env_overrides",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignore_errors_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print_data_base_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "question_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_builtin_rules_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_builtin_variables_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "default_keep_going_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seen_k_switch",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check_symlink_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print_directory_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inhibit_print_directory_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print_version_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "makefiles",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_flag_list",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "job_slots",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "default_job_slots",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "master_job_slots",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inf_jobs",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jobserver_fds",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "directories",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "include_directories",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_files",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_files",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print_usage_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "always_make_set",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "always_make_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rebuilding_makefiles",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sh_found",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "batch_mode_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unixy_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sh_found",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sh_found",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sh_found",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sh_found",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sh_found",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "unixy_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch_mode_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "batch_mode_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stdin_nm",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restarts",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unixy_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_default_sh_exe",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "default_goal_file",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reading_file",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fatal_signal_mask",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "directory_before_chdir",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "special",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "special",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_not_define",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_not_define",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expanded",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "makelevel",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "print_directory_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print_directory_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_builtin_rules_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "starting_directory",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "updated",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intermediate",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dontcare",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "unixy_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unixy_shell",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "job_slots",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ui",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "job_slots",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jobserver_fds",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "idx",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "max",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check_symlink_flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "updated",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "makefile_mtimes",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mm_idx",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rebuilding_makefiles",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rebuilding_makefiles",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any_remade",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any_failed",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "considered",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any_failed",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_makefiles",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bad",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bad",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bad",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restarts",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restarts",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BOGUS_UPDATE_STATUS",
+    "source": "gnumake/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cmd_target",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bad",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optind",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bad",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_k_switch",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_S_switch",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bad",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "max",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bad",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flagslen",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "words",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "words",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printed_version",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printed_version",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tcnt",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dying",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dying",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entered",
+    "source": "gnumake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_CONFIG_H",
+    "source": "gnumake/make.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GNU_SOURCE",
+    "source": "gnumake/make.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnumake/make.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bs_write",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstnew",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastnew",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "gnumake/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "meta",
+    "source": "gnumake/next.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_file",
+    "source": "gnumake/next.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reading_file",
+    "source": "gnumake/next.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable_buffer",
+    "source": "gnumake/patches/patch-expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable_buffer_length",
+    "source": "gnumake/patches/patch-expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_name",
+    "source": "gnumake/patches/patch-implicit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/patches/patch-job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "minus_c_len",
+    "source": "gnumake/patches/patch-job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "minus_c_len",
+    "source": "gnumake/patches/patch-job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "makefiles",
+    "source": "gnumake/patches/patch-main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_flag",
+    "source": "gnumake/patches/patch-main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_flag_list",
+    "source": "gnumake/patches/patch-main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "job_slots",
+    "source": "gnumake/patches/patch-main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_flag",
+    "source": "gnumake/patches/patch-main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "makelevel",
+    "source": "gnumake/patches/patch-main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "print_directory_flag",
+    "source": "gnumake/patches/patch-main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "meta",
+    "source": "gnumake/patches/patch-next.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_file",
+    "source": "gnumake/patches/patch-next.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reading_file",
+    "source": "gnumake/patches/patch-next.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_target",
+    "source": "gnumake/patches/patch-read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/patches/patch-remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/patches/patch-remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "update_status",
+    "source": "gnumake/patches/patch-remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reading_file",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_makefiles",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_makefiles",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warn_undefined_variables_flag",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dontcare",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expanded",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "included",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lineno",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "included",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dontcare",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "size",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "collapsed",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "collapsed_length",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "commands_len",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commands_idx",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignoring",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenames",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nlines",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "two_colon",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pattern",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenames",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commands_idx",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pattern",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pattern_percent",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tgts_started",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_ignored_define",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_ignored_define",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_ignored_define",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "export_all_variables",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "export_all_variables",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pattern",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plen",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdleft",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exported",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exported",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenames",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check_again",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "check_again",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pattern",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commands_idx",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reject",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reject",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reject",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nlines",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nlevels",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "length",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "allocated",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignore_mtime",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "per_target",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "implicit",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command_lines",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmds",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "this",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "posix_pedantic",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "second_expansion",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "max_targets",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target_idx",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_target",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmds",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "updating",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_target",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "staticpattern",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "string_len",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pcount",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastnew1",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nlines",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "max",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_incl_len",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warn_undefined_variables_flag",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "home_dir",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memname",
+    "source": "gnumake/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "updating",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "updating",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commands_started",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changed",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "considered",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastgoal",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stop",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "just_print_flag",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stop",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stop",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dep_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "running",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dontcare",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tried_implicit",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastd",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dontcare",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dontcare",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps_changed",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "must_make",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fmt",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "must_make",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "must_make",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "must_make",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ignore_vpath",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "updated",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "touched",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "updated",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ran",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "touched",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "updated",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dep_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "must_make_ptr",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tried_implicit",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "must_make_ptr",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastd",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "update_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "update_status",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arname_used",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arname_used",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arname_used",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "low_resolution_time",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clock_skew_detected",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intermediate",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warn_undefined_variables_flag",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "gnumake/remake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inited",
+    "source": "gnumake/remote-cstms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "gnumake/remote-cstms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "tv_sec",
+    "source": "gnumake/remote-cstms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_remote",
+    "source": "gnumake/remote-cstms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used_stdin",
+    "source": "gnumake/remote-cstms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remote_description",
+    "source": "gnumake/remote-stub.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_pattern_deps",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_pattern_dep_length",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "namelen",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastrule",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ndeps",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntargets",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changed",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxsuffix",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_use",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "terminal",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastrule",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenm",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command_lines",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "max_targets",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "terminal",
+    "source": "gnumake/rule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "NSIG",
+    "source": "gnumake/signame.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sig_table_nelts",
+    "source": "gnumake/signame.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/signame.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sig_initted",
+    "source": "gnumake/signame.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/strcache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numbuffs",
+    "source": "gnumake/strcache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totsize",
+    "source": "gnumake/strcache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totfree",
+    "source": "gnumake/strcache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20B",
+    "name": "VARIABLE_BUCKETS",
+    "source": "gnumake/variable.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "PERFILE_VARIABLE_BUCKETS",
+    "source": "gnumake/variable.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "SMALL_SCOPE_VARIABLE_BUCKETS",
+    "source": "gnumake/variable.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenm",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenm",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expanding",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exp_count",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "per_target",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exportable",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exportable",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exportable",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_var_count",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scnt",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pat_searched",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last0",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "conditional",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "conditional",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "append",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pathlen",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_default_sh_exe",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filenm",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rules",
+    "source": "gnumake/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "EXP_COUNT_BITS",
+    "source": "gnumake/variable.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAXNAMLEN",
+    "source": "gnumake/vmsdir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "gnumake/vmsdir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_off",
+    "source": "gnumake/vmsfunctions.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d_fileno",
+    "source": "gnumake/vmsfunctions.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/vmsfunctions.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vms_jobsefnmask",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ibuf",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alast",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alast",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "alast",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastc",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "update_status",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child_failed",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "MAXCMDLEN",
+    "source": "gnumake/vmsjobs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "setupYAstTried",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pidToAbort",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chan",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pidToAbort",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have_redirection",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have_newline",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "comname",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_string",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_redirection",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_redirection",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_newline",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x41F53",
+    "name": "pid",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "efn",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cstatus",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_arg",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_arg",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alevel",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w_length",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w_length",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w_length",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "efn",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pidToAbort",
+    "source": "gnumake/vmsjobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warn_undefined_variables_flag",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vpaths",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warn_undefined_variables_flag",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vpaths",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastpath",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "maxelem",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxvpath",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elem",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists_in_cache",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mtime_ptr",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mtime_ptr",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nvpaths",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/vpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir_nNumFiles",
+    "source": "gnumake/w32/compat/dirent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir_nNumFiles",
+    "source": "gnumake/w32/compat/dirent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NAME_MAX",
+    "source": "gnumake/w32/include/dirent.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__DIRENT_COOKIE",
+    "source": "gnumake/w32/include/dirent.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnumake/w32/pathstuff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arrcnt",
+    "source": "gnumake/w32/subproc/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arrcnt",
+    "source": "gnumake/w32/subproc/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_needed",
+    "source": "gnumake/w32/subproc/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arrcnt",
+    "source": "gnumake/w32/subproc/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x65",
+    "name": "E_SCALL",
+    "source": "gnumake/w32/subproc/proc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x66",
+    "name": "E_IO",
+    "source": "gnumake/w32/subproc/proc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x67",
+    "name": "E_NO_MEM",
+    "source": "gnumake/w32/subproc/proc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x68",
+    "name": "E_FORK",
+    "source": "gnumake/w32/subproc/proc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "proc_index",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fake_exits_pending",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "using_pipes",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lerrno",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lerrno",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shell_name",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file_not_found",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_err",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_err",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exec_path",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lpReserved",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cbReserved2",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lpReserved2",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lerrno",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "bufsize",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "bufsize",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errcnt",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errcnt",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wait_count",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tStdin",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tStdout",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tStderr",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_err",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_required",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cygwin_mode",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have_sh",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cygwin_mode",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash_count",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enclose_in_quotes_i",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash_count",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enclose_in_quotes_i",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash_count",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash_count",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash_count",
+    "source": "gnumake/w32/subproc/sub_proc.c",
+    "type": "EnumCase"
+  }
+]

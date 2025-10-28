@@ -1,0 +1,230 @@
+[
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timingNum",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "retries",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waitAckValue",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x190",
+    "name": "kTimeoutMS",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waitAckValue",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "reconnects",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "reconnects",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kRSCFour",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kRSCSix",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kESCFourNTSC",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kESCSixStandard",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nub",
+    "source": "AppleADBDisplay/AppleADBDisplay.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kOrgDisplayAddr",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTelecasterADBHandlerID",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSmartDisplayADBHandlerID",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADBReg0",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADBReg1",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADBReg2",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADBReg3",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg2DataRdy",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg2DataAck",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWiggleLADAddr",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "kNoDevice",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTelecaster",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSousaSoundUnit",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kHammerhead",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kOrca",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kWhaler",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "kWarriorEZ",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kManta",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDisplayLocalRemoteLADAddr",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioKeypadEnableLADAddr",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "kUnknown",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLocal",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kRemote",
+    "source": "AppleADBDisplay/AppleADBDisplay.h",
+    "type": "PreprocessorConstant"
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "hex": "0x0",
+    "name": "dlHand",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbHand",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DO_DSA_GEN_PARAMS",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfPolicyIds",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numDbs",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dlHand",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NumCerts",
+    "source": "libsecurity_cdsa_utils/lib/cuCdsaUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SemanticInformation",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "NumberOfAttributes",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "Length",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "MAX_CRL_ATTRS",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SemanticInformation",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numItems",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NumSelectionPredicates",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TimeLimit",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SizeLimit",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QueryFlags",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_cdsa_utils/lib/cuDbUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "olen",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numLines",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thisLine",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inlen",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thisLine",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newsDex",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "olen",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c4",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "thisOlen",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c4",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "thisOlen",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "thisOlen",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padChars",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "validEncChars",
+    "source": "libsecurity_cdsa_utils/lib/cuEnc64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn",
+    "source": "libsecurity_cdsa_utils/lib/cuFileIo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numBytes",
+    "source": "libsecurity_cdsa_utils/lib/cuFileIo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn",
+    "source": "libsecurity_cdsa_utils/lib/cuFileIo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numBytes",
+    "source": "libsecurity_cdsa_utils/lib/cuOidParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn",
+    "source": "libsecurity_cdsa_utils/lib/cuOidParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rtn",
+    "source": "libsecurity_cdsa_utils/lib/cuOidParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "OID",
+    "source": "libsecurity_cdsa_utils/lib/cuOidParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuOidParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuOidParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x78",
+    "name": "OID_PARSER_STRING_SIZE",
+    "source": "libsecurity_cdsa_utils/lib/cuOidParser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "PEM_SCAN_LEN",
+    "source": "libsecurity_cdsa_utils/lib/cuPem.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_cdsa_utils/lib/cuPem.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ourRtn",
+    "source": "libsecurity_cdsa_utils/lib/cuPem.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxToPrint",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "BLOB_LENGTH_PRINT",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pairDex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rdnDex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oidDex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "polDex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qualDex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clHand",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuPrintCert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isUtc",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noSeconds",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isUtc",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "noSeconds",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isUtc",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tm_sec",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "MAX_TIME_STR_LEN",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtnLen",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "UTC_TIME_NOSEC_LEN",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "UTC_TIME_STRLEN",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "CSSM_TIME_STRLEN",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "GENERALIZED_TIME_STRLEN",
+    "source": "libsecurity_cdsa_utils/lib/cuTimeStr.h",
+    "type": "PreprocessorConstant"
+  }
+]

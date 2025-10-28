@@ -1,0 +1,4400 @@
+[
+  {
+    "hex": "0x1",
+    "name": "HAVE_CURSES_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DIRENT_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DLFCN_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ENDPWENT",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FCNTL_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FGETLN",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FORK",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETPW_R_POSIX",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISASCII",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISSETUGID",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIBTERMCAP",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIMITS_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMCHR",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMSET",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_NCURSES_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_REGCOMP",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCASECMP",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCHR",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCSPN",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRDUP",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRERROR",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCAT",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCPY",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRRCHR",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRSTR",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRTOL",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRUCT_DIRENT_D_NAMLEN",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRUNVIS",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRVIS",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_CDEFS_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_IOCTL_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_PARAM_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_WAIT_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TERMCAP_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TERM_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_U_INT32_T",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VFORK",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VIS",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCSDUP",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WORKING_FORK",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WORKING_VFORK",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "WIDECHAR",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FGETLN",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCAT",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCPY",
+    "source": "libedit/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ED_ARGUMENT_DIGIT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ED_CLEAR_SCREEN",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ED_COMMAND",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ED_DELETE_NEXT_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ED_DELETE_PREV_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ED_DELETE_PREV_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "ED_DIGIT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "ED_END_OF_FILE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "ED_INSERT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "ED_KILL_LINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "ED_MOVE_TO_BEG",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "ED_MOVE_TO_END",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "ED_NEWLINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "ED_NEXT_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "ED_NEXT_HISTORY",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "ED_NEXT_LINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "ED_PREV_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "ED_PREV_HISTORY",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "ED_PREV_LINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "ED_PREV_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "ED_QUOTED_INSERT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "ED_REDISPLAY",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "ED_SEARCH_NEXT_HISTORY",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "ED_SEARCH_PREV_HISTORY",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "ED_SEQUENCE_LEAD_IN",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "ED_START_OVER",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "ED_TRANSPOSE_CHARS",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "ED_TTY_DSUSP",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "ED_TTY_FLUSH_OUTPUT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "ED_TTY_SIGINT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "ED_TTY_SIGQUIT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "ED_TTY_SIGTSTP",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "ED_TTY_START_OUTPUT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "ED_TTY_STOP_OUTPUT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "ED_UNASSIGNED",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "EM_CAPITOL_CASE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "EM_COPY_PREV_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25",
+    "name": "EM_COPY_REGION",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x26",
+    "name": "EM_DELETE_NEXT_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x27",
+    "name": "EM_DELETE_OR_LIST",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "EM_DELETE_PREV_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29",
+    "name": "EM_EXCHANGE_MARK",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A",
+    "name": "EM_GOSMACS_TRANSPOSE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2B",
+    "name": "EM_INC_SEARCH_NEXT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2C",
+    "name": "EM_INC_SEARCH_PREV",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2D",
+    "name": "EM_KILL_LINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2E",
+    "name": "EM_KILL_REGION",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F",
+    "name": "EM_LOWER_CASE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "EM_META_NEXT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x31",
+    "name": "EM_NEXT_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "EM_SET_MARK",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x33",
+    "name": "EM_TOGGLE_OVERWRITE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x34",
+    "name": "EM_UNIVERSAL_ARGUMENT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x35",
+    "name": "EM_UPPER_CASE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x36",
+    "name": "EM_YANK",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x37",
+    "name": "VI_ADD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x38",
+    "name": "VI_ADD_AT_EOL",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x39",
+    "name": "VI_ALIAS",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3A",
+    "name": "VI_CHANGE_CASE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B",
+    "name": "VI_CHANGE_META",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "VI_CHANGE_TO_EOL",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3D",
+    "name": "VI_COMMAND_MODE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E",
+    "name": "VI_COMMENT_OUT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3F",
+    "name": "VI_DELETE_META",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "VI_DELETE_PREV_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x41",
+    "name": "VI_END_BIG_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x42",
+    "name": "VI_END_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x43",
+    "name": "VI_HISTEDIT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x44",
+    "name": "VI_HISTORY_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x45",
+    "name": "VI_INSERT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x46",
+    "name": "VI_INSERT_AT_BOL",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x47",
+    "name": "VI_KILL_LINE_PREV",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x48",
+    "name": "VI_LIST_OR_EOF",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x49",
+    "name": "VI_MATCH",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4A",
+    "name": "VI_NEXT_BIG_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4B",
+    "name": "VI_NEXT_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4C",
+    "name": "VI_NEXT_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4D",
+    "name": "VI_PASTE_NEXT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4E",
+    "name": "VI_PASTE_PREV",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F",
+    "name": "VI_PREV_BIG_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x50",
+    "name": "VI_PREV_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x51",
+    "name": "VI_PREV_WORD",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x52",
+    "name": "VI_REDO",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x53",
+    "name": "VI_REPEAT_NEXT_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x54",
+    "name": "VI_REPEAT_PREV_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x55",
+    "name": "VI_REPEAT_SEARCH_NEXT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x56",
+    "name": "VI_REPEAT_SEARCH_PREV",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x57",
+    "name": "VI_REPLACE_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x58",
+    "name": "VI_REPLACE_MODE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x59",
+    "name": "VI_SEARCH_NEXT",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5A",
+    "name": "VI_SEARCH_PREV",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5B",
+    "name": "VI_SUBSTITUTE_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5C",
+    "name": "VI_SUBSTITUTE_LINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5D",
+    "name": "VI_TO_COLUMN",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5E",
+    "name": "VI_TO_HISTORY_LINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5F",
+    "name": "VI_TO_NEXT_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x60",
+    "name": "VI_TO_PREV_CHAR",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x61",
+    "name": "VI_UNDO",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x62",
+    "name": "VI_UNDO_LINE",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x63",
+    "name": "VI_YANK",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "VI_YANK_END",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "VI_ZERO",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x66",
+    "name": "EL_NUM_FCNS",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "EL_EOF",
+    "source": "libedit/local/fcns.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EL_LEAVE",
+    "source": "libedit/src/chared.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cursor",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doingarg",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "metanext",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argument",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cursor",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doingarg",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "metanext",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argument",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eventno",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/chared.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "EL_MAXMACRO",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NOP",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DELETE",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INSERT",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YANK",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MODE_INSERT",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MODE_REPLACE",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MODE_REPLACE_1",
+    "source": "libedit/src/chared.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "csize",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wsize",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffsize",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffsize",
+    "source": "libedit/src/chartype.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doingarg",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "beep",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "beep",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eventno",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eventno",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "h",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "h",
+    "source": "libedit/src/common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ISFUNC",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ISKMAP",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ISMACR",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "KEYMAP_SIZE",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "control_character_threshold",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "control_character_bit",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUBOUT",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RL_READLINE_VERSION",
+    "source": "libedit/src/editline/readline.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXPATHLEN",
+    "source": "libedit/src/el.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "el_flags",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "libedit/src/el.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HANDLE_SIGNALS",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_TTY",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EDIT_DISABLED",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNBUFFERED",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CHARSET_IS_UTF8",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IGNORE_EXTCHARS",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NARROW_HISTORY",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NARROW_READ",
+    "source": "libedit/src/el.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "wc",
+    "source": "libedit/src/eln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/eln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wc",
+    "source": "libedit/src/eln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/eln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libedit/src/eln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libedit/src/eln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doingarg",
+    "source": "libedit/src/emacs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "metanext",
+    "source": "libedit/src/emacs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patlen",
+    "source": "libedit/src/emacs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patlen",
+    "source": "libedit/src/emacs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filename_len",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matches",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match_list_len",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "which",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cols",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctemp_off",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matches",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "over",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match_display",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_display",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra_len",
+    "source": "libedit/src/filecomplete.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "h",
+    "source": "libedit/src/hist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "LIBEDIT_MAJOR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "LIBEDIT_MINOR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CC_NORM",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CC_NEWLINE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CC_EOF",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CC_ARGHACK",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CC_REFRESH",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "CC_CURSOR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "CC_ERROR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "CC_FATAL",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "CC_REDISPLAY",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "CC_REFRESH_BEEP",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EL_PROMPT",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EL_TERMINAL",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EL_EDITOR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "EL_SIGNAL",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "EL_BIND",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "EL_TELLTC",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "EL_SETTC",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "EL_ECHOTC",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "EL_SETTY",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "EL_ADDFN",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "EL_HIST",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "EL_EDITMODE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "EL_RPROMPT",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "EL_GETCFN",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "EL_CLIENTDATA",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "EL_UNBUFFERED",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "EL_PREP_TERM",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "EL_GETTC",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "EL_GETFP",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "EL_SETFP",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "EL_REFRESH",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "EL_PROMPT_ESC",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "EL_RPROMPT_ESC",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "EL_RESIZE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "H_FUNC",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "H_SETSIZE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "H_GETSIZE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "H_FIRST",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "H_LAST",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "H_PREV",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "H_NEXT",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "H_CURR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "H_SET",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "H_ADD",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "H_ENTER",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "H_APPEND",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "H_END",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "H_NEXT_STR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "H_PREV_STR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "H_NEXT_EVENT",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "H_PREV_EVENT",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "H_LOAD",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "H_SAVE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "H_CLEAR",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "H_SETUNIQUE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "H_GETUNIQUE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "H_DEL",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "H_NEXT_EVDATA",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "H_DELDATA",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "H_REPLACE",
+    "source": "libedit/src/histedit.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "H_UNIQUE",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_HE_OK",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_HE_UNKNOWN",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "_HE_MALLOC_FAILED",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "_HE_FIRST_NOTFOUND",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "_HE_LAST_NOTFOUND",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "_HE_EMPTY_LIST",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "_HE_END_REACHED",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "_HE_START_REACHED",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "_HE_CURR_INVALID",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "_HE_NOT_FOUND",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "_HE_HIST_READ",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "_HE_HIST_WRITE",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "_HE_PARAM_MISSING",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "_HE_SIZE_NEGATIVE",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "_HE_NOT_ALLOWED",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "_HE_BAD_PARAM",
+    "source": "libedit/src/history.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eventid",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eventid",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "max_size",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "max_size",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libedit/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "XK_CMD",
+    "source": "libedit/src/keymacro.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "XK_STR",
+    "source": "libedit/src/keymacro.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "XK_NOD",
+    "source": "libedit/src/keymacro.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "XK_EXE",
+    "source": "libedit/src/keymacro.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rem",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "key",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rem",
+    "source": "libedit/src/map.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MAP_EMACS",
+    "source": "libedit/src/map.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MAP_VI",
+    "source": "libedit/src/map.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "N_KEYS",
+    "source": "libedit/src/map.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "libedit/src/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "libedit/src/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignore",
+    "source": "libedit/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "OKCMD",
+    "source": "libedit/src/read.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "e",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "e",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zero",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "e",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chrs",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "el_errno",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "metanext",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "metanext",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tried",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cbp",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sig_no",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tried",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cbp",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdnum",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crlf",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chrs",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argument",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doingarg",
+    "source": "libedit/src/read.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_point",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_end",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_done",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "history_base",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "history_length",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_input_history",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_inhibit_completion",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_attempted_completion_over",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_already_prompted",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_filename_completion_desired",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_ignore_completion_duplicates",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rl_catch_signals",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "readline_echoing_p",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_rl_print_completions_horizontally",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_completion_type",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "rl_completion_query_items",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rl_already_prompted",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "editmode",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "editmode",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "history_length",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_done",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used_event_hook",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used_event_hook",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rl_already_prompted",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sign",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sign",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sub",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_mods",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_on",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_mods",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "idx",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "end",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "start",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p_on",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "g_on",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "size",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "size",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_on",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qchar",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loop_again",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop_again",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "history_length",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "off",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "done",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_read",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_read",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "max",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libedit/src/readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "MIN_END_KEEP",
+    "source": "libedit/src/refresh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fx",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r_oldcv",
+    "source": "libedit/src/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patlen",
+    "source": "libedit/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chatflg",
+    "source": "libedit/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libedit/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "LEN",
+    "source": "libedit/src/search.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEN",
+    "source": "libedit/src/search.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "redo",
+    "source": "libedit/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "libedit/src/sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "libedit/src/sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "libedit/src/sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "ALLSIGSNO",
+    "source": "libedit/src/sig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T_al",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "T_bl",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "T_cd",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "T_ce",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "T_ch",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "T_cl",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "T_dc",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "T_dl",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "T_dm",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "T_ed",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "T_ei",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "T_fs",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "T_ho",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "T_ic",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "T_im",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "T_ip",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "T_kd",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "T_kl",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "T_kr",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "T_ku",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "T_md",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "T_me",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "T_nd",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "T_se",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "T_so",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "T_ts",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "T_up",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "T_us",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "T_ue",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "T_vb",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "T_DC",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "T_DO",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "T_IC",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "T_LE",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "T_RI",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "T_UP",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "T_kh",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25",
+    "name": "T_at7",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x26",
+    "name": "T_kD",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x27",
+    "name": "T_str",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T_am",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "T_pt",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "T_li",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "T_co",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "T_km",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "T_xt",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "T_xn",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "T_MT",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "T_val",
+    "source": "libedit/src/terminal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EL_FLAGS",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t_loc",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t_loc",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tlen",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "del",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "h",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcnt",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "silent",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg_need",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg_cols",
+    "source": "libedit/src/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_CAN_INSERT",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_CAN_DELETE",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_CAN_CEOL",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_CAN_TAB",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_CAN_ME",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_CAN_UP",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_HAS_META",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_HAS_AUTO_MARGINS",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TERM_HAS_MAGIC_MARGINS",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_K_DN",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "A_K_UP",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "A_K_LT",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "A_K_RT",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "A_K_HO",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "A_K_EN",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "A_K_DE",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "A_K_NKEYS",
+    "source": "libedit/src/terminal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TOK_KEEP",
+    "source": "libedit/src/tokenizer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TOK_EAT",
+    "source": "libedit/src/tokenizer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "WINCR",
+    "source": "libedit/src/tokenizer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "AINCR",
+    "source": "libedit/src/tokenizer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "libedit/src/tokenizer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libedit/src/tokenizer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "libedit/src/tokenizer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libedit/src/tokenizer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/tokenizer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rst",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rst",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rst",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t_tabs",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aflag",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "C_INTR",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "C_QUIT",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "C_ERASE",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "C_KILL",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "C_EOF",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "C_EOL",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "C_EOL2",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "C_SWTCH",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "C_DSWTCH",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "C_ERASE2",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "C_START",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "C_STOP",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "C_WERASE",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "C_SUSP",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "C_DSUSP",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "C_REPRINT",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "C_DISCARD",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "C_LNEXT",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "C_STATUS",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "C_PAGE",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "C_PGOFF",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "C_KILL2",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "C_BRK",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "C_MIN",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "C_TIME",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "C_NCC",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EX_IO",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ED_IO",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TS_IO",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "QU_IO",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NN_IO",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MD_INP",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MD_OUT",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MD_CTL",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MD_LIN",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MD_CHAR",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MD_NN",
+    "source": "libedit/src/tty.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "S_GROUND",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "S_START",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "S_META",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "S_META1",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "S_CTRL",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "S_OCTAL2",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "S_OCTAL3",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "S_HEX",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "S_HEX1",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "S_HEX2",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "S_MIME1",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "S_MIME2",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "S_EATCRNL",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "S_AMP",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "S_NUMBER",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "S_STRING",
+    "source": "libedit/src/unvis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "libedit/src/unvis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "libedit/src/unvis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "libedit/src/unvis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doingarg",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "delta",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eventno",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eventno",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eventno",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wsp",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doingarg",
+    "source": "libedit/src/vi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAXEXTRAS",
+    "source": "libedit/src/vis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_OCTAL",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_CSTYLE",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_SP",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_TAB",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_NL",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_SAFE",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_NOSLASH",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_HTTP1808",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_HTTPSTYLE",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_MIMESTYLE",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_HTTP1866",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIS_NOESCAPE",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_VIS_END",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "UNVIS_VALID",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "UNVIS_VALIDPUSH",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "UNVIS_NOCHAR",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "UNVIS_SYNBAD",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "UNVIS_ERROR",
+    "source": "libedit/src/vis.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libedit/tests/rdar152680481.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "EL_BUFSIZ",
+    "source": "libedit/tests/rdar152680778.c",
+    "type": "PreprocessorConstant"
+  }
+]

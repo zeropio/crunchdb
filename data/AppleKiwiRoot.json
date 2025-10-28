@@ -1,0 +1,254 @@
+[
+  {
+    "hex": "0x1",
+    "name": "KIWI_ROOT_DEBUG",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "KIWI_BAY_DEBUG",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "KIWI_IC_DEBUG",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "k100mhz_pll",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "k133mhz_pll",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x496E7374",
+    "name": "kInsertEvent",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x53776368",
+    "name": "kSwitchEvent",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "baseFiveMap",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "baseAddrFive",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pmRootDomain",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kiwiChipLock",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nub",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kids",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busNum",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "busNum",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "KIWI_BAY_DEBUG",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kKiwiDevCPowerStateCount",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bayPHandle",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "currPwrState",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "registryData",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isPresent",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isPresent",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errVal",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "platformStatus",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bayBits",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "platformStatus",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currPwrState",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOSLICPowerStateCount",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "numVectors",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vectorNumber",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interruptActive",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interruptDisabledHard",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interruptDisabledHard",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptActive",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "AppleKiwiRoot/AppleKiwiRoot.h",
+    "type": "EnumCase"
+  }
+]

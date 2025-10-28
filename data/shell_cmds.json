@@ -1,0 +1,7580 @@
+[
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debug",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nargs",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nargs",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/apply/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aflag",
+    "source": "shell_cmds/basename/basename.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suffixlen",
+    "source": "shell_cmds/basename/basename.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "shell_cmds/basename/basename.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "shell_cmds/basename/basename.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gid",
+    "source": "shell_cmds/chroot/chroot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "shell_cmds/chroot/chroot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gids",
+    "source": "shell_cmds/chroot/chroot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x76C",
+    "name": "TM_YEAR_BASE",
+    "source": "shell_cmds/date/date.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rflag",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Rflag",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Iflag",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "jflag",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Rflag",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflag",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tm_sec",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "century",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "century",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "shell_cmds/date/date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "val",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tm_mday",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tm_mday",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "val",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "val",
+    "source": "shell_cmds/date/vary.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bytes_len",
+    "source": "shell_cmds/echo/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bytes_len",
+    "source": "shell_cmds/echo/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "shell_cmds/echo/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nflag",
+    "source": "shell_cmds/echo/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "shell_cmds/echo/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/echo/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_len",
+    "source": "shell_cmds/echo/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D",
+    "name": "EXIT_CANCELED",
+    "source": "shell_cmds/env/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7E",
+    "name": "EXIT_CANNOT_INVOKE",
+    "source": "shell_cmds/env/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "EXIT_ENOENT",
+    "source": "shell_cmds/env/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_clear",
+    "source": "shell_cmds/env/env.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "want_clear",
+    "source": "shell_cmds/env/env.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/env/env.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "shell_cmds/env/env.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addcount",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_sq",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_sep",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_dq",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_dq",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_sq",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_sq",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_sep",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_sep",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_arg",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_arg",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "origind",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bad_reference",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bad_reference",
+    "source": "shell_cmds/env/envopts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv1",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pathCounter",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonSearchableDirFound",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pathIndex",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nonSearchableDirFound",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitstatus",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitstatus",
+    "source": "shell_cmds/find/find.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRUCT_STAT_ST_FLAGS",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_STRUCT_STAT_ST_FLAGS",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRUCT_STAT_ST_BIRTHTIME",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_STRUCT_STAT_ST_BIRTHTIME",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRUCT_STATFS_F_FSTYPENAME",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_STRUCT_STATFS_F_FSTYPENAME",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_NEEDOK",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_EXECDIR",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME_A",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME_C",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME2_A",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME2_C",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME2_T",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_EQUAL",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LESSTHAN",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_GREATER",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_ELG_MASK",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_ATLEAST",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_ANY",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MTMASK",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MTFLAG",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MTTYPE",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MTUNKNOWN",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_IGNCASE",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_EXECPLUS",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME_B",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME2_B",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LINK",
+    "source": "shell_cmds/find/find.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "secs",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acl_supported",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "acl_supported",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "acl_supported",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isoutput",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isdepth",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isdepth",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "empty",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "empty",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitstatus",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isoutput",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "e_pbsize",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitstatus",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ignore_readdir_race",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignore_readdir_race",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isoutput",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9AC9FF",
+    "name": "tv_nsec",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isoutput",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rm_so",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "FIND_SIZE",
+    "source": "shell_cmds/find/function.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "divsize",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "divsize",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scale",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scale",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scale",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scale",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scale",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scale",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "shell_cmds/find/function.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "MAXLOGNAME",
+    "source": "shell_cmds/find/ls.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Lflag",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Hflag",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Lflag",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Lflag",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Hflag",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Lflag",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isxargs",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isdepth",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "issort",
+    "source": "shell_cmds/find/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "notlevel",
+    "source": "shell_cmds/find/operator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "shell_cmds/getopt/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "optind",
+    "source": "shell_cmds/getopt/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "shell_cmds/getopt/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "converr",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oclen",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clen",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oclen",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clen",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "converr",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clen",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "pad",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pad",
+    "source": "shell_cmds/hexdump/conv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "savech",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ateof",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valid_save",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "valid_save",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ateof",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ateof",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitval",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "statok",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statok",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "shell_cmds/hexdump/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blocksize",
+    "source": "shell_cmds/hexdump/hexdump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_ADDRESS",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_BPAD",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_C",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_CHAR",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_DBL",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_INT",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_P",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_STR",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_U",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_UINT",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TEXT",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_IGNORE",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SETREP",
+    "source": "shell_cmds/hexdump/hexdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "TYPE_OFFSET",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "odmode",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "base",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digits",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needpad",
+    "source": "shell_cmds/hexdump/odsyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reps",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cursize",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prec",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prec",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prec",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nconv",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bcnt",
+    "source": "shell_cmds/hexdump/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sflag",
+    "source": "shell_cmds/hostname/hostname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dflag",
+    "source": "shell_cmds/hostname/hostname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sflag",
+    "source": "shell_cmds/hostname/hostname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dflag",
+    "source": "shell_cmds/hostname/hostname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Fflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isgroups",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iswhoami",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Aflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Fflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Gflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Mflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Pflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uflag",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_ggl",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "extended",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extended",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "extended",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "failure",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "failure",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "machine",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "shell_cmds/id/id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "shell_cmds/id/open_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "shell_cmds/id/open_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/id/open_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "shell_cmds/id/open_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "REPS_DEF",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BEGIN_DEF",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "ENDER_DEF",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STEP_DEF",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STEP",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "HAVE_ENDER",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "HAVE_BEGIN",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "HAVE_REPS",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prec",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reps",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numbers",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numbers",
+    "source": "shell_cmds/jot/jot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numsig",
+    "source": "shell_cmds/kill/kill.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errors",
+    "source": "shell_cmds/kill/kill.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errors",
+    "source": "shell_cmds/kill/kill.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/kill/kill.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "shell_cmds/kill/kill.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "shell_cmds/kill/kill.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shift",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kludge",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kludge",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Iflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tdev",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errors",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "killed",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "miblen",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "miblen",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "miblen",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rm_so",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rm_so",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errors",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errors",
+    "source": "shell_cmds/killall/killall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "UT_NAMESIZE",
+    "source": "shell_cmds/lastcomm/lastcomm.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "UT_LINESIZE",
+    "source": "shell_cmds/lastcomm/lastcomm.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "wflag",
+    "source": "shell_cmds/lastcomm/lastcomm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wflag",
+    "source": "shell_cmds/lastcomm/lastcomm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LOOKUP",
+    "source": "shell_cmds/locate/code/locate.code.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/locate/code/locate.code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "shell_cmds/locate/code/locate.code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/locate/code/locate.code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldcount",
+    "source": "shell_cmds/locate/code/locate.code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/locate/code/locate.code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "umlaut",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "globflag",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "globflag",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foundchar",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "shell_cmds/locate/locate/fastfind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f_mmap",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f_statistic",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f_icase",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f_mmap",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f_mmap",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f_silent",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f_stdin",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f_stdin",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f_mmap",
+    "source": "shell_cmds/locate/locate/locate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "NBG",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "OFFSET",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "PARITY",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "SWITCH",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "UMLAUT",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LDC_MIN",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "LDC_MAX",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "ASCII_MIN",
+    "source": "shell_cmds/locate/locate/locate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "vlen",
+    "source": "shell_cmds/locate/locate/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/locate/locate/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keep",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "keep",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "silent",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fdlock",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timed_out",
+    "source": "shell_cmds/lockf/lockf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uflag",
+    "source": "shell_cmds/mktemp/mktemp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tflag",
+    "source": "shell_cmds/mktemp/mktemp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "shell_cmds/mktemp/mktemp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "shell_cmds/mktemp/mktemp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "DEFNICE",
+    "source": "shell_cmds/nice/nice.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/nice/nice.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/nice/nice.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7E",
+    "name": "EXIT_NOEXEC",
+    "source": "shell_cmds/nohup/nohup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "EXIT_NOTFOUND",
+    "source": "shell_cmds/nohup/nohup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "EXIT_MISC",
+    "source": "shell_cmds/nohup/nohup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "shell_cmds/path_helper/path_helper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/path_helper/path_helper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/path_helper/path_helper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sep",
+    "source": "shell_cmds/path_helper/path_helper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myargc",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "end",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "havewidth",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "havewidth",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "haveprec",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "haveprec",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "haveprec",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dptr",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mod_ldbl",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mod_ldbl",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uip",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dp",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wch",
+    "source": "shell_cmds/printf/printf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "physical",
+    "source": "shell_cmds/pwd/pwd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "physical",
+    "source": "shell_cmds/pwd/pwd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "physical",
+    "source": "shell_cmds/pwd/pwd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qflag",
+    "source": "shell_cmds/realpath/realpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "qflag",
+    "source": "shell_cmds/realpath/realpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "shell_cmds/realpath/realpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/realpath/realpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errs",
+    "source": "shell_cmds/renice/renice.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/renice/renice.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/renice/renice.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "DEF_BUF",
+    "source": "shell_cmds/script/script.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usesleep",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rawout",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "flushtime",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "showexit",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usesleep",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Fflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "qflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rawout",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ttyflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "showexit",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "readstdin",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "readstdin",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readstdin",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rpos",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "e",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ttyflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ttyflg",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lclock",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "shell_cmds/script/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_shown_value",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "equalize",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "equalize",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "step",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seen_decimal_pt",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_decimal_pt",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "conversions",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbl",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "places",
+    "source": "shell_cmds/seq/seq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "ATABSIZE",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aliases",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/alias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ALIASINUSE",
+    "source": "shell_cmds/sh/alias.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "ARITH_MAX_PREC",
+    "source": "shell_cmds/sh/arith_yacc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/sh/arith_yacc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ARITH_ASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ARITH_OR",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ARITH_AND",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ARITH_BAD",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ARITH_NUM",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "ARITH_VAR",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "ARITH_NOT",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "ARITH_BINOP_MIN",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "ARITH_LE",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "ARITH_GE",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "ARITH_LT",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "ARITH_GT",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "ARITH_EQ",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "ARITH_REM",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "ARITH_BAND",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "ARITH_LSHIFT",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "ARITH_RSHIFT",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "ARITH_MUL",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "ARITH_ADD",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "ARITH_BOR",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "ARITH_SUB",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "ARITH_BXOR",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "ARITH_DIV",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "ARITH_NE",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "ARITH_BINOP_MAX",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "ARITH_ASS_MIN",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "ARITH_REMASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "ARITH_BANDASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "ARITH_LSHIFTASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "ARITH_RSHIFTASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "ARITH_MULASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "ARITH_ADDASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "ARITH_BORASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "ARITH_SUBASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "ARITH_BXORASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "ARITH_DIVASS",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "ARITH_ASS_MAX",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "ARITH_LPAREN",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "ARITH_RPAREN",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "ARITH_BNOT",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25",
+    "name": "ARITH_QMARK",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x26",
+    "name": "ARITH_COLON",
+    "source": "shell_cmds/sh/arith_yacc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "eflag",
+    "source": "shell_cmds/sh/bltin/echo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nflag",
+    "source": "shell_cmds/sh/bltin/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eflag",
+    "source": "shell_cmds/sh/bltin/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/sh/bltin/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "count",
+    "source": "shell_cmds/sh/bltin/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getcwderr",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phys",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "phys",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "print",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "badstat",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "badstat",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phys",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "phys",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXPWD",
+    "source": "shell_cmds/sh/cd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "intpending",
+    "source": "shell_cmds/sh/error.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXINT",
+    "source": "shell_cmds/sh/error.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EXERROR",
+    "source": "shell_cmds/sh/error.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EXEXEC",
+    "source": "shell_cmds/sh/error.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "EXEXIT",
+    "source": "shell_cmds/sh/error.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "suppressint",
+    "source": "shell_cmds/sh/error.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "intpending",
+    "source": "shell_cmds/sh/error.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intpending",
+    "source": "shell_cmds/sh/error.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopnest",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_etest",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "displayhist",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_redirect",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_redirect",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_longjmp",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pipelen",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nleft",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have_command",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_command",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sep",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "varflag",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_clearcmdentry",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmd_flags",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_clearcmdentry",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bltinonly",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_clearcmdentry",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bltinonly",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "malloc",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reset",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skipcount",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "special",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "bufsize",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skipcount",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iflag",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "EV_EXIT",
+    "source": "shell_cmds/sh/eval.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EV_TESTED",
+    "source": "shell_cmds/sh/eval.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "EV_BACKCMD",
+    "source": "shell_cmds/sh/eval.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SKIPBREAK",
+    "source": "shell_cmds/sh/eval.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SKIPCONT",
+    "source": "shell_cmds/sh/eval.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SKIPRETURN",
+    "source": "shell_cmds/sh/eval.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "CMDTABLESIZE",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdtable_cd",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exerrno",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "exerrno",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7E",
+    "name": "exerrno",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errors",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errors",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errors",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cd",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cd",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cmdtable_cd",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdtable_cd",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error1",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/sh/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "CMDUNKNOWN",
+    "source": "shell_cmds/sh/exec.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMDNORMAL",
+    "source": "shell_cmds/sh/exec.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CMDBUILTIN",
+    "source": "shell_cmds/sh/exec.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CMDFUNCTION",
+    "source": "shell_cmds/sh/exec.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DO_ERR",
+    "source": "shell_cmds/sh/exec.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DO_NOFUNC",
+    "source": "shell_cmds/sh/exec.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "newcapacity",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "firsteq",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lit_quoted",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lit_quoted",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firsteq",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nnl",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nnl",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "special",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "special",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "set",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "special",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "set",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "varlen",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nesting",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "buflen",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpos",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "metaflag",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "esc",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "metaflag",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "metaflag",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "atend",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "atend",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matchdot",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invert",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "protected",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "protected",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXP_SPLIT",
+    "source": "shell_cmds/sh/expand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXP_TILDE",
+    "source": "shell_cmds/sh/expand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXP_VARTILDE",
+    "source": "shell_cmds/sh/expand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXP_CASE",
+    "source": "shell_cmds/sh/expand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXP_SPLIT_LIT",
+    "source": "shell_cmds/sh/expand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXP_LIT_QUOTED",
+    "source": "shell_cmds/sh/expand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXP_GLOB",
+    "source": "shell_cmds/sh/expand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MAXHISTLOOPS",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "histsize",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lflg",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "active",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lflg",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflg",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflg",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sflg",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lflg",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "active",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "active",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "displayhist",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sflg",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "displayhist",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "relative",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "relative",
+    "source": "shell_cmds/sh/histedit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFF9D",
+    "name": "EOF_NLEFT",
+    "source": "shell_cmds/sh/input.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "plinno",
+    "source": "shell_cmds/sh/input.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parsenleft",
+    "source": "shell_cmds/sh/input.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parselleft",
+    "source": "shell_cmds/sh/input.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parsenleft",
+    "source": "shell_cmds/sh/input.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "plinno",
+    "source": "shell_cmds/sh/input.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "plinno",
+    "source": "shell_cmds/sh/input.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "shell_cmds/sh/input.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "JOBSTOPPED",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "JOBDONE",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOWAIT_BLOCK",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOWAIT_SIG",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOWAIT_SIG_TRAP",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "jobctl",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "foreground",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foreground",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "jobno",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changed",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "retval",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remembered",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remembered",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pendingsig_waitcmd",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "i",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changed",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nprocs",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foreground",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remembered",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rootshell",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forcelocal",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jobctl",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "foreground",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restore_sigchld",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "restore_sigchld",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wflags",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stopped",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stopped",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sig",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "coredump",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "job_warning",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "jobno",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "job_warning",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "remembered",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "MAXCMDTEXT",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "subtype",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subtype",
+    "source": "shell_cmds/sh/jobs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FORK_FG",
+    "source": "shell_cmds/sh/jobs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FORK_BG",
+    "source": "shell_cmds/sh/jobs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FORK_NOJOB",
+    "source": "shell_cmds/sh/jobs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAXMBOXES",
+    "source": "shell_cmds/sh/mail.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "nmboxes",
+    "source": "shell_cmds/sh/mail.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/mail.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "st_mtime",
+    "source": "shell_cmds/sh/mail.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "st_size",
+    "source": "shell_cmds/sh/mail.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rootshell",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "state",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "state",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "state",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "state",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "state",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numeof",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inter",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numeof",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "shell_cmds/sh/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F0",
+    "name": "MINSIZE",
+    "source": "shell_cmds/sh/memalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "newlen",
+    "source": "shell_cmds/sh/memalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saveall",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rflag",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflag",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "startword",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "status",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "status",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "startword",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_ifs",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "startword",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "startword",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbolic_mode",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "symbolic_mode",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SOFT",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "all",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "all",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/sh/miscbltin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "MAXTYPES",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAXFIELDS",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "BUFLEN",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "T_NODE",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "T_NODELIST",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "T_STRING",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "T_INT",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "T_OTHER",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "T_TEMP",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfields",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/mknodes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/mksyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/mksyntax.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sflag",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iflag",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Eflag",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reset",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "val",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vflag",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Eflag",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Vflag",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "malloc",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reset",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reset",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reset",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reset",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ind",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "shell_cmds/sh/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "NSHORTOPTS",
+    "source": "shell_cmds/sh/options.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "NOPTS",
+    "source": "shell_cmds/sh/options.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "MEM_OUT",
+    "source": "shell_cmds/sh/output.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OUTPUT_ERR",
+    "source": "shell_cmds/sh/output.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntry",
+    "source": "shell_cmds/sh/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntry",
+    "source": "shell_cmds/sh/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "PROMPTLEN",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CHKALIAS",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CHKKWD",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CHKNL",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokpushback",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checkkwd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokpushback",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checkkwd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backgnd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "negate",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backgnd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_subshell",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_subshell",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "savecheckkwd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "funclinno",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checkkwd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokpushback",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "MAXNEST_static",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "fd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "striptabs",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "striptabs",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokpushback",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "v",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sqiscstyle",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quotef",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newvarnest",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parenlevel",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sqiscstyle",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subtype",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "length",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subtype",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parenlevel",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sqiscstyle",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parenlevel",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doprompt",
+    "source": "shell_cmds/sh/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5C333030",
+    "name": "CTLESC",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5C333031",
+    "name": "CTLVAR",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5C333731",
+    "name": "CTLENDVAR",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5C333732",
+    "name": "CTLBACKQ",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x1",
+    "name": "CTLQUOTE",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5C333734",
+    "name": "CTLARI",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5C333735",
+    "name": "CTLENDARI",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5C333736",
+    "name": "CTLQUOTEMARK",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5C333737",
+    "name": "CTLQUOTEEND",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSTYPE",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSNUL",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSLINENO",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSQUOTE",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSNORMAL",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSMINUS",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSPLUS",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSQUESTION",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSASSIGN",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSTRIMLEFT",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSTRIMLEFTMAX",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSTRIMRIGHT",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSTRIMRIGHTMAX",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSLENGTH",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSERROR",
+    "source": "shell_cmds/sh/parser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "EMPTY",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "CLOSED",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd0_redirected",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "empty_redirs",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "empty_redirs",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fd0_redirected",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "written",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "written",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/redir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "REDIR_PUSH",
+    "source": "shell_cmds/sh/redir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "REDIR_BACKQ",
+    "source": "shell_cmds/sh/redir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG",
+    "source": "shell_cmds/sh/shell.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "DEBUG",
+    "source": "shell_cmds/sh/shell.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "JOBS",
+    "source": "shell_cmds/sh/shell.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG",
+    "source": "shell_cmds/sh/shell.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dftfd",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debug",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "shell_cmds/sh/show.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "S_DFL",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "S_CATCH",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "S_IGN",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "S_HARD_IGN",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "S_RESET",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outlen",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outlen",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errors",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signo",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errors",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pendingsig",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pendingsig_waitcmd",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exiting",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sig",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evalskip",
+    "source": "shell_cmds/sh/trap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "VTABSIZE",
+    "source": "shell_cmds/sh/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OPTIND",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "OPTIND",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "err",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isbad",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isbad",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isbad",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vallen",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "act",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "act",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nenv",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "values",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "values",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flg_func",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flg_var",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flg_func",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flg_var",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flg_var",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashval",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "hashval",
+    "source": "shell_cmds/sh/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VEXPORT",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VREADONLY",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSTRFIXED",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VTEXTFIXED",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VSTACK",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VUNSET",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VNOFUNC",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VNOSET",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VNOLOCAL",
+    "source": "shell_cmds/sh/var.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOCK_SET",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LOCK_FAIL",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOCK_GOOD",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LOCK_BAD",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "x",
+    "source": "shell_cmds/shlock/shlock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "report_requested",
+    "source": "shell_cmds/sleep/sleep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seconds",
+    "source": "shell_cmds/sleep/sleep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_nsec",
+    "source": "shell_cmds/sleep/sleep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "report_requested",
+    "source": "shell_cmds/sleep/sleep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statusp",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setmaclabel",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fastlogin",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asme",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "asthem",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "asme",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asthem",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "setmaclabel",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prio",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ai_flags",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "statusp",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "statusp",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "shell_cmds/su/su.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ai_auid",
+    "source": "shell_cmds/su/tests/su_test_setauid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ai_flags",
+    "source": "shell_cmds/su/tests/su_test_setauid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sleep_time",
+    "source": "shell_cmds/systime/systime.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldidle",
+    "source": "shell_cmds/systime/systime.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldidle",
+    "source": "shell_cmds/systime/systime.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_pid_time",
+    "source": "shell_cmds/systime/systime.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "shell_cmds/tee/tee.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "append",
+    "source": "shell_cmds/tee/tee.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitval",
+    "source": "shell_cmds/tee/tee.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitval",
+    "source": "shell_cmds/tee/tee.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitval",
+    "source": "shell_cmds/tee/tee.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNOP",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BINOP",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BUNOP",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BBINOP",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAREN",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parenlevel",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/test/test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "child_running",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child_running",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pflag",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hflag",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lflag",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflag",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siginfo_recvd",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siginfo_recvd",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ticks",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlim_cur",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "siginfo_recvd",
+    "source": "shell_cmds/time/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "KFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BFLAG",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/uname/uname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "buf_size",
+    "source": "shell_cmds/w/fmt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ONLYA",
+    "source": "shell_cmds/w/proc_compare.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ONLYB",
+    "source": "shell_cmds/w/proc_compare.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "BOTH",
+    "source": "shell_cmds/w/proc_compare.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "shell_cmds/w/pr_time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fromwidth",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "header",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "W_DISPUSERSIZE",
+    "source": "shell_cmds/w/w.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "W_DISPLINESIZE",
+    "source": "shell_cmds/w/w.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "W_MAXHOSTSIZE",
+    "source": "shell_cmds/w/w.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "wcmd",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wcmd",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dflag",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "header",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sortidle",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "header",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "retrans",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retry",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nusers",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usermatch",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usermatch",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idle",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isaddr",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isaddr",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isaddr",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4F",
+    "name": "ttywidth",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "argwidth",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secs",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "size",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufSize",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local_error",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry_count",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry_count",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local_error",
+    "source": "shell_cmds/w/w.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NO_BIN_FOUND",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NO_MAN_FOUND",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NO_SRC_FOUND",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_a",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_b",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_m",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_q",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_s",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_u",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_x",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_m",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_s",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nele",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nele",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nele",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_m",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_b",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_s",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unusual",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printed",
+    "source": "shell_cmds/whereis/whereis.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "allpaths",
+    "source": "shell_cmds/which/which.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "silent",
+    "source": "shell_cmds/which/which.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "shell_cmds/which/which.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "shell_cmds/which/which.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Hflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Tflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "qflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uflag",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idle",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "shell_cmds/who/who.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_was_newline",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_was_blank",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eoflen",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "nargs",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maxprocs",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Jflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Iflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Lflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Iflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Jflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "nargs",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Lflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pad9314053",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "xflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "zflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "Rflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "Sflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "xflag",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "linelen",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "jfound",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_was_backslashed",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foundeof",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_was_blank",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_was_newline",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foundeof",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curlen",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wasquoted",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wasquoted",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wasquoted",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_was_backslashed",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_was_blank",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_was_newline",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childerr",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cause_exit",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "waitall",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cause_exit",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cause_exit",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rval",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "shell_cmds/xargs/xargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "shell_cmds/yes/yes.c",
+    "type": "EnumCase"
+  }
+]

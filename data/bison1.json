@@ -1,0 +1,3158 @@
+[
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "bison1/bison/intl/cat-compat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "PATH_INCR",
+    "source": "bison1/bison/intl/dcgettext.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "bison1/bison/intl/dcgettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "bison1/bison/intl/dcgettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bottom",
+    "source": "bison1/bison/intl/dcgettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "bison1/bison/intl/explodename.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "bison1/bison/intl/finddomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "bison1/bison/intl/finddomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GETTEXT_H",
+    "source": "bison1/bison/intl/gettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_MAGIC",
+    "source": "bison1/bison/intl/gettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_MAGIC_SWAPPED",
+    "source": "bison1/bison/intl/gettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MO_REVISION_NUMBER",
+    "source": "bison1/bison/intl/gettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "HASHWORDBITS",
+    "source": "bison1/bison/intl/hash-string.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hval",
+    "source": "bison1/bison/intl/hash-string.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entries",
+    "source": "bison1/bison/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "bison1/bison/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "only_digit",
+    "source": "bison1/bison/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "bison1/bison/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "only_digit",
+    "source": "bison1/bison/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "bison1/bison/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_LIBGETTEXT_H",
+    "source": "bison1/bison/intl/libgettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__USE_GNU_GETTEXT",
+    "source": "bison1/bison/intl/libgettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CEN_REVISION",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CEN_SPONSOR",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CEN_SPECIAL",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "XPG_NORM_CODESET",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "XPG_CODESET",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "TERRITORY",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "CEN_AUDIENCE",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "XPG_MODIFIER",
+    "source": "bison1/bison/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_nl_msg_cat_cntr",
+    "source": "bison1/bison/intl/loadmsgcat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_mmap",
+    "source": "bison1/bison/intl/loadmsgcat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "decided",
+    "source": "bison1/bison/intl/loadmsgcat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_mmap",
+    "source": "bison1/bison/intl/loadmsgcat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "string_space_act",
+    "source": "bison1/bison/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "string_space_max",
+    "source": "bison1/bison/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nmap",
+    "source": "bison1/bison/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxmap",
+    "source": "bison1/bison/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "added",
+    "source": "bison1/bison/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "added",
+    "source": "bison1/bison/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8D",
+    "name": "_msg_tbl_length",
+    "source": "bison1/bison/po/cat-id-tbl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "bison1/bison/src/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "bison1/bison/src/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "bison1/bison/src/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "stack_dir",
+    "source": "bison1/bison/src/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "bison1/bison/src/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stkl",
+    "source": "bison1/bison/src/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "bison1/bison/src/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "bison1/bison/src/allocate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "bison1/bison/src/allocate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filename",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "bufsize",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "convert_varargs",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "convert_varargs",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "contin",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "contin",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "num_breaks",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vararg",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "level",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vararg",
+    "source": "bison1/bison/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "bison1/bison/src/closure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "bison1/bison/src/closure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ruleno",
+    "source": "bison1/bison/src/closure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "bison1/bison/src/closure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/closure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/closure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any_conflicts",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any_conflicts",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_total",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rrc_total",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_total",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rrc_total",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_count",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rrc_count",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "default_rule",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodefault",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nodefault",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmax",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defaulted",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "defaulted",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defaulted",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/conflicts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixed_outfiles",
+    "source": "bison1/bison/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noparserflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "toknumflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rawtoknumflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verboseflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "definesflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debugflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noparserflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rawtoknumflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "toknumflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixed_outfiles",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fixed_outfiles",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verboseflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "definesflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nolinesflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "toknumflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rawtoknumflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "noparserflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debugflag",
+    "source": "bison1/bison/src/getargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__getopt_initialized",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opterr",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_max_len",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_len",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__getopt_initialized",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indfound",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "bison1/bison/src/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GETOPT_H",
+    "source": "bison1/bison/src/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_argument",
+    "source": "bison1/bison/src/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "required_argument",
+    "source": "bison1/bison/src/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "optional_argument",
+    "source": "bison1/bison/src/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "bison1/bison/src/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "bison1/bison/src/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "bison1/bison/src/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "bison1/bison/src/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RIGHT_ASSOC",
+    "source": "bison1/bison/src/gram.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LEFT_ASSOC",
+    "source": "bison1/bison/src/gram.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NON_ASSOC",
+    "source": "bison1/bison/src/gram.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ngotos",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nedges",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nedges",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nedges",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "length",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "top",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/lalr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "maxtoken",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "inside",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inside",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inside",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wasquote",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wasquote",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wasquote",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numval",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "bison1/bison/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENDFILE",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IDENTIFIER",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "COMMA",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "COLON",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SEMICOLON",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "BAR",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "LEFT_CURLY",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "TWO_PERCENTS",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "PERCENT_LEFT_CURLY",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "TOKEN",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "NTERM",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "GUARD",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "TYPE",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "UNION",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "START",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "LEFT",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "RIGHT",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "NONASSOC",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "PREC",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "SEMANTIC_PARSER",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "PURE_PARSER",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "TYPENAME",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "NUMBER",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "EXPECT",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "THONG",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "NOOP",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "SETOPT",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "ILLEGAL",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAXTOKEN",
+    "source": "bison1/bison/src/lex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3F1",
+    "name": "STATE_TABLE_SIZE",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shiftcount",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nstates",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nshifts",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nshifts",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nshifts",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nshifts",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nshifts",
+    "source": "bison1/bison/src/LR0.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7FFFFFFF",
+    "name": "MAXSHORT",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFF80000000",
+    "name": "MINSHORT",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7FFF",
+    "name": "MAXSHORT",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFF8000",
+    "name": "MINSHORT",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "BITS_PER_WORD",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3FFF",
+    "name": "MAXTABLE",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "BITS_PER_WORD",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7FFF",
+    "name": "MAXTABLE",
+    "source": "bison1/bison/src/machine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "failure",
+    "source": "bison1/bison/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "bison1/bison/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failure",
+    "source": "bison1/bison/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any_tokens",
+    "source": "bison1/bison/src/nullable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any_tokens",
+    "source": "bison1/bison/src/nullable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyerror",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodefault",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "default_rule",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nreds",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nodefault",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nentries",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowzero",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "high",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loc",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYPURE",
+    "source": "bison1/bison/src/output.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "write_line",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "write_line",
+    "source": "bison1/bison/src/output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "column",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "column",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_count",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bison1/bison/src/print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_flag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "translations",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "translations",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nsyms",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nvars",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nrules",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nitems",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "rline_allocated",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "typed",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastprec",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gensym_count",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "semantic_parser",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pure_parser",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yylsp_needed",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lineno",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "user_token_number",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "user_token_number",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYBISON",
+    "source": "bison1/bison/src/reader.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "semantic_parser",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pure_parser",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "after_percent",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "after_percent",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "token",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "typename",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "value_components_used",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "translations",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "translations",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "typename",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "translations",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "value_components_used",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usrtoknum",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "start_flag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "translations",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "typed",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_comment",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_comment",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_comment",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_comment",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "brace_flag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stack_offset",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "brace_flag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yylsp_needed",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stack_offset",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ended",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "value_components_used",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yylsp_needed",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actionflag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rulelength",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xactions",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first_rhs",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "start_flag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actionflag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "actionflag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "actionflag",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tokno",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lossage",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "max_user_token_number",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "last_user_token_number",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "itemno",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ruleno",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sign",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "n",
+    "source": "bison1/bison/src/reader.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nuseful_nonterminals",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "np",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ni",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pn",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pn",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/reduce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bison1/bison/src/symtab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bison1/bison/src/symtab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "bison1/bison/src/symtab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "bison1/bison/src/symtab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bison1/bison/src/symtab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F1",
+    "name": "TABSIZE",
+    "source": "bison1/bison/src/symtab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUNKNOWN",
+    "source": "bison1/bison/src/symtab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STOKEN",
+    "source": "bison1/bison/src/symtab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SNTERM",
+    "source": "bison1/bison/src/symtab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFD8F9",
+    "name": "SALIAS",
+    "source": "bison1/bison/src/symtab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "bison1/bison/src/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "verboseflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "definesflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debugflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixed_outfiles",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nolinesflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noparserflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "toknumflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rawtoknumflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verboseflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "definesflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fixed_outfiles",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fixed_outfiles",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nolinesflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "noparserflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rawtoknumflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "toknumflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debugflag",
+    "source": "bison1/bison/src/vmsgetargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/warshall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/warshall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/warshall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bison1/bison/src/warshall.c",
+    "type": "EnumCase"
+  }
+]

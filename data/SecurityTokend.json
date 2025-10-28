@@ -1,0 +1,140 @@
+[
+  {
+    "hex": "0x1",
+    "name": "_SECURITYTOKEND_SECTOKEND_H_",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "kSecTokendCallbackVersion",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "TOKEND_MAX_UID",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecTokendCallbacksDefault",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecTokendProbeDefault",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecTokendProbeKeepToken",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecTokendEstablishNewCache",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecTokendEstablishMakeMDS",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecTokendCallbacksTestNoServer",
+    "source": "SecurityTokend/lib/SecTokend.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__MigTypeCheck",
+    "source": "SecurityTokend/lib/tdclient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TDPROTOVERSION",
+    "source": "SecurityTokend/lib/tdclient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cryptoDataUsed",
+    "source": "SecurityTokend/lib/tdtransit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SecurityTokend/lib/tdtransit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SecurityTokend/lib/tdtransit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SecurityTokend/lib/tdtransit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "locked",
+    "source": "SecurityTokend/lib/tdtransit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLength",
+    "source": "SecurityTokend/lib/tdtransit.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UseStaticTemplates",
+    "source": "SecurityTokend/lib/tokend_types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SecurityTokend/lib/transit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDataLength",
+    "source": "SecurityTokend/lib/transit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "knownBadHandle",
+    "source": "SecurityTokend/lib/transit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searchHandle",
+    "source": "SecurityTokend/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hSearch",
+    "source": "SecurityTokend/lib/transition.cpp",
+    "type": "EnumCase"
+  }
+]

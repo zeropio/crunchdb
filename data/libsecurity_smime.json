@@ -1,0 +1,2888 @@
+[
+  {
+    "hex": "0x0",
+    "name": "CERT_DEBUG",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serialNumber",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "issuer",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultsHandle",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numberOfFields",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ci",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_smime/lib/cert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CERT_H_",
+    "source": "libsecurity_smime/lib/cert.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_smime/lib/cmsarray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_smime/lib/cmsarray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_smime/lib/cmsarray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastxchg",
+    "source": "libsecurity_smime/lib/cmsarray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsarray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "BLOCK_SIZE",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ival",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "overflow",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "DEFAULT_IV_SIZE",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "AES_BLOCK_SIZE",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ciphercc",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_count",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_count",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_output",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_len",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_len_p",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofraglen",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_len",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_len_p",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcount",
+    "source": "libsecurity_smime/lib/cmscipher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outlen",
+    "source": "libsecurity_smime/lib/cmsdecode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digcnt",
+    "source": "libsecurity_smime/lib/cmsdigest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsdigest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsdigest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsdigest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsdigest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsdigest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmsdigest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsencode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libsecurity_smime/lib/cmsencode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsenvdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsenvdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refCount",
+    "source": "libsecurity_smime/lib/cmsmessage.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libsecurity_smime/lib/cmsmessage.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libsecurity_smime/lib/cmsmessage.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "SMIME_FORTEZZA_RA_LENGTH",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "SMIME_FORTEZZA_IV_LENGTH",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "SMIME_FORTEZZA_MAX_KEY_SIZE",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "UKM_LENGTH",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "ECDH_KEK_KEY_LEN_BYTES",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "ECDH_KEK_IV_LEN_BYTES",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMS_DUMP_BUFS",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "dex",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC0",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC0",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC0",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "keySizeBits",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "libsecurity_smime/lib/cmspubkey.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "libsecurity_smime/lib/cmsrecinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmsrecinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libsecurity_smime/lib/cmsreclist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlindex",
+    "source": "libsecurity_smime/lib/cmsreclist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsreclist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libsecurity_smime/lib/cmsreclist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsreclist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "libsecurity_smime/lib/cmsreclist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RLIssuerSN",
+    "source": "libsecurity_smime/lib/cmsreclist.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIGDATA_DEBUG",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "certcount",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rci",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "si",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ci",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ci",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmssigdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIGINFO_DEBUG",
+    "source": "libsecurity_smime/lib/cmssiginfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "second",
+    "source": "libsecurity_smime/lib/cmssiginfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hourOff",
+    "source": "libsecurity_smime/lib/cmssiginfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minOff",
+    "source": "libsecurity_smime/lib/cmssiginfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmssiginfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmssiginfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/cmssiginfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SEC_CMS_SIGNED_DATA_VERSION_BASIC",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SEC_CMS_SIGNED_DATA_VERSION_EXT",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsSignerIDIssuerSN",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsSignerIDSubjectKeyID",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SEC_CMS_SIGNER_INFO_VERSION_ISSUERSN",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SEC_CMS_SIGNER_INFO_VERSION_SUBJKEY",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEC_CMS_ENVELOPED_DATA_VERSION_REG",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEC_CMS_ENVELOPED_DATA_VERSION_ADV",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsRecipientIDIssuerSN",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsRecipientIDSubjectKeyID",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEC_CMS_KEYTRANS_RECIPIENT_INFO_VERSION_ISSUERSN",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEC_CMS_KEYTRANS_RECIPIENT_INFO_VERSION_SUBJKEY",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsOriginatorIDOrKeyIssuerSN",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsOriginatorIDOrKeySubjectKeyID",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SecCmsOriginatorIDOrKeyOriginatorPublicKey",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsKeyAgreeRecipientIDIssuerSN",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsKeyAgreeRecipientIDRKeyID",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SEC_CMS_KEYAGREE_RECIPIENT_INFO_VERSION",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SEC_CMS_KEK_RECIPIENT_INFO_VERSION",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsRecipientInfoIDKeyTrans",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsRecipientInfoIDKeyAgree",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SecCmsRecipientInfoIDKEK",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEC_CMS_DIGESTED_DATA_VERSION_DATA",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEC_CMS_DIGESTED_DATA_VERSION_ENCAP",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEC_CMS_ENCRYPTED_DATA_VERSION",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEC_CMS_ENCRYPTED_DATA_VERSION_UPATTR",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsKEAUsesSkipjack",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsKEAUsesNonSkipjack",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SecCmsKEAUsesNonSkipjackWithPaddedEncKey",
+    "source": "libsecurity_smime/lib/cmstpriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libsecurity_smime/lib/cmsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/cmsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libsecurity_smime/lib/cmsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "libsecurity_smime/lib/cmsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gCsp",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gCssmInitialized",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gCssmInitialized",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "libsecurity_smime/lib/cryptohi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "MINBUCKETSLOG2",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GOLDEN_RATIO",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "nb",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "todo",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variance",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nchains",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxChainLen",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "libsecurity_smime/lib/plhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "PL_HASH_BITS",
+    "source": "libsecurity_smime/lib/plhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HT_ENUMERATE_NEXT",
+    "source": "libsecurity_smime/lib/plhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HT_ENUMERATE_STOP",
+    "source": "libsecurity_smime/lib/plhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "HT_ENUMERATE_REMOVE",
+    "source": "libsecurity_smime/lib/plhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "HT_ENUMERATE_UNHASH",
+    "source": "libsecurity_smime/lib/plhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HT_FREE_VALUE",
+    "source": "libsecurity_smime/lib/plhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HT_FREE_ENTRY",
+    "source": "libsecurity_smime/lib/plhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSBASE_H_",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsVSUnverified",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsVSGoodSignature",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SecCmsVSBadSignature",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SecCmsVSDigestMismatch",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SecCmsVSSigningCertNotFound",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SecCmsVSSigningCertNotTrusted",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "SecCmsVSSignatureAlgorithmUnknown",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "SecCmsVSSignatureAlgorithmUnsupported",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SecCmsVSMalformedSignature",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "SecCmsVSProcessingError",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SecCmsCMNone",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SecCmsCMCertOnly",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SecCmsCMCertChain",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SecCmsCMCertChainWithRoot",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "certUsageSSLClient",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "certUsageSSLServer",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "certUsageSSLServerWithStepUp",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "certUsageSSLCA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "certUsageEmailSigner",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "certUsageEmailRecipient",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "certUsageObjectSigner",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "certUsageUserCertImport",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "certUsageVerifyCA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "certUsageProtectedObjectSigner",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "certUsageStatusResponder",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "certUsageAnyCA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEC_OID_UNKNOWN",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SEC_OID_MD2",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEC_OID_MD4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SEC_OID_MD5",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SEC_OID_SHA1",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SEC_OID_RC2_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "SEC_OID_RC4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "SEC_OID_DES_EDE3_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SEC_OID_RC5_CBC_PAD",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "SEC_OID_DES_ECB",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "SEC_OID_DES_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "SEC_OID_DES_OFB",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "SEC_OID_DES_CFB",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "SEC_OID_DES_MAC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "SEC_OID_DES_EDE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "SEC_OID_ISO_SHA_WITH_RSA_SIGNATURE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "SEC_OID_PKCS1_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "SEC_OID_PKCS1_MD2_WITH_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "SEC_OID_PKCS1_MD4_WITH_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "SEC_OID_PKCS1_MD5_WITH_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "SEC_OID_PKCS1_SHA1_WITH_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "SEC_OID_PKCS5_PBE_WITH_MD2_AND_DES_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "SEC_OID_PKCS5_PBE_WITH_MD5_AND_DES_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "SEC_OID_PKCS5_PBE_WITH_SHA1_AND_DES_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "SEC_OID_PKCS7",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "SEC_OID_PKCS7_DATA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "SEC_OID_PKCS7_SIGNED_DATA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "SEC_OID_PKCS7_ENVELOPED_DATA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "SEC_OID_PKCS7_SIGNED_ENVELOPED_DATA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "SEC_OID_PKCS7_DIGESTED_DATA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "SEC_OID_PKCS7_ENCRYPTED_DATA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "SEC_OID_PKCS9_EMAIL_ADDRESS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "SEC_OID_PKCS9_UNSTRUCTURED_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "SEC_OID_PKCS9_CONTENT_TYPE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x22",
+    "name": "SEC_OID_PKCS9_MESSAGE_DIGEST",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23",
+    "name": "SEC_OID_PKCS9_SIGNING_TIME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x24",
+    "name": "SEC_OID_PKCS9_COUNTER_SIGNATURE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x25",
+    "name": "SEC_OID_PKCS9_CHALLENGE_PASSWORD",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x26",
+    "name": "SEC_OID_PKCS9_UNSTRUCTURED_ADDRESS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "SEC_OID_PKCS9_EXTENDED_CERTIFICATE_ATTRIBUTES",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "SEC_OID_PKCS9_SMIME_CAPABILITIES",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29",
+    "name": "SEC_OID_AVA_COMMON_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "SEC_OID_AVA_COUNTRY_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2B",
+    "name": "SEC_OID_AVA_LOCALITY",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2C",
+    "name": "SEC_OID_AVA_STATE_OR_PROVINCE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2D",
+    "name": "SEC_OID_AVA_ORGANIZATION_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2E",
+    "name": "SEC_OID_AVA_ORGANIZATIONAL_UNIT_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2F",
+    "name": "SEC_OID_AVA_DN_QUALIFIER",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "SEC_OID_AVA_DC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31",
+    "name": "SEC_OID_NS_TYPE_GIF",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "SEC_OID_NS_TYPE_JPEG",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x33",
+    "name": "SEC_OID_NS_TYPE_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x34",
+    "name": "SEC_OID_NS_TYPE_HTML",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x35",
+    "name": "SEC_OID_NS_TYPE_CERT_SEQUENCE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x36",
+    "name": "SEC_OID_MISSI_KEA_DSS_OLD",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "SEC_OID_MISSI_DSS_OLD",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x38",
+    "name": "SEC_OID_MISSI_KEA_DSS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x39",
+    "name": "SEC_OID_MISSI_DSS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A",
+    "name": "SEC_OID_MISSI_KEA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B",
+    "name": "SEC_OID_MISSI_ALT_KEA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "SEC_OID_NS_CERT_EXT_NETSCAPE_OK",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3D",
+    "name": "SEC_OID_NS_CERT_EXT_ISSUER_LOGO",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E",
+    "name": "SEC_OID_NS_CERT_EXT_SUBJECT_LOGO",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "SEC_OID_NS_CERT_EXT_CERT_TYPE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "SEC_OID_NS_CERT_EXT_BASE_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x41",
+    "name": "SEC_OID_NS_CERT_EXT_REVOCATION_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x42",
+    "name": "SEC_OID_NS_CERT_EXT_CA_REVOCATION_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x43",
+    "name": "SEC_OID_NS_CERT_EXT_CA_CRL_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x44",
+    "name": "SEC_OID_NS_CERT_EXT_CA_CERT_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x45",
+    "name": "SEC_OID_NS_CERT_EXT_CERT_RENEWAL_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x46",
+    "name": "SEC_OID_NS_CERT_EXT_CA_POLICY_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x47",
+    "name": "SEC_OID_NS_CERT_EXT_HOMEPAGE_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x48",
+    "name": "SEC_OID_NS_CERT_EXT_ENTITY_LOGO",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x49",
+    "name": "SEC_OID_NS_CERT_EXT_USER_PICTURE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4A",
+    "name": "SEC_OID_NS_CERT_EXT_SSL_SERVER_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4B",
+    "name": "SEC_OID_NS_CERT_EXT_COMMENT",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C",
+    "name": "SEC_OID_NS_CERT_EXT_LOST_PASSWORD_URL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4D",
+    "name": "SEC_OID_NS_CERT_EXT_CERT_RENEWAL_TIME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4E",
+    "name": "SEC_OID_NS_KEY_USAGE_GOVT_APPROVED",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4F",
+    "name": "SEC_OID_X509_SUBJECT_DIRECTORY_ATTR",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "SEC_OID_X509_SUBJECT_KEY_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x51",
+    "name": "SEC_OID_X509_KEY_USAGE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x52",
+    "name": "SEC_OID_X509_PRIVATE_KEY_USAGE_PERIOD",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x53",
+    "name": "SEC_OID_X509_SUBJECT_ALT_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x54",
+    "name": "SEC_OID_X509_ISSUER_ALT_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x55",
+    "name": "SEC_OID_X509_BASIC_CONSTRAINTS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x56",
+    "name": "SEC_OID_X509_NAME_CONSTRAINTS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x57",
+    "name": "SEC_OID_X509_CRL_DIST_POINTS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x58",
+    "name": "SEC_OID_X509_CERTIFICATE_POLICIES",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x59",
+    "name": "SEC_OID_X509_POLICY_MAPPINGS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5A",
+    "name": "SEC_OID_X509_POLICY_CONSTRAINTS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5B",
+    "name": "SEC_OID_X509_AUTH_KEY_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5C",
+    "name": "SEC_OID_X509_EXT_KEY_USAGE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5D",
+    "name": "SEC_OID_X509_AUTH_INFO_ACCESS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5E",
+    "name": "SEC_OID_X509_CRL_NUMBER",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5F",
+    "name": "SEC_OID_X509_REASON_CODE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x60",
+    "name": "SEC_OID_X509_INVALID_DATE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x61",
+    "name": "SEC_OID_X500_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x62",
+    "name": "SEC_OID_RFC1274_UID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "SEC_OID_RFC1274_MAIL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "SEC_OID_PKCS12",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x65",
+    "name": "SEC_OID_PKCS12_MODE_IDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x66",
+    "name": "SEC_OID_PKCS12_ESPVK_IDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x67",
+    "name": "SEC_OID_PKCS12_BAG_IDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x68",
+    "name": "SEC_OID_PKCS12_CERT_BAG_IDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x69",
+    "name": "SEC_OID_PKCS12_OIDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6A",
+    "name": "SEC_OID_PKCS12_PBE_IDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6B",
+    "name": "SEC_OID_PKCS12_SIGNATURE_IDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6C",
+    "name": "SEC_OID_PKCS12_ENVELOPING_IDS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6D",
+    "name": "SEC_OID_PKCS12_PKCS8_KEY_SHROUDING",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6E",
+    "name": "SEC_OID_PKCS12_KEY_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6F",
+    "name": "SEC_OID_PKCS12_CERT_AND_CRL_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x70",
+    "name": "SEC_OID_PKCS12_SECRET_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x71",
+    "name": "SEC_OID_PKCS12_X509_CERT_CRL_BAG",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x72",
+    "name": "SEC_OID_PKCS12_SDSI_CERT_BAG",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x73",
+    "name": "SEC_OID_PKCS12_PBE_WITH_SHA1_AND_128_BIT_RC4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x74",
+    "name": "SEC_OID_PKCS12_PBE_WITH_SHA1_AND_40_BIT_RC4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x75",
+    "name": "SEC_OID_PKCS12_PBE_WITH_SHA1_AND_TRIPLE_DES_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x76",
+    "name": "SEC_OID_PKCS12_PBE_WITH_SHA1_AND_128_BIT_RC2_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x77",
+    "name": "SEC_OID_PKCS12_PBE_WITH_SHA1_AND_40_BIT_RC2_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x78",
+    "name": "SEC_OID_PKCS12_RSA_ENCRYPTION_WITH_128_BIT_RC4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x79",
+    "name": "SEC_OID_PKCS12_RSA_ENCRYPTION_WITH_40_BIT_RC4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7A",
+    "name": "SEC_OID_PKCS12_RSA_ENCRYPTION_WITH_TRIPLE_DES",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7B",
+    "name": "SEC_OID_PKCS12_RSA_SIGNATURE_WITH_SHA1_DIGEST",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7C",
+    "name": "SEC_OID_ANSIX9_DSA_SIGNATURE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D",
+    "name": "SEC_OID_ANSIX9_DSA_SIGNATURE_WITH_SHA1_DIGEST",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7E",
+    "name": "SEC_OID_BOGUS_DSA_SIGNATURE_WITH_SHA1_DIGEST",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "SEC_OID_VERISIGN_USER_NOTICES",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "SEC_OID_PKIX_CPS_POINTER_QUALIFIER",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x81",
+    "name": "SEC_OID_PKIX_USER_NOTICE_QUALIFIER",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x82",
+    "name": "SEC_OID_PKIX_OCSP",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x83",
+    "name": "SEC_OID_PKIX_OCSP_BASIC_RESPONSE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x84",
+    "name": "SEC_OID_PKIX_OCSP_NONCE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x85",
+    "name": "SEC_OID_PKIX_OCSP_CRL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x86",
+    "name": "SEC_OID_PKIX_OCSP_RESPONSE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x87",
+    "name": "SEC_OID_PKIX_OCSP_NO_CHECK",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x88",
+    "name": "SEC_OID_PKIX_OCSP_ARCHIVE_CUTOFF",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x89",
+    "name": "SEC_OID_PKIX_OCSP_SERVICE_LOCATOR",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "SEC_OID_PKIX_REGCTRL_REGTOKEN",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8B",
+    "name": "SEC_OID_PKIX_REGCTRL_AUTHENTICATOR",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8C",
+    "name": "SEC_OID_PKIX_REGCTRL_PKIPUBINFO",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8D",
+    "name": "SEC_OID_PKIX_REGCTRL_PKI_ARCH_OPTIONS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8E",
+    "name": "SEC_OID_PKIX_REGCTRL_OLD_CERT_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8F",
+    "name": "SEC_OID_PKIX_REGCTRL_PROTOCOL_ENC_KEY",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x90",
+    "name": "SEC_OID_PKIX_REGINFO_UTF8_PAIRS",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x91",
+    "name": "SEC_OID_PKIX_REGINFO_CERT_REQUEST",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x92",
+    "name": "SEC_OID_EXT_KEY_USAGE_SERVER_AUTH",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x93",
+    "name": "SEC_OID_EXT_KEY_USAGE_CLIENT_AUTH",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x94",
+    "name": "SEC_OID_EXT_KEY_USAGE_CODE_SIGN",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x95",
+    "name": "SEC_OID_EXT_KEY_USAGE_EMAIL_PROTECT",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x96",
+    "name": "SEC_OID_EXT_KEY_USAGE_TIME_STAMP",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x97",
+    "name": "SEC_OID_OCSP_RESPONDER",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x98",
+    "name": "SEC_OID_NETSCAPE_SMIME_KEA",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x99",
+    "name": "SEC_OID_FORTEZZA_SKIPJACK",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9A",
+    "name": "SEC_OID_PKCS12_V2_PBE_WITH_SHA1_AND_128_BIT_RC4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9B",
+    "name": "SEC_OID_PKCS12_V2_PBE_WITH_SHA1_AND_40_BIT_RC4",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9C",
+    "name": "SEC_OID_PKCS12_V2_PBE_WITH_SHA1_AND_3KEY_TRIPLE_DES_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9D",
+    "name": "SEC_OID_PKCS12_V2_PBE_WITH_SHA1_AND_2KEY_TRIPLE_DES_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9E",
+    "name": "SEC_OID_PKCS12_V2_PBE_WITH_SHA1_AND_128_BIT_RC2_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9F",
+    "name": "SEC_OID_PKCS12_V2_PBE_WITH_SHA1_AND_40_BIT_RC2_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA0",
+    "name": "SEC_OID_PKCS12_SAFE_CONTENTS_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA1",
+    "name": "SEC_OID_PKCS12_PKCS8_SHROUDED_KEY_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA2",
+    "name": "SEC_OID_PKCS12_V1_KEY_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA3",
+    "name": "SEC_OID_PKCS12_V1_PKCS8_SHROUDED_KEY_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA4",
+    "name": "SEC_OID_PKCS12_V1_CERT_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA5",
+    "name": "SEC_OID_PKCS12_V1_CRL_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA6",
+    "name": "SEC_OID_PKCS12_V1_SECRET_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA7",
+    "name": "SEC_OID_PKCS12_V1_SAFE_CONTENTS_BAG_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA8",
+    "name": "SEC_OID_PKCS9_X509_CERT",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA9",
+    "name": "SEC_OID_PKCS9_SDSI_CERT",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAA",
+    "name": "SEC_OID_PKCS9_X509_CRL",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAB",
+    "name": "SEC_OID_PKCS9_FRIENDLY_NAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAC",
+    "name": "SEC_OID_PKCS9_LOCAL_KEY_ID",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAD",
+    "name": "SEC_OID_PKCS12_KEY_USAGE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAE",
+    "name": "SEC_OID_X942_DIFFIE_HELMAN_KEY",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAF",
+    "name": "SEC_OID_NETSCAPE_NICKNAME",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB0",
+    "name": "SEC_OID_NETSCAPE_RECOVERY_REQUEST",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB1",
+    "name": "SEC_OID_CERT_RENEWAL_LOCATOR",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB2",
+    "name": "SEC_OID_NS_CERT_EXT_SCOPE_OF_USE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB3",
+    "name": "SEC_OID_CMS_EPHEMERAL_STATIC_DIFFIE_HELLMAN",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB4",
+    "name": "SEC_OID_CMS_3DES_KEY_WRAP",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB5",
+    "name": "SEC_OID_CMS_RC2_KEY_WRAP",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB6",
+    "name": "SEC_OID_SMIME_ENCRYPTION_KEY_PREFERENCE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB7",
+    "name": "SEC_OID_AES_128_ECB",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB8",
+    "name": "SEC_OID_AES_128_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB9",
+    "name": "SEC_OID_AES_192_ECB",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBA",
+    "name": "SEC_OID_AES_192_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB",
+    "name": "SEC_OID_AES_256_ECB",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBC",
+    "name": "SEC_OID_AES_256_CBC",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBD",
+    "name": "SEC_OID_SDN702_DSA_SIGNATURE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBE",
+    "name": "SEC_OID_MS_SMIME_ENCRYPTION_KEY_PREFERENCE",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBF",
+    "name": "SEC_OID_SHA256",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC0",
+    "name": "SEC_OID_SHA384",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC1",
+    "name": "SEC_OID_SHA512",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC2",
+    "name": "SEC_OID_PKCS1_SHA256_WITH_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC3",
+    "name": "SEC_OID_PKCS1_SHA384_WITH_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC4",
+    "name": "SEC_OID_PKCS1_SHA512_WITH_RSA_ENCRYPTION",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC5",
+    "name": "SEC_OID_AES_128_KEY_WRAP",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC6",
+    "name": "SEC_OID_AES_192_KEY_WRAP",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC7",
+    "name": "SEC_OID_AES_256_KEY_WRAP",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "SEC_OID_OTHER",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC9",
+    "name": "SEC_OID_EC_PUBLIC_KEY",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCA",
+    "name": "SEC_OID_ECDSA_WithSHA1",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCB",
+    "name": "SEC_OID_DH_SINGLE_STD_SHA1KDF",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCC",
+    "name": "SEC_OID_SECP_256_R1",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCD",
+    "name": "SEC_OID_SECP_384_R1",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCE",
+    "name": "SEC_OID_SECP_521_R1",
+    "source": "libsecurity_smime/lib/SecCmsBase.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSCONTENTINFO_H_",
+    "source": "libsecurity_smime/lib/SecCmsContentInfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSDECODER_H_",
+    "source": "libsecurity_smime/lib/SecCmsDecoder.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSDIGESTCONTEXT_H_",
+    "source": "libsecurity_smime/lib/SecCmsDigestContext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSDIGESTEDDATA_H_",
+    "source": "libsecurity_smime/lib/SecCmsDigestedData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSENCODER_H_",
+    "source": "libsecurity_smime/lib/SecCmsEncoder.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSENCRYPTEDDATA_H_",
+    "source": "libsecurity_smime/lib/SecCmsEncryptedData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSENVELOPEDDATA_H_",
+    "source": "libsecurity_smime/lib/SecCmsEnvelopedData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSMESSAGE_H_",
+    "source": "libsecurity_smime/lib/SecCmsMessage.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSRECIPIENTINFO_H_",
+    "source": "libsecurity_smime/lib/SecCmsRecipientInfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSSIGNEDDATA_H_",
+    "source": "libsecurity_smime/lib/SecCmsSignedData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECCMSSIGNERINFO_H_",
+    "source": "libsecurity_smime/lib/SecCmsSignerInfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Data",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Data",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Data",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/secitem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "USGOV",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NETSCAPE_OID",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OLD_NETSCAPE",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RSADSI",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FORTEZZA_ALG",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ALGORITHM",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "X500",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFC1274_ATTR_TYPE",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFC2247_ATTR_TYPE",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ANSI_X9_ALGORITHM",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ANSI_X942_ALGORITHM",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VERISIGN",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PKIX",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MICROSOFT_OID",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ANSI_X9_62",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ANSI_X9_63",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CERTICOM_ELL_CURVE",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "oid_d_hash",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secoidDynamicTableSize",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secoidLastDynamicEntry",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secoidLastHashEntry",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secoidDynamicTableSize",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secoidLastDynamicEntry",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "secoidLastHashEntry",
+    "source": "libsecurity_smime/lib/secoid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INVALID_CERT_EXTENSION",
+    "source": "libsecurity_smime/lib/secoidt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UNSUPPORTED_CERT_EXTENSION",
+    "source": "libsecurity_smime/lib/secoidt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SUPPORTED_CERT_EXTENSION",
+    "source": "libsecurity_smime/lib/secoidt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECSMIME_H_",
+    "source": "libsecurity_smime/lib/SecSMIME.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SECURITY_SECSMIMEPRIV_H_",
+    "source": "libsecurity_smime/lib/SecSMIMEPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CIPHER_FAMILYID_MASK",
+    "source": "libsecurity_smime/lib/SecSMIMEPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CIPHER_FAMILYID_SMIME",
+    "source": "libsecurity_smime/lib/SecSMIMEPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rcount",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pklen_bits",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mapi",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "keysize",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "keysize",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "keysize",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "keysize",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC0",
+    "name": "keysize",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keysize",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "capIndex",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_smime/lib/smimeutil.c",
+    "type": "EnumCase"
+  }
+]

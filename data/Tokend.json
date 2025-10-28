@@ -1,0 +1,1820 @@
+[
+  {
+    "hex": "0x0",
+    "name": "headerLength",
+    "source": "Tokend/BELPIC/BELPICKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerLength",
+    "source": "Tokend/BELPIC/BELPICKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA0",
+    "name": "BELPIC_MAXSIZE_CERT",
+    "source": "Tokend/BELPIC/BELPICRecord.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "realCertLength",
+    "source": "Tokend/BELPIC/BELPICRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/BELPIC/BELPICRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "INTER_COMMAND_DELAY",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OFF_CLA",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OFF_INS",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "OFF_P1",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "OFF_P2",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "OFF_LC",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "OFF_DATA",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CLA_STANDARD",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INS_SELECT_FILE",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INS_MANAGE_SECURITY_ENVIRONMENT",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "P1_SELECT_APPLET",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "P2_SELECT_APPLET",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "READ_BLOCK_SIZE",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnedDataLength",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPinStatus",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPinStatus",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "offset",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "offset",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "offset",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "flags",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "offset",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "Tokend/BELPIC/BELPICToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "BELPIC_MIN_PIN_LEN",
+    "source": "Tokend/BELPIC/BELPICToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "BELPIC_MAX_PIN_LEN",
+    "source": "Tokend/BELPIC/BELPICToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CAC_AUTHENTICATION_FAILED_0",
+    "source": "Tokend/CAC/CACError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CAC_AUTHENTICATION_FAILED_1",
+    "source": "Tokend/CAC/CACError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CAC_AUTHENTICATION_FAILED_2",
+    "source": "Tokend/CAC/CACError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CAC_AUTHENTICATION_FAILED_3",
+    "source": "Tokend/CAC/CACError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerLength",
+    "source": "Tokend/CAC/CACKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padSize",
+    "source": "Tokend/CAC/CACKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CLA_STANDARD",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_INS_GET_DATA",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_CONT_APDU",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_RESPONSE_TAG",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_CERTIFICATE",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_CERTINFO",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_MSCUID",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_ERRORDETECTION",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_COMPRESSION_MASK",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "certRef",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyRef",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MAX_READ",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "offset",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "CHUNK_SIZE",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "algRef",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "algRef",
+    "source": "Tokend/CACNG/CACNGApplet.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CACNG_AUTHENTICATION_FAILED_0",
+    "source": "Tokend/CACNG/CACNGError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CACNG_AUTHENTICATION_FAILED_1",
+    "source": "Tokend/CACNG/CACNGError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CACNG_AUTHENTICATION_FAILED_2",
+    "source": "Tokend/CACNG/CACNGError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CACNG_AUTHENTICATION_FAILED_3",
+    "source": "Tokend/CACNG/CACNGError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "slot",
+    "source": "Tokend/CACNG/CACNGRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CLA_STANDARD",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CLA_STANDARD",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INS_SELECT_FILE",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INS_GET_DATA",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_PIV_APPLET_VERS",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_PIV_AUTHENTICATION",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYREF_PIV_AUTHENTICATION",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPivPinStatus",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "expectedLength",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mCacPinStatus",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPivPinStatus",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mCacPinStatus",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPivPinStatus",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "score",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SIZE_INDEX",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "expectedLength",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "BUFFER_SIZE",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "BASE_CHUNK_LENGTH",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Tokend/CACNG/CACNGToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "CHUNK_SIZE",
+    "source": "Tokend/CACNG/CompressionTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerLength",
+    "source": "Tokend/CACNG/Padding.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "Tokend/CACNG/Padding.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Tokend/CACNG/TLV.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retValue",
+    "source": "Tokend/CACNG/TLV.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "Tokend/CACNG/TLVTemplates.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addParamsSize",
+    "source": "Tokend/MuscleCard/Msc/MscKey.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addParamsSize",
+    "source": "Tokend/MuscleCard/Msc/MscKey.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "Tokend/MuscleCard/Msc/MscObject.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jx",
+    "source": "Tokend/MuscleCard/Msc/MscWrappers.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jx",
+    "source": "Tokend/MuscleCard/Msc/MscWrappers.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerLength",
+    "source": "Tokend/MuscleCard/MuscleCardKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padSize",
+    "source": "Tokend/MuscleCard/MuscleCardKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "Tokend/MuscleCard/MuscleCardKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "Tokend/MuscleCard/MuscleCardKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "Tokend/MuscleCard/MuscleCardToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CKO_CAC_PRIVATE_KEY",
+    "source": "Tokend/MuscleCard/MuscleCardToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerLength",
+    "source": "Tokend/PIV/Padding.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "Tokend/PIV/Padding.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CLA_STANDARD",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CLA_CHAIN",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_INS_SELECT_FILE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_INS_VERIFY_APDU",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_INS_CHANGE_REFERENCE_DATA",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_INS_GET_DATA",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_INS_GENERAL_AUTHENTICATE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TBD_ZERO",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TBD_FF",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_EXPLICIT",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_CHILDDF",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_CHILDEF",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_PARENTDF",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARD_CAPABILITY_CONTAINER",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARDHOLDER_UNIQUEID",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARDHOLDER_FINGERPRINTS",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_PRINTED_INFORMATION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARDHOLDER_FACIAL_IMAGE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_PIV_AUTHENTICATION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_DIGITAL_SIGNATURE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_KEY_MANAGEMENT",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_CARD_AUTHENTICATION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "PIV_VERIFY_APDU_INDEX_KEY",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PIV_VERIFY_APDU_INDEX_LEN",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PIV_VERIFY_APDU_INDEX_DATA",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_VERIFY_KEY_NUMBER_DEFAULT",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_VERIFY_KEY_NUMBER_MAX",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PIV_VERIFY_PIN_LENGTH_MIN",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "PIV_VERIFY_PIN_LENGTH_MAX",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PIV_GETDATA_APDU_INDEX_LEN",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "PIV_GETDATA_APDU_INDEX_OIDLEN",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "PIV_GETDATA_APDU_INDEX_OID",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_CONT_APDU_TEMPLATE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PIV_GETDATA_CONT_APDU_INDEX_LEN",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_RESPONSE_TAG",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_CERTIFICATE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_CERTINFO",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_MSCUID",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_TAG_ERRORDETECTION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_GETDATA_COMPRESSION_MASK",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_CARD_IDENTIFIER",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_CARD_CONTAINER_VERS",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_CARD_GRAMMAR_VERS",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_APPS_URL",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_IS_PKCS15",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_DATA_MODEL_NUMBER",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_ACL_RULE_TABLE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_CARD_APDUS",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_REDIRECTION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_CAPABILITY_TUPLES",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_STATUS_TUPLES",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_NEXT_CCC",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_EXTENDED_APP_URL",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_SEC_OBJECT_BUFFER",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_CCC_TAG_ERROR_DETECTION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "PIV_CCC_SZ_CARD_IDENTIFIER",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYREF_PIV_AUTHENTICATION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYREF_PIV_CARD_MANAGEMENT",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYREF_PIV_DIGITAL_SIGNATURE",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYREF_PIV_KEY_MANAGEMENT",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYREF_PIV_CARD_AUTHENTICATION",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYALG_RSA_1024",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_KEYALG_RSA_2048",
+    "source": "Tokend/PIV/PIVDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_AUTHENTICATION_FAILED_0",
+    "source": "Tokend/PIV/PIVError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_AUTHENTICATION_FAILED_1",
+    "source": "Tokend/PIV/PIVError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_AUTHENTICATION_FAILED_2",
+    "source": "Tokend/PIV/PIVError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_AUTHENTICATION_FAILED_3",
+    "source": "Tokend/PIV/PIVError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Tokend/PIV/PIVKeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "MAX_BUFFERS",
+    "source": "Tokend/PIV/PIVKeyHandle.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/PIV/PIVRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slot",
+    "source": "Tokend/PIV/PIVRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_RESULT_SUCCESS_SW1",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPinStatus",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPinStatus",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6E",
+    "name": "score",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keySize",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "certRef",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyRef",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataFieldLen",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "dataFieldLen",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SIZE_INDEX",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "expectedLength",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF2",
+    "name": "BASE_CHUNK_LENGTH",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataFieldLen",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "windowSize",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "BUFFER_SIZE",
+    "source": "Tokend/PIV/PIVToken.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_USECERTIFICATECOMMONNAME",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CLA_STANDARD",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INS_SELECT_FILE",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INS_VERIFY_APDU",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INS_CHANGE_REFERENCE_DATA",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TBD_ZERO",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TBD_FF",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_EXPLICIT",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_CHILDDF",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_CHILDEF",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_P1_PARENTDF",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_PIV_APPLET_VERS",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARD_CAPABILITY_CONTAINER",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARDHOLDER_UNIQUEID",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARDHOLDER_FINGERPRINTS",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_PRINTED_INFORMATION",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_CARDHOLDER_FACIAL_IMAGE",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_PIV_AUTHENTICATION",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_DIGITAL_SIGNATURE",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_KEY_MANAGEMENT",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PIV_OBJECT_ID_X509_CERTIFICATE_CARD_AUTHENTICATION",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCompressionNone",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCompressionZlib",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCompressionGzip",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kCompressionUnknown",
+    "source": "Tokend/PIV/PIVToken.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Tokend/PIV/TLV.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retValue",
+    "source": "Tokend/PIV/TLV.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mCount",
+    "source": "Tokend/Tokend/Attribute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/Tokend/Attribute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/Tokend/Attribute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mCount",
+    "source": "Tokend/Tokend/Attribute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "anIndex",
+    "source": "Tokend/Tokend/Cursor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Tokend/Tokend/DbValue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "Tokend/Tokend/DbValue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Tokend/Tokend/DbValue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "Tokend/Tokend/DbValue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kTimeDateSize",
+    "source": "Tokend/Tokend/DbValue.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSignBit",
+    "source": "Tokend/Tokend/DbValue.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "Tokend/Tokend/KeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "Tokend/Tokend/KeyHandle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "Tokend/Tokend/KeyHandle.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "Tokend/Tokend/MetaAttribute.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "Tokend/Tokend/MetaAttribute.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/Tokend/MetaAttribute.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SemanticInformation",
+    "source": "Tokend/Tokend/MetaRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "Tokend/Tokend/MetaRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyhandle",
+    "source": "Tokend/Tokend/MetaRecord.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesRead",
+    "source": "Tokend/Tokend/PKCS11Object.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SUCCESS",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_BYTES_LEFT_IN_SW2",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_EXECUTION_WARNING",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_RETURNED_DATA_CORRUPTED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_END_OF_FILE_REACHED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_FILE_INVALIDATED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_FCI_INVALID",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_FILE_FILLED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_0",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_1",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_2",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_3",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_4",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_5",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_6",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_7",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_8",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_9",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_10",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_11",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_12",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_13",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_14",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_FAILED_15",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_EXECUTION_ERROR",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CHANGED_ERROR",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_MEMORY_FAILURE",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_LENGTH_INCORRECT",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CLA_UNSUPPORTED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_LOGICAL_CHANNEL_UNSUPPORTED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SECURE_MESSAGING_UNSUPPORTED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_COMMAND_NOT_ALLOWED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_COMMAND_INCOMPATIBLE",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_NOT_AUTHORIZED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_AUTHENTICATION_BLOCKED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_REFERENCED_DATA_INVALIDATED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_USE_CONDITIONS_NOT_MET",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_NO_CURRENT_EF",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SM_DATA_OBJECTS_MISSING",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SM_DATA_NOT_ALLOWED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_WRONG_PARAMETER",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_DATA_INCORRECT",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_FUNCTION_NOT_SUPPORTED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_FILE_NOT_FOUND",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_RECORD_NOT_FOUND",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_NO_MEMORY_LEFT",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_LC_INCONSISTENT_TLV",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_INCORRECT_P1_P2",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_LC_INCONSISTENT_P1_P2",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_REFERENCED_DATA_NOT_FOUND",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_WRONG_PARAMETER_P1_P2",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_LE_IN_SW2",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_INSTRUCTION_CODE_INVALID",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_INSTRUCTION_CLASS_UNSUPPORTED",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_UNSPECIFIED_ERROR",
+    "source": "Tokend/Tokend/SCardError.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "REGISTER_SCHEMA_RELATIONS",
+    "source": "Tokend/Tokend/Schema.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "record",
+    "source": "Tokend/Tokend/Token.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyhandle",
+    "source": "Tokend/Tokend/Token.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "record",
+    "source": "Tokend/Tokend/Token.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyhandle",
+    "source": "Tokend/Tokend/Token.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "Tokend/Tokend/Token.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputLength",
+    "source": "Tokend/Tokend/Token.h",
+    "type": "EnumCase"
+  }
+]

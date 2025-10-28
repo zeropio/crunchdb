@@ -1,0 +1,4754 @@
+[
+  {
+    "hex": "0x1",
+    "name": "GREP",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ATEXIT",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_BTOWC",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_STRERROR_R",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_STRTOUL",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_STRTOULL",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DIRENT_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DONE_WORKING_MALLOC_CHECK",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DONE_WORKING_REALLOC_CHECK",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FEOF_UNLOCKED",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FNMATCH",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETCWD",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETEGID",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETEUID",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETGID",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETPAGESIZE",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETUID",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ICONV",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISASCII",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LANGINFO_CODESET",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LC_MESSAGES",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIBPCRE",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIMITS_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LOCALE_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MBRTOWC",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMCHR",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMMOVE",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MMAP",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MUNMAP",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_NL_TYPES_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PUTENV",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETENV",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETLOCALE",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETMODE",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDDEF_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STPCPY",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCASECMP",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCHR",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRDUP",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRERROR",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRERROR_R",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRTOUL",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRTOUMAX",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_PARAM_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TSEARCH",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNSIGNED_LONG_LONG",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VPRINTF",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCHAR_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCTYPE",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCTYPE_H",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PROTOTYPES",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "grep/grep/config.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "grep/grep/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "modified",
+    "source": "grep/grep/intl/bindtextdom.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "modified",
+    "source": "grep/grep/intl/bindtextdom.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "modified",
+    "source": "grep/grep/intl/bindtextdom.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codeset_cntr",
+    "source": "grep/grep/intl/bindtextdom.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "modified",
+    "source": "grep/grep/intl/bindtextdom.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "PATH_INCR",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "enable_secure",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bottom",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "malloc_count",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "malloc_count",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freemem_size",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "grep/grep/intl/dcigettext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "grep/grep/intl/explodename.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "grep/grep/intl/finddomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "grep/grep/intl/finddomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GETTEXT_H",
+    "source": "grep/grep/intl/gmo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_MAGIC",
+    "source": "grep/grep/intl/gmo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_MAGIC_SWAPPED",
+    "source": "grep/grep/intl/gmo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MO_REVISION_NUMBER",
+    "source": "grep/grep/intl/gmo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "HASHWORDBITS",
+    "source": "grep/grep/intl/hash-string.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hval",
+    "source": "grep/grep/intl/hash-string.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "grep/grep/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entries",
+    "source": "grep/grep/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "grep/grep/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "only_digit",
+    "source": "grep/grep/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "grep/grep/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "only_digit",
+    "source": "grep/grep/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "grep/grep/intl/l10nflist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_LIBINTL_H",
+    "source": "grep/grep/intl/libgnuintl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__USE_GNU_GETTEXT",
+    "source": "grep/grep/intl/libgnuintl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_LOADINFO_H",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CEN_REVISION",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CEN_SPONSOR",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CEN_SPECIAL",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "XPG_NORM_CODESET",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "XPG_CODESET",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "TERRITORY",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "CEN_AUDIENCE",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "XPG_MODIFIER",
+    "source": "grep/grep/intl/loadinfo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_mmap",
+    "source": "grep/grep/intl/loadmsgcat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "decided",
+    "source": "grep/grep/intl/loadmsgcat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_mmap",
+    "source": "grep/grep/intl/loadmsgcat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res_size",
+    "source": "grep/grep/intl/localcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res_size",
+    "source": "grep/grep/intl/localcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "added",
+    "source": "grep/grep/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "added",
+    "source": "grep/grep/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/intl/localealias.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x104",
+    "name": "LOCALEDIR_MAX",
+    "source": "grep/grep/intl/os2compat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCASECMP",
+    "source": "grep/grep/intl/os2compat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nargs",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nargs",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nargs",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nargs",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nargs",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nargs",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "npluralsp",
+    "source": "grep/grep/intl/plural-exp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYBISON",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x101",
+    "name": "EQUOP2",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "CMPOP2",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x103",
+    "name": "ADDOP2",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x104",
+    "name": "MULOP2",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x105",
+    "name": "NUMBER",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "YYFINAL",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFF8000",
+    "name": "YYFLAG",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "YYNTBASE",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x35",
+    "name": "YYLAST",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYPURE",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyerrstatus",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "YYEMPTY",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YYEOF",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYTERROR",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "YYERRCODE",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "YYINITDEPTH",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2710",
+    "name": "YYMAXDEPTH",
+    "source": "grep/grep/intl/plural.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yychar1",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyfree_stacks",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yystate",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyerrstatus",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yynerrs",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yyfree_stacks",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yychar1",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "text",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "yyerrstatus",
+    "source": "grep/grep/intl/plural.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "grep/grep/lib/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stack_dir",
+    "source": "grep/grep/lib/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "grep/grep/lib/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stkl",
+    "source": "grep/grep/lib/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "grep/grep/lib/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ERROR_H",
+    "source": "grep/grep/lib/error.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "exclude_count",
+    "source": "grep/grep/lib/exclude.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "exclude_alloc",
+    "source": "grep/grep/lib/exclude.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/exclude.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "buf_alloc",
+    "source": "grep/grep/lib/exclude.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_count",
+    "source": "grep/grep/lib/exclude.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "e",
+    "source": "grep/grep/lib/exclude.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_FNMATCH_H",
+    "source": "grep/grep/lib/fnmatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FNM_NOMATCH",
+    "source": "grep/grep/lib/fnmatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opterr",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_max_len",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_len",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__getopt_initialized",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indfound",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "grep/grep/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "grep/grep/lib/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "grep/grep/lib/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "grep/grep/lib/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "grep/grep/lib/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hard",
+    "source": "grep/grep/lib/hard-locale.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hard",
+    "source": "grep/grep/lib/hard-locale.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hard",
+    "source": "grep/grep/lib/hard-locale.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7FFFFFFF",
+    "name": "LONG_MAX_32_BITS",
+    "source": "grep/grep/lib/memchr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "magic_bits",
+    "source": "grep/grep/lib/memchr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "OBSTACK_INTERFACE_VERSION",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EXIT_FAILURE",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "size",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_extra_arg",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maybe_empty_object",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc_failed",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "size",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_extra_arg",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maybe_empty_object",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc_failed",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "already",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maybe_empty_object",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maybe_empty_object",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maybe_empty_object",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes",
+    "source": "grep/grep/lib/obstack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_OBSTACK_H",
+    "source": "grep/grep/lib/obstack.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "__GNUC__",
+    "source": "grep/grep/lib/obstack.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maybe_empty_object",
+    "source": "grep/grep/lib/obstack.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maybe_empty_object",
+    "source": "grep/grep/lib/obstack.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_REGEX_H",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RE_SYNTAX_EMACS",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "REG_EXTENDED",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "REG_NOTBOL",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_NOERROR",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "REGS_UNALLOCATED",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "REGS_REALLOCATE",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "REGS_FIXED",
+    "source": "grep/grep/lib/posix/regex.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quote_string",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quote_string_len",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash_escapes",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backslash_escapes",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quote_string_len",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backslash_escapes",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backslash_escapes",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quote_string_len",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printable",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printable",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printable",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printable",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nslots",
+    "source": "grep/grep/lib/quotearg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "BYTEWIDTH",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "false",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "true",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_op",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "was_a_range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "was_a_range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "was_a_range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wc_count",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mb_count",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "consumed",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debug",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_NOERROR_IDX",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFA0",
+    "name": "re_max_failures",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "re_max_failures",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA0",
+    "name": "re_max_failures",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "re_max_failures",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "NUM_REG_ITEMS",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "integer",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set_regs_matched_done",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "MATCH_NULL_UNSET_VALUE",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "set_regs_matched_done",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wchar_count",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAX_REGNUM",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "INIT_COMPILE_STACK_SIZE",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_exact",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixup_alt_jump",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regnum",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug_count",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fastmap_accurate",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "not_eol",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "re_nsub",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zero_times_ok",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_exact",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range_start",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range_start",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range_start",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range_start",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "datasize",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range_start",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range_start",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ch",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixup_alt_jump",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_exact",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_exact",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_exact",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nbytes",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_exact",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "this_char",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fastmap_accurate",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "can_be_null",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "can_be_null",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "can_be_null",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "can_be_null",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_regs",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RANGE",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "range",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lim",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wcs_size",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "just_past_start_mem",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfailure_points_pushed",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set_regs_matched_done",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_regs_pushed",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mcnt",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "string1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size1",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mcnt",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mcnt",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mcnt",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "WORK_BUFFER_SIZE",
+    "source": "grep/grep/lib/regex.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx2",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set_regs_matched_done",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set_regs_matched_done",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mcnt",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_sub",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline_anchor",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "allocated",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline_anchor",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline_anchor",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newline_anchor",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fastmap_accurate",
+    "source": "grep/grep/lib/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "name_size",
+    "source": "grep/grep/lib/savedir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pathlen",
+    "source": "grep/grep/lib/savedir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "negative",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "negative",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "negative",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "base",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "base",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "overflow",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "overflow",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "overflow",
+    "source": "grep/grep/lib/strtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UNSIGNED",
+    "source": "grep/grep/lib/strtoul.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "QUAD",
+    "source": "grep/grep/lib/strtoull.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "grep/grep/lib/xstrtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "base",
+    "source": "grep/grep/lib/xstrtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suffixes",
+    "source": "grep/grep/lib/xstrtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "base",
+    "source": "grep/grep/lib/xstrtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "overflow",
+    "source": "grep/grep/lib/xstrtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "grep/grep/lib/xstrtol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filename",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_name",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "bufsize",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "convert_varargs",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "convert_varargs",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "contin",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "contin",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "num_breaks",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vararg",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "level",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vararg",
+    "source": "grep/grep/src/ansi2knr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "syntax_bits_set",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_mb_index",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cur_mb_index",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "cur_mb_index",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cur_mb_index",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cur_mb_len",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cur_mb_len",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chars_al",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "range_ends_al",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "coll_elems_al",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nch_classes",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ncoll_elems",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "invert",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invert",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "BRACKET_BUFFER_SIZE",
+    "source": "grep/grep/src/dfa.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chars_used",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slen",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "chars_used",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslash",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backslash",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minrep",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "minrep",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "maxrep",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c2",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "invert",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invert",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c2",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "laststart",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parens",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_mb_index",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_mb_len",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backref",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "constraint",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first_end",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backref",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wants_newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wants_newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "salloc",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sindex",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ngrps",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_isnt_1st_byte",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initialized",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intersectf",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "intersectf",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matchesf",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "leftoversf",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matchesf",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nelem",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wants_newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wants_letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wants_newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wants_letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_isnt_1st_byte",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "next_isnt_1st_byte",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wants_newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wants_newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wants_letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wants_letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trcount",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tralloc",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trcount",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "works",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "works",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "letter",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxlen",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sbit_init",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remain_bytes",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remain_bytes",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "calloc",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cindex",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "talloc",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nregexps",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nmultibyte_prop",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nmbcsets",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mbcsets_alloc",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searchflag",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tralloc",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "musts",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "case_fold",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nregexps",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "case_fold",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldsize",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lnum",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rnum",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ri",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "shiftwidth",
+    "source": "grep/grep/src/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "CHARBITS",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_CONSTRAINT",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BEGLINE_CONSTRAINT",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENDLINE_CONSTRAINT",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BEGWORD_CONSTRAINT",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENDWORD_CONSTRAINT",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LIMWORD_CONSTRAINT",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NOTLIMWORD_CONSTRAINT",
+    "source": "grep/grep/src/dfa.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_report_unix_offset",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_stripped_crs",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_pos_map_size",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_pos_map_used",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inp_map_idx",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crlf_seen",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "crlf_seen",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chars_left",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inp_map_idx",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "out_map_idx",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_pos_map_used",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dos_stripped_crs",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "add",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "add",
+    "source": "grep/grep/src/dosbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errseen",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "INITIAL_BUFSIZE",
+    "source": "grep/grep/src/grep.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufoffset",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufmapped",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fillsize",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cc",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufmapped",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newlines",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outleft",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nlines",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalcc",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastout",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalnl",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "after_last_match",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nlines",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "residue",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastout",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "desc",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keycc",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "with_filenames",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "default_context",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "only_matching",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "with_filenames",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dos_report_unix_offset",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "show_version",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "out_byte",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count_matches",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "keyalloc",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_filenames",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match_icase",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "list_files",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "out_line",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "only_matching",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exit_on_match",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suppress_errors",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "out_invert",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match_words",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match_lines",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filename_mask",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "color_option",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "color_option",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "color_option",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "show_help",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "color_option",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "color_option",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "color_option",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "line_buffered",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "list_files",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count_matches",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done_on_match",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_words",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mbclen",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "out_file",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "shiftwidth",
+    "source": "grep/grep/src/grep.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "words",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accepting",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "links",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parent",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fail",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "depth",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shift",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "depth",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "llink",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlink",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accepting",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "links",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fail",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shift",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "balance",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "balance",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "balance",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "balance",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "balance",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "accepting",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mch",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qlim",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lmch",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "grep/grep/src/kwset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "using_utf8",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_left",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_left",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "not_eol",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "not_eol",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "not_eol",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "allocated",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "wclen",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f_i_multibyte",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "patterns_left",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patterns_left",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "c",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "patterns_left",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "word_match",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "word_match",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "word_match",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "word_match",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mlen",
+    "source": "grep/grep/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optout",
+    "source": "grep/grep/src/vms_fab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "grep/grep/vms/config_vms.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "grep/grep/vms/config_vms.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "grep/grep/vms/config_vms.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DIRENT_H",
+    "source": "grep/grep/vms/config_vms.h",
+    "type": "PreprocessorConstant"
+  }
+]

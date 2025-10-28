@@ -1,0 +1,3308 @@
+[
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/ccl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/ccl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_associated_rules",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashval",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nstate",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stkpos",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stkpos",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "todo_next",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "power_of_two",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dfaacc_state",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numstates",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "targptr",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totaltrans",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sym",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "comfreq",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "comstate",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "didsort",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "didsort",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dfaacc_state",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numstates",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "xelf/flex/dfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/ecs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newlen",
+    "source": "xelf/flex/ecs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccls",
+    "source": "xelf/flex/ecs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numcl",
+    "source": "xelf/flex/ecs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/ecs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cclp",
+    "source": "xelf/flex/ecs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MS_DOS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__STDC__",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "CSIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "DEFAULT_CSIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x800",
+    "name": "MAXLINE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "true",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "false",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "unspecified",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "EOB_POSITION",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "ACTION_POSITION",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "NUMDATAITEMS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "NUMDATALINES",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "TRANS_STRUCT_PRINT_LENGTH",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2EE",
+    "name": "INITIAL_MAX_DFA_SIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2EE",
+    "name": "MAX_DFA_SIZE_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_TRAILING_MASK",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_TRAILING_HEAD_MASK",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NIL",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "JAM",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "UNIQUE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "INFINITY",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "INITIAL_MAX_CCLS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_CCLS_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "INITIAL_MAX_CCL_TBL_SIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFA",
+    "name": "MAX_CCL_TBL_SIZE_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "INITIAL_MAX_RULES",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_RULES_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "INITIAL_MNS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MNS_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "INITIAL_MAX_DFAS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MAX_DFAS_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFF8002",
+    "name": "JAMSTATE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7CFF",
+    "name": "MAXIMUM_MNS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "INITIAL_MAX_XPAIRS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "MAX_XPAIRS_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C4",
+    "name": "INITIAL_MAX_TEMPLATE_XPAIRS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C4",
+    "name": "MAX_TEMPLATE_XPAIRS_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "INITIAL_MAX_SCS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "MAX_SCS_INCREMENT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "ONE_STACK_SIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SAME_TRANS",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "PROTO_SIZE_PERCENTAGE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "CHECK_COM_PERCENTAGE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FIRST_MATCH_DIFF_PERCENTAGE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "ACCEPTABLE_DIFF_PERCENTAGE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "TEMPLATE_SAME_PERCENTAGE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "NEW_PROTO_DIFF_PERCENTAGE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "INTERIOR_FIT_PERCENTAGE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "PROT_SAVE_SIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "MSP",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MAX_XTIONS_FULL_INTERIOR_FIT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_ASSOC_RULES",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFF8001",
+    "name": "BAD_SUBSCRIPT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7FBC",
+    "name": "MAX_SHORT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "NAME_TABLE_HASH_SIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "START_COND_HASH_SIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "CCL_HASH_SIZE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STATE_NORMAL",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STATE_TRAILING_CONTEXT",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RULE_NORMAL",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "RULE_VARIABLE",
+    "source": "xelf/flex/flexdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_out",
+    "source": "xelf/flex/FlexLexer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_in",
+    "source": "xelf/flex/FlexLexer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_out",
+    "source": "xelf/flex/FlexLexer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg_yyin",
+    "source": "xelf/flex/FlexLexer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent_level",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_looking_for_trail_begin",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nummt",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "k",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_offset",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_flex_debug",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_looking_for_trail_begin",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_TRAILING_MASK",
+    "source": "xelf/flex/gen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_TRAILING_HEAD_MASK",
+    "source": "xelf/flex/gen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_offset",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_prev_more_offset",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_flag",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_len",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "xelf/flex/gen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_more_flag",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "xelf/flex/gen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YYLMAX",
+    "source": "xelf/flex/gen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_len",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_flag",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyl",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/gen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_FLEX_MAJOR_VERSION",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "YY_FLEX_MINOR_VERSION",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_OF_BUFFER_CHAR",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "YY_BUF_SIZE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOB_ACT_CONTINUE_SCAN",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOB_ACT_END_OF_FILE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOB_ACT_LAST_MATCH",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_BUFFER_NEW",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_BUFFER_NORMAL",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_BUFFER_EOF_PENDING",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_current_buffer",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_init",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA6",
+    "name": "YY_NUM_RULES",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA7",
+    "name": "YY_END_OF_BUFFER",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INITIAL",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_STACK_USED",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_TOP_STATE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECT2",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SECT2PROLOG",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECT3",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CODEBLOCK",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PICKUPDEF",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "SC",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "CARETISBOL",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NUM",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "QUOTE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FIRSTCCL",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "CCL",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "ACTION",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "RECOVER",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "COMMENT",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "ACTION_STRING",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PERCENT_BRACE_ACTION",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "OPTION",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "LINEDIR",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_ptr",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_depth",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_PUSH_STATE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_POP_STATE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_TOP_STATE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "YY_START_STACK_INCR",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_init",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sectnum",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectnum",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bracelevel",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bracelevel",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "sectnum",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectnum",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_ch_buf",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_c",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_fill_buffer",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_interactive",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_our_buffer",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_input_file",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_fill_buffer",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_EXIT_FAILURE",
+    "source": "xelf/flex/initscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "linenum",
+    "source": "xelf/flex/initscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skel_ind",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4000",
+    "name": "_stklen",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outfile_created",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outfile_created",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "csize",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "tblsiz",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "performance_report",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "did_outfilename",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyclass",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "action_size",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "action_index",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "did_outfilename",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "csize",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastnfa",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "default_rule",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpuses",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totnst",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataline",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numprots",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sectnum",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lastprot",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yylineno",
+    "source": "xelf/flex/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "xelf/flex/MISC/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "xelf/flex/MISC/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "xelf/flex/MISC/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "stack_dir",
+    "source": "xelf/flex/MISC/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "xelf/flex/MISC/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stkl",
+    "source": "xelf/flex/MISC/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "xelf/flex/MISC/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "xelf/flex/MISC/Amiga/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "xelf/flex/MISC/Amiga/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "xelf/flex/MISC/Amiga/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "xelf/flex/MISC/Borland/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MALLOC_H",
+    "source": "xelf/flex/MISC/Borland/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "xelf/flex/MISC/Borland/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "xelf/flex/MISC/Borland/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "xelf/flex/MISC/fastwc/mywc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "xelf/flex/MISC/Macintosh/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "xelf/flex/MISC/Macintosh/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STACK_DIRECTION",
+    "source": "xelf/flex/MISC/Macintosh/alloca.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "stack_dir",
+    "source": "xelf/flex/MISC/Macintosh/alloca.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_TOK",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_OF_BUFFER_CHAR",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INITIAL",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECT2",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SECT2PROLOG",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECT3",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CODEBLOCK",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PICKUPDEF",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "SC",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "CARETISBOL",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NUM",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "QUOTE",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FIRSTCCL",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "CCL",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "ACTION",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "RECOVER",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "BRACEERROR",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "C_COMMENT",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "ACTION_COMMENT",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "ACTION_STRING",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "PERCENT_BRACE_ACTION",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "USED_LIST",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "CODEBLOCK_2",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "XLATION",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOB_ACT_CONTINUE_SCAN",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOB_ACT_END_OF_FILE",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOB_ACT_LAST_MATCH",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOF_NOT_SEEN",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOF_PENDING",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOF_DONE",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x79",
+    "name": "YY_END_OF_BUFFER",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_init",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_init",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sectnum",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nuxlatns",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bracelevel",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bracelevel",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "sectnum",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_c",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_n_chars",
+    "source": "xelf/flex/MISC/MVS/initscan-mvs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "xelf/flex/MISC/NT/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MALLOC_H",
+    "source": "xelf/flex/MISC/NT/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "xelf/flex/MISC/NT/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "xelf/flex/MISC/NT/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_ALLOCA_H",
+    "source": "xelf/flex/MISC/NT/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SHORT_FILE_NAMES",
+    "source": "xelf/flex/MISC/NT/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "xelf/flex/MISC/OS2/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MALLOC_H",
+    "source": "xelf/flex/MISC/OS2/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "xelf/flex/MISC/OS2/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "xelf/flex/MISC/OS2/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYBYACC",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYMAJOR",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "YYMINOR",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyerrflag",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x101",
+    "name": "CHAR",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "NUMBER",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x103",
+    "name": "SECTEND",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x104",
+    "name": "SCDECL",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x105",
+    "name": "XSCDECL",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x106",
+    "name": "NAME",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x107",
+    "name": "PREVCCL",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x108",
+    "name": "EOF_OP",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x109",
+    "name": "OPTION_OP",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10A",
+    "name": "OPT_OUTFILE",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10B",
+    "name": "OPT_PREFIX",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10C",
+    "name": "OPT_YYCLASS",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10D",
+    "name": "CCE_ALNUM",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E",
+    "name": "CCE_ALPHA",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10F",
+    "name": "CCE_BLANK",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x110",
+    "name": "CCE_CNTRL",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x111",
+    "name": "CCE_DIGIT",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x112",
+    "name": "CCE_GRAPH",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x113",
+    "name": "CCE_LOWER",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x114",
+    "name": "CCE_PRINT",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x115",
+    "name": "CCE_PUNCT",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x116",
+    "name": "CCE_SPACE",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x117",
+    "name": "CCE_UPPER",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x118",
+    "name": "CCE_XDIGIT",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "YYERRCODE",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x146",
+    "name": "YYTABLESIZE",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYFINAL",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YYDEBUG",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x118",
+    "name": "YYMAXTOKEN",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "YYSTACKSIZE",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "YYMAXDEPTH",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yynerrs",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyerrflag",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yystate",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yychar",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yys",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "yyerrflag",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yys",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scon_stk_ptr",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "did_outfilename",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rulelen",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headcnt",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headcnt",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "trailcnt",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rulelen",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rulelen",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastchar",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yychar",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yys",
+    "source": "xelf/flex/MISC/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x101",
+    "name": "CHAR",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "NUMBER",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x103",
+    "name": "SECTEND",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x104",
+    "name": "SCDECL",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x105",
+    "name": "XSCDECL",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x106",
+    "name": "NAME",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x107",
+    "name": "PREVCCL",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x108",
+    "name": "EOF_OP",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x109",
+    "name": "OPTION_OP",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10A",
+    "name": "OPT_OUTFILE",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10B",
+    "name": "OPT_PREFIX",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10C",
+    "name": "OPT_YYCLASS",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10D",
+    "name": "CCE_ALNUM",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E",
+    "name": "CCE_ALPHA",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10F",
+    "name": "CCE_BLANK",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x110",
+    "name": "CCE_CNTRL",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x111",
+    "name": "CCE_DIGIT",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x112",
+    "name": "CCE_GRAPH",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x113",
+    "name": "CCE_LOWER",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x114",
+    "name": "CCE_PRINT",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x115",
+    "name": "CCE_PUNCT",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x116",
+    "name": "CCE_SPACE",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x117",
+    "name": "CCE_UPPER",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x118",
+    "name": "CCE_XDIGIT",
+    "source": "xelf/flex/MISC/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IN_FD",
+    "source": "xelf/flex/MISC/VMS/vms-code.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OUT_FD",
+    "source": "xelf/flex/MISC/VMS/vms-code.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ERR_FD",
+    "source": "xelf/flex/MISC/VMS/vms-code.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "oargc",
+    "source": "xelf/flex/MISC/VMS/vms-code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/MISC/VMS/vms-code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "punct",
+    "source": "xelf/flex/MISC/VMS/vms-code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "mbc",
+    "source": "xelf/flex/MISC/VMS/vms-code.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataline",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datapos",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataline",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datapos",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defs1_offset",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sptr",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sptr",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_copy",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_copy",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datapos",
+    "source": "xelf/flex/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/nfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns",
+    "source": "xelf/flex/nfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "xelf/flex/nfa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_FLEX_MAJOR_VERSION",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "YY_FLEX_MINOR_VERSION",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_OF_BUFFER_CHAR",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "YY_BUF_SIZE",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOB_ACT_CONTINUE_SCAN",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOB_ACT_END_OF_FILE",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOB_ACT_LAST_MATCH",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_BUFFER_NEW",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_BUFFER_NORMAL",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_BUFFER_EOF_PENDING",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_current_buffer",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_init",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_ptr",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_depth",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_PUSH_STATE",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_POP_STATE",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_TOP_STATE",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "YY_START_STACK_INCR",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_init",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_c_buf_p",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_init",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_flex_debug",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yylineno",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_looking_for_trail_begin",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_flag",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_more_len",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_prev_more_offset",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_depth",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_current_buffer",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_state_buf",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_ch_buf",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_fill_buffer",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_interactive",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_our_buffer",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_input_file",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_fill_buffer",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_EXIT_FAILURE",
+    "source": "xelf/flex/skel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "xelf/flex/skel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashval",
+    "source": "xelf/flex/sym.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "locstr",
+    "source": "xelf/flex/sym.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extptr",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "comstate",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "extptr",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totaltrans",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tblend",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numtemps",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "minec",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tsptr",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numdiff",
+    "source": "xelf/flex/tblcmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eofseen",
+    "source": "xelf/flex/yylex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sectnum",
+    "source": "xelf/flex/yylex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "toktype",
+    "source": "xelf/flex/yylex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "beglin",
+    "source": "xelf/flex/yylex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "beglin",
+    "source": "xelf/flex/yylex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "beglin",
+    "source": "xelf/flex/yylex.c",
+    "type": "EnumCase"
+  }
+]

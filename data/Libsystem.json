@@ -1,0 +1,338 @@
+[
+  {
+    "hex": "0x0",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_NOTIFY",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_ALLOC_ONCE_KEY_LIBXPC",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_C",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_INFO",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_NETWORK",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "OS_ALLOC_ONCE_KEY_LIBCACHE",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "OS_ALLOC_ONCE_KEY_LIBCOMMONCRYPTO",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "OS_ALLOC_ONCE_KEY_LIBDISPATCH",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "OS_ALLOC_ONCE_KEY_LIBDYLD",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "OS_ALLOC_ONCE_KEY_LIBKEYMGR",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "OS_ALLOC_ONCE_KEY_LIBLAUNCH",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "OS_ALLOC_ONCE_KEY_LIBMACHO",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "OS_ALLOC_ONCE_KEY_OS_TRACE",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_BLOCKS",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_MALLOC",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_PLATFORM",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_PTHREAD",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_STATS",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSECINIT",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_CORESERVICES",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_SYMPTOMS",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_PLATFORM_ASL",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "OS_ALLOC_ONCE_KEY_LIBSYSTEM_FEATUREFLAGS",
+    "source": "Libsystem/alloc_once_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SYSTEM_VERSION_COMPAT_ENABLED",
+    "source": "Libsystem/init.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SYSTEM_VERSION_COMPAT_ENABLED",
+    "source": "Libsystem/init.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INIT_SYSTEM",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INIT_KERNEL",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "INIT_PLATFORM",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "INIT_PTHREAD",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "INIT_LIBC",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "INIT_MALLOC",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "INIT_KEYMGR",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "INIT_DYLD",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "INIT_LIBDISPATCH",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "INIT_LIBXPC",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "INIT_LIBTRACE",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "INIT_SECINIT",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "INIT_CONTAINERMGR",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "INIT_DARWIN",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "INIT_SANITIZERS",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "version",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "version",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "version",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "version",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "version",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handle_segv",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "log_exe_name",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "print_module_map",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "detect_odr_violation",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "start_deactivated",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "halt_on_error",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "halt_on_error",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_bytes",
+    "source": "Libsystem/init.c",
+    "type": "EnumCase"
+  }
+]

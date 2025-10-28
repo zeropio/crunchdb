@@ -1,0 +1,326 @@
+[
+  {
+    "hex": "0x1",
+    "name": "_MDS_H_",
+    "source": "libsecurity_mds/lib/mds.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_mds/lib/MDSAttrParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5F1",
+    "name": "resFilePfx",
+    "source": "libsecurity_mds/lib/MDSAttrParser.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "foundAttrs",
+    "source": "libsecurity_mds/lib/MDSAttrParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "capDex",
+    "source": "libsecurity_mds/lib/MDSAttrParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrDex",
+    "source": "libsecurity_mds/lib/MDSAttrParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "policyDex",
+    "source": "libsecurity_mds/lib/MDSAttrParser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDS_ATTR_PARSER_H_",
+    "source": "libsecurity_mds/lib/MDSAttrParser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn",
+    "source": "libsecurity_mds/lib/MDSAttrStrings.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libsecurity_mds/lib/MDSAttrStrings.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDS_ATTR_STRINGS_H_",
+    "source": "libsecurity_mds/lib/MDSAttrStrings.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfValues",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpValue",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpValue",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iValueLen",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "iValueLen",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "iValueLen",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "iValueLen",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SemanticInformation",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenVal",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDS_ATTR_UTILS_H_",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "numValues",
+    "source": "libsecurity_mds/lib/MDSAttrUtils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDSDATABASE_H_",
+    "source": "libsecurity_mds/lib/MDSDatabase.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "srcLen",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ival",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numValues",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srcLen",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "itemLen",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numValues",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numAttrs",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_mds/lib/MDSDictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDS_DICTIONARY_H_",
+    "source": "libsecurity_mds/lib/MDSDictionary.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "libsecurity_mds/lib/MDSDictionary.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "libsecurity_mds/lib/MDSDictionary.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_FILE_DL_TABLES",
+    "source": "libsecurity_mds/lib/MDSModule.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDSMODULE_H_",
+    "source": "libsecurity_mds/lib/MDSModule.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x60617CFB",
+    "name": "kPrefsSuite",
+    "source": "libsecurity_mds/lib/MDSPrefs.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1214B958",
+    "name": "kPluginPathKey",
+    "source": "libsecurity_mds/lib/MDSPrefs.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_mds/lib/MDSPrefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A",
+    "name": "kSeparator",
+    "source": "libsecurity_mds/lib/MDSPrefs.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xCE8BA505",
+    "name": "kDefaultPluginPath",
+    "source": "libsecurity_mds/lib/MDSPrefs.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "kTempBufferSize",
+    "source": "libsecurity_mds/lib/MDSPrefs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDSPRIV_H_",
+    "source": "libsecurity_mds/lib/mdspriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEFINE_META_TABLES",
+    "source": "libsecurity_mds/lib/MDSSchema.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_mds/lib/MDSSchema.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_mds/lib/MDSSchema.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDSSESSION_H_",
+    "source": "libsecurity_mds/lib/MDSSession.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "MAX_GUID_LEN",
+    "source": "libsecurity_mds/lib/MDSSession.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "libsecurity_mds/lib/MDSSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MDS_SCHEMA_H_",
+    "source": "libsecurity_mds/lib/mds_schema.h",
+    "type": "PreprocessorConstant"
+  }
+]

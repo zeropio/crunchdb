@@ -1,0 +1,590 @@
+[
+  {
+    "hex": "0x1",
+    "name": "DEBUGGING",
+    "source": "cron/cron/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_time",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_enabled",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "difflimit",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otzminute",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otzhour",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otzdom",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otzmonth",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otzdow",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastrun",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "difflimit",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seconds_to_wait",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_time",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_enabled",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dst_enabled",
+    "source": "cron/cron/cron.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OK",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "READ_PIPE",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "WRITE_PIPE",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STDIN",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDOUT",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "STDERR",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ERROR_EXIT",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OK_EXIT",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_FNAME",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MAX_COMMAND",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MAX_ENVSTR",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_TEMPSTR",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_UNAME",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ROOT_UID",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEXT",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSCH",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DPROC",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DPARS",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DLOAD",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMISC",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DTEST",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBIT",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXHOSTNAMELEN",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIRST_MINUTE",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B",
+    "name": "LAST_MINUTE",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIRST_HOUR",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "LAST_HOUR",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FIRST_DOM",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "LAST_DOM",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FIRST_MONTH",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "LAST_MONTH",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIRST_DOW",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "LAST_DOW",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOM_STAR",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOW_STAR",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WHEN_REBOOT",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN_AT",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NOT_UNTIL",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NOT_BATTERY",
+    "source": "cron/cron/cron.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "st_mtime",
+    "source": "cron/cron/database.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_entries",
+    "source": "cron/cron/database.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mtime",
+    "source": "cron/cron/database.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "cron/cron/do_command.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bytes",
+    "source": "cron/cron/do_command.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "cron/cron/do_command.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "cron/cron/do_command.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "run",
+    "source": "cron/cron/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_ARGS",
+    "source": "cron/cron/popen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WANT_GLOBBING",
+    "source": "cron/cron/popen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "cron/cron/popen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "cron/cron/popen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "cron/cron/popen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "MD5_SIZE",
+    "source": "cron/crontab/crontab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NHEADER_LINES",
+    "source": "cron/crontab/crontab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "cron/crontab/crontab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "syntax_error",
+    "source": "cron/crontab/crontab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "syntax_error",
+    "source": "cron/crontab/crontab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CheckErrorCount",
+    "source": "cron/crontab/crontab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num3",
+    "source": "cron/lib/entry.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "cron/lib/entry.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "cron/lib/entry.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "cron/lib/env.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "cron/lib/env.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "cron/lib/env.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NAMEI",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NAME",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EQ1",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "EQ2",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "VALUEI",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "VALUE",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "FINI",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "ERROR",
+    "source": "cron/lib/env.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff",
+    "source": "cron/lib/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DebugFlags",
+    "source": "cron/lib/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "cron/lib/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "cron/lib/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "syslog_open",
+    "source": "cron/lib/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retsel",
+    "source": "cron/lib/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retsel",
+    "source": "cron/lib/misc.c",
+    "type": "EnumCase"
+  }
+]

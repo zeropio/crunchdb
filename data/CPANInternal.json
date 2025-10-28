@@ -1,0 +1,1730 @@
+[
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "CPANInternal/Authen-Krb5/krb5_constants.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "RIJNDAEL_BLOCKSIZE",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "RIJNDAEL_KEYSIZE",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MODE_ECB",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MODE_CBC",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MODE_CFB",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MODE_PCBC",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MODE_OFB",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "MODE_CTR",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "RIJNDAEL_MIN_KEYSIZE",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "RIJNDAEL_MAX_KEYSIZE",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/rijndael.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "nk",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "nr",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "nk",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "nr",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "nk",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "nr",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rcon",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "r",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "CPANInternal/Crypt-Rijndael-1.10/_rijndael.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "max",
+    "source": "CPANInternal/Data-UUID-1.219/ptable.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "items",
+    "source": "CPANInternal/Data-UUID-1.219/ptable.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "CPANInternal/Data-UUID-1.219/ptable.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "items",
+    "source": "CPANInternal/Data-UUID-1.219/ptable.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "UUIDS_PER_TICK",
+    "source": "CPANInternal/Data-UUID-1.219/UUID.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_BIN",
+    "source": "CPANInternal/Data-UUID-1.219/UUID.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "F_STR",
+    "source": "CPANInternal/Data-UUID-1.219/UUID.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "F_HEX",
+    "source": "CPANInternal/Data-UUID-1.219/UUID.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "F_B64",
+    "source": "CPANInternal/Data-UUID-1.219/UUID.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iHasUser",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iHasSystem",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iHasUser",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iHasSystem",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iHasUser",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iHasSystem",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iHasUser",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iHasSystem",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbuiltlen",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spos",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spos",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slen",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_linux.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sz",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saved_errno",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sz",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saved_errno",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saved_errno",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saved_errno",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saved_errno",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saved_errno",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/extattr_solaris.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/flags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "CPANInternal/File-ExtAttr-1.09/flags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "CPANInternal/File-ExtAttr-1.09/flags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "CPANInternal/File-ExtAttr-1.09/flags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SET_CREATEIFNEEDED",
+    "source": "CPANInternal/File-ExtAttr-1.09/flags.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replace",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_include",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numtype",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawinf",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawnan",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawinf",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawnan",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/File-ExtAttr-1.09/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "CPANInternal/Krb5-1.9/krb5_constants.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replace",
+    "source": "CPANInternal/Readonly-XS-1.05/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_include",
+    "source": "CPANInternal/Readonly-XS-1.05/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/Readonly-XS-1.05/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/Readonly-XS-1.05/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/Readonly-XS-1.05/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_include",
+    "source": "CPANInternal/Readonly-XS-1.05/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "version",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "VERSION",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replace",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patch_opened",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warnings",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cppc",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "patch_opened",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash_PeRlHaSh",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PERL_SIGNALS_UNSAFE_FLAG",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "numtype",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawinf",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawnan",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawinf",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawnan",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rEtV",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rEtV",
+    "source": "CPANInternal/Sub-Identify-0.04/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "version",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "VERSION",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replace",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patch_opened",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warnings",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cppc",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "patch_opened",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash_PeRlHaSh",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PERL_SIGNALS_UNSAFE_FLAG",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "numtype",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawinf",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawnan",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawinf",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawnan",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rEtV",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rEtV",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wrote",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chsize",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "readsize",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isuni",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chsize",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "chsize",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chsize",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chsize",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chsize",
+    "source": "CPANInternal/Template-Toolkit-2.25/xs/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "version",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replace",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patch_opened",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cppc",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "patch_opened",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numtype",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawinf",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sawnan",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawinf",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sawnan",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valuep",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value_nv",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "CPANInternal/Unix-Getrusage-0.03/ppport.h",
+    "type": "EnumCase"
+  }
+]

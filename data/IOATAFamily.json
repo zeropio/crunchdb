@@ -1,0 +1,2108 @@
+[
+  {
+    "hex": "0x200",
+    "name": "kIDBufferBytes",
+    "source": "IOATAFamily/ATADeviceNub.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "IOATAFamily/ATADeviceNub.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mySync",
+    "source": "IOATAFamily/ATADeviceNub.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "largeLBASize",
+    "source": "IOATAFamily/ATADeviceNub.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/ATADeviceNub.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "action",
+    "source": "IOATAFamily/ATATimerEventSource.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "action",
+    "source": "IOATAFamily/ATATimerEventSource.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "IOATAFamily/IOATABusCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "syncer",
+    "source": "IOATAFamily/IOATABusCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "syncer",
+    "source": "IOATAFamily/IOATABusCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PIOModes",
+    "source": "IOATAFamily/IOATABusInfo.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_MultiDMAModes",
+    "source": "IOATAFamily/IOATABusInfo.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_UltraDMAModes",
+    "source": "IOATAFamily/IOATABusInfo.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "_maxBlocksExtended",
+    "source": "IOATAFamily/IOATABusInfo.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_flags",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_timeoutMS",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_desc",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_position",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_byteCount",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_callback",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_result",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_actualByteCount",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_status",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_errReg",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataDataRegister",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataAltSDevCReg",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFFeatures",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFCount",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFSector",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFCylLo",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFCylHigh",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFSDH",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ataTFCommand",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "atapiPacketSize",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command",
+    "source": "IOATAFamily/IOATACommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kStatusDelayTime",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kStatusDelayLoopMS",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ATA_DEBUG",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_workLoop",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_cmdGate",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_provider",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_timer",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_currentCommand",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSize",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logicalBuffer",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "physicalBuffer",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdPtr",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_currentCommand",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_currentCommand",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BSY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BSY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "overrun",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "preReqCondition",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BSY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DRDY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "msLoops",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "breakDRQ",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BSY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "packetLength",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "packetLength",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BSY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readyOn",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RDY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfStatusCmdReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopCounter",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RDY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataCounter",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unitsFound",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "allowed",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "milsSpent",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopMils",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unit",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopMils",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RDY",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfSDHReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dummy",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "binary",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATAController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAInitial",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAStarted",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPICmd",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATADataTx",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAStatus",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAComplete",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATADone",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param1",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param2",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param3",
+    "source": "IOATAFamily/IOATAController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "configword",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x33",
+    "name": "pioModeNumber",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x35",
+    "name": "fieldValidity",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "mwDMAWord",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "pioAdvancedMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x41",
+    "name": "minimumDMATime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x42",
+    "name": "recommendDMATime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x43",
+    "name": "pioCycleNoFlow",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x44",
+    "name": "pioCycleIORDY",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x58",
+    "name": "ultraDMAWord",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataPIOMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataPIOCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataMultiDMAMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataMultiCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataUltraDMAMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataUltraCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataMultiDMAMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "advancedPIO",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataPIOCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataPIOMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB4",
+    "name": "_ataPIOCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataPIOMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF0",
+    "name": "_ataPIOCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataPIOMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17F",
+    "name": "_ataPIOCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataPIOMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x258",
+    "name": "_ataPIOCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataMultiDMAMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataMultiCycleTime",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ataUltraDMAMode",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "i",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "binary",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowerLBA",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "upperLBA",
+    "source": "IOATAFamily/IOATADevConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIDRQSlow",
+    "source": "IOATAFamily/IOATADevConfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIIRQPacket",
+    "source": "IOATAFamily/IOATADevConfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIDRQFast",
+    "source": "IOATAFamily/IOATADevConfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIUnknown",
+    "source": "IOATAFamily/IOATADevConfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "IOATAFamily/IOATADevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATANewMediaEvent",
+    "source": "IOATAFamily/IOATAFamilyPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reg",
+    "source": "IOATAFamily/IOATARegI386.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "IOATAFamily/IOATARegI386.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUnknownSocket",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUnknownATADeviceType",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIDRQSlow",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIIRQPacket",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIDRQFast",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIUnknown",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATADevice0DeviceID",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kATADevice1DeviceID",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "kATADefaultSectorSize",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bATABadBlock",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "bATAUncorrectable",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bATAMediaChanged",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "bATAIDNotFound",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bATAMediaChangeReq",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bATACommandAborted",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bATATrack0NotFound",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bATAAddressNotFound",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATABadBlock",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAUncorrectable",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAMediaChanged",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAIDNotFound",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAMediaChangeReq",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATACommandAborted",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATATrack0NotFound",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAAddressNotFound",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bATAPIuseDMA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAPIuseDMA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mATAHeadNumber",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mATASectorSize",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mATADriveSelect",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mATALBASelect",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bATABusy",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "bATADriveReady",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bATAWriteFault",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "bATASeekComplete",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bATADataRequest",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bATADataCorrected",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bATAIndex",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bATAError",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATABusy",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATADriveReady",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAWriteFault",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATASeekComplete",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATADataRequest",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATADataCorrected",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAIndex",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAError",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bATADCROne",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bATADCRReset",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bATADCRnIntEnable",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATADCROne",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATADCRReset",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATADCRnIntEnable",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "bATAAltSDevCValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bATAStatusCmdValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "bATASDHValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bATACylinderHiValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "bATACylinderLoValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bATASectorNumValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bATASectorCntValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bATAErrFeaturesValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bATADataValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAAltSDevCValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAStatusCmdValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATASDHValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATACylinderHiValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATACylinderLoValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATASectorNumValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATASectorCntValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAErrFeaturesValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATADataValid",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "bATAFlagQuiesce",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "bATAFlagNoIRQ",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "bATAFlag48BitLBA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "bATAFlagDMAQueued",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "bATAFlagOverlapped",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "bATAFlagUseConfigSpeed",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "bATAFlagByteSwap",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "bATAFlagIORead",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "bATAFlagIOWrite",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "bATAFlagTFAccessResult",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bATAFlagUseDMA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bATAFlagProtocolATAPI",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bATAFlagImmediate",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bATAFlagTFAccess",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagQuiesce",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagUseNoIRQ",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlag48BitLBA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagDMAQueued",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagOverlapped",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagUseConfigSpeed",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagByteSwap",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagIORead",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagIOWrite",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagTFAccessResult",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagUseDMA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagProtocolATAPI",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagImmediate",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mATAFlagTFAccess",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATANoOp",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATANullEvent",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAOnlineEvent",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAOfflineEvent",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATARemovedEvent",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAResetEvent",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAOfflineRequest",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAEjectRequest",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAPIResetEvent",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAReservedEvent",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSOFTRESET",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPACKET",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kID_DRIVE",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWORetry",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdNOP",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdRecal",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdRead",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdReadLong",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdReadExtended",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdReadDMAExtended",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWrite",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteLong",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteExtended",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteDMAExtended",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteVerify",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdReadVerify",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdFormatTrack",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdSeek",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdDiagnostic",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdInitDrive",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdReadMultiple",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteMultiple",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdSetRWMultiple",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdReadDMA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteDMA",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdMCAcknowledge",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdDoorLock",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdDoorUnlock",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdStandbyImmed",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdIdleImmed",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdStandby",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdIdle",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdReadBuffer",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdCheckPowerMode",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdSleep",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdFlushCache",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteBuffer",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdWriteSame",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdFlushCacheExtended",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdDriveIdentify",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdMediaEject",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAcmdSetFeatures",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAEnableWriteCache",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASetTransferMode",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAEnableAPM",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATASetPIOMode",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATADisableWriteCache",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATAEnableReadAhead",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kATANoErr",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kATAQueueEmpty",
+    "source": "IOATAFamily/IOATATypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ATA_DEBUG",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kATAXferDMADesc",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "kMaxATAXfer",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_bmCommandReg",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_bmStatusReg",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_bmPRDAddresReg",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_prdTable",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_prdTablePhysical",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DMACursor",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_prdTablePhysical",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferPtr",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "byteCount",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transferSize",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xferCount",
+    "source": "IOATAFamily/IOPCIATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLast_PRD",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kContinue_PRD",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBMCmdStartOutput",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBMCmdStop",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bBMStatusSimplex",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "bBMStatusDrv1",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bBMStatusDrv0",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bBMStatusInt",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bBMStatusError",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bBMStatusActive",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mBMStatusSimplex",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mBMStatusDrv1",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mBMStatusDrv0",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mBMStatusInt",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mBMStatusError",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mBMStatusActive",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "0x0000",
+    "source": "IOATAFamily/IOPCIATA.h",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "hex": "0x0",
+    "name": "sysval",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oindex",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ind",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "m4/eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EQL",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NEQ",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LSS",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "LEQ",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "GTR",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "GEQ",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "OCTAL",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "DECIMAL",
+    "source": "m4/expr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "c",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "c",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "c",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "c",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "c",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ndig",
+    "source": "m4/expr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "m4/look.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ilevel",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oindex",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fp",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fp",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ilevel",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nlpar",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "m4/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MACRTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DEFITYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "EXPRTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SUBSTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "IFELTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "LENGTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "CHNQTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "SYSCTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "UNDFTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "INCLTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "SINCTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "PASTTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "SPASTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "INCRTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "IFDFTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PUSDTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "POPDTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "SHIFTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "DECRTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "DIVRTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "UNDVTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "DIVNTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "MKTMTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "ERRPTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "M4WRTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "TRNLTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "DNLNTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "DUMPTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "CHNCTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "INDXTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "SYSVTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "EXITTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "DEFNTYPE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "STATIC",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAXINP",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAXOUT",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "MAXSTR",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "BUFSIZE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "STACKMAX",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "STRSPMAX",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC7",
+    "name": "HASHSIZE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAXCCHARS",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ALL",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TOP",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "m4/mdef.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "m4/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "UNIQUE",
+    "source": "m4/pathnames.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "UNIQUE",
+    "source": "m4/pathnames.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "UNIQUE",
+    "source": "m4/pathnames.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "m4/stdd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO",
+    "source": "m4/stdd.h",
+    "type": "PreprocessorConstant"
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "hex": "0x0",
+    "name": "kIOACPIPlatformDevicePMStateOff",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOACPIPlatformDevicePMStateDoze",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOACPIPlatformDevicePMStateOn",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOACPIPlatformDevicePMStateCount",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerManagementInited",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSystemWakeCapability",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInRushCurrentLoad",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerManagementDisabled",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerStateHas_PSx",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerStateHas_PRx",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTypeDevice",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTypeProcessor",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTypePowerResource",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paramCount",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paramCount",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paramCount",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paramCount",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paramCount",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paramCount",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tableInstance",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gpeBlockDevice",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitOffset",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitOffset",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "map",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "map",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "map",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "map",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "map",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "map",
+    "source": "IOACPIFamily/IOACPIPlatformDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOACPIPlane",
+    "source": "IOACPIFamily/IOACPIPlatformExpert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOACPIHardwareIDKey",
+    "source": "IOACPIFamily/IOACPIPlatformExpert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOACPIUniqueIDKey",
+    "source": "IOACPIFamily/IOACPIPlatformExpert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOACPIAddressKey",
+    "source": "IOACPIFamily/IOACPIPlatformExpert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOACPIDeviceStatusKey",
+    "source": "IOACPIFamily/IOACPIPlatformExpert.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOACPIMemoryRange",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOACPIIORange",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOACPIBusNumberRange",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOACPIAddressSpaceIDSystemMemory",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOACPIAddressSpaceIDSystemIO",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOACPIAddressSpaceIDPCIConfiguration",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOACPIAddressSpaceIDEmbeddedController",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOACPIAddressSpaceIDSMBus",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOACPIAddressSpaceOpRead",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOACPIAddressSpaceOpWrite",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOACPIFixedEventPMTimer",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOACPIFixedEventPowerButton",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOACPIFixedEventSleepButton",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOACPIFixedEventRealTimeClock",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOACPIDevicePowerStateD0",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOACPIDevicePowerStateD1",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOACPIDevicePowerStateD2",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOACPIDevicePowerStateD3",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOACPIDevicePowerStateCount",
+    "source": "IOACPIFamily/IOACPITypes.h",
+    "type": "EnumCase"
+  }
+]

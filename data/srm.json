@@ -1,0 +1,692 @@
+[
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opterr",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_max_len",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_len",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print_errors",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__getopt_initialized",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indfound",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "srm/srm/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "srm/srm/lib/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "srm/srm/lib/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "srm/srm/lib/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "srm/srm/lib/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DP_S_DEFAULT",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DP_S_FLAGS",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DP_S_MIN",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DP_S_DOT",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DP_S_MAX",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DP_S_MOD",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "DP_S_CONV",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "DP_S_DONE",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DP_C_SHORT",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DP_C_LONG",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DP_C_LDOUBLE",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "min",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "min",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "max",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "min",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strln",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signvalue",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "place",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spadlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "caps",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "caps",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spadlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spadlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signvalue",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iplace",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fplace",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "caps",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "max",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "caps",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "max",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padlen",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signvalue",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "LONG_STRING",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fail",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "srm/srm/lib/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seclevel",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "show_help",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "show_version",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_buffsize",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seclevel",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "seclevel",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q",
+    "source": "srm/srm/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "random_bytes_read",
+    "source": "srm/srm/src/random.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/random.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "random_bytes_read",
+    "source": "srm/srm/src/random.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/random.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/rename_unlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/rename_unlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "W_SINGLE",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "W_RANDOM",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "W_TRIPLE",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_buffsize",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_completed",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_total",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rsrc_fork_size",
+    "source": "srm/srm/src/sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FTS_D",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FTS_DC",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FTS_DNR",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FTS_DOT",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FTS_DP",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FTS_ERR",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "FTS_F",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "FTS_SL",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "FTS_SLNONE",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "FTS_NS",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "return_value",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "srm/srm/src/tree_walker.c",
+    "type": "EnumCase"
+  }
+]

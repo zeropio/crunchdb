@@ -1,0 +1,782 @@
+[
+  {
+    "hex": "0x0",
+    "name": "newflags",
+    "source": "OpenPAM/compat/pam_shim.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newflags",
+    "source": "OpenPAM/compat/pam_shim.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newflags",
+    "source": "OpenPAM/compat/pam_shim.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newflags",
+    "source": "OpenPAM/compat/pam_shim.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DLFCN_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FPURGE",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LIB_MAJ",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "OpenPAM/openpam/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1324335",
+    "name": "OPENPAM_VERSION",
+    "source": "OpenPAM/openpam/include/security/openpam_version.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_SUCCESS",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PAM_OPEN_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "PAM_SYMBOL_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "PAM_SERVICE_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "PAM_SYSTEM_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "PAM_BUF_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "PAM_CONV_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "PAM_PERM_DENIED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "PAM_MAXTRIES",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "PAM_AUTH_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "PAM_NEW_AUTHTOK_REQD",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "PAM_CRED_INSUFFICIENT",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "PAM_AUTHINFO_UNAVAIL",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "PAM_USER_UNKNOWN",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "PAM_CRED_UNAVAIL",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "PAM_CRED_EXPIRED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "PAM_CRED_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "PAM_ACCT_EXPIRED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "PAM_AUTHTOK_EXPIRED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "PAM_SESSION_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "PAM_AUTHTOK_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "PAM_AUTHTOK_RECOVERY_ERR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "PAM_AUTHTOK_LOCK_BUSY",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "PAM_AUTHTOK_DISABLE_AGING",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "PAM_NO_MODULE_DATA",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "PAM_IGNORE",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "PAM_ABORT",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "PAM_TRY_AGAIN",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "PAM_MODULE_UNKNOWN",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "PAM_DOMAIN_UNKNOWN",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "PAM_APPLE_MIN_ERROR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "PAM_APPLE_ACCT_TEMP_LOCK",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x401",
+    "name": "PAM_APPLE_ACCT_LOCKED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x402",
+    "name": "PAM_APPLE_KEK_ERROR",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x403",
+    "name": "PAM_APPLE_WRONG_CARD",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PAM_PROMPT_ECHO_OFF",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "PAM_PROMPT_ECHO_ON",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "PAM_ERROR_MSG",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "PAM_TEXT_INFO",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "PAM_MAX_NUM_MSG",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "PAM_MAX_MSG_SIZE",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "PAM_MAX_RESP_SIZE",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_DISALLOW_NULL_AUTHTOK",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_ESTABLISH_CRED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_DELETE_CRED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_REINITIALIZE_CRED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_REFRESH_CRED",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_PRELIM_CHECK",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_UPDATE_AUTHTOK",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_CHANGE_EXPIRED_AUTHTOK",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PAM_SERVICE",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "PAM_USER",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "PAM_TTY",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "PAM_RHOST",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "PAM_CONV",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "PAM_AUTHTOK",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "PAM_OLDAUTHTOK",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "PAM_RUSER",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "PAM_USER_PROMPT",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "PAM_REPOSITORY",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "PAM_AUTHTOK_PROMPT",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "PAM_OLDAUTHTOK_PROMPT",
+    "source": "OpenPAM/openpam/include/security/pam_constants.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_apple_chains.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_apple_chains.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fclt",
+    "source": "OpenPAM/openpam/lib/openpam_apple_chains.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fclt",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctlf",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fclt",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optc",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fclt",
+    "source": "OpenPAM/openpam/lib/openpam_configure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fail",
+    "source": "OpenPAM/openpam/lib/openpam_dispatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "OpenPAM/openpam/lib/openpam_dispatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "OpenPAM/openpam/lib/openpam_dispatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csflags",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_dynamic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_findenv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_get_option.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "PAM_LOG_LIBDEBUG",
+    "source": "OpenPAM/openpam/lib/openpam_impl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAM_AUTH",
+    "source": "OpenPAM/openpam/lib/openpam_impl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_load.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_openpam_debug",
+    "source": "OpenPAM/openpam/lib/openpam_log.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_openpam_debug",
+    "source": "OpenPAM/openpam/lib/openpam_log.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "MIN_LINE_LENGTH",
+    "source": "OpenPAM/openpam/lib/openpam_readline.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "OpenPAM/openpam/lib/openpam_readline.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "OpenPAM/openpam/lib/openpam_set_option.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_set_option.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "openpam_ttyconv_timeout",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "saved_alarm",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eof",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resp_retcode",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/openpam_ttyconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/pam_end.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "OpenPAM/openpam/lib/pam_getenvlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "twice",
+    "source": "OpenPAM/openpam/lib/pam_get_authtok.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "twice",
+    "source": "OpenPAM/openpam/lib/pam_get_authtok.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "twice",
+    "source": "OpenPAM/openpam/lib/pam_get_authtok.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsize",
+    "source": "OpenPAM/openpam/lib/pam_set_item.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csflags",
+    "source": "OpenPAM/openpam/lib/pam_start.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry",
+    "source": "OpenPAM/openpam/modules/pam_unix/pam_unix.c",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREWIRE_SBP_TRANSPORT_DEBUGGING_LEVEL",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRANSPORT_FAILURE_RETRIES",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSBP2StatusBlock_Details_DeadBit",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSBP2StatusBlock_Details_LenMask",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSBP2StatusBlock_Details_RespMask",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSBP2StatusBlock_Details_SrcMask",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSBP2StatusBlock_Resp_REQUEST_COMPLETE",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSBP2StatusBlock_Resp_TRANSPORT_FAILURE",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSBP2StatusBlock_Resp_ILLEGAL_REQUEST",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSBP2StatusBlock_Resp_VENDOR_DEPENDENT",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSBP2StatusBlock_SBPStatus_NoAdditionalInformation",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSBP2StatusBlock_SBPStatus_RequestTypeUnsupported",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSBP2StatusBlock_SBPStatus_SpeedUnsupported",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSBP2StatusBlock_SBPStatus_PageSizeUnsupported",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSBP2StatusBlock_SBPStatus_AccessDenied",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kSBP2StatusBlock_SBPStatus_LogicalUnitNotSupported",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSBP2StatusBlock_SBPStatus_MaxPayloadTooSmall",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSBP2StatusBlock_SBPStatus_ResourcesUnavailable",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kSBP2StatusBlock_SBPStatus_FunctionRejected",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kSBP2StatusBlock_SBPStatus_LoginIDNotRecognized",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kSBP2StatusBlock_SBPStatus_DummyORBCompleted",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kSBP2StatusBlock_SBPStatus_RequestAborted",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSBP2StatusBlock_SBPStatus_UnspecifiedError",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2SCSIStatusBlock_StatusBlockFormatMask",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2SCSIStatusBlock_StatusBlockStatusMask",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2SCSIStatusBlock_SenseKeyMask",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFWSBP2SCSIStatusBlock_ILI_Bit",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kFWSBP2SCSIStatusBlock_EOM_Bit",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWSBP2SCSIStatusBlock_FILEMARK_Bit",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWSBP2SCSIStatusBlock_VALID_Bit",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "kDefaultIOBlockCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCRSModelInfo_ValidBitsMask",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCRSModelInfo_TargetDiskMode",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7530",
+    "name": "kDefaultTimeOutValue",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandPoolOrbCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "kFWSBP2DefaultPageTableEntriesCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "kDoubleBufferCommandSizeCheckThreshold",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "kLoginRetryCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "kLoginDelayTime",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFireWireSBP2CommandTransferDataToTarget",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSBP2DiskDebugFlags",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSBP2DiskDebugFlags",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSBP2DiskDebugFlags",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GUID",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GUID",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoginRetryCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoginRetryCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commandLength",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commandFlags",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeOut",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeOut",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "fLUNResetCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesTransfered",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csrModelInfo",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quadletCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statusBlockFormat",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ADDITIONAL_SENSE_LENGTH",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ADDITIONAL_SENSE_LENGTH",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "count",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoginRetryCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoginRetryCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fReconnectCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDefaultBusyTimeoutValue",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMaxFireWireLUN",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kMaxFireWirePayload",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kMaxLoginRetryCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "kMaxReconnectCount",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCSRModelInfoKey",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x46525752",
+    "name": "kFWTypeDebug",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportDebugging.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWOperationGetFlags",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportDebugging.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWOperationSetFlags",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportDebugging.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSBP2DiskEnableDebugLoggingBit",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportDebugging.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSBP2DiskEnableTracePointsBit",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportDebugging.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kGUID",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kLoginRequest",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kLoginCompletion",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kLoginLost",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kLoginResumed",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSendSCSICommand1",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kSendSCSICommand2",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSCSICommandSenseData",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kCompleteSCSICommand",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kSubmitOrb",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kStatusNotify",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kFetchAgentReset",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kFetchAgentResetComplete",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kLogicalUnitReset",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kLogicalUnitResetComplete",
+    "source": "IOFireWireSerialBusProtocolTransport/IOFireWireSerialBusProtocolTransportTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xEA60",
+    "name": "kTraceBufferSampleSize",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "kMicrosecondsPerSecond",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMicrosecondsPerMillisecond",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "kFilePathMaxSize",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInvalid",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDivisorEntry",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gBiasSeconds",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gNumCPUs",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gDivisor",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gPrintfMask",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSavedFWDebugMask",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_usecs",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_usecs",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delta_usecs",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSavedFWDebugMask",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gPrintfMask",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOGICAL_BLOCK_ADDRESS",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TRANSFER_LENGTH",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOGICAL_BLOCK_ADDRESS",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TRANSFER_LENGTH",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delta_usecs",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSavedFWDebugMask",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value1",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GUID",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "senseKey",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ASC",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ASCQ",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "senseKey",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GUID",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "IOFireWireSerialBusProtocolTransport/SBP2DiskLogger/SBP2DiskLogger.cpp",
+    "type": "EnumCase"
+  }
+]

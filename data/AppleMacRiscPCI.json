@@ -1,0 +1,722 @@
+[
+  {
+    "hex": "0x1",
+    "name": "_BIG_ENDIAN",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NO_FASTWRITE",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NO_NVIDIA_FASTWRITE",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ALLOC_AGP_RANGE",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "configDataOffsetMask",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "configDataOffsetMask",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "physMid",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "physLo",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lengthHi",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lengthLo",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "length",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "length",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "agpSpacePerPage",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "agpBytesPerGartByte",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "alignLen",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "agpCommandMask",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31303137",
+    "name": "kNVBadRevision",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x20",
+    "name": "agpLength",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "agpBaseIndex",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "agpBaseIndex",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "systemBase",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gartBaseExt",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gartHandle",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gartArray",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "agpRange",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "systemLength",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHTBridgeSelfDevice",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kPCIBridgeSelfDevice",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMacRISCHTAddressSelect",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMacRISCPCIAddressSelect",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMacRISCPCIModeSelect",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMacRISCPCIModeSelectRDGBit",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMacRISCPCIModeSelectWCBit",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUniNGART_BASE",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUniNAGP_BASE",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUniNGART_CTRL",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUniNINTERNAL_STATUS",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUniNDUMMY_PAGE",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_INV",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_EN",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_2xRESET",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_DIS_SBA_DET",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_SYNC_MODE",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_PERF_RD",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_B2B_GNT",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGART_FAST_DDR",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAGP3Mode",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAGP4xDataRateMode3",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAGP8xDataRateMode3",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleMacRiscPCI/AppleMacRiscPCI.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTBASEMASK",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "DARTBASESHFT",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IDARTTLB",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTEN",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTSIZEMASK",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTSIZESHFT",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTLPNMASK",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "DARTLPNSHFT",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTVxMASK",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "DARTVxSHFT",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTSETMASK",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "DARTSETSHFT",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTWAYSETMASK",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "DARTWAYSETSHFT",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTCNTL",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTEXCP",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTTAG",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTTAGSZ",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTDATA",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DARTDATASZ",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DARTTLBPAGES",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMinZoneSize",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "gCacheLineSize",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInvalidInUse",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kValidEntry",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "artSizePages",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "gCacheLineSize",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumZones",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDummyPage",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDummyPageNumber",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRegBase",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRegisterVMMap",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRegTagBase",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTagVMMap",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTableLock",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fInvalidateLock",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPrev",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zone",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPrev",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loops",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zone",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPrev",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "AppleMacRiscPCI/AppleU3Art.cpp",
+    "type": "EnumCase"
+  }
+]

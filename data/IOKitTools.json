@@ -1,0 +1,794 @@
+[
+  {
+    "hex": "0x0",
+    "name": "nameLength",
+    "source": "IOKitTools/ioalloccount.tproj/ioalloccount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num64",
+    "source": "IOKitTools/ioalloccount.tproj/ioalloccount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nameLength",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num32",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numd",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uuid",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cfstr",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pOffset",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "NSITES_MAX",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numBTs",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "numBTs",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userBT",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nc",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsites",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tag",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zsize",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputSize",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "io",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioclasscount.tproj/ioclasscount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "object",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "path",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "service",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "class",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "depth",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "root",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "width",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dictionary",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "array",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "identifier",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "object",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "className",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "superName",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "time",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "array",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childUpNext",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dictionary",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "object",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "array",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "array2",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childUpNext",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dictionary",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dictionary2",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childUpNext",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childUpNext",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "integer",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "termcapstr_boldon",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "termcapstr_boldoff",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printbuf",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printbufleft",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printbufsize",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asciiNormalCount",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asciiSymbolCount",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysAbsoluteMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysPrefetchMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysAliasMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysSpaceMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "kPhysSpaceShift",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysBusMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "kPhysBusShift",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysDeviceMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "kPhysDeviceShift",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysFunctionMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kPhysFunctionShift",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysRegisterMask",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPhysRegisterShift",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD3E0BF08",
+    "name": "phandleKey",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asciiNormalCount",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asciiSymbolCount",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOKitTools/ioreg.tproj/ioreg.c",
+    "type": "EnumCase"
+  }
+]

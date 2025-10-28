@@ -1,0 +1,158 @@
+[
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libsecurity_authorization/lib/Authorization.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13C26601",
+    "name": "appleLanguagesStr",
+    "source": "libsecurity_authorization/lib/Authorization.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x6D8FFFD8",
+    "name": "controlTintStr",
+    "source": "libsecurity_authorization/lib/Authorization.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xA2E12AD8",
+    "name": "keyboardUIModeStr",
+    "source": "libsecurity_authorization/lib/Authorization.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xEEDF8FB8",
+    "name": "textDirectionStr",
+    "source": "libsecurity_authorization/lib/Authorization.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x2F4454F1",
+    "name": "hitoolboxAppIDStr",
+    "source": "libsecurity_authorization/lib/Authorization.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "locIndex",
+    "source": "libsecurity_authorization/lib/Authorization.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errAuthorizationSuccess",
+    "source": "libsecurity_authorization/lib/Authorization.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthorizationFlagDefaults",
+    "source": "libsecurity_authorization/lib/Authorization.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kAuthorizationExternalFormLength",
+    "source": "libsecurity_authorization/lib/Authorization.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthorizationPluginInterfaceVersion",
+    "source": "libsecurity_authorization/lib/AuthorizationPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthorizationCallbacksVersion",
+    "source": "libsecurity_authorization/lib/AuthorizationPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__AuthSession__",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "noSecuritySession",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionIsRoot",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionHasGraphicAccess",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionHasTTY",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionIsRemote",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionKeepCurrentBootstrap",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errSessionSuccess",
+    "source": "libsecurity_authorization/lib/AuthSession.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "READ",
+    "source": "libsecurity_authorization/lib/trampolineClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "WRITE",
+    "source": "libsecurity_authorization/lib/trampolineClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "delay",
+    "source": "libsecurity_authorization/lib/trampolineClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "n",
+    "source": "libsecurity_authorization/lib/trampolineClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurity_authorization/lib/trampolineClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_authorization/lib/trampolineClient.cpp",
+    "type": "EnumCase"
+  }
+]

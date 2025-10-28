@@ -1,0 +1,2438 @@
+[
+  {
+    "hex": "0x0",
+    "name": "abortSRB",
+    "source": "AppleSym8xx/Sym8xxClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgIndex",
+    "source": "AppleSym8xx/Sym8xxClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dropInt",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dropInt",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "abortSRB",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "negResult",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transferOptions",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fifoCnt",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dspsReg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dspReg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataXferCalled",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scriptPhase",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbcReg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dfifoReg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctest5Reg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sstat0Reg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sstat1Reg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sstat2Reg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fifoCnt",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sgResid",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dspReg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srb",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "Period",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "Period",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "Period",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sxferReg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "transferWidth",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "transferWidth",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "transferWidth",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mailBoxIndex",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sxferReg",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resetSRB",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "AppleSym8xx/Sym8xxExecute.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "initiatorId",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "maxTargetsSupported",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "maxLunsSupported",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "maxTransferWidth",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxCommandsPerController",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxCommandsPerTarget",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxCommandsPerLun",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "maxTags",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "targetPrivateDataSize",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lunPrivateDataSize",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ramReg",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ramReg",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ramReg",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSym8xx/Sym8xxInit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "MAX_SCSI_TARGETS",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "MAX_SCSI_LUNS",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_SCSI_TAG",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "MIN_SCSI_TAG",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "kHostAdapterSCSIId",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_SCHED_MAILBOXES",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMailBoxEmpty",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kMailBoxCancel",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFA",
+    "name": "kSCSITimerIntervalMS",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "kReqSenseTimeoutMS",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "kAbortTimeoutMS",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "kResetQuiesceDelayMS",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "kAbortScriptTimeoutMS",
+    "source": "AppleSym8xx/Sym8xxInterface.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL0_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL0_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL1_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL1_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL1_SCSI_RST",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL2_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL2",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL2_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SDU",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CHM",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLPMD",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLPHBEN",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WSS",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VUE0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VUE1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WSR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL3_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL3",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL3_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL3_INIT_875",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL3_INIT_875_ULTRA",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL3_INIT_875_FAST",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCNTL3_INIT_875_SLOW",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EWS",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CCF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCID_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCID",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCID_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SXFER_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SXFER",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SXFER_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SDID_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SDID",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SDID_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPREG_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPREG",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPREG_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPIO3",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SFBR_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SFBR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SFBR_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SOCL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SOCL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SOCL_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SREQ",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SACK",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SBSY",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSEL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SATN",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SMSG",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SC_D",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SI_O",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSID_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSID",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SBCL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SBCL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSTAT_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSTAT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DFE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDPE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DABRT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSI",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WTD",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IID",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSTAT0_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSTAT0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ILF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ORF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OLF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AIP",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOA",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WOA",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RSTB",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SDP0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSTAT1_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSTAT1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSTAT2_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSTAT2",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ILF1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ORF1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OLF1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SPL1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FF4",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LDSC",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SDP1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSA_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSA",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSA_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ISTAT_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ISTAT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ISTAT_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ABRT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RST",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIGP",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEM",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ISTAT_CON",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INTF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIP",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIP",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST0_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST0_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST1_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST2_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST2",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST3_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST3",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST3_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST3_INIT_A",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VERS",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FLF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CLF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FM",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WRIE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TEMP_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TEMP",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TEMP_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DFIFO_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DFIFO",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DFIFO_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST4_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST4",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST4_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST4_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST5_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST5",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST5_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST5_INIT_A",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST5_INIT_A_revB",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADCK",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BBCK",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DFS",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MASR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DDIR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BL2",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BO89",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST6_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST6",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTEST6_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBC_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBC",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBC_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCMD_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCMD",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCMD_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNAD_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNAD",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNAD_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSP_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSP",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSP_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSPS_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSPS",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSPS_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHA_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHA",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHA0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHA1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHA2",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHA3",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHA_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMODE_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMODE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMODE_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMODE_INIT_A",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIEN_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIEN",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIEN_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DWT_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DWT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DWT_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCNTL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCNTL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCNTL_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCNTL_INIT_A",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSM",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STD",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADDER_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADDER",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIEN_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIEN",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIEN_INIT_RST_OFF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIEN_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIST_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIST",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STO",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GEN",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HTH",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MA",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMP",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RSL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SGE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UDC",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RSTI",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PAR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLPAR_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLPAR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLPAR_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SWIDE_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SWIDE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACNTL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACNTL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACNTL_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPCNTL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPCNTL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPCNTL_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GPCNTL_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STIME0_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STIME0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STIME0_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STIME1_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STIME1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STIME1_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESPID0_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESPID0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESPID0_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESPID1_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESPID1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESPID1_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST0_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST1_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST1_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCLK",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SISIO",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBLEN",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBLSEL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST2_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST2",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST2_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST2_DIFF_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ROF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLB",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SZM",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AWS",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOW",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST3_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST3",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEST3_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EAN",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STR",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HSC",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSI",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TTM",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CSF",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STW",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSIDL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSIDL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SODL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SODL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SODL_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SBDL_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SBDL",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHB_SIZE",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHB",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHB0",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHB1",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHB2",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHB3",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCRATCHB_INIT",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "CLK_40MHz",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x50",
+    "name": "CLK_80MHz",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kResetRecoveryTimeMS",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kChipIdSym875",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kChipIdSym895",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kChipIdSym896",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kChipIdSym1010",
+    "source": "AppleSym8xx/Sym8xxRegs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4C",
+    "name": "Rel_Count",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_AbortCode",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_zeroes",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_status",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_counter",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_AbortBdr_mailbox",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_IOdone_mailbox",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_sched_mlbx_base_adr",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_scsi_id",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_nexus_array_base",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_nexus_index",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_nexus",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_phase_flag",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_device_table_base_adr",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_scratch",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_message",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_ld_size",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_DATA_OUT",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_unknown_phase",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_TLQ_SCSI_ID",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_DATA_IN",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_status_error",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_unexpected_msg",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_COMMAND",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_STATUS",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_unexpected_ext_msg",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_TLQ_xferAdr",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_no_msgin_after_reselect",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_MSG_OUT",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_MSG_IN",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_unknown_reselect",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_SELECT",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_unallocated_nexus",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_TLQ_MSGOp",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_RESELECT",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_abort_mailbox",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_abort_current",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_ABORT_CURRENT",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_ABORT_MAILBOX",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_CMD_COMPLETE",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_unknown_msg_reject",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_DISCONNECT",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_negotiateSDTR",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_negotiateWDTR",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_saveDataPointer",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_sglist_complete",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_kphase_restoreDataPointer",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_TLQ_CDBp",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_TLQ_index",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_TLQ_xferStarted",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "A_TLQ_IWR",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Ent_clearACK",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Ent_issueAbort_BDR",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Ent_issueMessageOut",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Ent_phase_handler",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Ent_select_phase",
+    "source": "AppleSym8xx/Sym8xxScript.h",
+    "type": "PreprocessorConstant"
+  }
+]

@@ -1,0 +1,1310 @@
+[
+  {
+    "hex": "0x0",
+    "name": "READER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "WRITER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MBOX_EVENT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TERM_EVENT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "WAKE_EVENT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SCAN_CGI_READING_HEADERS",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCAN_CGI_FINISHED",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SCAN_CGI_BAD_HEADER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "SCAN_CGI_INT_REDIRECT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFD",
+    "name": "SCAN_CGI_SRV_REDIRECT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x53",
+    "name": "FCGI_SERVER_START_JOB",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x52",
+    "name": "FCGI_SERVER_RESTART_JOB",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x54",
+    "name": "FCGI_REQUEST_TIMEOUT_JOB",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x43",
+    "name": "FCGI_REQUEST_COMPLETE_JOB",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_AUTH_TYPE_AUTHENTICATOR",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_AUTH_TYPE_AUTHORIZER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FCGI_AUTH_TYPE_ACCESS_CHECKER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_AUTHORITATIVE",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FCGI_COMPAT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_OK",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_FAILED",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_buf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copied",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_buf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copied",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_buf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isSet",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isSet",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isSet",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcgi_dynamic_total_proc_count",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcgi_dynamic_epoch",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcgi_dynamic_last_analyzed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "envc",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numProcesses",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flush",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flush",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "envc",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dynamicAutoRestart",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dynamicAutoUpdate",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcgi_dynamic_total_proc_count",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcgi_dynamic_epoch",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcgi_dynamic_last_analyzed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "now",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "SIGKILL",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flag",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iEnvBlockLen",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalConnTime",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalQueueTime",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scan_failed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scan_failed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scan_failed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scan_failed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scan_failed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listenFd",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_restart",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "victims",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "really_running",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "loadFactor",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "FCGI_PROC_WAIT_TIME",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "waited",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitStatus",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "waited",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_ready",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alarmLeft",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listenFd",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_time",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bad",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFailures",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bad",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bad",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFailures",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bad",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "read_ready",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_ready",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_pm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paddingLength",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fs_stderr_len",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_LISTENSOCK_FILENO",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_MAX_LENGTH",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "FCGI_HEADER_LEN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_VERSION_1",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_BEGIN_REQUEST",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FCGI_ABORT_REQUEST",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FCGI_END_REQUEST",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FCGI_PARAMS",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FCGI_STDIN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "FCGI_STDOUT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "FCGI_STDERR",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "FCGI_DATA",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "FCGI_GET_VALUES",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FCGI_GET_VALUES_RESULT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "FCGI_UNKNOWN_TYPE",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_NULL_REQUEST_ID",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_KEEP_CONN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_RESPONDER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FCGI_AUTHORIZER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FCGI_FILTER",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_REQUEST_COMPLETE",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_CANT_MPX_CONN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FCGI_OVERLOADED",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FCGI_UNKNOWN_ROLE",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_protocol.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "apache_mod_fastcgi/mod_fastcgi/fcgi_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "failed_count",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qsec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_time",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qsec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_time",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nb_flag",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitStatusSet",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expectingClientContent",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gid",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "socket_addr_len",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "set",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "send_pending",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recv_pending",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_send",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "did_io",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_connected",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recv_count",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_connected",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "send_pending",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dynamic_first_recv",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "recv_pending",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_send",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "did_io",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "client_send",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "did_io",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "send_pending",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recv_pending",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dynamic_first_recv",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfds",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "select_status",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_connected",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_connected",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_send",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dynamic_first_recv",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitStatus",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "requestId",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "authenticated",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "authorized",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "access_allowed",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "FCGI_DEFAULT_IDLE_TIMEOUT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5A",
+    "name": "FCGI_NAMED_PIPE_CONNECT_TIMEOUT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "WIN32_SHUTDOWN_GRACEFUL_WAIT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MAX_FAILED_STARTS",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "RUNTIME_SUCCESS_INTERVAL",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x258",
+    "name": "FAILED_STARTS_DELAY",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "FCGI_DEFAULT_LISTEN_Q",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FCGI_DEFAULT_RESTART_DELAY",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEFAULT_INIT_START_DELAY",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_DEFAULT_PRIORITY",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FCGI_MIN_EXEC_RETRY_DELAY",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "MAX_INIT_ENV_VARS",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3FF",
+    "name": "FCGI_SERVER_MAX_STDERR_LINE_LEN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "FCGI_MSGS_BUFSIZE",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "SERVER_BUFSIZE",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "FCGI_DEFAULT_MAX_PROCS",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FCGI_DEFAULT_MIN_PROCS",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FCGI_DEFAULT_MAX_CLASS_PROCS",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "FCGI_DEFAULT_KILL_INTERVAL",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "FCGI_DEFAULT_UPDATE_INTERVAL",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_DEFAULT_GAIN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_DEFAULT_THRESHOLD_1",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "FCGI_DEFAULT_THRESHOLD_N",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FCGI_DEFAULT_START_PROCESS_DELAY",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_DEFAULT_APP_CONN_TIMEOUT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FCGI_DEFAULT_PROCESS_SLACK",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_DEFAULT_RESTART_DYNAMIC",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FCGI_DEFAULT_AUTOUPDATE",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1388",
+    "name": "FCGI_MBOX_MUTEX_TIMEOUT",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "FCGI_MAXPATH",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FCGI_MSG_CRAP",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "FCGI_MAX_FD",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAX_USER_NAME_LEN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAX_GID_CHAR_LEN",
+    "source": "apache_mod_fastcgi/mod_fastcgi/mod_fastcgi.h",
+    "type": "PreprocessorConstant"
+  }
+]

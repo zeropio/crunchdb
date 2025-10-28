@@ -1,0 +1,1124 @@
+[
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_PARITY_DEFAULT",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PD_RS232_PARITY_NONE",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "PD_RS232_PARITY_ODD",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "PD_RS232_PARITY_EVEN",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PD_RS232_PARITY_MARK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PD_RS232_PARITY_SPACE",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "PD_RS232_PARITY_ANY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_S_MASK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_S_SHIFT",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_D_MASK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PD_RS232_D_SHIFT",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_A_MASK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_A_SHIFT",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_N_MASK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PD_RS232_N_SHIFT",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_S_BRK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_S_LOOP",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_S_TXQ",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_S_RXQ",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_RS232_A_XANY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IORS232SerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JLOG",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TTY_DIALIN_INDEX",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TTY_CALLOUT_INDEX",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TTY_NUM_FLAGS",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TTY_HIGH_HEADROOM",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "LOCAL_HZ",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C40",
+    "name": "MAX_INPUT_LATENCY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2710",
+    "name": "MIN_INPUT_LATENCY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E8480",
+    "name": "DTR_DOWN_DELAY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2710",
+    "name": "DCD_DELAY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3D090",
+    "name": "BRK_DELAY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOSerialBSDServiceValue",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOSerialBSDTypeKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOSerialBSDAllTypes",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOSerialBSDModemType",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOSerialBSDRS232Type",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOTTYDeviceKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOTTYBaseNameKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOTTYSuffixKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOCalloutDeviceKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIODialinDeviceKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gIOTTYWaitForIdleKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOSS_HALFBIT_BRD",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "fLastMinor",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suffixSet",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suffix",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suffix",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suffix",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suffix",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceKey",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "calloutNode",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dialinNode",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "calloutNode",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fThreadState",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIsOpening",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDCDThreadCall",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c_iflag",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c_oflag",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c_lflag",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDCDThreadCall",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "j",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fActiveSession",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fActiveSession",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fActiveSession",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fErrno",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fErrno",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fActiveSession",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flowCtrl",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "minCount",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minCount",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "event",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "event",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fErrno",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fErrno",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fErrno",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fErrno",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fThreadState",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fThreadState",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDCDThreadCall",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fThreadState",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TTY_DIALIN_INDEX",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TTY_CALLOUT_INDEX",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TTY_NUM_FLAGS",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "THREAD_LAUNCH_STARTED",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "THREAD_LAUNCH_FINISHED",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "THREAD_RX_STARTED",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "THREAD_RX_FINISHED",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "THREAD_TX_STARTED",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "THREAD_TX_FINISHED",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialBSDClient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_MASK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_VOID",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_BYTE",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_WORD",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_LONG",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_MASK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_VOID",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_BYTE",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_WORD",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_DATA_LONG",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_MASK",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "PD_S_RX_OFFSET",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_ACQUIRED",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_ACTIVE",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_TX_ENABLE",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_TX_BUSY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_TX_EVENT",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_TXQ_EMPTY",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_TXQ_LOW_WATER",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_TXQ_HIGH_WATER",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PD_S_TXQ_FULL",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dictionary",
+    "source": "IOSerialFamily/IOSerialFamily.kmodproj/IOSerialStreamSync.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mics",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9C40",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE290",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3D090",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28A0",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F400",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7A12",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9600",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C200",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4B00",
+    "name": "speed",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "tv_nsec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "tv_nsec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "tv_nsec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exists",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOSerialFamily/tests/IOSerialTestLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_close_reenumerate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_config.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_open.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_open_reenumerate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_read_close.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_read_reenumerate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_read_write.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_write_close.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_PATH",
+    "source": "IOSerialFamily/tests/test_tty_write_reenumerate.c",
+    "type": "PreprocessorConstant"
+  }
+]

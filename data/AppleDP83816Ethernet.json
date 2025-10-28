@@ -1,0 +1,842 @@
+[
+  {
+    "hex": "0x0",
+    "name": "fKDPMbuf",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ethernet_polynomial",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerStateOff",
+    "source": "AppleDP83816Ethernet/AppleDP83816.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kDescAlignment",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTxBufferAlignment",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kRxBufferAlignment",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDescBufferSizeMask",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_CR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_CFG",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_MEAR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PTSCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_ISR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_IMR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_IER",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_IHR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_TXDP",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_TXCFG",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXDP",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXCFG",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_CCSR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_WCSR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RFCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RFDR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_BRAR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_BRDR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_SRR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_MIBC",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXErrorPkts",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXFCSErrors",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXMissedPkts",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXFAErrors",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXSymbolErrors",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXFrameTooLong",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RXSQEErrors",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_BMCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_BMSR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PHYID1",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PHYID2",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_ANAR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_ANLPAR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_ANER",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_ANNPTR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PHYSTS",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_MICR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_MISR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_FCSCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_RECR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PCSR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PHYCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_TBTSCR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PGSEL",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_PMDCSR",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_DSPCFG",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_SDCFG",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REG_TSTDAT",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kTxMaxSegmentCount",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "kRxDescCount",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "kTxDescCount",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5F0",
+    "name": "kRxMaxBufferSize",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5F0",
+    "name": "kTxMaxBufferSize",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xDAC",
+    "name": "kWatchdogTimerPeriodMS",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "kTransmitQueueCapacity",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kHardwareWaitValue",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kActivationLevelNone",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "medium",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "speed",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleDP83816Ethernet/AppleDP83816.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dword",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRxDescMemory",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "P",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRxDescMemory",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRxDescBase",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRxDescPhysAddr",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRxHeadIndex",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxDescMemory",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "P",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxDescMemory",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxDescBase",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxHeadIndex",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxTailIndex",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxInterruptInterval",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seg",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxInterruptInterval",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doneCount",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packet",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packet",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packet",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "descCount",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pkt_size",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ISR",
+    "source": "AppleDP83816Ethernet/AppleDP83816_HW.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_RESET",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_LOOPBACK",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_SPEED_100",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_AUTONEG_ENABLE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_POWER_DOWN",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_ISOLATE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_RESTART_AUTONEG",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_FULL_DUPLEX",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_CDT_ENABLE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMCR_SPEED_1000",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_T4",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_TX_FD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_TX_HD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_10_FD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_10_HD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_AUTONEG_COMPLETE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_REMOTE_FAULT_DETECT",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_AUTONEG_CAPABLE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_LINK_STATUS",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_JABBER_DETECTED",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BMSR_EXTENDED_CAPABILITY",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_NEXT_PAGE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_ACKNOWLEDGE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_REMOTE_FAULT",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_ASYMMETRIC_PAUSE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_PAUSE",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_T4",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_TX_FD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_TX_HD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_10_FD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_10_HD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_SELECTOR_CSMACD",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMediumIndex10H",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAutoNegANAR",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "timeout",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xDAC",
+    "name": "timeout",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "timeout",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "medium",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "fLinkDownPollHoldOff",
+    "source": "AppleDP83816Ethernet/AppleDP83816_PHY.cpp",
+    "type": "EnumCase"
+  }
+]

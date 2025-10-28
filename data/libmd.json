@@ -1,0 +1,170 @@
+[
+  {
+    "hex": "0x5",
+    "name": "MD",
+    "source": "libmd/libmd/mddriver.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FNOCACHE",
+    "source": "libmd/libmd/mdXhl.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "DISPATCH_QUEUE_NDIGITS",
+    "source": "libmd/libmd/mdXhl.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libmd/libmd/mdXhl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_error",
+    "source": "libmd/libmd/mdXhl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libmd/libmd/mdXhl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chunk_offset",
+    "source": "libmd/libmd/mdXhl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readrv",
+    "source": "libmd/libmd/mdXhl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_SHA_H_",
+    "source": "libmd/libmd/sha.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "SHA_LBLOCK",
+    "source": "libmd/libmd/sha.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "SHA_BLOCK",
+    "source": "libmd/libmd/sha.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x38",
+    "name": "SHA_LAST_BLOCK",
+    "source": "libmd/libmd/sha.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "SHA_LENGTH_BLOCK",
+    "source": "libmd/libmd/sha.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "K_00_19",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "K_20_39",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "K_40_59",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "K_60_79",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Nl",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Nh",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sw",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libmd/libmd/sha0c.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SHA",
+    "source": "libmd/libmd/shadriver.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "libmd/libmd/sha_locl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "libmd/libmd/sha_locl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libmd/libmd/tests/file_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libmd/libmd/tests/file_test.c",
+    "type": "EnumCase"
+  }
+]

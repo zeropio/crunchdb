@@ -1,0 +1,8054 @@
+[
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL_CLOCK_MONOTONIC",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL_CLOCK_REALTIME",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL_CLOCK_UPTIME",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL_CLOCK_UPTIME_FAST",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_FD_COPY",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_NOTE_LOWAT",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_NOTE_NONE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_NOTE_REAP",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_NOTE_REVOKE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_NOTE_SIGNAL",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_POSIX_SPAWN_START_SUSPENDED",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL_PROGRAM_INVOCATION_SHORT_NAME",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_SIGEMT",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_UPDATE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_VERYLOWDISK",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_SERVEREVENT",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_QUOTA",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_NEARLOWDISK",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_DESIRED_DISK",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_FREE_SPACE_CHANGE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_PURGEABLE_SPACE_CHANGE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VQ_IDLE_PURGE_NOTIFY",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DLFCN_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FCNTL_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETPROGNAME",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LEAKS",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIBKERN_OSATOMIC_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIBKERN_OSCROSSENDIAN_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIBPROC_INTERNAL_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MACH",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MACH_ABSOLUTE_TIME",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MACH_APPROXIMATE_TIME",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MALLOC_CREATE_ZONE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MALLOC_MALLOC_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_NORETURN_BUILTIN_TRAP",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_OBJC",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_POSIX_FADVISE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_POSIX_SPAWNP",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_KEY_INIT_NP",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_ATTR_SETCPUPERCENT_NP",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE__PTHREAD_WORKQUEUE_ALLOW_SEND_SIGNALS",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_MACHDEP_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_MAIN_NP",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_YIELD_NP",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_QOS_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_WORKQUEUES",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_WORKQUEUE_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_WORKQUEUE_PRIVATE_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYSCONF",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_CDEFS_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_GUARDED_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TARGETCONDITIONALS_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE__PTHREAD_WORKQUEUE_INIT",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_APPLE_TSD_OPTIMIZATIONS",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_MACH_SEM",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__DARWIN_NON_CANCELABLE",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCPY",
+    "source": "libdispatch/config/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_SWIFT3_OVERLAY",
+    "source": "libdispatch/dispatch/base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SWIFT3_OVERLAY",
+    "source": "libdispatch/dispatch/base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x133F010",
+    "name": "DISPATCH_API_VERSION",
+    "source": "libdispatch/dispatch/dispatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_IO_STREAM",
+    "source": "libdispatch/dispatch/io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_IO_RANDOM",
+    "source": "libdispatch/dispatch/io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_IO_STOP",
+    "source": "libdispatch/dispatch/io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_IO_STRICT_INTERVAL",
+    "source": "libdispatch/dispatch/io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_ONCE_INLINE_FASTPATH",
+    "source": "libdispatch/dispatch/once.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_ONCE_INLINE_FASTPATH",
+    "source": "libdispatch/dispatch/once.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_ONCE_INLINE_FASTPATH",
+    "source": "libdispatch/dispatch/once.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_APPLY_AUTO_AVAILABLE",
+    "source": "libdispatch/dispatch/queue.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_APPLY_AUTO_AVAILABLE",
+    "source": "libdispatch/dispatch/queue.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DISPATCH_QUEUE_PRIORITY_HIGH",
+    "source": "libdispatch/dispatch/queue.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_PRIORITY_DEFAULT",
+    "source": "libdispatch/dispatch/queue.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_SEND_DEAD",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MEMORYPRESSURE_NORMAL",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MEMORYPRESSURE_WARN",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MEMORYPRESSURE_CRITICAL",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PROC_EXIT",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PROC_FORK",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PROC_EXEC",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PROC_SIGNAL",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_DELETE",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_WRITE",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_EXTEND",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_ATTRIB",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_LINK",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_RENAME",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_REVOKE",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VNODE_FUNLOCK",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_STRICT",
+    "source": "libdispatch/dispatch/source.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MSEC_PER_SEC",
+    "source": "libdispatch/dispatch/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "NSEC_PER_SEC",
+    "source": "libdispatch/dispatch/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "NSEC_PER_MSEC",
+    "source": "libdispatch/dispatch/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "USEC_PER_SEC",
+    "source": "libdispatch/dispatch/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "NSEC_PER_USEC",
+    "source": "libdispatch/dispatch/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "OS_CLOCK_MACH_ABSOLUTE_TIME",
+    "source": "libdispatch/os/clock.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OE_ASSOCIATE_CURRENT_THREAD",
+    "source": "libdispatch/os/eventlink_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OE_ASSOCIATE_ON_WAIT",
+    "source": "libdispatch/os/eventlink_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x133ED02",
+    "name": "OS_FIREHOSE_SPI_VERSION",
+    "source": "libdispatch/os/firehose_buffer_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x800",
+    "name": "FIREHOSE_BUFFER_LIBTRACE_HEADER_SIZE",
+    "source": "libdispatch/os/firehose_buffer_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "FIREHOSE_BUFFER_KERNEL_MIN_CHUNK_COUNT",
+    "source": "libdispatch/os/firehose_buffer_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "FIREHOSE_BUFFER_KERNEL_MAX_CHUNK_COUNT",
+    "source": "libdispatch/os/firehose_buffer_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "FIREHOSE_BUFFER_KERNEL_DEFAULT_IO_PAGES",
+    "source": "libdispatch/os/firehose_buffer_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_EVENT_NONE",
+    "source": "libdispatch/os/firehose_server_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FIREHOSE_CLIENT_CONNECTED_INFO_VERSION",
+    "source": "libdispatch/os/firehose_server_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FIREHOSE_SNAPSHOT_EVENT_IO_START",
+    "source": "libdispatch/os/firehose_server_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOS_OBJECT_USE_OBJC",
+    "source": "libdispatch/os/object.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_USE_OBJC",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_USE_OBJC",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_USE_OBJC",
+    "source": "libdispatch/os/object.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_USE_OBJC",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_USE_OBJC",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_SWIFT3",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_SWIFT3",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_USE_OBJC_RETAIN_RELEASE",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_USE_OBJC_RETAIN_RELEASE",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_USE_OBJC_RETAIN_RELEASE",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_USE_OBJC_RETAIN_RELEASE",
+    "source": "libdispatch/os/object.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_OS_OBJECT_OBJC_ARC",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_OS_OBJECT_OBJC_ARC",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_HAVE_OBJC1",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_HAVE_OBJC2",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_HAVE_OBJC1",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_HAVE_OBJC2",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_HAVE_OBJC1",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_HAVE_OBJC2",
+    "source": "libdispatch/os/object_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x133A1EB",
+    "name": "OS_VOUCHER_ACTIVITY_SPI_VERSION",
+    "source": "libdispatch/os/voucher_activity_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOUCHER_ACTIVITY_TRACE_FLAG_UNRELIABLE",
+    "source": "libdispatch/os/voucher_activity_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "VOUCHER_ACTIVITY_HOOKS_VERSION",
+    "source": "libdispatch/os/voucher_activity_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1337966",
+    "name": "OS_VOUCHER_SPI_VERSION",
+    "source": "libdispatch/os/voucher_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "__OS_WORKGROUP_ATTR_SIZE__",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x38",
+    "name": "__OS_WORKGROUP_INTERVAL_DATA_SIZE__",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "__OS_WORKGROUP_JOIN_TOKEN_SIZE__",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "__OS_WORKGROUP_ATTR_SIZE__",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x38",
+    "name": "__OS_WORKGROUP_INTERVAL_DATA_SIZE__",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "__OS_WORKGROUP_JOIN_TOKEN_SIZE__",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_OS_WORKGROUP_ATTR_SIG_DEFAULT_INIT",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_OS_WORKGROUP_ATTR_SIG_EMPTY_INIT",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_OS_WORKGROUP_INTERVAL_DATA_SIG_INIT",
+    "source": "libdispatch/os/workgroup_base.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_INTERVAL_TYPE_DEFAULT",
+    "source": "libdispatch/os/workgroup_interval_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_WORKGROUP_TELEMETRY_FLAVOR_BASIC",
+    "source": "libdispatch/os/workgroup_interval_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_INTERVAL_DATA_NONE",
+    "source": "libdispatch/os/workgroup_interval_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__OS_WORKGROUP_INTERVAL_DATA_HAS_CUSTOM_COMPLEXITY",
+    "source": "libdispatch/os/workgroup_interval_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_INTERVAL_DATA_SET_COMPLEXITY_DEFAULT",
+    "source": "libdispatch/os/workgroup_interval_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_INTERVAL_DATA_SET_COMPLEXITY_HIGH",
+    "source": "libdispatch/os/workgroup_interval_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_INTERVAL_DATA_SET_COMPLEXITY_MANUAL",
+    "source": "libdispatch/os/workgroup_interval_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "__DISPATCH_APPLY_ATTR_SIZE__",
+    "source": "libdispatch/private/apply_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_APPLY_ATTR_ENTITY_CPU",
+    "source": "libdispatch/private/apply_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "DISPATCH_APPLY_ATTR_ENTITY_CLUSTER",
+    "source": "libdispatch/private/apply_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_CHANNEL_CALLBACKS_VERSION",
+    "source": "libdispatch/private/channel_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dispatch_introspection_queue_item_type_none",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dispatch_introspection_queue_item_type_block",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dispatch_introspection_queue_item_type_function",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dispatch_introspection_queue_item_type_object",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dispatch_introspection_queue_item_type_queue",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dispatch_introspection_queue_item_type_source",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dispatch_introspection_runtime_event_worker_event_delivery",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "dispatch_introspection_runtime_event_worker_unpark",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "dispatch_introspection_runtime_event_worker_request",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "dispatch_introspection_runtime_event_worker_park",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "dispatch_introspection_runtime_event_sync_wait",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "dispatch_introspection_runtime_event_async_sync_handoff",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "dispatch_introspection_runtime_event_sync_sync_handoff",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "dispatch_introspection_runtime_event_sync_async_handoff",
+    "source": "libdispatch/private/introspection_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1343B25",
+    "name": "DISPATCH_MACH_SPI_VERSION",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_MACH_CONNECTED",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_SEND_DEFAULT",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_MSG_DESTRUCTOR_DEFAULT",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMF_NONE",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMF_USE_STRICT_REPLY",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISPATCH_MACH_XPC_MIN_HOOKS_VERSION",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISPATCH_MACH_XPC_HOOKS_VERSION",
+    "source": "libdispatch/private/mach_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_COCOA_COMPAT",
+    "source": "libdispatch/private/private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_COCOA_COMPAT",
+    "source": "libdispatch/private/private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_COCOA_COMPAT",
+    "source": "libdispatch/private/private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x133A0C8",
+    "name": "DISPATCH_CF_SPI_VERSION",
+    "source": "libdispatch/private/private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_OVERCOMMIT",
+    "source": "libdispatch/private/queue_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_COOPERATIVE",
+    "source": "libdispatch/private/queue_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "DISPATCH_QUEUE_WIDTH_ACTIVE_CPUS",
+    "source": "libdispatch/private/queue_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "DISPATCH_QUEUE_WIDTH_MAX_PHYSICAL_CPUS",
+    "source": "libdispatch/private/queue_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFD",
+    "name": "DISPATCH_QUEUE_WIDTH_MAX_LOGICAL_CPUS",
+    "source": "libdispatch/private/queue_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_CONNRESET",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_READCLOSED",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_WRITECLOSED",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_TIMEOUT",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_NOSRCADDR",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_IFDENIED",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_SUSPEND",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_RESUME",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_KEEPALIVE",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_ADAPTIVE_WTIMO",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_ADAPTIVE_RTIMO",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_CONNECTED",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_DISCONNECTED",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_CONNINFO_UPDATED",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SOCK_NOTIFY_ACK",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_NW_CHANNEL_FLOW_ADV_UPDATE",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_NW_CHANNEL_CHANNEL_EVENT",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_NW_CHANNEL_INTF_ADV_UPDATE",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_NOTRESP",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_NEEDAUTH",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_LOWDISK",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_MOUNT",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_UNMOUNT",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_DEAD",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_ASSIST",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_NOTRESPLOCK",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_UPDATE",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_VERYLOWDISK",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_SERVEREVENT",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_QUOTA",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_NEARLOWDISK",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_DESIREDDISK",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_FREE_SPACE_CHANGE",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_PURGEABLE_SPACE_CHANGE",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VFS_IDLE_PURGE_NOTIFY",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_BACKGROUND",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INTERVAL_UI_ANIMATION",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_SEND_POSSIBLE",
+    "source": "libdispatch/private/source_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4A",
+    "name": "VM_MEMORY_LIBDISPATCH",
+    "source": "libdispatch/src/allocator.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bottom_slop_len",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_locked",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dc_flags",
+    "source": "libdispatch/src/allocator.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_dispatch_use_dispatch_alloc",
+    "source": "libdispatch/src/allocator.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_ALLOCATOR",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_NANOZONE",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_MALLOCZONE",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_CONTINUATION_MALLOC",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PACK_FIRST_PAGE_WITH_CONTINUATIONS",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PACK_FIRST_PAGE_WITH_CONTINUATIONS",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "PAGES_PER_MAGAZINE",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "PAGES_PER_MAGAZINE",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "BYTES_PER_BITMAP",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BYTES_PER_BITMAP",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "SIZEOF_HEADER",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "SIZEOF_HEADER",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HEADER_TO_SUPERMAPS_PADDING",
+    "source": "libdispatch/src/allocator_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_APPLY_INVOKE_REDIRECT",
+    "source": "libdispatch/src/apply.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_APPLY_INVOKE_WAIT",
+    "source": "libdispatch/src/apply.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DA_FLAG_APPLY",
+    "source": "libdispatch/src/apply.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DA_FLAG_APPLY_WITH_ATTR",
+    "source": "libdispatch/src/apply.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_dbp",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "worker_index",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qaf",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cluster_max",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thr_cnt",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "thr_cnt",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "da_flags",
+    "source": "libdispatch/src/apply.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/benchmark.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x989680",
+    "name": "count",
+    "source": "libdispatch/src/benchmark.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/benchmark.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_DESCRIPTOR_1",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_DESCRIPTOR_2",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_DESCRIPTOR_3",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_ESCAPE",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_LAYOUT_NON_OBJECT_BYTES",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "BLOCK_LAYOUT_NON_OBJECT_WORDS",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "BLOCK_LAYOUT_STRONG",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "BLOCK_LAYOUT_BYREF",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "BLOCK_LAYOUT_WEAK",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "BLOCK_LAYOUT_UNRETAINED",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_7",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_8",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_9",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_A",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_B",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_C",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_D",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_E",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_F",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "BLOCK_FIELD_IS_OBJECT",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "BLOCK_FIELD_IS_BLOCK",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "BLOCK_FIELD_IS_BYREF",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "BLOCK_FIELD_IS_WEAK",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "BLOCK_BYREF_CALLER",
+    "source": "libdispatch/src/BlocksRuntime/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CRT_SECURE_NO_WARNINGS",
+    "source": "libdispatch/src/BlocksRuntime/runtime.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "from",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "from",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_length",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "from",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset_ptr",
+    "source": "libdispatch/src/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MAP_MEM_VM_COPY",
+    "source": "libdispatch/src/data.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_DATA_IS_BRIDGED_TO_NSDATA",
+    "source": "libdispatch/src/data_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_DATA_IS_BRIDGED_TO_NSDATA",
+    "source": "libdispatch/src/data_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "dst_data",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dst_data",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "DISPATCH_HEAP_INIT_SEGMENT_CAPACITY",
+    "source": "libdispatch/src/event/event.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "heap_id",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ident",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qos",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_UNOTE_TRACE_SUSPENSION",
+    "source": "libdispatch/src/event/event.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_timer_flags",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_timer_flags",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_mask",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "leeway",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tidx",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dth_dirty_bits",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tidx",
+    "source": "libdispatch/src/event/event.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_MGR_QUEUE_DEBUG",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_WLH_DEBUG",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MGR_QUEUE_DEBUG",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WLH_DEBUG",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACHPORT_DEBUG",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_TIMER_ASSERTIONS",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_ASSERTIONS",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EV_VANISHED",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_EV_MSG_NEEDS_FREE",
+    "source": "libdispatch/src/event/event_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EPOLLFREE",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "DISPATCH_EPOLL_MAX_EVENT_COUNT",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_EPOLL_EVENTFD",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_EPOLL_CLOCK_WALL",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_EPOLL_CLOCK_UPTIME",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_EPOLL_CLOCK_MONOTONIC",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/event_epoll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_BACKGROUND",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_INTERVAL",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INTERVAL_UI_ANIMATION",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_AFTER",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DS_EVENT_HANDLER",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_TIMER_DISARMED_MARKER",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DTH_TARGET_ID",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DTH_DEADLINE_ID",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DTH_ID_COUNT",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DTH_DIRTY_GLOBAL",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_MACH_STATE_UNUSED_MASK",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_STATE_ENQUEUED",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_STATE_DIRTY",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_STATE_PENDING_BARRIER",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_STATE_RECEIVED_OVERRIDE",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_STATE_MAX_QOS_MASK",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "DISPATCH_MACH_STATE_MAX_QOS_SHIFT",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_STATE_UNLOCK_MASK",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_NEVER_CONNECTED",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "DSL_HASH_SIZE",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "DSL_HASH_SIZE",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "DISPATCH_DEFERRED_ITEMS_EVENT_COUNT",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_UNOTE_FREELIST_REF",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_QOS_NORMAL",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_TIMER_QOS_CRITICAL",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DISPATCH_TIMER_QOS_BACKGROUND",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISPATCH_TIMER_QOS_COUNT",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIMER_QOS_NORMAL",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_TIMER_QOS_COUNT",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUU_DELETE_ACK",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUU_PROBE",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUU_MUST_SUCCEED",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_EVENT_LOOP_OVERRIDE",
+    "source": "libdispatch/src/event/event_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_KEVENT_MUXED_MARKER",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_NOTE_CLOCK_WALL",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_NOTE_CLOCK_MONOTONIC",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_NOTE_CLOCK_UPTIME",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flagsp",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ident",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fflags",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qos",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ident",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fflags",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ident",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACH_PORT_TYPE_SPREQUEST",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dnreqs",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mps_pset",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACH_ERROR_RCV_SUB",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ident",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ident",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "size",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ddi_nevents",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_dispatch_mach_host_port_pred",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fflags",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "action",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fflags",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "action",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_KEVENT_WORKLOOP_ALLOW_ENOENT",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DISPATCH_KEVENT_WORKLOOP_ALLOW_ESTALE",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DISPATCH_KEVENT_WORKLOOP_ALLOW_EINTR",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ident",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ddi_nevents",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "leeway",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "du_vmpressure_override",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qos",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "krr",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra_options",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_rcv_addr",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_send_size",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_rcv_addr",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_send_size",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_fflags",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_mask",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_fflags",
+    "source": "libdispatch/src/event/event_kevent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PORT_POKE",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_MUXNOTE_EVENT_READ",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_MUXNOTE_EVENT_WRITE",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lNetworkEvents",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwBytesAvailable",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBytesAvailable",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwBytesAvailable",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "available",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "disarmed",
+    "source": "libdispatch/src/event/event_windows.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "WORKQ_OVERSUBSCRIBE_FACTOR",
+    "source": "libdispatch/src/event/workqueue.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/workqueue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "running_count",
+    "source": "libdispatch/src/event/workqueue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/event/workqueue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "global_runnable",
+    "source": "libdispatch/src/event/workqueue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DISPATCH_WORKQ_MONITORING",
+    "source": "libdispatch/src/event/workqueue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DISPATCH_WORKQ_MONITORING",
+    "source": "libdispatch/src/event/workqueue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deadline",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deadline",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signals_consumed_out",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signals_consumed_out",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signals_consumed_out",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signals_consumed_out",
+    "source": "libdispatch/src/eventlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_EVENTLINK_LABEL_NEEDS_FREE",
+    "source": "libdispatch/src/eventlink_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_EVENTLINK_CANCELLED",
+    "source": "libdispatch/src/eventlink_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x133F010",
+    "name": "DISPATCH_API_VERSION",
+    "source": "libdispatch/src/exclavekit/dispatch/dispatch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_VOUCHER_ACTIVITY_SPI_TYPES",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_FIREHOSE_SPI",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__OS_EXPOSE_INTERNALS_INDIRECT__",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_PURE_C",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DLOCK_LOCK_DATA_CONTENTION",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra_info_size",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "io_streams",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "total",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "total",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "total",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "total",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vm_addr",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vm_addr",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "io_delta",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mem_delta",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fcp_refcnt",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fbs_loss_start",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ref",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ref",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ref",
+    "source": "libdispatch/src/firehose/firehose_buffer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "FIREHOSE_BUFFER_CHUNK_COUNT",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FIREHOSE_BUFFER_CHUNK_PREALLOCATED_COUNT",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FIREHOSE_BUFFER_MADVISE_CHUNK_COUNT",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_GATE_RELIABLE_WAITERS_BIT",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_GATE_UNRELIABLE_WAITERS_BIT",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_GATE_WAITERS_MASK",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_STREAM_STATE_PRISTINE",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FBH_QUARANTINE_NONE",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FBH_QUARANTINE_PENDING",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FBH_QUARANTINE_STARTED",
+    "source": "libdispatch/src/firehose/firehose_buffer_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_remote_port",
+    "source": "libdispatch/src/firehose/firehose_inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fss_current",
+    "source": "libdispatch/src/firehose/firehose_inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fss_current",
+    "source": "libdispatch/src/firehose/firehose_inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fss_allocator",
+    "source": "libdispatch/src/firehose/firehose_inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__MigTypeCheck",
+    "source": "libdispatch/src/firehose/firehose_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DRAIN_BATCH_SIZE",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_DRAIN_FOR_IO",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_DRAIN_POLL",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clients",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcp_pos",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcp_pos",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mem_bitmap",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "for_io",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcp_pos",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcp_pos",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcp_pos",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcp_pos",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fcp_pos",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base_addr",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "libdispatch/src/firehose/firehose_server.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_STATE_MEM_ENQUEUED",
+    "source": "libdispatch/src/firehose/firehose_server_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_STATE_IO_ENQUEUED",
+    "source": "libdispatch/src/firehose/firehose_server_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_STATE_MEM_CANCELING",
+    "source": "libdispatch/src/firehose/firehose_server_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_STATE_IO_CANCELING",
+    "source": "libdispatch/src/firehose/firehose_server_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_STATE_MEM_CANCELED",
+    "source": "libdispatch/src/firehose/firehose_server_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_STATE_IO_CANCELED",
+    "source": "libdispatch/src/firehose/firehose_server_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_STATE_CANCELED_MASK",
+    "source": "libdispatch/src/firehose/firehose_server_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "RDAR_49023449",
+    "source": "libdispatch/src/init.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_dispatch_unsafe_fork",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_dispatch_kevent_workqueue_enabled",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_dispatch_thread_bound_kqwl_enabled",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "dqo_version",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_flags",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_flags_size",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_running",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_running_size",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_suspend_cnt",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_suspend_cnt_size",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_priority",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqo_priority_size",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dal_version",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "dti_version",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dgq_thread_pool_size",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "dq_serialnum",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dgq_thread_pool_size",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dgq_thread_pool_size",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "tv_usec",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "os_obj_ref_cnt",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "os_obj_xref_cnt",
+    "source": "libdispatch/src/init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dq_state",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_WLH_STORAGE_REF",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dequeue_mask",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "owned",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_dbp",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "owned",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "add_on",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PRIORITY_PROPAGATE_CURRENT",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PRIORITY_PROPAGATE_FOR_SYNC_IPC",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/inline_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_MACH_SPI",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_VOUCHER_CREATION_SPI",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_VOUCHER_ACTIVITY_SPI",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_VOUCHER_ACTIVITY_GENERATE_SWAPS",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_FIREHOSE_SPI",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_LAYOUT_SPI",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_CHANNEL_SPI",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DYLD_IS_MEMORY_IMMUTABLE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DYLD_IS_MEMORY_IMMUTABLE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_OBJC",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_HAVE_OBJC_SUPPORT",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_USE_OBJC",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_OBJECT_SWIFT3",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_USE_OBJC",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_OBJECT_HAVE_OBJC_SUPPORT",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PURE_C",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_PURE_C",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_OS_FAULT_WITH_PAYLOAD",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_OS_FAULT_WITH_PAYLOAD",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_CLIENT_CALLOUT",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_ALLOW_NON_LEAF_RETARGET",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_DEBUG",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PROFILE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_DTRACE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_DTRACE_INTROSPECTION",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "NSEC_PER_SEC",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "USEC_PER_SEC",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "NSEC_PER_USEC",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_OS_DEBUG_LOG",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_SIMPLE_ASL",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PERF_MON",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_WORKQUEUE_QOS",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_PTHREAD_WORKQUEUE_QOS",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_WORKQUEUE_KEVENT",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_PTHREAD_WORKQUEUE_KEVENT",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_WORKQUEUE_WORKLOOP",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_PTHREAD_WORKQUEUE_WORKLOOP",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_WORKQUEUE_NARROWING",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_WORKQUEUE_NARROWING",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_COOPERATIVE_WORKQUEUE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_COOPERATIVE_WORKQUEUE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_OS_WORKGROUP_TG_PREADOPTION",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_OS_WORKGROUP_TG_PREADOPTION",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_SUPPORTS_THREAD_BOUND_KQWL",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SUPPORTS_THREAD_BOUND_KQWL",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_PTHREAD_ROOT_QUEUES",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_PTHREAD_ROOT_QUEUES",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_PTHREAD_POOL",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_PTHREAD_POOL",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_KEVENT_WORKQUEUE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_KEVENT_WORKQUEUE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_MGR_THREAD",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_MGR_THREAD",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_KEVENT_WORKLOOP",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_KEVENT_WORKLOOP",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_MEMORYSTATUS",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_MEMORYPRESSURE_SOURCE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_MEMORYPRESSURE_SOURCE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_SETNOSIGPIPE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_CHECKIN_NOIMPORTANCE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_NOIMPORTANCE_QOS",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_IMPORTANCE_ASSERTION",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_GUARDED_FD",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2E",
+    "name": "DBG_DISPATCH",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBG_FUNC_START",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBG_FUNC_END",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ARIADNE_ENTER_DISPATCH_MAIN_CODE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_VOUCHER_KDEBUG_TRACE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TRACE_SUBCLASS_DEFAULT",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_TRACE_SUBCLASS_VOUCHER",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DISPATCH_TRACE_SUBCLASS_PERF",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISPATCH_TRACE_SUBCLASS_MACH_MSG",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DISPATCH_TRACE_SUBCLASS_PERF_MON",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DISPATCH_TRACE_SUBCLASS_QOS_TRACE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "DISPATCH_TRACE_SUBCLASS_FIREHOSE_TRACE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ARIADNE_ENTER_DISPATCH_MAIN_CODE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_VOUCHER_KDEBUG_TRACE",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACH_MSGH_BITS_VOUCHER_MASK",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACH_SEND_INVALID_VOUCHER",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "VOUCHER_USE_MACH_VOUCHER",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "VOUCHER_USE_EMPTY_MACH_BASE_VOUCHER",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOUCHER_USE_EMPTY_MACH_BASE_VOUCHER",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "VOUCHER_USE_PERSONA",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOUCHER_USE_PERSONA",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_IMPORTANCE_ASSERTION",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MACH_RCV_VOUCHER",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOUCHER_USE_PERSONA",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "VOUCHER_USE_PERSONA_ADOPT_ANY",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOUCHER_USE_PERSONA_ADOPT_ANY",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_EVENTLINK_USE_MACH_EVENTLINK",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_EVENTLINK_USE_MACH_EVENTLINK",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_SEND_ACTIVITY_IN_MSGV",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_SEND_ACTIVITY_IN_MSGV",
+    "source": "libdispatch/src/internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PRIORITY_ENFORCE",
+    "source": "libdispatch/src/internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VOUCHER_REPLACE",
+    "source": "libdispatch/src/internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VOUCHER_CONSUME",
+    "source": "libdispatch/src/internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_THREAD_PARK",
+    "source": "libdispatch/src/internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "introspection_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "hooks_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "queue_item_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "queue_block_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "queue_function_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "queue_thread_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "object_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "queue_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "source_version",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "width",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suspend_count",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "draining",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "global",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "main",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dc_flags",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dc_flags",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pcs_skip",
+    "source": "libdispatch/src/introspection.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dispatch_introspection_runtime_event_worker_event_delivery",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "dispatch_introspection_runtime_event_worker_unpark",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "dispatch_introspection_runtime_event_worker_request",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "dispatch_introspection_runtime_event_worker_park",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "dispatch_introspection_runtime_event_sync_wait",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "dispatch_introspection_runtime_event_async_sync_handoff",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "dispatch_introspection_runtime_event_sync_sync_handoff",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "dispatch_introspection_runtime_event_sync_async_handoff",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_BARRIER",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_SYNC",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_APPLY",
+    "source": "libdispatch/src/introspection_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_OP_COMPLETE",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_IOCNTL_CHUNK_PAGES",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_xref_cnt",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd_flags",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwDesiredAccess",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "value",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "direction",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "direction",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_xref_cnt",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_siz",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "processed",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "processed",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_len",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_len",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "undelivered",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "_DISPATCH_IO_LABEL_SIZE",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "DIO_HASH_SIZE",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "DIO_HASH_SIZE",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DIO_DEFAULT_LOW_WATER_CHUNKS",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "DIO_MAX_PENDING_IO_REQS",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOP_DIR_READ",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOP_DEFAULT",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DOP_DELIVER",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DOP_DONE",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DOP_STOP",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DOP_NO_EMPTY",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DIO_CLOSED",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DIO_STOPPED",
+    "source": "libdispatch/src/io_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_RETURN_IMMEDIATE_SEND_RESULT",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_REGISTER_FOR_REPLY",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_WAIT_FOR_REPLY",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_OPTIONS_MASK",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DM_SEND_STATUS_SUCCESS",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DM_SEND_STATUS_RETURNING_IMMEDIATE_SEND_RESULT",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DM_SEND_INVOKE_NONE",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DM_SEND_INVOKE_MAKE_DIRTY",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DM_SEND_INVOKE_NEEDS_BARRIER",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DM_SEND_INVOKE_CAN_RUN_BARRIER",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DM_SEND_INVOKE_IMMEDIATE_SEND",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMCF_NONE",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMCF_HANDLER_IS_BLOCK",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMCF_IS_XPC",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMCF_USE_STRICT_REPLY",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sync",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sync",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMRU_DUU_MASK",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMRU_DISCONNECTED",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMRU_REMOVE",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMRU_ASYNC_MERGE",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMRU_CANCEL",
+    "source": "libdispatch/src/mach.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "err_ptr",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgsiz",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "send_status",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "udata_sz",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dm_needs_mgr",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kr",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opts",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_rcv_addr",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_rcv_size",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_rcv_addr",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgv_rcv_size",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wflags",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_state",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "canlock_state",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state_flags",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wflags",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state_flags",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wflags",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "du_ident",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmsg_priority",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "du_ident",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dm_needs_mgr",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dm_connect_handler_called",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dm_cancel_handler_called",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kr",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "assertion_token",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "cnt",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RetCode",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_size",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "assertion_token",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_remote_port",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_remote_port",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "receive",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "send",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/mach.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_SEND_DELETED",
+    "source": "libdispatch/src/mach_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MACH_RECV_MESSAGE",
+    "source": "libdispatch/src/mach_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "os_obj_ref_cnt",
+    "source": "libdispatch/src/object.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "os_obj_xref_cnt",
+    "source": "libdispatch/src/object.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/object.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WAKEUP_CONSUME_2",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WAKEUP_MAKE_DIRTY",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WAKEUP_BARRIER_COMPLETE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WAKEUP_BLOCK_WAIT",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WAKEUP_EVENT",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WAKEUP_CLEAR_ACTIVATING",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_THREAD_IS_NARROWING",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dic_next_narrow_check",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_NONE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_STEALING",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_WLH",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_ASYNC_REPLY",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_DISALLOW_SYNC_WAITERS",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_AGAIN",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_INVOKE_PROPAGATE_MASK",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_WORKER_DRAIN",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_REDIRECTING_DRAIN",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_MANAGER_DRAIN",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_THREAD_BOUND",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_WORKLOOP_DRAIN",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_COOPERATIVE_DRAIN",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_INVOKE_DRAIN_MODE_MASK",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_AUTORELEASE_ALWAYS",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_AUTORELEASE_NEVER",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_INVOKE_AUTORELEASE_MASK",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_INVOKE_DISABLED_NARROWING",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_META_TYPE_MASK",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_TYPE_CLUSTER_MASK",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_SUB_TYPE_MASK",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_TYPEFLAGS_MASK",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_OBJECT_CLUSTER",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_CONTINUATION_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_SWIFT_JOB_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_SEMAPHORE_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_NODE_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_IO_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_OPERATION_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DISK_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_QUEUE_CLUSTER",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_LANE_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_WORKLOOP_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_SOURCE_TYPE",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_QUEUE_ROOT_TYPEFLAG",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_QUEUE_BASE_TYPEFLAG",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_NO_CONTEXT_TYPEFLAG",
+    "source": "libdispatch/src/object_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pri",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pri",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "op",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_BLOCK_ASYNC_INVOKE_RELEASE",
+    "source": "libdispatch/src/queue.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_owner",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "enqueue",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "op",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "op",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tq_clear",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dq_set",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dq_state",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sc",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sc",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sc",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thread_id",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "width",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thread",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "DISPATCH_PERF_MON_BUCKETS",
+    "source": "libdispatch/src/queue.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bucket",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bucket",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sched_priority",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kern_thread_bound_kqwl_enabled",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwla_pri",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_owner",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enqueued",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enqueud",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enqueued",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qos",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "policy",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qos",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qos",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hThread",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invoke_flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rq_flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "timeout",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqf",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mpl_qlimit",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "width_per_cooperative_queue",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "workq_cb",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kevent_cb",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "workloop_cb",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_dispatch_set_qos_class_enabled",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stack_size",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tid",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/queue.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_NONE",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_AUTORELEASE_ALWAYS",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_AUTORELEASE_NEVER",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DQF_AUTORELEASE_MASK",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_THREAD_BOUND",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_BARRIER_BIT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_TARGETED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_LABEL_NEEDS_FREE",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_MUTABLE",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_RELEASED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DQF_TARGET_SPECIAL_WLH",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSF_STRICT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSF_WLH_CHANGED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSF_CANCELED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSF_CANCEL_WAITER",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSF_NEEDS_EVENT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSF_DELETED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_SUSPEND_INTERVAL",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_SUSPEND_HALF",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_HAS_SIDE_SUSPEND_CNT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_INACTIVE",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_ACTIVATED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_ACTIVATING",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_INACTIVE_BITS_MASK",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_SUSPEND_BITS_MASK",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_IN_BARRIER",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_WIDTH_FULL_BIT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_WIDTH_FULL",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_WIDTH_INTERVAL",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_WIDTH_MASK",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29",
+    "name": "DISPATCH_QUEUE_WIDTH_SHIFT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_PENDING_BARRIER",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_DIRTY",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_ENQUEUED_ON_MGR",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_ROLE_MASK",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_ROLE_BASE_WLH",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_ROLE_BASE_ANON",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_ROLE_INNER",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_RECEIVED_OVERRIDE",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_RECEIVED_SYNC_WAIT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_QUEUE_MAX_QOS_MASK",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "DISPATCH_QUEUE_MAX_QOS_SHIFT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WORKLOOP_ATTR_HAS_SCHED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WORKLOOP_ATTR_HAS_POLICY",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WORKLOOP_ATTR_HAS_CPUPERCENT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WORKLOOP_ATTR_HAS_QOS_CLASS",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WORKLOOP_ATTR_NEEDS_DESTROY",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WORKLOOP_ATTR_HAS_OBSERVERS",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_WORKLOOP_ATTR_HAS_BOUND_THREAD",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dgq_pending",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dgq_pending",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_IOHID_SPI",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_BARRIER_TRYSYNC_SUSPEND",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISPATCH_ROOT_QUEUE_FLAVORS",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_ROOT_QUEUE_IDX_MAINTENANCE_QOS",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "DISPATCH_QUEUE_SERIAL_NUMBER_INIT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "DISPATCH_QUEUE_SERIAL_NUMBER_WLF",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_dispatch_queue_attr_overcommit_unspecified",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISPATCH_QUEUE_ATTR_OVERCOMMIT_COUNT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISPATCH_QUEUE_ATTR_AUTORELEASE_FREQUENCY_COUNT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DISPATCH_QUEUE_ATTR_CONCURRENCY_COUNT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DISPATCH_QUEUE_ATTR_INACTIVE_COUNT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "_DISPATCH_CONTINUATION_PTRS",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_SYNC_WAITER",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_BARRIER",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_CONSUME",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_GROUP_ASYNC",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_BLOCK",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_BLOCK_WITH_PRIVATE_DATA",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_FETCH_CONTEXT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_ASYNC_AND_WAIT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_ALLOCATED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_NO_INTROSPECTION",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_FLAG_CHANNEL_ITEM",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x70",
+    "name": "DISPATCH_CONTINUATION_CACHE_LIMIT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "DISPATCH_CONTINUATION_CACHE_LIMIT_MEMORYPRESSURE_PRESSURE_WARN",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "DISPATCH_CONTINUATION_CACHE_LIMIT",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "DISPATCH_CONTINUATION_CACHE_LIMIT_MEMORYPRESSURE_PRESSURE_WARN",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DC_USER_TYPE",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_APPLY_ATTR_SIG",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_APPLY_USE_CONTINUATION_ALLOCATOR",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_APPLY_USE_CONTINUATION_ALLOCATOR",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_APPLY_USE_CONTINUATION_ALLOCATOR",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DBF_CANCELED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DBF_WAITING",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DBF_WAITED",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DBF_PERFORM",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_BLOCK_PRIVATE_DATA_MAGIC",
+    "source": "libdispatch/src/queue_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/semaphore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "libdispatch/src/semaphore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/semaphore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_GROUP_GEN_MASK",
+    "source": "libdispatch/src/semaphore_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_GROUP_VALUE_MASK",
+    "source": "libdispatch/src/semaphore_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_GROUP_VALUE_INTERVAL",
+    "source": "libdispatch/src/semaphore_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_GROUP_HAS_NOTIFS",
+    "source": "libdispatch/src/semaphore_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_GROUP_HAS_WAITERS",
+    "source": "libdispatch/src/semaphore_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFA0",
+    "name": "O_NONBLOCK",
+    "source": "libdispatch/src/shims/generic_win_stubs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "FilePipeLocalInformation",
+    "source": "libdispatch/src/shims/generic_win_stubs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_WIN32_WINNT",
+    "source": "libdispatch/src/shims/getprogname.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DISPATCH_SIZEOF_PTR",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DISPATCH_SIZEOF_PTR",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DISPATCH_SIZEOF_PTR",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DISPATCH_SIZEOF_PTR",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "DISPATCH_CACHELINE_SIZE",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_HAVE_HW_CONFIG_COMMPAGE",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "val",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProcessorLogicalCount",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProcessorPhysicalCount",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwSize",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwSize",
+    "source": "libdispatch/src/shims/hw_config.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_OS_SEMAPHORE_CACHE",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_OS_SEMAPHORE_CACHE",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "best_resolution",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sema",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usecs",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timeout",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timeout",
+    "source": "libdispatch/src/shims/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DLOCK_LOCK_NONE",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DLOCK_LOCK_DATA_CONTENTION",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UL_COMPARE_AND_WAIT",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UL_UNFAIR_LOCK",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FUTEX",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_FUTEX",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_ONCE_USE_QUIESCENT_COUNTER",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_ONCE_USE_QUIESCENT_COUNTER",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_ONCE_USE_QUIESCENT_COUNTER",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DSEMA4_POLICY_FIFO",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DSEMA4_POLICY_LIFO",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DSEMA4_POLICY_FIFO",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DSEMA4_POLICY_LIFO",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dte_value",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "N",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "G",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "G",
+    "source": "libdispatch/src/shims/lock.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "perfmon_thread_no_trace",
+    "source": "libdispatch/src/shims/perfmon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "perfmon_start",
+    "source": "libdispatch/src/shims/perfmon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_OVERCOMMIT_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_SCHED_PRI_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_FALLBACK_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_EVENT_MANAGER_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_NEEDS_UNBIND_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_COOPERATIVE_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_USER_INTERACTIVE",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_USER_INITIATED",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_DEFAULT",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_UTILITY",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_BACKGROUND",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_MAINTENANCE",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_UNSPECIFIED",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_OVERCOMMIT_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_SCHED_PRI_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_FALLBACK_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_COOPERATIVE_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_EVENT_MANAGER_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_NEEDS_UNBIND_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_ENFORCE_FLAG",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_QOS_CLASS_MASK",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_PRIORITY_PRIORITY_MASK",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DISPATCH_PRIORITY_QOS_SHIFT",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "DISPATCH_PRIORITY_FALLBACK_QOS_SHIFT",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "DISPATCH_PRIORITY_OVERRIDE_SHIFT",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PRIORITY_RELPRI_SHIFT",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pp",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PRIORITY_TO_PP_STRIP_FLAGS",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_PRIORITY_TO_PP_PREFER_FALLBACK",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "relpri",
+    "source": "libdispatch/src/shims/priority.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_TIME_UNIT_USES_NANOSECONDS",
+    "source": "libdispatch/src/shims/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_TIME_UNIT_USES_NANOSECONDS",
+    "source": "libdispatch/src/shims/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_HOST_TIME",
+    "source": "libdispatch/src/shims/time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2B6109100",
+    "name": "kNTToUNIXBiasAdjustment",
+    "source": "libdispatch/src/shims/time.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_DIRECT_TSD",
+    "source": "libdispatch/src/shims/tsd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "spins",
+    "source": "libdispatch/src/shims/yield.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_spins",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "DISPATCH_WAIT_SPINS_WFE",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "DISPATCH_WAIT_SPINS",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_seed",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_HAVE_YIELD_TO_ENQUEUER",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_HAVE_YIELD_TO_ENQUEUER",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FIREHOSE_YIELD_TO_ENQUEUER",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIREHOSE_YIELD_TO_ENQUEUER",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "DISPATCH_CONTENTION_USLEEP_START",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "DISPATCH_CONTENTION_USLEEP_START",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "DISPATCH_CONTENTION_USLEEP_MAX",
+    "source": "libdispatch/src/shims/yield.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "DISPATCH_WORKQ_MAX_PTHREAD_COUNT",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "DISPATCH_WORKQ_MAX_PTHREAD_COUNT",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PTHREAD_SET_SELF_WQ_KEVENT_UNBIND",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_PTHREAD_QOS_MAX_PARALLELISM",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MAX_PARALLELISM_PHYSICAL",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_MAX_PARALLELISM_ACTIVE",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libdispatch/src/shims.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_USE_PTHREAD_CLUSTER_PARALLELISM",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_PTHREAD_CLUSTER_PARALLELISM",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_USE_PTHREAD_CLUSTER_PARALLELISM",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cluster_count",
+    "source": "libdispatch/src/shims.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "libdispatch/src/shims.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "libdispatch/src/shims.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_ATOMIC_UP",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_ATOMIC_UP",
+    "source": "libdispatch/src/shims.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dc_flags",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ds_pending_data",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ds_data",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interval",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interval",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7009D32DA30000",
+    "name": "FOREVER_NSEC",
+    "source": "libdispatch/src/source.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "leeway",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "leeway",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ident",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interval",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/source.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libdispatch/src/swift/Data.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copiedCount",
+    "source": "libdispatch/src/swift/Data.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copyRange",
+    "source": "libdispatch/src/swift/Data.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/swift/Data.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libdispatch/src/swift/Data.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Int",
+    "source": "libdispatch/src/swift/Data.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_count",
+    "source": "libdispatch/src/swift/Data.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31",
+    "name": "Int",
+    "source": "libdispatch/src/swift/Dispatch.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stream",
+    "source": "libdispatch/src/swift/IO.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "random",
+    "source": "libdispatch/src/swift/IO.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rawValue",
+    "source": "libdispatch/src/swift/IO.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Int32",
+    "source": "libdispatch/src/swift/Queue.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_USER_INTERACTIVE",
+    "source": "libdispatch/src/swift/Wrapper.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_USER_INITIATED",
+    "source": "libdispatch/src/swift/Wrapper.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_DEFAULT",
+    "source": "libdispatch/src/swift/Wrapper.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_UTILITY",
+    "source": "libdispatch/src/swift/Wrapper.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_BACKGROUND",
+    "source": "libdispatch/src/swift/Wrapper.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QOS_CLASS_UNSPECIFIED",
+    "source": "libdispatch/src/swift/Wrapper.swift",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "value",
+    "source": "libdispatch/src/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clock_out",
+    "source": "libdispatch/src/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "deadline",
+    "source": "libdispatch/src/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_KTRACE_ENABLED",
+    "source": "libdispatch/src/trace.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4D2",
+    "name": "OSLittleEndian",
+    "source": "libdispatch/src/transform.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E1",
+    "name": "OSBigEndian",
+    "source": "libdispatch/src/transform.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_NONE",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_UTF8",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_UTF16LE",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_UTF16BE",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_UTF_ANY",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_BASE32",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_BASE32HEX",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_DISPATCH_DATA_FORMAT_BASE64",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wch",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wch",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wch",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pad",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "input_mask",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_mask",
+    "source": "libdispatch/src/transform.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "MACH_ACTIVITY_ID_RANGE_SIZE",
+    "source": "libdispatch/src/voucher.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "udata_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kvr_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "udata_sz",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "udata_sz",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dec",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kvc_out_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_activity",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_activity_creator",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_parent_activity",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_recipe_extra_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_recipe_extra_offset",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_voucher_task_mach_voucher_pred",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_voucher_aid_next",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_firehose_task_buffer_pred",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kvc_in_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kvc_in_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "udata_sz",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgdh_reserved",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "version",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va_id",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator_id",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pubsize",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator_pid",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va_id",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator_pid",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x25",
+    "name": "IKOT_VOUCHER",
+    "source": "libdispatch/src/voucher.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "VOUCHER_CONTENTS_SIZE",
+    "source": "libdispatch/src/voucher.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAX_HEX_DATA_SIZE",
+    "source": "libdispatch/src/voucher.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_kobject",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_kotype",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used_size",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator_pid",
+    "source": "libdispatch/src/voucher.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_VOUCHER_DEBUG",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_VOUCHER_ACTIVITY_DEBUG",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOUCHER_FIELD_NONE",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "VOUCHER_FIELD_KVOUCHER",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "VOUCHER_FIELD_ACTIVITY",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "VOUCHER_FIELD_EXTRA",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOUCHER_FIELD_EXTRA",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vhe_prev_ptr",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "VL_HASH_SIZE",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "VL_HASH_SIZE",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISPATCH_VOUCHER_OBJC_DEBUG",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISPATCH_VOUCHER_OBJC_DEBUG",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_bits",
+    "source": "libdispatch/src/voucher_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PTHREAD_WORKGROUP_SPI",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "wg_attr_flags",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "complexity",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "complexity",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wi_flags",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "workload_id_flags",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "complexity",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "complexity",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_index",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_finish",
+    "source": "libdispatch/src/workgroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "OS_WORKGROUP_LOG_ERRORS",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_TYPE_DEFAULT",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_TYPE_PARALLEL",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_OS_WORKGROUP_ATTR_RESOLVED_INIT",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_OS_WORKGROUP_JOIN_TOKEN_SIG_INIT",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "OS_WORKGROUP_JOINED_COUNT_SHIFT",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_ARENA_MASK",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x60",
+    "name": "OS_WORKGROUP_JOINED_COUNT_SHIFT",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OS_WORKGROUP_ARENA_MASK",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "OS_WORKGROUP_TELEMETRY_BASIC_SIZE_V1",
+    "source": "libdispatch/src/workgroup_internal.h",
+    "type": "PreprocessorConstant"
+  }
+]

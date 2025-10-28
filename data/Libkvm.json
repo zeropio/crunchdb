@@ -1,0 +1,212 @@
+[
+  {
+    "hex": "0x0",
+    "name": "vmst",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "db",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "procbase",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argspc",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "program",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "db",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nvalid",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libkvm/kvm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "X_AVERUNNABLE",
+    "source": "Libkvm/kvm_getloadavg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "X_FSCALE",
+    "source": "Libkvm/kvm_getloadavg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libkvm/kvm_getloadavg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_name",
+    "source": "Libkvm/kvm_hp300.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Sysseg",
+    "source": "Libkvm/kvm_hp300.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_name",
+    "source": "Libkvm/kvm_mips.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "procbase",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_name",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "procbase",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libkvm/kvm_proc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "NPMEG",
+    "source": "Libkvm/kvm_sparc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "NPGBANK",
+    "source": "Libkvm/kvm_sparc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BSHIFT",
+    "source": "Libkvm/kvm_sparc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libkvm/kvm_sparc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libkvm/kvm_sparc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libkvm/kvm_sparc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_name",
+    "source": "Libkvm/kvm_sparc.c",
+    "type": "EnumCase"
+  }
+]

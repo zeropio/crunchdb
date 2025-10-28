@@ -1,0 +1,248 @@
+[
+  {
+    "hex": "0x1",
+    "name": "CORE_PRIVATE",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "TITLE_MAX",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1FF",
+    "name": "TXT_MAX",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "REGNAME_MAX",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "PORT_MAX",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "MAX_NAME_FORMAT",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONFIG_MODE_SERVER",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CONFIG_MODE_DIRECTORY",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CONFIG_MODE_COMBO",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "allUsersDone",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "templateIndexMM",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "templateIndexFD",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serviceRef",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelts",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "templateIndexMM",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "globalErr",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "globalErr",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeCount",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrListRef",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recordCount",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirIndexNameCount",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "allUsersDone",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "globalErr",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initCount",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "globalErr",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "globalErr",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "congenital",
+    "source": "apache_mod_rendezvous_apple/mod_rendezvous_apple.c",
+    "type": "EnumCase"
+  }
+]

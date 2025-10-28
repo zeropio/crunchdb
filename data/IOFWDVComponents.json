@@ -1,0 +1,2114 @@
+[
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOFWDVComponents/DVControlComponent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVControlComponent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "kNTSCCompressedBufferSize",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23280",
+    "name": "kPALCompressedBufferSize",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kMaxNotifications",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "inited",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fOpens",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumDevices",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumAlive",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "inited",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wantedEvents",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wantedEvents",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wantedEvents",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "fNumOutputFrames",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fOpens",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerAddress",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "commandLength",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "responseBufferSize",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVFamily.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVRequestID",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ALT_TIMING",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_P2P_CONNECTIONS_FOR_DV_READ",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "PAGE_SIZE",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNoPlug",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E",
+    "name": "kWriteChannel",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3D",
+    "name": "kReadChannel",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNoP2PConnection",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kWriteP2PConnection",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kReadP2PConnection",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAVCSignalModeDVCPro50_525_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAVCSignalModeDVCPro50_625_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAVCSignalModeDVCPro100_525_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAVCSignalModeDVCPro100_625_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAVCSignalModeMask_DVCPro50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAVCSignalModeMask_DVCPro100",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAVCSignalModeMask_HD",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVRunning",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kDVStopped",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kDVWriteOverrun",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kDVReadOverrun",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kDVStopping",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPALBit",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSTypeMask",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSTypeSD",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSTypeSDL",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSTypeHD",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kNumPacketsPerInputBuffer",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E0",
+    "name": "kDVSDPayloadPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF0",
+    "name": "kDVSDLPayloadPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C0",
+    "name": "kDVHDPayloadPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C0",
+    "name": "kDVCPro50PayloadPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x780",
+    "name": "kDVCPro100PayloadPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kNumPingPongs",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kNumPacketsPerPingPong",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNumDCLsPerPingPongPacket",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kMaxDCLSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB5",
+    "name": "kNTSCFrameRateNumerator",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kNTSCFrameRateDenominator",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA",
+    "name": "kNTSCNumDataPacketsPerDVFrame",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D",
+    "name": "kNTSCNumDataPacketsPerGroup",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "kPALFrameRateNumerator",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPALFrameRateDenominator",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "kPALNumDataPacketsPerDVFrame",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x96",
+    "name": "kPALNumDataPacketsPerGroup",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kDVPacketAlignSlop",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kDVPacketCIPSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kPlaySYTDelay",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "kFrameSize_SD525_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "kFrameSize_DVCPro525_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23280",
+    "name": "kFrameSize_SD625_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23280",
+    "name": "kFrameSize_DVCPro625_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xEA60",
+    "name": "kFrameSize_SDL525_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11940",
+    "name": "kFrameSize_SDL625_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A980",
+    "name": "kFrameSize_DVCPro50_525_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A980",
+    "name": "kFrameSize_HD1125_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x46500",
+    "name": "kFrameSize_DVCPro50_625_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x46500",
+    "name": "kFrameSize_HD1250_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x75300",
+    "name": "kFrameSize_DVCPro100_525_60",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8CA00",
+    "name": "kFrameSize_DVCPro100_625_50",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "REGISTER_THREADS_WITH_GC",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REGISTER_THREADS_WITH_GC",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeID",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressLo",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pMode",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refound",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "device",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refound",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fDVFormats",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fDVFormats",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "delay",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "delay",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nextTick",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dict",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "period",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "computation",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "constraint",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSyncRequest",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSyncRequest",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultInterface",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSyncRequest",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeID",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressLo",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "size",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fChannelMask",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fChannelMask",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fReader",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fWriter",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDroppedFrames",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fStatus",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedPool",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "updateListSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "updateListSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "n",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "n",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastFrameSequence",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataPacketNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pBufferGroupTimeStampPtr",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pBufferGroupTimeStampPtr",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferGroupNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader0",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader1",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader0",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader1",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader0",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader1",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader0",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader1",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader0",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader1",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader0",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fHeader1",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fAlignedPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tag",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "emptySoFar",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "totalDCLSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalPackets",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "activePackets",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tagBits",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "syncBits",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferGroupNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataPacketNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numPackets",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "emptyPacketNumerator",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nominalProgramCycleTime",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nominalActivePackets",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycleDrift",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pTimeStampPtr",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numDCLCommands",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferGroupNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fUpdateBuffers",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fUpdateBuffers",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextDBC",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextDataPacketNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDMAPos",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferGroupNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pingPongNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTimeStampPtr",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fState",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSynced",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fn",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fn",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "packetSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "packetSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "packetSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetCount",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetCount",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTimeStampPtr",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTimeStampPtr",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetCount",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fState",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFC",
+    "name": "packetBufferSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "alignedDVPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3CC",
+    "name": "packetBufferSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "alignedDVPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x78C",
+    "name": "packetBufferSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "alignedDVPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1EC",
+    "name": "packetBufferSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "alignedDVPacketSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pingPongNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeStampPtr",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "updateListSize",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetNum",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLogPos",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/DVLib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TIMING",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIDH_Verbose_Debug_Logging",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kDVMaxDevicesActive",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kDVMaxStreamsActive",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "kLogSize",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kNumPlayBufferGroups",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kDVMaxFrames",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEmpty",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kReading",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kWriting",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kReady",
+    "source": "IOFWDVComponents/DVLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFE998",
+    "name": "kIsocCodecBaseID",
+    "source": "IOFWDVComponents/IOFWDVComponents.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFE999",
+    "name": "kControlCodecBaseID",
+    "source": "IOFWDVComponents/IOFWDVComponents.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/AVCTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pos",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentSubType",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentManufacturer",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlags",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlagsMask",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aComponent",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "IOFWDVComponents/tests/devicetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sWrite",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sLoop",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pos",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destruct",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sWrite",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sWrite",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "destruct",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sLoop",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sSDL",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sDVCPro",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sNotifyTest",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/DVTest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "PAGE_SIZE",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "frameSize",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sGUID",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer1Length",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer2Length",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diskBufferEnd",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diskBufferEnd",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "completionProc",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "frameSize",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23280",
+    "name": "frameSize",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pos",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sSDL",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sDVCPro50",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sSDL",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sDVCPro50",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentSubType",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentManufacturer",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlags",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlagsMask",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aComponent",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iters",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "done",
+    "source": "IOFWDVComponents/tests/readtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TARGET_CARBON",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "requestedCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "requestedCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "requestedCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "completionProc",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "requestedCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "requestedCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "completionProc",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "requestedCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentType",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentSubType",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentManufacturer",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlags",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlagsMask",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aComponent",
+    "source": "IOFWDVComponents/tests/testcomp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "WRITEBUFF",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SYNC",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "issued",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "completed",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "finished",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D4C0",
+    "name": "frameSize",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sFormat",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sGUID",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "finished",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "finished",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "finished",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pos",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sSDL",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sDVCPro",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sDVCPro50",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sSDL",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sDVCPro",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sDVCPro50",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sLoop",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentSubType",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentManufacturer",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlags",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "componentFlagsMask",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aComponent",
+    "source": "IOFWDVComponents/tests/writetest.c",
+    "type": "EnumCase"
+  }
+]

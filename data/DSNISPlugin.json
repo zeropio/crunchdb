@@ -1,0 +1,1478 @@
+[
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "callTimedOut",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_size",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_count",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pipe_fd",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_timedout",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line_output_size",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_timedout",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "killed",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "killed",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_FORMAT_STR_SIZE",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ppid",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "nb_tries",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "try_again",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "try_again",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__CommandLineUtilities__",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENOERR",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "kTimeOutVal",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DEFAULT_EXEC_DELAY",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "KILL_CHILDREN_IF_TIMEOUT",
+    "source": "DSNISPlugin/HelperCode/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/dsutil.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "len",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "paren",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/HelperCode/ffparser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUILDING_NSLDEBUG",
+    "source": "DSNISPlugin/NIS/BSDDebugLog.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOG_ALWAYS",
+    "source": "DSNISPlugin/NIS/BSDDebugLog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUILDING_NSLDEBUG",
+    "source": "DSNISPlugin/NIS/BSDDebugLog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXLINE",
+    "source": "DSNISPlugin/NIS/BSDDebugLog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mCurrentIndex",
+    "source": "DSNISPlugin/NIS/BSDDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mDelCounter",
+    "source": "DSNISPlugin/NIS/BSDDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRefCounter",
+    "source": "DSNISPlugin/NIS/BSDDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNISPlugin/NIS/BSDDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_NISDirNodeRep_",
+    "source": "DSNISPlugin/NIS/BSDDirNodeRep.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTaskInterval",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "kMaxSizeOfParam",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "kBuffPad",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kNumLookupTypes",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kMaxNumAgents",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x57E0656E",
+    "name": "gBundleIdentifier",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLastTimeCacheReset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAttempts",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aRequest",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "authRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "authRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xmlDataLength",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "recEntryCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirNodeRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userRecRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userRecRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userRecRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirNodeRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "callTimedOut",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "callTimedOut",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiOffset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uiCntr",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAttrCnt",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "length",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "adjustment",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrTypeLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrCnt",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueCnt",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAttrEntrySize",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiOffset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiTotalValueSize",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "offset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffSize",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "fAttributeValueMaxSize",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueCnt",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrNameLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffSize",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "countDownRecTypes",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutRecEntryCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutRecEntryCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fRecNameIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllRecIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTotalRecCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fRecTypeIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fAttrIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLimitRecSearch",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutRecEntryCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutRecRef",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiDataLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "countDownRecTypes",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutMatchRecordCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fRecNameIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllRecIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTotalRecCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fRecTypeIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fAttrIndex",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLimitRecSearch",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutMatchRecordCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outRecEntryCount",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recordNameLength",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recTypeLength",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numAttrTypes",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numDataBlocks",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "index",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modTimeOfFile",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "callTimedOut",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAuthMethod",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAuthMethod",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nameLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pwdLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffSize",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiNativeLen",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kOffset",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "kHexData",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "kBufferTooBig",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2800",
+    "name": "kMaxBufSize",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "numCharsOnLine",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gDebuggingNSL",
+    "source": "DSNISPlugin/NIS/BSDPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_BSDPlugin_",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x72656164",
+    "name": "kReadNISConfigData",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x77726974",
+    "name": "kWriteNISConfigData",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5",
+    "name": "kMaxTimeForMapCacheToLive",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4C4",
+    "name": "kAuthUnknownMethod",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C5",
+    "name": "kAuthClearText",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C6",
+    "name": "kAuthCrypt",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x52B",
+    "name": "kAuthSetPasswd",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C8",
+    "name": "kAuthSetPasswdAsRoot",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C9",
+    "name": "kAuthChangePasswd",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4CA",
+    "name": "kAuthAPOP",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4CB",
+    "name": "kAuth2WayRandom",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4CC",
+    "name": "kAuthNativeClearTextOK",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4CD",
+    "name": "kAuthNativeNoClearText",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4CE",
+    "name": "kAuthNIS_NT_Key",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4CF",
+    "name": "kAuthNIS_LM_Key",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4D0",
+    "name": "kAuthNativeMethod",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4D1",
+    "name": "kAuthCRAM_MD5",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNISypcat",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNISdomainname",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNISrpcinfo",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kNISportmap",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kNISbind",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kNISypwhich",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kNISypmatch",
+    "source": "DSNISPlugin/NIS/BSDPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_BSDResult_",
+    "source": "DSNISPlugin/NIS/BSDResult.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNISPlugin/NIS/crypt-md5.cpp",
+    "type": "EnumCase"
+  }
+]

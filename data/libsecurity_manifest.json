@@ -1,0 +1,380 @@
+[
+  {
+    "hex": "0x8",
+    "name": "kLengthLength",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "finger",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libsecurity_manifest/lib/AppleManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mCurrentHash",
+    "source": "libsecurity_manifest/lib/Download.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBytesInCurrentDigest",
+    "source": "libsecurity_manifest/lib/Download.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/Download.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libsecurity_manifest/lib/Download.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBytesInCurrentDigest",
+    "source": "libsecurity_manifest/lib/Download.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mNumForks",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "mNumForks",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "mNumForks",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kReadChunkSize",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kAppleDoublePrefixLength",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/ManifestInternal.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kSHA1DigestSize",
+    "source": "libsecurity_manifest/lib/ManifestInternal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMaxForks",
+    "source": "libsecurity_manifest/lib/ManifestInternal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "libsecurity_manifest/lib/SecManifest.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecManifestVerifyOwnerAndGroup",
+    "source": "libsecurity_manifest/lib/SecManifest.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecureDownloadDoNotEvaluateSigner",
+    "source": "libsecurity_manifest/lib/SecureDownload.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecureDownloadEvaluateSigner",
+    "source": "libsecurity_manifest/lib/SecureDownload.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSecureDownloadFailEvaluation",
+    "source": "libsecurity_manifest/lib/SecureDownload.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skip",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skip",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "column",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "column",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "descend",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "descend",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "descend",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "descend",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_manifest/lib/SecureDownloadInternal.c",
+    "type": "EnumCase"
+  }
+]

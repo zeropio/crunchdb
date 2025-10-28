@@ -1,0 +1,1922 @@
+[
+  {
+    "hex": "0x1",
+    "name": "ENABLE_COLOR",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ENABLE_MULTIBUFFER",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ENABLE_NANORC",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ENABLE_UTF8",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT_LONG",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ICONV",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISBLANK",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISWALNUM",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISWBLANK",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISWPUNCT",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ISWSPACE",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIMITS_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MBLEN",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MBSTOWCS",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MBTOWC",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_NCURSES_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_REGEX_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCASECMP",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCASESTR",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRNCASECMP",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_PARAM_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_USE_DEFAULT_COLORS",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VPRINTF",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VSNPRINTF",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCHAR_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCTOMB",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCTYPE_H",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCWIDTH",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NANO_EXTRA",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NDEBUG",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "nano/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "filelist_len",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "width",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "longest",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selected",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selected",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selected",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selected",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filelist_len",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filesperline",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "longest",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "longest",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "width",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "foomaxlen",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "foomaxlen",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currselected",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currselected",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selected",
+    "source": "nano/src/browser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bad_wchar",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bad_mbchar_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crep_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "crep_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crep_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "crep_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chr_mb_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chr_mb_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "buf_mb_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "buf_mb_len",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "nano/src/chars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "color_pair",
+    "source": "nano/src/color.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/cut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cb_save_len",
+    "source": "nano/src/cut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_y",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mark_begin_x",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totsize",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lineno",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_lines",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "format",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "original_umask",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineswritten",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "original_umask",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_matches",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_matches",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_matches",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "common_len",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "longest_name",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "nano/src/files.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fill",
+    "source": "nano/src/global.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "nano/src/global.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "editwinrows",
+    "source": "nano/src/global.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/global.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_line",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocsize",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entries",
+    "source": "nano/src/help.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/move.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fill",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kbinput_len",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kbinput_len",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "startline",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "startcol",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iline",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iline",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "icol",
+    "source": "nano/src/nano.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NANO_H",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "NANO_ROOT_UID",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NANO_ROOT_UID",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "PATH_MAX",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISABLE_MOUSE",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISABLE_WRAPJUSTIFY",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NANO_CONTROL_SPACE",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NANO_CONTROL_A",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NANO_CONTROL_B",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NANO_CONTROL_C",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NANO_CONTROL_D",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "NANO_CONTROL_E",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "NANO_CONTROL_F",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "NANO_CONTROL_G",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NANO_CONTROL_H",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "NANO_CONTROL_I",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "NANO_CONTROL_J",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "NANO_CONTROL_K",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "NANO_CONTROL_L",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "NANO_CONTROL_M",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "NANO_CONTROL_N",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "NANO_CONTROL_O",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "NANO_CONTROL_P",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "NANO_CONTROL_Q",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "NANO_CONTROL_R",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "NANO_CONTROL_S",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "NANO_CONTROL_T",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "NANO_CONTROL_U",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "NANO_CONTROL_V",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "NANO_CONTROL_W",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "NANO_CONTROL_X",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "NANO_CONTROL_Y",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "NANO_CONTROL_Z",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "NANO_CONTROL_3",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "NANO_CONTROL_4",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "NANO_CONTROL_5",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "NANO_CONTROL_6",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "NANO_CONTROL_7",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "NANO_CONTROL_8",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "NANO_NO_KEY",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "TOGGLE_NO_KEY",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "MAIN_VISIBLE",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MIN_EDITOR_COLS",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MIN_EDITOR_ROWS",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "CHARS_FROM_EOL",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "WIDTH_OF_TAB",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_SEARCH_HISTORY",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "MAX_BUF_SIZE",
+    "source": "nano/src/nano.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kbinput_len",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kbinput_len",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statusbar_x",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statusbar_x",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statusbar_x",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matchhalf",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "complete_len",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "width",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ok",
+    "source": "nano/src/prompt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PROTO_H",
+    "source": "nano/src/proto.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "nano/src/rcfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "nano/src/rcfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set",
+    "source": "nano/src/rcfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "set",
+    "source": "nano/src/rcfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/rcfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "nano/src/rcfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x_find",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_y_find",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numreplaced",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matchhalf",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mark_begin_x",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_len",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line_indent_len",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent_len",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_line_len",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_line_len",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_loc",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_pos",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_blank_loc",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shift",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mark_shift",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qdepth",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mb_lineno_save",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mark_begin_x_save",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent_len",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_buff_read",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "arglen",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mb_lineno_save",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "words",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lines",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_x",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "placewewant",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "nano/src/utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indx",
+    "source": "nano/src/utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "nano/src/utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "nano/src/utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totsize",
+    "source": "nano/src/utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key_buffer_len",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statusblank",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errcount",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte_digits",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte_digits",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte_digits",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte_digits",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uni_digits",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uni",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uni_digits",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uni",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statelen",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "space",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "space",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_col",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_col",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_col",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_start",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nlines",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "linepct",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "colpct",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "CREDIT_LEN",
+    "source": "nano/src/winio.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "XLCREDIT_LEN",
+    "source": "nano/src/winio.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "crpos",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crpos",
+    "source": "nano/src/winio.c",
+    "type": "EnumCase"
+  }
+]

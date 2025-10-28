@@ -1,0 +1,2642 @@
+[
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "apache_mod_ssl/mod_ssl/pkg.addon/mod_define.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "apache_mod_ssl/mod_ssl/pkg.addon/mod_define.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "apache_mod_ssl/mod_ssl/pkg.addon/mod_define.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "apache_mod_ssl/mod_ssl/pkg.addon/mod_define.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.addon/mod_define.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.addon/mod_define.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/gid-tagcert.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4119",
+    "name": "tv_usec",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slop",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "shiftbits",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbits",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbits",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "t",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbits",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalLength",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbits",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "apache_mod_ssl/mod_ssl/pkg.contrib/truerand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_ctx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_ctx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_ctx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_ctx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_ctx.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "AP_CTX_MAX_ENTRIES",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_ctx.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AP_HOOK_SIG_TRIPLE_MASK",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AP_HOOK_ID",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "AP_HOOK_RC",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "AP_HOOK_A1",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "AP_HOOK_A2",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "AP_HOOK_A3",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "AP_HOOK_A4",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "AP_HOOK_A5",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "AP_HOOK_A6",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "AP_HOOK_A7",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "AP_HOOK_A8",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AP_HOOK_MODE_UNKNOWN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "AP_HOOK_MODE_TOPMOST",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "AP_HOOK_MODE_DECLINE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "AP_HOOK_MODE_DECLTMP",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "AP_HOOK_MODE_ALL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AP_HOOK_STATE_UNDEF",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "AP_HOOK_STATE_NOTEXISTANT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "AP_HOOK_STATE_ESTABLISHED",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "AP_HOOK_STATE_CONFIGURED",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "AP_HOOK_STATE_REGISTERED",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "AP_HOOK_MAX_ENTRIES",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "AP_HOOK_MAX_FUNCS",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_hook.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "AP_MM_H",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_mm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.eapi/ap_mm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MOD_SSL_H",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "SSL_SESSION_CACHE_TIMEOUT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_USE_FCNTL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_USE_FLOCK",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_USE_FLOCK",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_USE_FCNTL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_USE_FCNTL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSL_CVERIFY_NONE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_CVERIFY_OPTIONAL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SSL_CVERIFY_REQUIRE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SSL_CVERIFY_OPTIONAL_NO_CA",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSL_PPTYPE_BUILTIN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_PPTYPE_FILTER",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_PCM_EXISTS",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SSL_PCM_ISREG",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SSL_PCM_ISDIR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "SSL_PCM_ISNONZERO",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSL_SCMODE_NONE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_SCMODE_DBM",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SSL_SCMODE_SHMHT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SSL_SCMODE_SHMCB",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSL_MUTEXMODE_NONE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_MUTEXMODE_FILE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SSL_MUTEXMODE_SEM",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_RSCTX_STARTUP",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SSL_RSCTX_CONNECT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SSL_RSSRC_BUILTIN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SSL_RSSRC_FILE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SSL_RSSRC_EXEC",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SSL_RSSRC_EGD",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/mod_ssl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_compat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_compat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_compat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_compat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nInitCount",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nSessionCacheDataSize",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nBytes",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "nSessionCacheDataSize",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "nSessionCacheDataSize",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_ds.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_ext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_ext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cellspacing",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_ext.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nVerifyDepth",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nProxyVerifyDepth",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "buflen",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pendlen",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_length",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_chunked",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remaining",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sucked",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iostate",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iostate",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retry",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iostate",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iostate",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retry",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "DUMP_WIDTH",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "trunc",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aborted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pCopy",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_kernel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_log.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_log.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_start",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_len",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_pid",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_start",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_len",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_pid",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x294",
+    "name": "mode",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_mutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "STDERR_FILENO_STORE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BUILTIN_DIALOG_BACKOFF",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "BUILTIN_DIALOG_RETRIES",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nPassPhrase",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nPassPhraseDialog",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nPassPhraseCur",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nPassPhraseRetry",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nPassPhraseDialogCur",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_pphrase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nReq",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_rand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nDone",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_rand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_rand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "m",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_rand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "BUFSIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_rand.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nDone",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_rand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_vars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_vars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_vars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usekeysize",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_vars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "algkeysize",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_engine_vars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YYDEBUG",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_eval.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYBYACC",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYMAJOR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "YYMINOR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "YYEMPTY",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yyerrflag",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "YYERRCODE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x101",
+    "name": "T_TRUE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "T_FALSE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x103",
+    "name": "T_DIGIT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x104",
+    "name": "T_ID",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x105",
+    "name": "T_STRING",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x106",
+    "name": "T_REGEX",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x107",
+    "name": "T_REGEX_I",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x108",
+    "name": "T_FUNC_FILE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x109",
+    "name": "T_OP_EQ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10A",
+    "name": "T_OP_NE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10B",
+    "name": "T_OP_LT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10C",
+    "name": "T_OP_LE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10D",
+    "name": "T_OP_GT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E",
+    "name": "T_OP_GE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10F",
+    "name": "T_OP_REG",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x110",
+    "name": "T_OP_NRE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x111",
+    "name": "T_OP_IN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x112",
+    "name": "T_OP_OR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x113",
+    "name": "T_OP_AND",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x114",
+    "name": "T_OP_NOT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x113",
+    "name": "YYTABLESIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "YYFINAL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YYDEBUG",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x114",
+    "name": "YYMAXTOKEN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2710",
+    "name": "YYSTACKSIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2710",
+    "name": "YYMAXDEPTH",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "YYINITSTACKSIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yynerrs",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yyerrflag",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yystate",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yychar",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yys",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ssl_expr_yyerrflag",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yys",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yychar",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssl_expr_yys",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "YYERRCODE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x101",
+    "name": "T_TRUE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "T_FALSE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x103",
+    "name": "T_DIGIT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x104",
+    "name": "T_ID",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x105",
+    "name": "T_STRING",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x106",
+    "name": "T_REGEX",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x107",
+    "name": "T_REGEX_I",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x108",
+    "name": "T_FUNC_FILE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x109",
+    "name": "T_OP_EQ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10A",
+    "name": "T_OP_NE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10B",
+    "name": "T_OP_LT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10C",
+    "name": "T_OP_LE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10D",
+    "name": "T_OP_GT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E",
+    "name": "T_OP_GE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10F",
+    "name": "T_OP_REG",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x110",
+    "name": "T_OP_NRE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x111",
+    "name": "T_OP_IN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x112",
+    "name": "T_OP_OR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x113",
+    "name": "T_OP_AND",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x114",
+    "name": "T_OP_NOT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_FLEX_MAJOR_VERSION",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "YY_FLEX_MINOR_VERSION",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_OF_BUFFER_CHAR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "YY_BUF_SIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOB_ACT_CONTINUE_SCAN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOB_ACT_END_OF_FILE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOB_ACT_LAST_MATCH",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_BUFFER_NEW",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_BUFFER_NORMAL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_BUFFER_EOF_PENDING",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_current_buffer",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_init",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2E",
+    "name": "YY_NUM_RULES",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F",
+    "name": "YY_END_OF_BUFFER",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INITIAL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_UNPUT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x800",
+    "name": "MAX_STR_LEN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NEVER_INTERACTIVE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "str",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "regex",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "regex_flags",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_ptr",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_depth",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_PUSH_STATE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_POP_STATE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_TOP_STATE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "YY_START_STACK_INCR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_init",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_ch_buf",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_fill_buffer",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_interactive",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_our_buffer",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_input_file",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_fill_buffer",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_EXIT_FAILURE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_expr_scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tLast",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nElements",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nDeleted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "KEYMAX",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyidx",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nElem",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nSize",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nAverage",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_dbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "division_mask",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "non_empty_divisions",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "min_expiry",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expiry_total",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "granularity",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "division_mask",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmcb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tLast",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmht.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nElements",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmht.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nDeleted",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmht.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nElem",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmht.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nSize",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmht.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nAverage",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_scache_shmht.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "child_pid",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_PTXTSUB",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hmask",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blkptr",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyptr",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "curbit",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pagbno",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blkptr",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyptr",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbit",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hbit",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "dbit",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyptr",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4000",
+    "name": "DBLKSIZ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "PBLKSIZ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F48",
+    "name": "PAIRMAX",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "DBLKSIZ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "PBLKSIZ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3F0",
+    "name": "PAIRMAX",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SPLTMAX",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBM_RDONLY",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBM_IOERR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBM_INSERT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DBM_REPLACE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "BYTESIZ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_sdbm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SSL_LIBRARY_VERSION",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "SSL_SESSION_MAX_DER",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_ssl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "BITSPERBYTE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TABLE_MAGIC",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LINEAR_MAGIC",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "DEFAULT_SIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "MAX_ALIGNMENT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "MAX_SORT_SPLITS",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bucket_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bucket_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_entry_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_entry_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "split_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_flags",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_entry_n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_data_align",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_magic",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_bucket_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_entry_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_file_size",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_data_align",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "val",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_entry_n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_magic",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_bucket_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_entry_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_magic",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "buck_n",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ta_file_size",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bucket_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_magic",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_bucket_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tl_entry_c",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TABLE_ERROR_NONE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TABLE_ERROR_PNT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TABLE_ERROR_ARG_NULL",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TABLE_ERROR_SIZE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TABLE_ERROR_OVERWRITE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "TABLE_ERROR_NOT_FOUND",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "TABLE_ERROR_ALLOC",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "TABLE_ERROR_LINEAR",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "TABLE_ERROR_OPEN",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "TABLE_ERROR_SEEK",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "TABLE_ERROR_READ",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "TABLE_ERROR_WRITE",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "TABLE_ERROR_EMPTY",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "TABLE_ERROR_NOT_EMPTY",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "TABLE_ERROR_ALIGNMENT",
+    "source": "apache_mod_ssl/mod_ssl/pkg.sslmod/ssl_util_table.h",
+    "type": "PreprocessorConstant"
+  }
+]

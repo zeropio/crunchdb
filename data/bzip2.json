@@ -1,0 +1,2522 @@
+[
+  {
+    "hex": "0xA",
+    "name": "FALLBACK_QSORT_SMALL_THRESH",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "FALLBACK_QSORT_STACK_SIZE",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sp",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nBhtab",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "H",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nNotDone",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hp",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAIN_QSORT_SMALL_THRESH",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAIN_QSORT_STACK_SIZE",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sp",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "h",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "h",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numQSorted",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shifts",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wfact",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "wfact",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/blocksort.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_UNIX",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_LCCWIN32",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_LCCWIN32",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_UNIX",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SM_I2O",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SM_F2O",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SM_F2F",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OM_Z",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "OM_UNZ",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "OM_TEST",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40A",
+    "name": "FILE_NAME_LEN",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "base",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rem",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nBuf",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nUnused",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "streamNo",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nUnused",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "streamNo",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "BZ_N_SUFFIX_PAIRS",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbosity",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFileNames",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFilesProcessed",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "workFactor",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitValue",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "longestFileName",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFileNames",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "workFactor",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "verbosity",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzip2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "BZ_MAX_FILENAME",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesOut",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesIn",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_B",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_Z",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_h",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_0",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLive",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLive",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "buffLive",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "buffLive",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "i",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_HEADER_HI",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_HEADER_LO",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_ENDMARK_HI",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_ENDMARK_LO",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC350",
+    "name": "BZ_MAX_HANDLED_BLOCKS",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitsRead",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLo",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currBlock",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rbCtr",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockCRC",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitsRead",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wrBlock",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "bzip2/bzip2/bzip2recover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nblock",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numZ",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state_out_pos",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "state_in_ch",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state_in_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "workFactor",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "n",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockNo",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "combinedCRC",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "nblockMAX",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_lo32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_hi32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_lo32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_hi32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "state_in_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bsLive",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bsBuff",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "calculatedCombinedCRC",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_lo32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_hi32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_lo32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_hi32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currBlockNo",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "c_state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c_state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "c_state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "c_state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nb",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "na",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stored",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufN",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "workFactor",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes_in_lo32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes_in_hi32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes_out_lo32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes_out_hi32",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufN",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "workFactor",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "writing",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbosity",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "workFactor",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "smallMode",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nUnused",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "writing",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "writing",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "smallMode",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "blockSize100k",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "bzip2/bzip2/bzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_RUN",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_FLUSH",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BZ_FINISH",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_OK",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_RUN_OK",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BZ_FLUSH_OK",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "BZ_FINISH_OK",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BZ_STREAM_END",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1388",
+    "name": "BZ_MAX_UNUSED",
+    "source": "bzip2/bzip2/bzlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_B",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_Z",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_h",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_HDR_0",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "BZ_MAX_ALPHA_SIZE",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "BZ_MAX_CODE_LEN",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_RUNA",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_RUNB",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "BZ_N_GROUPS",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "BZ_G_SIZE",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BZ_N_ITERS",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rNToGo",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rTPos",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rTPos",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crcVar",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_M_IDLE",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BZ_M_RUNNING",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "BZ_M_FLUSHING",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BZ_M_FINISHING",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_S_OUTPUT",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BZ_S_INPUT",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BZ_N_RADIX",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "BZ_N_QSORT",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "BZ_N_SHELL",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ_X_IDLE",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BZ_X_OUTPUT",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "BZ_X_MAGIC_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "BZ_X_MAGIC_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "BZ_X_MAGIC_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "BZ_X_MAGIC_4",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "BZ_X_BLKHDR_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "BZ_X_BLKHDR_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "BZ_X_BLKHDR_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "BZ_X_BLKHDR_4",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "BZ_X_BLKHDR_5",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "BZ_X_BLKHDR_6",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "BZ_X_BCRC_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "BZ_X_BCRC_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "BZ_X_BCRC_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "BZ_X_BCRC_4",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "BZ_X_RANDBIT",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "BZ_X_ORIGPTR_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "BZ_X_ORIGPTR_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "BZ_X_ORIGPTR_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "BZ_X_MAPPING_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "BZ_X_MAPPING_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "BZ_X_SELECTOR_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "BZ_X_SELECTOR_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "BZ_X_SELECTOR_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "BZ_X_CODING_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "BZ_X_CODING_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "BZ_X_CODING_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "BZ_X_MTF_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25",
+    "name": "BZ_X_MTF_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x26",
+    "name": "BZ_X_MTF_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x27",
+    "name": "BZ_X_MTF_4",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "BZ_X_MTF_5",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29",
+    "name": "BZ_X_MTF_6",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A",
+    "name": "BZ_X_ENDHDR_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2B",
+    "name": "BZ_X_ENDHDR_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2C",
+    "name": "BZ_X_ENDHDR_4",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2D",
+    "name": "BZ_X_ENDHDR_5",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2E",
+    "name": "BZ_X_ENDHDR_6",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F",
+    "name": "BZ_X_CCRC_1",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "BZ_X_CCRC_2",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x31",
+    "name": "BZ_X_CCRC_3",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "BZ_X_CCRC_4",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MTFA_SIZE",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "MTFL_SIZE",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "bzip2/bzip2/bzlib_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bsLive",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bsBuff",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nInUse",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wr",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zPend",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zPend",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zPend",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ_LESSER_ICOST",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "BZ_GREATER_ICOST",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nGroups",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "nGroups",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "nGroups",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "nGroups",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "nGroups",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gs",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aFreq",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iter",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nSelectors",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totc",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gs",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cost45",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9AC9FF",
+    "name": "bc",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "minLen",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxLen",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selCtr",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gs",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numZ",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CRC",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CRC",
+    "source": "bzip2/bzip2/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nInUse",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_j",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_t",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_alphaSize",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_nGroups",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_nSelectors",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_EOB",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_groupNo",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_groupPos",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_nextSym",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_nblockMAX",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_nblock",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_es",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_N",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_curr",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_zt",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_zn",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_zvec",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_zj",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_gSel",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_gMinlen",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "storedBlockCRC",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "origPtr",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "minLen",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxLen",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "nblockMAX",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "groupPos",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "ii",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nblock",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "N",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "ii",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state_out_len",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state_out_ch",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nblock_used",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nblock_used",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "storedCombinedCRC",
+    "source": "bzip2/bzip2/decompress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ2DLLLoaded",
+    "source": "bzip2/bzip2/dlltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BZ2DLLLoaded",
+    "source": "bzip2/bzip2/dlltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BZ2DLLLoaded",
+    "source": "bzip2/bzip2/dlltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "decompress",
+    "source": "bzip2/bzip2/dlltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "level",
+    "source": "bzip2/bzip2/dlltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "decompress",
+    "source": "bzip2/bzip2/dlltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nHeap",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vec",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pp",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vec",
+    "source": "bzip2/bzip2/huffman.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/mk251.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1388",
+    "name": "MEGABYTES",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "N_BUF",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kk",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "p",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ii",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ii",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ii",
+    "source": "bzip2/bzip2/spewG.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "M_BLOCK",
+    "source": "bzip2/bzip2/unzcrash.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "bzip2/bzip2/unzcrash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "bzip2/bzip2/unzcrash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/unzcrash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bzip2/bzip2/unzcrash.c",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "SCSIHeaderInstaller/cdb/IOCDBCommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sequenceNumber",
+    "source": "SCSIHeaderInstaller/cdb/IOCDBCommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientDataSize",
+    "source": "SCSIHeaderInstaller/cdb/IOCDBDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/IOSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sequenceNumber",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/IOSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forQueuePosition",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/IOSCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientDataSize",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/IOSCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientDataSize",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/IOSCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/IOSCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBFNoDisconnect",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBFlagsNegotiatePPR",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBFlagsDisableParity",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBFlagsNoDisconnect",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBFlagsNegotiateSDTR",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBFlagsNegotiateWDTR",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIAdapterStatusSuccess",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSICommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "kDefaultInquirySize",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITransferOptionClockDT",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITransferOptionQAS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITransferOptionIUS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSITransferOptionPPR",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "kSCSITimerIntervalmS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kSCSIProbeTimeoutmS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "kSCSIResetIntervalmS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kSCSIAbortTimeoutmS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kSCSIReqSenseTimeoutmS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kSCSIDisableTimeoutmS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIClientMsgNone",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIClientMsgDone",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kQTypeNormalQ",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kQTypeBypassQ",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kQPositionTail",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kQPositionHead",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kSCSIMaxProperties",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIDevice.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeQualifierConnected",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeQualifierNotConnected",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeQualifierReserved",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeQualifierMissing",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeQualifierVendorSpecific",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeQualifierMask",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeModRemovable",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevCapRelAdr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevCapWBus32",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevCapWBus16",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevCapSync",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevCapLinked",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevCapCmdQue",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevCapSftRe",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseHasLBN",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseInfoValid",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseInfoMask",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseCurrentErr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseDeferredErr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseKeyMask",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseILI",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseEOM",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseFileMark",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseNone",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseRecoveredErr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseNotReady",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseMediumErr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseHardwareErr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseIllegalReq",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseUnitAtn",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseDataProtect",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseBlankCheck",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseVendorSpecific",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseCopyAborted",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseAbortedCmd",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseEqual",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseVolumeOverflow",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSISenseMiscompare",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusGood",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusCheckCondition",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusConditionMet",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusBusy",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusIntermediate",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusIntermediateMet",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusReservationConfict",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusCommandTerminated",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIStatusQueueFull",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeDirect",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeUnknownOrMissing",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIDevTypeMask",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIInqVersionSCSI3",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSI3InqOptionIUS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSI3InqOptionQAS",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSI3InqOptionClockDT",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdChangeDefinition",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdCompare",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdCopy",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdCopyAndVerify",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdInquiry",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdLogSelect",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdLogSense",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdModeSelect12",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdModeSelect6",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdModeSense12",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdModeSense6",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdReadBuffer",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdRecvDiagResult",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdRequestSense",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSendDiagnostic",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdTestUnitReady",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdWriteBuffer",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdFormatUnit",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdLockUnlockCache",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdPrefetch",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdPreventAllowRemoval",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdRead6",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdRead10",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdReadCapacity",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdReadDefectData",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdReadLong",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdReassignBlocks",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdRelease",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdReserve",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdRezeroUnit",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSearchDataEql",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSearchDataHigh",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSearchDataLow",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSeek6",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSeek10",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSetLimits",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdStartStopUnit",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSynchronizeCache",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdVerify",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdWrite6",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdWrite10",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdWriteAndVerify",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdWriteLong",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdWriteSame",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdRewind",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdWriteFilemarks",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdSpace",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdLoadUnload",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICmdReadCDTableOfContents",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgAbort",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgAbortTag",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgBusDeviceReset",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgClearQueue",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgCmdComplete",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgDisconnect",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgIdentify",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgIgnoreWideResdue",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgInitiateRecovery",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgInitiatorDetectedErr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgLinkedCmdComplete",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgLinkedCmdCompleteFlag",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgParityErr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgRejectMsg",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgModifyDataPtr",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgNop",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgHeadOfQueueTag",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgOrderedQueueTag",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgSimpleQueueTag",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgReleaseRecovery",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgRestorePointers",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgSaveDataPointers",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgSyncXferReq",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgWideDataXferReq",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgTerminateIOP",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgExtended",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSIMsgEnableDisconnectMask",
+    "source": "SCSIHeaderInstaller/scsi/scsi-device/SCSIPublic.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelCommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sequenceNumber",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelCommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forQueuePosition",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelCommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientDataSize",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientDataSize",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forArg",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientDataSize",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdSequenceNumber",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/IOSCSIParallelDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTagAllocationNone",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/SCSIParallelController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kWorkLoopInitTarget",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/SCSIParallelController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kDispatchNextCommand",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/SCSIParallelController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBFlagsEnableTagQueuing",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/SCSIParallelTarget.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCSICommandNone",
+    "source": "SCSIHeaderInstaller/scsi/scsi-parallel/SCSIParallelTarget.h",
+    "type": "EnumCase"
+  }
+]

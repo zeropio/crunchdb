@@ -1,0 +1,896 @@
+[
+  {
+    "hex": "0x0",
+    "name": "_audioCodec",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kControlOutputMute",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputPort",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inputPort",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outVolLeft",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outVolRight",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inGainLeft",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inGainRight",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outMute",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inputSelector",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "audioCodec",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioDriver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNumChannels",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kBytesPerSample",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "kNumDescriptors",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xBB80",
+    "name": "k48KSampleRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kSampleOffset",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "kSampleLatency",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_outSampleMemory",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_outBDListMemory",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_inSampleMemory",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_inBDListMemory",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outStream",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inStream",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB80",
+    "name": "whole",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAC44",
+    "name": "whole",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kQuiescenceMilliseconds",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Audio/AC97AudioFloatLib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codec",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "_masterVolumeBitCount",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "_masterVolumeBitCount",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reg",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "source",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codecParam",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codecParam",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Codec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gAC97AudioFunction",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gAC97ModemFunction",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codecID",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codecID",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codecID",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loops",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "limit",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "limit",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_LEVEL",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Debug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAudioReset",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMasterVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAuxOutVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMonoVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMasterTone",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCBeepVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPhoneVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMicVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecLineInVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecCDVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecVideoVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAuxInVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMOutVolume",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRecordSelect",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRecordGain",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRecordGainMic",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecGeneralPurpose",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodec3DControl",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPowerdown",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecExtAudioID",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecExtAudioStat",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMFrontDACRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMSurroundDACRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMLFEDACRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMADCRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMicADCRate",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecExtModemID",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecVendorID1",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecVendorID2",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRegisterCount",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDedicatedPCMInChannel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBassTrebleControl",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSimulatedStereo",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHeadphoneOutSupport",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLoudnessSupport",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k18BitDAC",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k20BitDAC",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k18BitADC",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k20BitADC",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADCReady",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDACReady",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAnalogReady",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVrefReady",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVolumeMuteBit",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVariableRatePCMAudio",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDoubleRatePCMAudio",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceMic1",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceCD",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceVideo",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceAUX",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceLine",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceStereoMix",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceMonoMix",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourcePhone",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputSourceMic2",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMBufferDescBaseAddress",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMCurrentIndex",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMLastValidIndex",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMStatus",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMPositionInBuffer",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMPrefetchedIndex",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMControl",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGlobalControl",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGlobalStatus",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAccessSemaphore",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSDataInMap",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInterruptOnCompletion",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBufferUnderrunPolicy",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kChannelPCMIn",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kChannelPCMOut",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kChannelMICIn",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMaxCodecCount",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/AC97Defines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codec",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH3_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codec",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_mixerMap",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_bmMap",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "AppleIntelAC97Driver/AppleIntelAC97Controller/ICH4_AC97Controller.h",
+    "type": "EnumCase"
+  }
+]

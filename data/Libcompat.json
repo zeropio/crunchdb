@@ -1,0 +1,242 @@
+[
+  {
+    "hex": "0x1",
+    "name": "timo",
+    "source": "Libcompat/4.3.subproj/rexec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libcompat/4.3.subproj/rexec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libcompat/4.3.subproj/rexec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "re_goterr",
+    "source": "Libcompat/regexp.subproj/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "re_goterr",
+    "source": "Libcompat/regexp.subproj/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "re_goterr",
+    "source": "Libcompat/regexp.subproj/regex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "END",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOL",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOL",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ANY",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ANYOF",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ANYBUT",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "BRANCH",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "BACK",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "EXACTLY",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "NOTHING",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "STAR",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "PLUS",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "WORDA",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "WORDZ",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "OPEN",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "CLOSE",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HASWIDTH",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SIMPLE",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SPSTART",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORST",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "regnpar",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regsize",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "regnpar",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reganch",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regmlen",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regprev",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regnarrate",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libcompat/regexp.subproj/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "NSUBEXP",
+    "source": "Libcompat/regexp.subproj/regexp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xEA",
+    "name": "MAGIC",
+    "source": "Libcompat/regexp.subproj/regmagic.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "no",
+    "source": "Libcompat/regexp.subproj/regsub.c",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,1250 @@
+[
+  {
+    "hex": "0x0",
+    "name": "zeroCount",
+    "source": "bmalloc/bmalloc/Algorithm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Algorithm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "bmalloc/bmalloc/Algorithm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sizeClass",
+    "source": "bmalloc/bmalloc/Allocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldSize",
+    "source": "bmalloc/bmalloc/Allocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sizeClass",
+    "source": "bmalloc/bmalloc/Allocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "availableMemoryGuess",
+    "source": "bmalloc/bmalloc/AvailableMemory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "multiple",
+    "source": "bmalloc/bmalloc/AvailableMemory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memoryFootprint",
+    "source": "bmalloc/bmalloc/AvailableMemory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memoryFootprint",
+    "source": "bmalloc/bmalloc/AvailableMemory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "0xbbadbeef",
+    "source": "bmalloc/bmalloc/BAssert.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "0xbbadbeef",
+    "source": "bmalloc/bmalloc/BAssert.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCOMPILER_GCC_COMPATIBLE",
+    "source": "bmalloc/bmalloc/BCompiler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Bits.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "startIndexInWord",
+    "source": "bmalloc/bmalloc/Bits.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2CF8F",
+    "name": "id",
+    "source": "bmalloc/bmalloc/bmalloc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_DARWIN",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_UNIX",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_LINUX",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_FREEBSD",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_WINDOWS",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_IOS",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_IOS",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_IOS_SIMULATOR",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_MACCATALYST",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_IOS_FAMILY",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_IOS_FAMILY_SIMULATOR",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_MAC",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_MAC",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_COCOA",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_WATCHOS",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_WATCHOS",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOS_APPLETV",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATFORM_APPLETV",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BPLATORM_PLAYSTATION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_X86",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_X86_64",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_ARM64",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_ARM",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BARM_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "BARM_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "BARM_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "BARM_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "BARM_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "BARM_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WTF_ARM_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BTHUMB_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BTHUMB_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "BTHUMB_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BTHUMB_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BTHUMB_ARCH_VERSION",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_ADDRESS64",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_ADDRESS32",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_BIG_ENDIAN",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_LITTLE_ENDIAN",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCPU_MIDDLE_ENDIAN",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "BOS_EFFECTIVE_ADDRESS_WIDTH",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "BOS_EFFECTIVE_ADDRESS_WIDTH",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "BOS_EFFECTIVE_ADDRESS_WIDTH",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUSE_DECLSPEC_ATTRIBUTE",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUSE_VISIBILITY_ATTRIBUTE",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUSE_OS_LOG",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BENABLE_MALLOC_HEAP_BREAKDOWN",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENABLE_PHYSICAL_PAGE_MAP",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUSE_PARTIAL_SCAVENGE",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BUSE_PARTIAL_SCAVENGE",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUSE_PRECOMPUTED_CONSTANTS_VMPAGE4K",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUSE_PRECOMPUTED_CONSTANTS_VMPAGE16K",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BENABLE_UNIFIED_AND_FREEZABLE_CONFIG_RECORD",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BENABLE_UNIFIED_AND_FREEZABLE_CONFIG_RECORD",
+    "source": "bmalloc/bmalloc/BPlatform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "runSize",
+    "source": "bmalloc/bmalloc/BulkDecommit.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/BulkDecommit.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_remaining",
+    "source": "bmalloc/bmalloc/BumpAllocator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_remaining",
+    "source": "bmalloc/bmalloc/BumpAllocator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "VM_TAG_FOR_TCMALLOC_MEMORY",
+    "source": "bmalloc/bmalloc/BVMTags.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "VM_TAG_FOR_GIGACAGE_MEMORY",
+    "source": "bmalloc/bmalloc/BVMTags.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "VM_TAG_FOR_EXECUTABLEALLOCATOR_MEMORY",
+    "source": "bmalloc/bmalloc/BVMTags.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "VM_TAG_FOR_ISOHEAP_MEMORY",
+    "source": "bmalloc/bmalloc/BVMTags.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Chunk.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amountRead",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A00",
+    "name": "m_count",
+    "source": "bmalloc/bmalloc/CryptoRandom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "MEMORYSTATUS_CMD_GET_MEMLIMIT_PROPERTIES",
+    "source": "bmalloc/bmalloc/darwin/MemoryStatusSPI.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "MEMORYSTATUS_CMD_SET_PROCESS_IS_FREEZABLE",
+    "source": "bmalloc/bmalloc/darwin/MemoryStatusSPI.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "MEMORYSTATUS_CMD_GET_PROCESS_IS_FREEZABLE",
+    "source": "bmalloc/bmalloc/darwin/MemoryStatusSPI.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "goal",
+    "source": "bmalloc/bmalloc/DebugHeap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2ABEE",
+    "name": "id",
+    "source": "bmalloc/bmalloc/DebugHeap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUSE_CHECK_NANO_MALLOC",
+    "source": "bmalloc/bmalloc/Environment.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BUSE_CHECK_NANO_MALLOC",
+    "source": "bmalloc/bmalloc/Environment.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Environment.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Environment.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_remaining",
+    "source": "bmalloc/bmalloc/FreeList.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_scrambledHead",
+    "source": "bmalloc/bmalloc/FreeList.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_secret",
+    "source": "bmalloc/bmalloc/FreeList.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "8",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "gigacageRunway",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalSize",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxAlignment",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2AC8D",
+    "name": "id",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextCage",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Gigacage.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "GIGACAGE_ENABLED",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GIGACAGE_ENABLED",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "primitiveGigacageSize",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "jsValueGigacageSize",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "primitiveGigacageSize",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "jsValueGigacageSize",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "maximumCageSizeReductionForSlide",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "overcommit_memory",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "GIGACAGE_ALLOCATION_CAN_FAIL",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "GIGACAGE_ALLOCATION_CAN_FAIL",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GIGACAGE_ALLOCATION_CAN_FAIL",
+    "source": "bmalloc/bmalloc/Gigacage.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "startSlotOfGigacageConfig",
+    "source": "bmalloc/bmalloc/GigacageConfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "reservedSlotsForGigacageConfig",
+    "source": "bmalloc/bmalloc/GigacageConfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_freeableMemory",
+    "source": "bmalloc/bmalloc/Heap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accountedInFreeable",
+    "source": "bmalloc/bmalloc/Heap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accountedInFreeable",
+    "source": "bmalloc/bmalloc/Heap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "objectCount",
+    "source": "bmalloc/bmalloc/Heap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineNumber",
+    "source": "bmalloc/bmalloc/Heap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "objectCount",
+    "source": "bmalloc/bmalloc/Heap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cls",
+    "source": "bmalloc/bmalloc/HeapConstants.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "object",
+    "source": "bmalloc/bmalloc/HeapConstants.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/HeapConstants.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "numHeaps",
+    "source": "bmalloc/bmalloc/HeapKind.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "logsPerPage",
+    "source": "bmalloc/bmalloc/IsoDeallocator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_highWatermark",
+    "source": "bmalloc/bmalloc/IsoDirectoryInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_highWatermark",
+    "source": "bmalloc/bmalloc/IsoDirectoryInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E0",
+    "name": "numPages",
+    "source": "bmalloc/bmalloc/IsoDirectoryPage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "bmalloc/bmalloc/IsoHeapImpl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "bmalloc/bmalloc/IsoHeapImpl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/IsoHeapImpl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "maxAllocationFromShared",
+    "source": "bmalloc/bmalloc/IsoHeapImpl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "numPagesInInlineDirectory",
+    "source": "bmalloc/bmalloc/IsoHeapImpl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_directoryHighWatermark",
+    "source": "bmalloc/bmalloc/IsoHeapImplInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_directoryHighWatermark",
+    "source": "bmalloc/bmalloc/IsoHeapImplInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "bmalloc/bmalloc/IsoHeapImplInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "bmalloc/bmalloc/IsoHeapImplInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "bmalloc/bmalloc/IsoHeapImplInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/IsoHeapImplInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_numberOfAllocationsFromSharedInOneCycle",
+    "source": "bmalloc/bmalloc/IsoHeapImplInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4000",
+    "name": "pageSize",
+    "source": "bmalloc/bmalloc/IsoPage.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_numNonEmptyWords",
+    "source": "bmalloc/bmalloc/IsoPageInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "bmalloc/bmalloc/IsoPageInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "bmalloc/bmalloc/IsoPageInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bitMask",
+    "source": "bmalloc/bmalloc/IsoPageInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wordIndex",
+    "source": "bmalloc/bmalloc/IsoPageInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitIndex",
+    "source": "bmalloc/bmalloc/IsoPageInlines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "alignmentForIsoSharedAllocation",
+    "source": "bmalloc/bmalloc/IsoSharedConfig.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_offset",
+    "source": "bmalloc/bmalloc/IsoTLSLayout.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/LargeMap.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "minCapacity",
+    "source": "bmalloc/bmalloc/Map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "maxLoad",
+    "source": "bmalloc/bmalloc/Map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "rehashLoad",
+    "source": "bmalloc/bmalloc/Map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "minLoad",
+    "source": "bmalloc/bmalloc/Map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_keyCount",
+    "source": "bmalloc/bmalloc/Map.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ConfigAlignment",
+    "source": "bmalloc/bmalloc/mbmalloc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ConfigSizeToProtect",
+    "source": "bmalloc/bmalloc/mbmalloc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timeoutInMS",
+    "source": "bmalloc/bmalloc/Mutex.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "aLot",
+    "source": "bmalloc/bmalloc/Mutex.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bmalloc/bmalloc/Mutex.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newBegin",
+    "source": "bmalloc/bmalloc/ObjectTypeTable.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newEnd",
+    "source": "bmalloc/bmalloc/ObjectTypeTable.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newBegin",
+    "source": "bmalloc/bmalloc/ObjectTypeTable.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newBegin",
+    "source": "bmalloc/bmalloc/ObjectTypeTable.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "shiftAmount",
+    "source": "bmalloc/bmalloc/ObjectTypeTable.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "one",
+    "source": "bmalloc/bmalloc/ObjectTypeTable.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3047A",
+    "name": "id",
+    "source": "bmalloc/bmalloc/Packed.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "bmalloc/bmalloc/Packed.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "tableSize",
+    "source": "bmalloc/bmalloc/PerProcess.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_bumpOffset",
+    "source": "bmalloc/bmalloc/PerProcess.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1505",
+    "name": "result",
+    "source": "bmalloc/bmalloc/PerProcess.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD_MACHDEP_H",
+    "source": "bmalloc/bmalloc/PerThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_PTHREAD_MACHDEP_H",
+    "source": "bmalloc/bmalloc/PerThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_PTHREAD_MACHDEP_H",
+    "source": "bmalloc/bmalloc/PerThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_scavengerBytes",
+    "source": "bmalloc/bmalloc/Scavenger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deferredDecommits",
+    "source": "bmalloc/bmalloc/Scavenger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "bmalloc/bmalloc/Scavenger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "bmalloc/bmalloc/Scavenger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31CD3",
+    "name": "id",
+    "source": "bmalloc/bmalloc/Scavenger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2CF70",
+    "name": "id",
+    "source": "bmalloc/bmalloc/Scavenger.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "kB",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "alignment",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chunkSize",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "smallLineSize",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "smallPageSize",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "maskSizeClassMax",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "smallMax",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "pageSizeWasteFactor",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "logWasteFactor",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "deallocatorLogCapacity",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bumpRangeCacheCapacity",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "scavengerBytesPerMemoryPressureCheck",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memoryPressureThreshold",
+    "source": "bmalloc/bmalloc/Sizes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "char",
+    "source": "bmalloc/bmalloc/SmallLine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "growFactor",
+    "source": "bmalloc/bmalloc/Vector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "shrinkFactor",
+    "source": "bmalloc/bmalloc/Vector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_size",
+    "source": "bmalloc/bmalloc/Vector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_capacity",
+    "source": "bmalloc/bmalloc/Vector.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BMALLOC_NORESERVE",
+    "source": "bmalloc/bmalloc/VMAllocate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "version",
+    "source": "bmalloc/bmalloc/Zone.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "capacity",
+    "source": "bmalloc/bmalloc/Zone.h",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,2354 @@
+[
+  {
+    "hex": "0x0",
+    "name": "kPowerStateOff",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDMAEnginePCMOut",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kDMAEnginePCMIn",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kDMAEngineCount",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDMAEngineInvalid",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kDMABufferCount",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kBytesPerSample",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMaxCodecNubID",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDMAState",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSetPowerStateThreadCall",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codec",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "timeout",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loops",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sampleMemory",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prdMemory",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptTarget",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptAction",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptParam",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPRD_EOT",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPRD_EOP",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPRD_JMP",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACC_CODEC_STATUS",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACC_CODEC_CNTL",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACC_IRQ_STATUS",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACC_ENGINE_CNTL",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACC_BM0_PNTR",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_CMD",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_STATUS",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_PRD_POINTER",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "ACC_CODEC_CMD_ADDR_SHIFT",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACC_CODEC_CMD_DATA_MASK",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACC_CODEC_STATUS_DATA_MASK",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_CMD_RW",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_CMD_BIG_ENDIAN",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_CMD_DISABLE",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_CMD_ENABLE",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_CMD_PAUSE",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_STATUS_ERROR",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BM_STATUS_EOP",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineIdle",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineActive",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineRunning",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineInterrupt",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleAC97Audio/AppleAC97AudioAMD/AppleAC97AudioAMDCS5535.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ACTIVATE_LOWEST_CONFIG_FIRST",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kSampleOffset",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kSampleLatency",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioConfigPCMOut2",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kBytesPerSample",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNumChannels",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kConfigArraySize",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRoot",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigActive",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigArray",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fInputStream",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "config",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "config",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigActive",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newConfig",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMIn.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kBytesPerSample",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kConfigArraySize",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRoot",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigActive",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigArray",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutputStream",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "config",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "config",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigActive",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newConfig",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEnginePCMOut.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kBytesPerSample",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNumChannels",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kConfigArraySize",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRoot",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigActive",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigArray",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutputStream",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "config",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "config",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDriverTag",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigActive",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newConfig",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioDriver/AppleAC97AudioEngineSPDIF.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMBufferDescBaseAddress",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMCurrentIndex",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMLastValidIndex",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMStatus",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMPositionInBuffer",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMPrefetchedIndex",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBMControl",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGlobalControl",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGlobalStatus",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAccessSemaphore",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSDataInMap",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInterruptOnCompletion",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBufferUnderrunPolicy",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineIdle",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineActive",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineRunning",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineIOC",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleAC97Audio/AppleAC97AudioIntelICH/AppleAC97AudioIntelICH.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerStateOff",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDMAEnginePCMOut",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kDMAEnginePCMIn",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kDMAEngineSPDIF",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kDMAEngineCount",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDMAEngineInvalid",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kDMABufferCount",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kBytesPerSample",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMaxCodecNubID",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDMAState",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSetPowerStateThreadCall",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codec",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "timeout",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loops",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "waits",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sampleMemory",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sgdMemory",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptTarget",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptAction",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interruptParam",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSGD_EOL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSGD_FLAG",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSGD_STOP",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_PCI_ACLINK_STATUS",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_PCI_ACLINK_CONTROL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_PCI_FUNCTION_ENABLE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_PCI_PNP_CONTROL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_PCI_MC97_CONTROL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_PCI_FM_NMI_CONTROL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_PCI_SPDIF_CONTROL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_STATUS_SEC_CODEC_READY",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_STATUS_CODEC_LOW_POWER",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_STATUS_PRI_CODEC_READY",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_ENABLE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_DEASSERT_RESET",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_FORCE_SYNC",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_FORCE_SDO",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_VRA",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_PCM",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_FM",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_ACLINK_CONTROL_SB",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SPDIF_DX3",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SPDIF_SLOT_MASK",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SPDIF_SLOT_6_9",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SPDIF_SLOT_7_8",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SPDIF_SLOT_3_4",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SPDIF_SLOT_10_11",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_REG_CODEC",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "VIA_CODEC_ID_SHIFT",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_CODEC_WRITE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "VIA_CODEC_INDEX_SHIFT",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_CODEC_DATA_MASK",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_DMA_SGD_STATUS",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_DMA_SGD_CONTROL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_DMA_SGD_TYPE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_DMA_SGD_TABLE_PTR",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_DMA_SGD_STOP_INDEX",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_DMA_SGD_CURRENT_COUNT",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_DMA_SGD_CURRENT_INDEX",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STATUS_ACTIVE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STATUS_PAUSED",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STATUS_TRIGGER_QUEUED",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STATUS_STOPPED",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STATUS_EOL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STATUS_FLAG",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_START",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_TERMINATE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_AUTOSTART",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_PAUSE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_INT_STOP",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_INT_EOL",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_INT_FLAG",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_CONTROL_RESET",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STOP_INDEX_16BIT",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STOP_INDEX_STEREO",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STOP_INDEX_48K",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIA_SGD_STOP_INDEX_DISABLE",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineIdle",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineActive",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineRunning",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEngineInterrupt",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleAC97Audio/AppleAC97AudioVIA/AppleAC97AudioVIA.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg70_JackSenseGeneral",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg72_JackSenseStatus",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg72_SerialConfiguration",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg76_MiscControlBits",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg78_AdvancedJackSense",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kReg72_JSMT_SHIFT",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReg72_JSMT_MASK",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kSpeakerSenseResultThreshold",
+    "source": "AppleAC97Audio/AppleAC97CodecAD198x/AppleAC97CodecAD198x.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConverterPCMFront",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAnalogOutputLineOut",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAnalogChannelRight",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAnalogChannelLeft",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAnalogChannelStereo",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAnalogSourcePCBeep",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRecordSourceMIC",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "page",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "page",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseFunctionDAC1",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSenseFunctionDAC2",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSenseFunctionDAC3",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSenseFunctionSPDIFOut",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSenseFunctionPhoneIn",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kSenseFunctionMIC1",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSenseFunctionMIC2",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kSenseFunctionLineIn",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSenseFunctionCDIn",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kSenseFunctionVideoIn",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kSenseFunctionAuxIn",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kSenseFunctionMonoOut",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseFromTip",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSenseFromRing",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerStateSleep",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioCodec.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMaxValidSlotMaps",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "config",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codec",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCodecArray",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fEngineInfo",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mergeMap",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mergeSlotMap",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97AudioConfig.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codec",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97CodecDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "look",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97CodecDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97CodecDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "look",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97CodecDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "codecParam",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97CodecDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97CodecDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fProvider",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "action",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMessageCodecOrderAscending",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMessageCodecOrderDescending",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Controller.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AC97_DEBUG_LEVEL",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Debug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOAC97MaxCodecCount",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAC97SampleFormatPCM16",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAC97DMAEngineTypeAudioPCM",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAC97DMAEngineTypeAudioSPDIF",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAC97DMADataDirectionOutput",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAC97DMADataDirectionInput",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F40",
+    "name": "kIOAC97SampleRate8K",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D00",
+    "name": "kIOAC97SampleRate32K",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xAC44",
+    "name": "kIOAC97SampleRate44_1K",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB80",
+    "name": "kIOAC97SampleRate48K",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAudioReset",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMasterVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAuxOutVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMonoVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMasterTone",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCBeepVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPhoneVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMicVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecLineInVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecCDVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecVideoVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecAuxInVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMOutVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRecordSelect",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRecordGain",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRecordGainMic",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecGeneralPurpose",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodec3DControl",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecInterruptAndPage",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPowerdown",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecExtAudioID",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecExtAudioStatus",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMFrontDACRate",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMSurroundDACRate",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMLFEDACRate",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecPCMADCRate",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecMicADCRate",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecCenterLFEVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecSurroundVolume",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecSPDIFControl",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecVendorID1",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecVendorID2",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRegisterCount",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecSenseFunctionSelect",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecSenseInformation",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecSenseDetails",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecDACSlotMapping",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecADCSlotMapping",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCodecRegisterPage0",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCodecRegisterPage1",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_MICPCMIN",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_TONE",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_STEREO",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_HPOUT",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_BASSBOOST",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_DAC18B",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_DAC20B",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_ADC18B",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAudioReset_ADC20B",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_ADC",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_DAC",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_ANL",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_REF",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_PR0",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_PR1",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_PR2",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_PR3",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_PR4",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_PR5",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_PR6",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_EAPD",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerdown_AllFunctions",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioID_DSA_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioID_REV_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioID_REV21",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioID_REV22",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioID_REV23",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioID_ID_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioStatus_SPSA_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioStatus_SPSA_3_4",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioStatus_SPSA_7_8",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioStatus_SPSA_6_9",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExtAudioStatus_SPSA_10_11",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSPDIFControl_SPSR_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSPDIFControl_SPSR_44K",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSPDIFControl_SPSR_48K",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSPDIFControl_SPSR_32K",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSPDIFControl_CC_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSPDIFControl_CC_SHIFT",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_ST_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_INVALID",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_NO_DEVICE",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_FINGERPRINT",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_SPEAKER_8",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_SPEAKER_4",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_SPEAKER_PWR",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_HEADPHONE",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_SPDIF",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_SPDIF_TOS",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_HEADSET",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_S_OTHER",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_OR_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSenseDetail_OR_SHIFT",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSenseDetail_SR_MASK",
+    "source": "AppleAC97Audio/IOAC97Family/IOAC97Types.h",
+    "type": "PreprocessorConstant"
+  }
+]

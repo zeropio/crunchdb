@@ -1,0 +1,3020 @@
+[
+  {
+    "hex": "0x0",
+    "name": "SYSTEM_TMP_DIR_UID",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SYSTEM_TMP_DIR_GID",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "DC_TEMP_PATH_LEN",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DC_TEMP_PATH_NUMX",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "DC_MAX_SYNC_CLEAN_DUR",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DC_SYNC_CLEAN_STEP_DUR",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DC_MIN_FREESPACE_PERC",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DC_STATE_DIRS_SYNC",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local_errno",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmp_err",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "init",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "diskdev_cmds/dirs_cleaner/dirs_cleaner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "diskdev_cmds/disklib/dkcksum.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "GENFRAGSIZE",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "GENCPG",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GENINTERLEAVE",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE10",
+    "name": "GENRPM",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "GENNSECTORS",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_type",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_subtype",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "d_ntracks",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "d_ntracks",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x36",
+    "name": "d_ntracks",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "d_ntracks",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "d_ntracks",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_sparespertrack",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_sparespercyl",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_acylinders",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_trackskew",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_cylskew",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_headswitch",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_trkseek",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_flags",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_checksum",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_offset",
+    "source": "diskdev_cmds/disklib/dkdisklabel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SHOW_PROGRESS_FLAG",
+    "source": "diskdev_cmds/disklib/fskit_support.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "expectedArgs",
+    "source": "diskdev_cmds/disklib/fskit_support.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3019F5",
+    "name": "operationName",
+    "source": "diskdev_cmds/disklib/fskit_support.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "expectedArgs",
+    "source": "diskdev_cmds/disklib/fskit_support.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63DCE6D",
+    "name": "operationName",
+    "source": "diskdev_cmds/disklib/fskit_support.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "expectedArgs",
+    "source": "diskdev_cmds/disklib/fskit_support.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6343C19",
+    "name": "operationName",
+    "source": "diskdev_cmds/disklib/fskit_support.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x89E76ADC",
+    "name": "fpProviderName",
+    "source": "diskdev_cmds/disklib/fskit_support.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sumstatus",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "passno",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "passno",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retcode",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "retcode",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retried",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hotroot",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dp",
+    "source": "diskdev_cmds/disklib/preen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skipvfs",
+    "source": "diskdev_cmds/disklib/vfslist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/disklib/vfslist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/disklib/vfslist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FOUND",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tflag",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_btime",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_itime",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warned",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warned",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "max",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_btime",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_btime",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_itime",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_bsoftlimit",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_bhardlimit",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_isoftlimit",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_ihardlimit",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_btime",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_itime",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/edquota.tproj/edquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "CONTAINER_LOOKUP_RETRY_COUNT",
+    "source": "diskdev_cmds/edt_fstab/edt_fstab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "diskdev_cmds/edt_fstab/edt_fstab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/edt_fstab/edt_fstab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/auto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "bs",
+    "source": "diskdev_cmds/fdisk.tproj/auto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "diskdev_cmds/fdisk.tproj/auto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "bs",
+    "source": "diskdev_cmds/fdisk.tproj/auto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ns",
+    "source": "diskdev_cmds/fdisk.tproj/auto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "diskdev_cmds/fdisk.tproj/auto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTO_OK",
+    "source": "diskdev_cmds/fdisk.tproj/auto.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "AUTO_ERR",
+    "source": "diskdev_cmds/fdisk.tproj/auto.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "maxcyl",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "maxhead",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "maxsec",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x98967F",
+    "name": "maxcyl",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x98967F",
+    "name": "maxhead",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x98967F",
+    "name": "maxsec",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "bs",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstoff",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shared",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_EXIT",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_SAVE",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_CONT",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_CLEAN",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_DIRTY",
+    "source": "diskdev_cmds/fdisk.tproj/cmd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "shared",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shared",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "heads",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "spt",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "heads",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "sector_size",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "sector_size",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "diskdev_cmds/fdisk.tproj/disk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c_arg",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_arg",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_size_arg",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "u_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "r_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "y_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "t_flag",
+    "source": "diskdev_cmds/fdisk.tproj/fdisk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scyl",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shead",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ssect",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shead",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ssect",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "N_ARGS",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_start",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstoffset",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "NDOSPART",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOSPTYP_UNUSED",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DOSPTYP_EXTEND",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "DOSPTYP_EXTENDL",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "DOSACTIVE",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MBR_CODE_SIZE",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MBR_PART_SIZE",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MBR_PART_OFF",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MBR_SIG_OFF",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MBR_BUF_SIZE",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MBR_SIGNATURE",
+    "source": "diskdev_cmds/fdisk.tproj/mbr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ASK_HEX",
+    "source": "diskdev_cmds/fdisk.tproj/misc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ASK_DEC",
+    "source": "diskdev_cmds/fdisk.tproj/misc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3FF",
+    "name": "cyl",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "head",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "sect",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3FF",
+    "name": "cyl",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "head",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "sect",
+    "source": "diskdev_cmds/fdisk.tproj/part.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yn",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modified",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "modified",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modified",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "modified",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shared",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstoff",
+    "source": "diskdev_cmds/fdisk.tproj/user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FPARSELN_UNESCESC",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FPARSELN_UNESCCONT",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FPARSELN_UNESCCOMM",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FPARSELN_UNESCREST",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FPARSELN_UNESCALL",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPENDEV_PART",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPENDEV_DRCT",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPENDEV_BLCK",
+    "source": "diskdev_cmds/fdisk.tproj/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "preen",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returntosingle",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hotroot",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fscks_running",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ndisks",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "force_fsck",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maximum_running",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quick_check",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "live_check",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "requested_passno",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "assume_no",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "assume_yes",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "assume_no",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "assume_yes",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quick_check",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "assume_yes",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "assume_no",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "live_check",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "os_env",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "running_status",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "passno",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "running_status",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fsckno",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitstatus",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "running_status",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fsckno",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "retval",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ARGC_MAX",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "status",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "returntosingle",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retried",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "TIMEOUT_SEC",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hotroot",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dp",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "diskdev_cmds/fsck.tproj/fsck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "EEXIT",
+    "source": "diskdev_cmds/fsck.tproj/fsck.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ROOT_PASSNO",
+    "source": "diskdev_cmds/fsck.tproj/fsck.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NONROOT_PASSNO",
+    "source": "diskdev_cmds/fsck.tproj/fsck.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DEFAULT_EXIT_CODE",
+    "source": "diskdev_cmds/fsck_fskit/fsck_fskit.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "diskdev_cmds/fsck_fskit/fsck_fskit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "diskdev_cmds/fsck_fskit/fsck_fskit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "MAX_PATH_LEN",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "numMatches",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "DOSBOOTBLOCKSIZE",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAX_SECTOR_SIZE",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "E_OPENDEV",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFB",
+    "name": "E_READ",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dp",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retried",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_msdos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "DOSBOOTBLOCKSIZE",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAX_SECTOR_SIZE",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "E_OPENDEV",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFB",
+    "name": "E_READ",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dp",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retried",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "E_OPENDEV",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFB",
+    "name": "E_READ",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "bsize",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dp",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retried",
+    "source": "diskdev_cmds/fstyp.tproj/fstyp_udf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MOUNT_PHASE_1",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MOUNT_PHASE_2",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_MOUNT_ARGS",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bootstrap_macos",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "passno",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret_errno",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_rosp",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mount_phase",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "init_flags",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "all",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debug",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret_errno",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bootstrap_macos",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "all",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fs_flags",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "negative",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "negative",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/mount.tproj/mount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "COMMAND_OUTPUT_MAX",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "faulting_errno",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signal_no",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mount_return",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2F",
+    "name": "system_path",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x25CFBF05",
+    "name": "user_path",
+    "source": "diskdev_cmds/mount.tproj/mount_tmpfs.c",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mntflags",
+    "source": "diskdev_cmds/mount_devfs.tproj/mount_devfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mntflags",
+    "source": "diskdev_cmds/mount_fdesc.tproj/mount_fdesc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEFAULT_EXIT_CODE",
+    "source": "diskdev_cmds/newfs_fskit/newfs_fskit.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "diskdev_cmds/newfs_fskit/newfs_fskit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "diskdev_cmds/newfs_fskit/newfs_fskit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FOUND",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gflag",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lines",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloced",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nels",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/quota.tproj/quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9C4",
+    "name": "ITEMS_PER_SEARCH",
+    "source": "diskdev_cmds/quotacheck.tproj/hfs_quotacheck.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errs",
+    "source": "diskdev_cmds/quotacheck.tproj/hfs_quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qq_uid",
+    "source": "diskdev_cmds/quotacheck.tproj/hfs_quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nummatches",
+    "source": "diskdev_cmds/quotacheck.tproj/hfs_quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotacheck.tproj/hfs_quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "FUHASH",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxrun",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errs",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idcnt",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warned",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fu_checked",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curinodes",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curbytes",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_btime",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_itime",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curinodes",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curbytes",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warned",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curinodes",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curblocks",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_btime",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dqb_itime",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curinodes",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fu_curblocks",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "max",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "len",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "len",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HASUSR",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "HASGRP",
+    "source": "diskdev_cmds/quotacheck.tproj/quotacheck.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "diskdev_cmds/quotaon.tproj/quotaon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offmode",
+    "source": "diskdev_cmds/quotaon.tproj/quotaon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotaon.tproj/quotaon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotaon.tproj/quotaon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/quotaon.tproj/quotaon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/quotaon.tproj/quotaon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/quotaon.tproj/quotaon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "FUHASH",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gflag",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warned",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "multiple",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warned",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "multiple",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initname",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "len",
+    "source": "diskdev_cmds/repquota.tproj/repquota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PROTECTION_CLASS_A",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "PROTECTION_CLASS_B",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "PROTECTION_CLASS_C",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PROTECTION_CLASS_D",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PROTECTION_CLASS_E",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "PROTECTION_CLASS_F",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "PROTECTION_CLASS_CX",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_set",
+    "source": "diskdev_cmds/setclass.tproj/setclass.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wakeup_flag",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "all",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "all",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "all",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fake",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "all",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vflag",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errs",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errs",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errs",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errs",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errs",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wakeup_flag",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isftpfs",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isftpfs",
+    "source": "diskdev_cmds/umount.tproj/umount.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "VOLUMEUUID64LENGTH",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VOLUME_USEPERMISSIONS",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAXMOUNTLEN",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "volstatus",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "volstatus",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "volstatus",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isHFS",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isHFS",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirattr",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fileattr",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forkattr",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commonattr",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirattr",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fileattr",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forkattr",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBHANDLESIGNATURE",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DBMARKPOSITION",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "MAXIOMALLOC",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "high",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextdigit",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signature",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbfile",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextdigit",
+    "source": "diskdev_cmds/vsdbutil.tproj/vsdbutil_main.c",
+    "type": "EnumCase"
+  }
+]

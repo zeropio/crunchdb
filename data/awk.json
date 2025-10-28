@@ -1,0 +1,4142 @@
+[
+  {
+    "hex": "0x32",
+    "name": "NSYMTAB",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NUM",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "STR",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DONTFREE",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "CON",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "ARR",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "FCN",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "FLD",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "REC",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x190",
+    "name": "CONVC",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "CONVO",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLENGTH",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FSQRT",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FEXP",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FLOG",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FINT",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "FSYSTEM",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "FRAND",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "FSRAND",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "FSIN",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "FCOS",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "FATAN",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "FTOUPPER",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "FTOLOWER",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "FFLUSH",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OCELL",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "OBOOL",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "OJUMP",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "CFREE",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "CCOPY",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "CCON",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CTEMP",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CNAME",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CVAR",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CFLD",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CUNK",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "BTRUE",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "BFALSE",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "JEXIT",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "JNEXT",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "JBREAK",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "JCONT",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "JRET",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "JNEXTFILE",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NVALUE",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NSTAT",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NEXPR",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "NSTATES",
+    "source": "awk/src/awk.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYBISON",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YYPURE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YYLSP_NEEDED",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "FIRSTTOKEN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x103",
+    "name": "PROGRAM",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x104",
+    "name": "PASTAT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x105",
+    "name": "PASTAT2",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x106",
+    "name": "XBEGIN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x107",
+    "name": "XEND",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x108",
+    "name": "NL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x109",
+    "name": "ARRAY",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10A",
+    "name": "MATCH",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10B",
+    "name": "NOTMATCH",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10C",
+    "name": "MATCHOP",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10D",
+    "name": "FINAL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10E",
+    "name": "DOT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10F",
+    "name": "ALL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x110",
+    "name": "CCL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x111",
+    "name": "NCCL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x112",
+    "name": "CHAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x113",
+    "name": "HAT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x114",
+    "name": "DOLLAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x115",
+    "name": "OR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x116",
+    "name": "STAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x117",
+    "name": "QUEST",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x118",
+    "name": "PLUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x119",
+    "name": "EMPTYRE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11A",
+    "name": "ZERO",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11B",
+    "name": "IGNORE_PRIOR_ATOM",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11C",
+    "name": "AND",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11D",
+    "name": "BOR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11E",
+    "name": "APPEND",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11F",
+    "name": "EQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x120",
+    "name": "GE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x121",
+    "name": "GT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x122",
+    "name": "LE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x123",
+    "name": "LT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x124",
+    "name": "NE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x125",
+    "name": "IN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x126",
+    "name": "ARG",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x127",
+    "name": "BLTIN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x128",
+    "name": "BREAK",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x129",
+    "name": "CLOSE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12A",
+    "name": "CONTINUE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12B",
+    "name": "DELETE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "DO",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12D",
+    "name": "EXIT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12E",
+    "name": "FOR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12F",
+    "name": "FUNC",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x130",
+    "name": "SUB",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x131",
+    "name": "GSUB",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x132",
+    "name": "IF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x133",
+    "name": "INDEX",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x134",
+    "name": "LSUBSTR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x135",
+    "name": "MATCHFCN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x136",
+    "name": "NEXT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x137",
+    "name": "NEXTFILE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x138",
+    "name": "ADD",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x139",
+    "name": "MINUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13A",
+    "name": "MULT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13B",
+    "name": "DIVIDE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13C",
+    "name": "MOD",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13D",
+    "name": "ASSIGN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13E",
+    "name": "ASGNOP",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13F",
+    "name": "ADDEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x140",
+    "name": "SUBEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x141",
+    "name": "MULTEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x142",
+    "name": "DIVEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x143",
+    "name": "MODEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x144",
+    "name": "POWEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x145",
+    "name": "PRINT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x146",
+    "name": "PRINTF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x147",
+    "name": "SPRINTF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x148",
+    "name": "ELSE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x149",
+    "name": "INTEST",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14A",
+    "name": "CONDEXPR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14B",
+    "name": "POSTINCR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14C",
+    "name": "PREINCR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14D",
+    "name": "POSTDECR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14E",
+    "name": "PREDECR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14F",
+    "name": "VAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x150",
+    "name": "IVAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x151",
+    "name": "VARNF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x152",
+    "name": "CALL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x153",
+    "name": "NUMBER",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x154",
+    "name": "STRING",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x155",
+    "name": "REGEXPR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x156",
+    "name": "GETLINE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x157",
+    "name": "SUBSTR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x158",
+    "name": "SPLIT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x159",
+    "name": "RETURN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15A",
+    "name": "WHILE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15B",
+    "name": "CAT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15C",
+    "name": "UPLUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15D",
+    "name": "UMINUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15E",
+    "name": "NOT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15F",
+    "name": "POWER",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x160",
+    "name": "INCR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x161",
+    "name": "DECR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x162",
+    "name": "INDIRECT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x163",
+    "name": "LASTTOKEN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x102",
+    "name": "FIRSTTOKEN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x103",
+    "name": "PROGRAM",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x104",
+    "name": "PASTAT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x105",
+    "name": "PASTAT2",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x106",
+    "name": "XBEGIN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x107",
+    "name": "XEND",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x108",
+    "name": "NL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x109",
+    "name": "ARRAY",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10A",
+    "name": "MATCH",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10B",
+    "name": "NOTMATCH",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10C",
+    "name": "MATCHOP",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10D",
+    "name": "FINAL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E",
+    "name": "DOT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10F",
+    "name": "ALL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x110",
+    "name": "CCL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x111",
+    "name": "NCCL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x112",
+    "name": "CHAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x113",
+    "name": "HAT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x114",
+    "name": "DOLLAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x115",
+    "name": "OR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x116",
+    "name": "STAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x117",
+    "name": "QUEST",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x118",
+    "name": "PLUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x119",
+    "name": "EMPTYRE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11A",
+    "name": "ZERO",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11B",
+    "name": "IGNORE_PRIOR_ATOM",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11C",
+    "name": "AND",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11D",
+    "name": "BOR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11E",
+    "name": "APPEND",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11F",
+    "name": "EQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x120",
+    "name": "GE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x121",
+    "name": "GT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x122",
+    "name": "LE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x123",
+    "name": "LT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x124",
+    "name": "NE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x125",
+    "name": "IN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x126",
+    "name": "ARG",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x127",
+    "name": "BLTIN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x128",
+    "name": "BREAK",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x129",
+    "name": "CLOSE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12A",
+    "name": "CONTINUE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12B",
+    "name": "DELETE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "DO",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12D",
+    "name": "EXIT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12E",
+    "name": "FOR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12F",
+    "name": "FUNC",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x130",
+    "name": "SUB",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x131",
+    "name": "GSUB",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x132",
+    "name": "IF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x133",
+    "name": "INDEX",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x134",
+    "name": "LSUBSTR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x135",
+    "name": "MATCHFCN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x136",
+    "name": "NEXT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x137",
+    "name": "NEXTFILE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x138",
+    "name": "ADD",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x139",
+    "name": "MINUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13A",
+    "name": "MULT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13B",
+    "name": "DIVIDE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13C",
+    "name": "MOD",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13D",
+    "name": "ASSIGN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13E",
+    "name": "ASGNOP",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13F",
+    "name": "ADDEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x140",
+    "name": "SUBEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x141",
+    "name": "MULTEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x142",
+    "name": "DIVEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x143",
+    "name": "MODEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x144",
+    "name": "POWEQ",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x145",
+    "name": "PRINT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x146",
+    "name": "PRINTF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x147",
+    "name": "SPRINTF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x148",
+    "name": "ELSE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x149",
+    "name": "INTEST",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14A",
+    "name": "CONDEXPR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14B",
+    "name": "POSTINCR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14C",
+    "name": "PREINCR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14D",
+    "name": "POSTDECR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14E",
+    "name": "PREDECR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14F",
+    "name": "VAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x150",
+    "name": "IVAR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x151",
+    "name": "VARNF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x152",
+    "name": "CALL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x153",
+    "name": "NUMBER",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x154",
+    "name": "STRING",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x155",
+    "name": "REGEXPR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x156",
+    "name": "GETLINE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x157",
+    "name": "SUBSTR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x158",
+    "name": "SPLIT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x159",
+    "name": "RETURN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15A",
+    "name": "WHILE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15B",
+    "name": "CAT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15C",
+    "name": "UPLUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15D",
+    "name": "UMINUS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15E",
+    "name": "NOT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15F",
+    "name": "POWER",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x160",
+    "name": "INCR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x161",
+    "name": "DECR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x162",
+    "name": "INDIRECT",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x163",
+    "name": "LASTTOKEN",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "beginloc",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "endloc",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inloop",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curfname",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arglist",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyi",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "YYFINAL",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13AA",
+    "name": "YYLAST",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x75",
+    "name": "YYNTOKENS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "YYNNTS",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xBC",
+    "name": "YYNRULES",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x174",
+    "name": "YYNSTATES",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YYUNDEFTOK",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x163",
+    "name": "YYMAXUTOK",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFED4",
+    "name": "YYPACT_NINF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFE0",
+    "name": "YYTABLE_NINF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyerrstatus",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YYEOF",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYTERROR",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "YYERRCODE",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyi",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yylen",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyn",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yysize_overflow",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "YYERROR_VERBOSE_ARGS_MAXIMUM",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yycount",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yycount",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyi",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yytoken",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yylen",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yystate",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyerrstatus",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yynerrs",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curfname",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yylen",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "yyalloc",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yylen",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "yyerrstatus",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yyresult",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yyresult",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "yyresult",
+    "source": "awk/src/awkgram.tab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x102",
+    "name": "FIRSTTOKEN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x103",
+    "name": "PROGRAM",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x104",
+    "name": "PASTAT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x105",
+    "name": "PASTAT2",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x106",
+    "name": "XBEGIN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x107",
+    "name": "XEND",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x108",
+    "name": "NL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x109",
+    "name": "ARRAY",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10A",
+    "name": "MATCH",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10B",
+    "name": "NOTMATCH",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10C",
+    "name": "MATCHOP",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10D",
+    "name": "FINAL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10E",
+    "name": "DOT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10F",
+    "name": "ALL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x110",
+    "name": "CCL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x111",
+    "name": "NCCL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x112",
+    "name": "CHAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x113",
+    "name": "HAT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x114",
+    "name": "DOLLAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x115",
+    "name": "OR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x116",
+    "name": "STAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x117",
+    "name": "QUEST",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x118",
+    "name": "PLUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x119",
+    "name": "EMPTYRE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11A",
+    "name": "ZERO",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11B",
+    "name": "IGNORE_PRIOR_ATOM",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11C",
+    "name": "AND",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11D",
+    "name": "BOR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11E",
+    "name": "APPEND",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11F",
+    "name": "EQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x120",
+    "name": "GE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x121",
+    "name": "GT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x122",
+    "name": "LE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x123",
+    "name": "LT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x124",
+    "name": "NE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x125",
+    "name": "IN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x126",
+    "name": "ARG",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x127",
+    "name": "BLTIN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x128",
+    "name": "BREAK",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x129",
+    "name": "CLOSE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12A",
+    "name": "CONTINUE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12B",
+    "name": "DELETE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "DO",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12D",
+    "name": "EXIT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12E",
+    "name": "FOR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12F",
+    "name": "FUNC",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x130",
+    "name": "SUB",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x131",
+    "name": "GSUB",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x132",
+    "name": "IF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x133",
+    "name": "INDEX",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x134",
+    "name": "LSUBSTR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x135",
+    "name": "MATCHFCN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x136",
+    "name": "NEXT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x137",
+    "name": "NEXTFILE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x138",
+    "name": "ADD",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x139",
+    "name": "MINUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13A",
+    "name": "MULT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13B",
+    "name": "DIVIDE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13C",
+    "name": "MOD",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13D",
+    "name": "ASSIGN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13E",
+    "name": "ASGNOP",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13F",
+    "name": "ADDEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x140",
+    "name": "SUBEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x141",
+    "name": "MULTEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x142",
+    "name": "DIVEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x143",
+    "name": "MODEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x144",
+    "name": "POWEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x145",
+    "name": "PRINT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x146",
+    "name": "PRINTF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x147",
+    "name": "SPRINTF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x148",
+    "name": "ELSE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x149",
+    "name": "INTEST",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14A",
+    "name": "CONDEXPR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14B",
+    "name": "POSTINCR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14C",
+    "name": "PREINCR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14D",
+    "name": "POSTDECR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14E",
+    "name": "PREDECR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14F",
+    "name": "VAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x150",
+    "name": "IVAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x151",
+    "name": "VARNF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x152",
+    "name": "CALL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x153",
+    "name": "NUMBER",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x154",
+    "name": "STRING",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x155",
+    "name": "REGEXPR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x156",
+    "name": "GETLINE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x157",
+    "name": "SUBSTR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x158",
+    "name": "SPLIT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x159",
+    "name": "RETURN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15A",
+    "name": "WHILE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15B",
+    "name": "CAT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15C",
+    "name": "UPLUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15D",
+    "name": "UMINUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15E",
+    "name": "NOT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15F",
+    "name": "POWER",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x160",
+    "name": "INCR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x161",
+    "name": "DECR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x162",
+    "name": "INDIRECT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x163",
+    "name": "LASTTOKEN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x102",
+    "name": "FIRSTTOKEN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x103",
+    "name": "PROGRAM",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x104",
+    "name": "PASTAT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x105",
+    "name": "PASTAT2",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x106",
+    "name": "XBEGIN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x107",
+    "name": "XEND",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x108",
+    "name": "NL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x109",
+    "name": "ARRAY",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10A",
+    "name": "MATCH",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10B",
+    "name": "NOTMATCH",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10C",
+    "name": "MATCHOP",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10D",
+    "name": "FINAL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E",
+    "name": "DOT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10F",
+    "name": "ALL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x110",
+    "name": "CCL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x111",
+    "name": "NCCL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x112",
+    "name": "CHAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x113",
+    "name": "HAT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x114",
+    "name": "DOLLAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x115",
+    "name": "OR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x116",
+    "name": "STAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x117",
+    "name": "QUEST",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x118",
+    "name": "PLUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x119",
+    "name": "EMPTYRE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11A",
+    "name": "ZERO",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11B",
+    "name": "IGNORE_PRIOR_ATOM",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11C",
+    "name": "AND",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11D",
+    "name": "BOR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11E",
+    "name": "APPEND",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11F",
+    "name": "EQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x120",
+    "name": "GE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x121",
+    "name": "GT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x122",
+    "name": "LE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x123",
+    "name": "LT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x124",
+    "name": "NE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x125",
+    "name": "IN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x126",
+    "name": "ARG",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x127",
+    "name": "BLTIN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x128",
+    "name": "BREAK",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x129",
+    "name": "CLOSE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12A",
+    "name": "CONTINUE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12B",
+    "name": "DELETE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "DO",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12D",
+    "name": "EXIT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12E",
+    "name": "FOR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12F",
+    "name": "FUNC",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x130",
+    "name": "SUB",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x131",
+    "name": "GSUB",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x132",
+    "name": "IF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x133",
+    "name": "INDEX",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x134",
+    "name": "LSUBSTR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x135",
+    "name": "MATCHFCN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x136",
+    "name": "NEXT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x137",
+    "name": "NEXTFILE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x138",
+    "name": "ADD",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x139",
+    "name": "MINUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13A",
+    "name": "MULT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13B",
+    "name": "DIVIDE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13C",
+    "name": "MOD",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13D",
+    "name": "ASSIGN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13E",
+    "name": "ASGNOP",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13F",
+    "name": "ADDEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x140",
+    "name": "SUBEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x141",
+    "name": "MULTEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x142",
+    "name": "DIVEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x143",
+    "name": "MODEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x144",
+    "name": "POWEQ",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x145",
+    "name": "PRINT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x146",
+    "name": "PRINTF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x147",
+    "name": "SPRINTF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x148",
+    "name": "ELSE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x149",
+    "name": "INTEST",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14A",
+    "name": "CONDEXPR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14B",
+    "name": "POSTINCR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14C",
+    "name": "PREINCR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14D",
+    "name": "POSTDECR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14E",
+    "name": "PREDECR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14F",
+    "name": "VAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x150",
+    "name": "IVAR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x151",
+    "name": "VARNF",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x152",
+    "name": "CALL",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x153",
+    "name": "NUMBER",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x154",
+    "name": "STRING",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x155",
+    "name": "REGEXPR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x156",
+    "name": "GETLINE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x157",
+    "name": "SUBSTR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x158",
+    "name": "SPLIT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x159",
+    "name": "RETURN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15A",
+    "name": "WHILE",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15B",
+    "name": "CAT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15C",
+    "name": "UPLUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15D",
+    "name": "UMINUS",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15E",
+    "name": "NOT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15F",
+    "name": "POWER",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x160",
+    "name": "INCR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x161",
+    "name": "DECR",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x162",
+    "name": "INDIRECT",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x163",
+    "name": "LASTTOKEN",
+    "source": "awk/src/awkgram.tab.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "MAXLIN",
+    "source": "awk/src/b.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxsetvec",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replogfile",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "NFA",
+    "source": "awk/src/b.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfatab",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "now",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nuse",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "poscnt",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replogfile",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "curstat",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "bufc",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setcnt",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_read",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_read",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q_read",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "s",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_read",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q_read",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "s",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patlen",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "s",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "REPEAT_SIMPLE",
+    "source": "awk/src/b.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "REPEAT_PLUS_APPENDED",
+    "source": "awk/src/b.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "REPEAT_WITH_Q",
+    "source": "awk/src/b.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "REPEAT_ZERO",
+    "source": "awk/src/b.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "bufc",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cflag",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cflag",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "ccnamec",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wc2",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "bufsz",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parens",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "num",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setcnt",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/b.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lineno",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracecnt",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "brackcnt",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parencnt",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bufsize",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "bufsz",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "px",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "bufsz",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "awk/src/lex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len_inputFS",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "MAXFLD",
+    "source": "awk/src/lib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastfld",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argno",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "initstat",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rr",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fr",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fr",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fr",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nf",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "initstat",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errorflag",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "been_here",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "errorflag",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "beenhere",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "been_here",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "x",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "x",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbg",
+    "source": "awk/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "srand_seed",
+    "source": "awk/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "srand_seed",
+    "source": "awk/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "awk/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dbg",
+    "source": "awk/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lineno",
+    "source": "awk/src/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/maketab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/maketab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "PA2NUM",
+    "source": "awk/src/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "FOPEN_MAX",
+    "source": "awk/src/run.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7FFF",
+    "name": "RAND_MAX",
+    "source": "awk/src/run.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "donefld",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "NARGS",
+    "source": "awk/src/run.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nframe",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freed",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ncall",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "freed",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "freed",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blen",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mode",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "MAXNUMSIZE",
+    "source": "awk/src/run.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bufsz",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bufsz",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssz",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg3type",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sep",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "initstat",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "u",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "initstat",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mflag",
+    "source": "awk/src/run.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "start",
+    "source": "awk/src/testdir/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minusn",
+    "source": "awk/src/testdir/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "start",
+    "source": "awk/src/testdir/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "minusn",
+    "source": "awk/src/testdir/echo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "fudge",
+    "source": "awk/src/testdir/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "awk/src/testdir/time.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "FULLTAB",
+    "source": "awk/src/tran.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "GROWTAB",
+    "source": "awk/src/tran.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashval",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outlen",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "n",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "awk/src/tran.c",
+    "type": "EnumCase"
+  }
+]

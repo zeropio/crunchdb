@@ -1,0 +1,2414 @@
+[
+  {
+    "hex": "0x0",
+    "name": "_lo",
+    "source": "IOAudioFamily/BigNum128.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSB64",
+    "source": "IOAudioFamily/BigNum128.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommandGateStatus_Normal",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "control",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commandGateUsage",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldSize",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newSize",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intValue",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOAudioFamily/IOAudioControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "IOAudioFamily/IOAudioControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notificationMessage",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notificationMessage",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notificationMessage",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "audioControl",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "audioControl",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_reserved",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_id",
+    "source": "IOAudioFamily/IOAudioControlUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "DEBUG_LEVEL",
+    "source": "IOAudioFamily/IOAudioDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_USE_FIRELOG",
+    "source": "IOAudioFamily/IOAudioDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_USE_FIREWIRE_KPRINTF",
+    "source": "IOAudioFamily/IOAudioDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DEBUG_LEVEL",
+    "source": "IOAudioFamily/IOAudioDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NUM_POWER_STATES",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "idleSleepDelayTime",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numRunningAudioEngines",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "audioEngines",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "audioPorts",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timerEvents",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "microsecondsUntilComplete",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "micsUntilComplete",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stringLen",
+    "source": "IOAudioFamily/IOAudioDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioDeviceSleep",
+    "source": "IOAudioFamily/IOAudioDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioDeviceIdle",
+    "source": "IOAudioFamily/IOAudioDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioDeviceActive",
+    "source": "IOAudioFamily/IOAudioDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "DEFAULT_MIX_CLIP_OVERHEAD",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "kDefaultEraseHeadComputationNs",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommandGateStatus_Normal",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wakeupDeltaTicks",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wakeupDeltaNS",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sampleFramesMeasured",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "whole",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fraction",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numActiveUserClients",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pauseCount",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commandGateUsage",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxNumOutputChannels",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxNumInputChannels",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "uniqueIDSize",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCurrentLoopCount",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLastLoopTime",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fEraseHeadSampleFrame",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "retries",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxNumOutputChannels",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxNumInputChannels",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "currentChannelID",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "currentChannelNumber",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numChannels",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "currentChannelID",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "currentChannelNumber",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numChannels",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pauseCount",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "now",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "streamIndex",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoopCount",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSampleFrame",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "computation",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "constraint",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wakeupDeltaTicks",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wakeupDeltaNS",
+    "source": "IOAudioFamily/IOAudioEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "IOAUDIOENGINE_DEFAULT_NUM_ERASES_PER_BUFFER",
+    "source": "IOAudioFamily/IOAudioEngine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rateDict",
+    "source": "IOAudioFamily/IOAudioEngine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sampleRate",
+    "source": "IOAudioFamily/IOAudioEngine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOAudioFamily/IOAudioEngine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOAudioFamily/IOAudioEngineMixer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "strideOne",
+    "source": "IOAudioFamily/IOAudioEngineMixer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommandGateStatus_Normal",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kLoopCountMaximumDifference",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generationCount",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoopCount",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSampleFrame",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "classicMode",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_reserved",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_id",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selector",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scalarInputCount",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientIndex",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sampleFrames",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localBufferDataDescriptorPtr",
+    "source": "IOAudioFamily/IOAudioEngineUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "control",
+    "source": "IOAudioFamily/IOAudioLevelControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "IOAudioFamily/IOAudioLevelControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "IOAudioFamily/IOAudioPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "audioDevice",
+    "source": "IOAudioFamily/IOAudioPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "portName",
+    "source": "IOAudioFamily/IOAudioPort.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "portName",
+    "source": "IOAudioFamily/IOAudioPort.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOAudioFamily/IOAudioPort.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOAudioFamily/IOAudioSelectorControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOAudioFamily/IOAudioSelectorControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "IOAudioFamily/IOAudioSelectorControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg3",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg4",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "formatIndex",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSampleFormat",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumericRepresentation",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFlags",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fFramesPerPacket",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFlags",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fFramesPerPacket",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numIOFunctions",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxNumChannels",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numClients",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mixBufferSize",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numIOFunctions",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "formatNum",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numAvailableFormats",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sampleBufferSize",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mixBufferSize",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mixBufferSize",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numIOFunctions",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numAvailableFormats",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoopCount",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSampleFrame",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numWrappedFrames",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numReadFrames",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "functionNum",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "functionNum",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextSampleFrame",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numSamplesToMix",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoopCount",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSampleFrame",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoopCount",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSampleFrame",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remainingSamplesToClip",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "functionNum",
+    "source": "IOAudioFamily/IOAudioStream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "formatDict",
+    "source": "IOAudioFamily/IOAudioStream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "streamFormat",
+    "source": "IOAudioFamily/IOAudioStream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kErrorLogClipMoreThanOneBufferAhead",
+    "source": "IOAudioFamily/IOAudioStream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kErrorLogDumpCounters",
+    "source": "IOAudioFamily/IOAudioStream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFunctions",
+    "source": "IOAudioFamily/IOAudioStream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "IOAudioFamily/IOAudioStream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFunctions",
+    "source": "IOAudioFamily/IOAudioStream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIntervalTimeHistoryPointer",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mFilterCount",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIntervalTimeHistoryPointer",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mFilterCount",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filteredSnapshot",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mNumCoeffs",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mFilterWritePointer",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mFilterWritePointer",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expectedInterval",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "multiIntervalCount",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dec",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "inc",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "multiIntervalCount",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "multiIntervalCount",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expectedInterval",
+    "source": "IOAudioFamily/IOAudioTimeIntervalFilter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "control",
+    "source": "IOAudioFamily/IOAudioToggleControl.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelName",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cntrlID",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subType",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usage",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "IOAudioFamily/IOAudioToggleControl.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioStatusBuffer",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioSampleBuffer",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioMixBuffer",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOAudioBytesInInputBuffer",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOAudioBytesInOutputBuffer",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioEngineCallRegisterClientBuffer",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioEngineCallUnregisterClientBuffer",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioEngineCallGetConnectionID",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOAudioEngineCallStart",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOAudioEngineCallStop",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kIOAudioEngineCallGetNearestStartTime",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kIOAudioEngineNumCalls",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioEngineTrapPerformClientIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioEngineAllNotifications",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioEngineStreamFormatChangeNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioEngineChangeNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOAudioEngineStartedNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOAudioEngineStoppedNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kIOAudioEnginePausedNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kIOAudioEngineResumedNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioEngineStopped",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioEngineRunning",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioEnginePaused",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOAudioEngineResumed",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioEngineCurrentStatusStructVersion",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFormatExtensionInvalidVersion",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFormatExtensionCurrentVersion",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStreamDataDescriptorInvalidVersion",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kStreamDataDescriptorCurrentVersion",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioSMPTETimeType24",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioSMPTETimeType25",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioSMPTETimeType30Drop",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOAudioSMPTETimeType30",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOAudioSMPTETimeType2997",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kIOAudioSMPTETimeType2997Drop",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kIOAudioSMPTETimeType60",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kIOAudioSMPTETimeType5994",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kIOAudioSMPTETimeType60Drop",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kIOAudioSMPTETimeType5994Drop",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kIOAudioSMPTETimeType50",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kIOAudioSMPTETimeType2398",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioStreamDirectionOutput",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioStreamDirectionInput",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioDeviceCanBeDefaultNothing",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioControlCallSetValue",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioControlCallGetValue",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioControlNumCalls",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioControlValueChangeNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioControlRangeChangeNotification",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNoIdleAudioPowerDown",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioControlChannelIDAll",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioControlChannelIDDefaultLeft",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioControlChannelIDDefaultRight",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOAudioControlChannelIDDefaultCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOAudioControlChannelIDDefaultLeftRear",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kIOAudioControlChannelIDDefaultRightRear",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kIOAudioControlChannelIDDefaultSub",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kIOAudioControlChannelIDDefaultFrontLeftCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kIOAudioControlChannelIDDefaultFrontRightCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kIOAudioControlChannelIDDefaultRearCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kIOAudioControlChannelIDDefaultSurroundLeft",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kIOAudioControlChannelIDDefaultSurroundRight",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioStreamAlignmentLowByte",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioStreamAlignmentHighByte",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioStreamByteOrderBigEndian",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioStreamByteOrderLittleEndian",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioLevelControlNegativeInfinity",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioNewClockDomain",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_NULL",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_NULL",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_UNDEFINED",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_MICROPHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_DESKTOP_MICROPHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_PERSONAL_MICROPHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_OMNIDIRECTIONAL_MICROPHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_MICROPHONE_ARRAY",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_PROCESSING_MICROPHONE_ARRAY",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INPUT_MODEM_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_UNDEFINED",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_SPEAKER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_HEADPHONES",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_HEAD_MOUNTED_DISPLAY_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_DESKTOP_SPEAKER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_ROOM_SPEAKER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_COMMUNICATION_SPEAKER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTPUT_LOW_FREQUENCY_EFFECTS_SPEAKER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIDIRECTIONAL_UNDEFINED",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIDIRECTIONAL_HANDSET",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIDIRECTIONAL_HEADSET",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIDIRECTIONAL_SPEAKERPHONE_NO_ECHO_REDX",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIDIRECTIONAL_ECHO_SUPPRESSING_SPEAKERPHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIDIRECTIONAL_ECHO_CANCELING_SPEAKERPHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TELEPHONY_UNDEFINED",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TELEPHONY_PHONE_LINE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TELEPHONY_TELEPHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TELEPHONY_DOWN_LINE_PHONE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_UNDEFINED",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_ANALOG_CONNECTOR",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_DIGITAL_AUDIO_INTERFACE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_LINE_CONNECTOR",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_LEGACY_AUDIO_CONNECTOR",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_SPDIF_INTERFACE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_1394_DA_STREAM",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_1394_DV_STREAM_SOUNDTRACK",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_ADAT",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_TDIF",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTERNAL_MADI",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_UNDEFINED",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_LEVEL_CALIBRATION_NOISE_SOURCE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_EQUALIZATION_NOISE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_CD_PLAYER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_DAT",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_DCC",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_MINIDISK",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_ANALOG_TAPE",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_PHONOGRAPH",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_VCR_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_VIDEO_DISC_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_DVD_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_TV_TUNER_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_SATELLITE_RECEIVER_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_CABLE_TUNER_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_DSS_AUDIO",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_RADIO_RECEIVER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_RADIO_TRANSMITTER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_MULTITRACK_RECORDER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EMBEDDED_SYNTHESIZER",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PROCESSOR_UNDEFINED",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PROCESSOR_GENERAL",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kIOAudioChannelLabel_Discrete_field_ba",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioChannelLabel_Unknown",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOAudioChannelLabel_Unused",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kIOAudioChannelLabel_UseCoordinates",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOAudioChannelLabel_Left",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOAudioChannelLabel_Right",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIOAudioChannelLabel_Center",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kIOAudioChannelLabel_LFEScreen",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kIOAudioChannelLabel_LeftSurround",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kIOAudioChannelLabel_RightSurround",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kIOAudioChannelLabel_LeftCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kIOAudioChannelLabel_RightCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kIOAudioChannelLabel_CenterSurround",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kIOAudioChannelLabel_LeftSurroundDirect",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kIOAudioChannelLabel_RightSurroundDirect",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kIOAudioChannelLabel_TopCenterSurround",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kIOAudioChannelLabel_VerticalHeightLeft",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kIOAudioChannelLabel_VerticalHeightCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kIOAudioChannelLabel_VerticalHeightRight",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kIOAudioChannelLabel_TopBackLeft",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "kIOAudioChannelLabel_TopBackCenter",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "kIOAudioChannelLabel_TopBackRight",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "kIOAudioChannelLabel_RearSurroundLeft",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x22",
+    "name": "kIOAudioChannelLabel_RearSurroundRight",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23",
+    "name": "kIOAudioChannelLabel_LeftWide",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x24",
+    "name": "kIOAudioChannelLabel_RightWide",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x25",
+    "name": "kIOAudioChannelLabel_LFE2",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x26",
+    "name": "kIOAudioChannelLabel_LeftTotal",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "kIOAudioChannelLabel_RightTotal",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "kIOAudioChannelLabel_HearingImpaired",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29",
+    "name": "kIOAudioChannelLabel_Narration",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "kIOAudioChannelLabel_Mono",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2B",
+    "name": "kIOAudioChannelLabel_DialogCentricMix",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2C",
+    "name": "kIOAudioChannelLabel_CenterSurroundDirect",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2D",
+    "name": "kIOAudioChannelLabel_Haptic",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31",
+    "name": "kIOAudioChannelLabel_LeftTopMiddle",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x33",
+    "name": "kIOAudioChannelLabel_RightTopMiddle",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x34",
+    "name": "kIOAudioChannelLabel_LeftTopRear",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x35",
+    "name": "kIOAudioChannelLabel_CenterTopRear",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x36",
+    "name": "kIOAudioChannelLabel_RightTopRear",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "kIOAudioChannelLabel_Ambisonic_W",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC9",
+    "name": "kIOAudioChannelLabel_Ambisonic_X",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCA",
+    "name": "kIOAudioChannelLabel_Ambisonic_Y",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCB",
+    "name": "kIOAudioChannelLabel_Ambisonic_Z",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCC",
+    "name": "kIOAudioChannelLabel_MS_Mid",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCD",
+    "name": "kIOAudioChannelLabel_MS_Side",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCE",
+    "name": "kIOAudioChannelLabel_XY_X",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCF",
+    "name": "kIOAudioChannelLabel_XY_Y",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12D",
+    "name": "kIOAudioChannelLabel_HeadphonesLeft",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12E",
+    "name": "kIOAudioChannelLabel_HeadphonesRight",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x130",
+    "name": "kIOAudioChannelLabel_ClickTrack",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x131",
+    "name": "kIOAudioChannelLabel_ForeignLanguage",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x190",
+    "name": "kIOAudioChannelLabel_Discrete",
+    "source": "IOAudioFamily/IOAudioTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "rightShift",
+    "source": "IOAudioFamily/PCMBlitterLib/IOAudioBlitterLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80000000",
+    "name": "maxInt32",
+    "source": "IOAudioFamily/PCMBlitterLib/IOAudioBlitterLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80000000",
+    "name": "maxInt32",
+    "source": "IOAudioFamily/PCMBlitterLib/IOAudioBlitterLib.h",
+    "type": "EnumCase"
+  }
+]

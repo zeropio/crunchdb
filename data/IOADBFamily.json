@@ -1,0 +1,428 @@
+[
+  {
+    "hex": "0x10",
+    "name": "ADB_DEVICE_COUNT",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_FLAGS_PRESENT",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_FLAGS_REGISTERED",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_FLAGS_UNRESOLVED",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_SELF_TEST",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_CHANGE_ID",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_CHANGE_ID_AND_ACT",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_CHANGE_ID_AND_ENABLE",
+    "source": "IOADBFamily/IOADBBus/IOADBBusPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x989680",
+    "name": "kTenSeconds",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "length",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "bit",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "length",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unresolvedAddrs",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freeAddrs",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "devNum",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "length",
+    "source": "IOADBFamily/IOADBBus/IOADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "count0",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "count1",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "count0",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count1",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count0",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count1",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count0",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count1",
+    "source": "IOADBFamily/IOADBBus/IOADBControllerUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ADB_DEVICE_COUNT",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_FLAGS_PRESENT",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_FLAGS_REGISTERED",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_FLAGS_UNRESOLVED",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_SELF_TEST",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_CHANGE_ID",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_CHANGE_ID_AND_ACT",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_DEVCMD_CHANGE_ID_AND_ENABLE",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "IOADBFamily/IOKit/adb/IOADBBus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ADB_RET_OK",
+    "source": "IOADBFamily/IOKit/adb/IOADBController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ADB_RET_INUSE",
+    "source": "IOADBFamily/IOKit/adb/IOADBController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ADB_RET_NOTPRESENT",
+    "source": "IOADBFamily/IOKit/adb/IOADBController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ADB_RET_TIMEOUT",
+    "source": "IOADBFamily/IOKit/adb/IOADBController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ADB_RET_UNEXPECTED_RESULT",
+    "source": "IOADBFamily/IOKit/adb/IOADBController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ADB_RET_REQUEST_ERROR",
+    "source": "IOADBFamily/IOKit/adb/IOADBController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "ADB_RET_BUS_ERROR",
+    "source": "IOADBFamily/IOKit/adb/IOADBController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kNumADBMethods",
+    "source": "IOADBFamily/IOKit/adb/IOADBLib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kADBReadDevice",
+    "source": "IOADBFamily/IOKit/adb/IOADBLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rLength",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataLen",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waitingForData",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waitingForData",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waitingForData",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waitingForData",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUNoError",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPMUInitError",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPMUParameterError",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kPMUNotSupported",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kPMUIOError",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUpMgrADB",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUpMgrADBoff",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUreadADB",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUpMgrADBInt",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kPMUADBAddressField",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUResetADBBus",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUFlushADB",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUWriteADB",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUReadADB",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMURWMaskADB",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUADBint",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUenvironmentInt",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUwaitinglsc",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUautoSRQpolling",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPMUautopoll",
+    "source": "IOADBFamily/platform/drvApplePMU/IOPMUADBController.h",
+    "type": "EnumCase"
+  }
+]

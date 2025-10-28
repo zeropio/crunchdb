@@ -1,0 +1,2906 @@
+[
+  {
+    "hex": "0x400",
+    "name": "MAXPATH",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "MAXARGS",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_in_args",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_in_args",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_match_at_all",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "contains_wildcards",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "contains_wildcards",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_matches",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_match_at_all",
+    "source": "gnuzip/gzip/amiga/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_UTIME_H",
+    "source": "gnuzip/gzip/amiga/utime.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_buf",
+    "source": "gnuzip/gzip/bits.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_valid",
+    "source": "gnuzip/gzip/bits.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits_sent",
+    "source": "gnuzip/gzip/bits.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "gnuzip/gzip/bits.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_buf",
+    "source": "gnuzip/gzip/bits.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_valid",
+    "source": "gnuzip/gzip/bits.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "RAND_HEAD_LEN",
+    "source": "gnuzip/gzip/crypt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NIL",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FAST",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SLOW",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EQUAL",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strstart",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_start",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eofile",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eofile",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ins_h",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eofile",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_length",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_length",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_available",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_available",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match_available",
+    "source": "gnuzip/gzip/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ascii",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "to_stdout",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "decompress",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "force",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recursive",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "list",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quiet",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_lzw",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "test",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foreground",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "level",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DGNU_STANDARD",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "decompress",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "to_stdout",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ascii",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "to_stdout",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "decompress",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "to_stdout",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_time",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_time",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_time",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_time",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quiet",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "recursive",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "to_stdout",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quiet",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_lzw",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inptr",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "to_stdout",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "part_nb",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_out",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "part_nb",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_out",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name_shortened",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "name_shortened",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z_suffix_errno",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_orig_name",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "save_orig_name",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "imagic1",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "header_bytes",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "list",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inptr",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_member",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_member",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_member",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inptr",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "last_member",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first_time",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "positive_off_t_width",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first_time",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "header_bytes",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "header_bytes",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "save_orig_name",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "foreground",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "foreground",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_exit",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_exit",
+    "source": "gnuzip/gzip/gzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OK",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ERROR",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "WARNING",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STORED",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "COMPRESSED",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "PACKED",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "LZHED",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DEFLATED",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "MAX_METHODS",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "INBUF_EXTRA",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x800",
+    "name": "OUTBUF_EXTRA",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ASCII_FLAG",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CONTINUATION",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXTRA_FIELD",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ORIG_NAME",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "COMMENT",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENCRYPTED",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESERVED",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNKNOWN",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BINARY",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ASCII",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MIN_MATCH",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "MAX_MATCH",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "translate_eol",
+    "source": "gnuzip/gzip/gzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "lbits",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "dbits",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "BMAX",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x120",
+    "name": "N_MAX",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x63",
+    "name": "e",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "b",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "e",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "b",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "y",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "z",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "e",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bl",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bd",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x101",
+    "name": "nl",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nd",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "nb",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bl",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "j",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "j",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "j",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wp",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bk",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bb",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hufts",
+    "source": "gnuzip/gzip/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "gnuzip/gzip/lib/error.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ERROR_H",
+    "source": "gnuzip/gzip/lib/error.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opterr",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__nonoption_flags_max_len",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__nonoption_flags_len",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "print_errors",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__initialized",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indfound",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "POSIXLY_CORRECT",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "POSIXLY_CORRECT",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "gnuzip/gzip/lib/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "gnuzip/gzip/lib/getopt1.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "gnuzip/gzip/lib/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnuzip/gzip/lib/getopt1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GETOPT_INT_H",
+    "source": "gnuzip/gzip/lib/getopt_int.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_LIBGETTEXT_H",
+    "source": "gnuzip/gzip/lib/gettext.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "MAX_MATCH",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MIN_MATCH",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "cur_match",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x102",
+    "name": "MAX_MATCH",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MIN_MATCH",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8000",
+    "name": "WSIZE",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "MAX_MATCH",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MIN_MATCH",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8000",
+    "name": "WSIZE",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "R_INPUT",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "R_LOCAL",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "R_OUTPUT",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "R_ROTATING",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MLAT",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SHLAT",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "p0",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "s_vlen",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "s_vlen",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "s_tm3",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "s_tm4",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "lc",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "s_tm5",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rot",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "s_tm6",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "s_vlen",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x102",
+    "name": "s_vlen",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "p0",
+    "source": "gnuzip/gzip/lib/match.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "gnuzip/gzip/lib/open-safer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/lib/pipe-safer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "STAT_TIME_H",
+    "source": "gnuzip/gzip/lib/stat-time.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "gnuzip/gzip/lib/stat-time.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "false",
+    "source": "gnuzip/gzip/lib/stdbool_.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "false",
+    "source": "gnuzip/gzip/lib/stdbool_.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "false",
+    "source": "gnuzip/gzip/lib/stdbool_.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "false",
+    "source": "gnuzip/gzip/lib/stdbool_.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "true",
+    "source": "gnuzip/gzip/lib/stdbool_.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__bool_true_false_are_defined",
+    "source": "gnuzip/gzip/lib/stdbool_.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x437",
+    "name": "id",
+    "source": "gnuzip/gzip/lib/stdlib_.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x437",
+    "name": "id",
+    "source": "gnuzip/gzip/lib/stdlib_.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20641",
+    "name": "id",
+    "source": "gnuzip/gzip/lib/utimens.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "gnuzip/gzip/lib/xalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "gnuzip/gzip/lib/xalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "gnuzip/gzip/lib/xalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "gnuzip/gzip/lib/xalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "allocated1",
+    "source": "gnuzip/gzip/lib/xalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "DEFAULT_MXFAST",
+    "source": "gnuzip/gzip/lib/xalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GNU_CALLOC",
+    "source": "gnuzip/gzip/lib/xmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_GNU_CALLOC",
+    "source": "gnuzip/gzip/lib/xmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "response_size",
+    "source": "gnuzip/gzip/lib/yesno.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_done",
+    "source": "gnuzip/gzip/lzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_done",
+    "source": "gnuzip/gzip/lzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "INIT_BITS",
+    "source": "gnuzip/gzip/lzw.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIT_MASK",
+    "source": "gnuzip/gzip/lzw.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_MODE",
+    "source": "gnuzip/gzip/lzw.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LZW_RESERVED",
+    "source": "gnuzip/gzip/lzw.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "CLEAR",
+    "source": "gnuzip/gzip/lzw.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr_offset",
+    "source": "gnuzip/gzip/msdos/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "gnuzip/gzip/msdos/tailor.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_RDONLY",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "O_WRONLY",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "O_RDWR",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_BINARY",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_EXCL",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_NDELAY",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_CREAT",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_TRUNC",
+    "source": "gnuzip/gzip/primos/include/fcntl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29810",
+    "name": "_IFMT",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "_IFREG",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C40",
+    "name": "_IFDIR",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFA0",
+    "name": "S_ISUID",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "S_ISGID",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "S_ISVTX",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x190",
+    "name": "S_IREAD",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "S_IWRITE",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "S_IEXEC",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "S_ENFMT",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2BC",
+    "name": "S_IRWXU",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x190",
+    "name": "S_IRUSR",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "S_IWUSR",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "S_IXUSR",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x46",
+    "name": "S_IRWXG",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "S_IRGRP",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "S_IWGRP",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "S_IXGRP",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "S_IRWXO",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "S_IROTH",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "S_IWOTH",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "S_IXOTH",
+    "source": "gnuzip/gzip/primos/include/sysStat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A",
+    "name": "primos_uid",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "primos_gid",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x258",
+    "name": "primos_mode",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "st_dev",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "st_ino",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "st_nlink",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "st_rdev",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "st_blksize",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "st_size",
+    "source": "gnuzip/gzip/primos/primos.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PATCHLEVEL",
+    "source": "gnuzip/gzip/revision.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "MAGIC2",
+    "source": "gnuzip/gzip/sample/add.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "MAX_DIST",
+    "source": "gnuzip/gzip/sample/add.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/sample/add.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "e",
+    "source": "gnuzip/gzip/sample/makecrc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/sample/makecrc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuzip/gzip/sample/makecrc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "k",
+    "source": "gnuzip/gzip/sample/makecrc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "MAGIC2",
+    "source": "gnuzip/gzip/sample/sub.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "MAX_DIST",
+    "source": "gnuzip/gzip/sample/sub.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "gnuzip/gzip/sample/sub.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/sample/sub.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAX_BITS",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "MAX_BL_BITS",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "LENGTH_CODES",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "LITERALS",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "END_BLOCK",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "D_CODES",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "BL_CODES",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STORED_BLOCK",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STATIC_TREES",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DYN_TREES",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "REP_3_6",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "REPZ_3_10",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "REPZ_11_138",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "input_len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dist",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "Len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "Len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "Len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "Len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "Len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Freq",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "static_len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_flags",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SMALLEST",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "overflow",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xbits",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bits",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "heap_len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Len",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Freq",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "min_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "min_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rank",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcode",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lx",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dx",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fx",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ascii_freq",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bin_freq",
+    "source": "gnuzip/gzip/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "DICBIT",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXMATCH",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "THRESHOLD",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "CBIT",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "CODE_BIT",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "PBIT",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TBIT",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "subbitbuf",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitbuf",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "jutbits",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "k",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "c",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blocksize",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "gnuzip/gzip/unlzh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "finchar",
+    "source": "gnuzip/gzip/unlzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outpos",
+    "source": "gnuzip/gzip/unlzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "code",
+    "source": "gnuzip/gzip/unlzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuzip/gzip/unlzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insize",
+    "source": "gnuzip/gzip/unlzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "posbits",
+    "source": "gnuzip/gzip/unlzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outpos",
+    "source": "gnuzip/gzip/unlzw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "MAX_BITLEN",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "LITERALS",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "MAX_PEEK",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "valid",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "max_leaves",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "orig_len",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodes",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prefixp",
+    "source": "gnuzip/gzip/unpack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOCSIG",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "LOCFLG",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CRPFLG",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "EXTFLG",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "LOCHOW",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "LOCTIM",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "LOCCRC",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "LOCSIZ",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "LOCLEN",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "LOCFIL",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "LOCEXT",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "LOCHDR",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "EXTHDR",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "RAND_HEAD_LEN",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pkzip",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ext_header",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pkzip",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "orig_crc",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "orig_len",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pkzip",
+    "source": "gnuzip/gzip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inptr",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_out",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insize",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "inptr",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nargc",
+    "source": "gnuzip/gzip/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "max_files",
+    "source": "gnuzip/gzip/vms/vms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_argc",
+    "source": "gnuzip/gzip/vms/vms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuzip/gzip/vms/vms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "context",
+    "source": "gnuzip/gzip/vms/vms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "gnuzip/gzip/vms/vms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "gnuzip/gzip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "gnuzip/gzip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deflate_flags",
+    "source": "gnuzip/gzip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "gnuzip/gzip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "to_stdout",
+    "source": "gnuzip/patches/patch-gzip.c",
+    "type": "EnumCase"
+  }
+]
