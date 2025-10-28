@@ -1,0 +1,206 @@
+[
+  {
+    "hex": "0x0",
+    "name": "rtnPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtnLen",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtnLen",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtnLen",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtnLen",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientPort",
+    "source": "libsecurity_ocspd/client/ocspdClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OCSPD_DB_RECORDTYPE",
+    "source": "libsecurity_ocspd/common/ocspdDbSchema.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "OCSPD_NUM_DB_ATTRS",
+    "source": "libsecurity_ocspd/common/ocspdDbSchema.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OCSP_USE_SYSLOG",
+    "source": "libsecurity_ocspd/common/ocspdDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__MigTypeCheck",
+    "source": "libsecurity_ocspd/common/ocspdTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "strLen",
+    "source": "libsecurity_ocspd/common/ocspdUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foundDecimal",
+    "source": "libsecurity_ocspd/common/ocspdUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minutesOffset",
+    "source": "libsecurity_ocspd/common/ocspdUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hoursOffset",
+    "source": "libsecurity_ocspd/common/ocspdUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libsecurity_ocspd/common/ocspdUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL_TIME",
+    "source": "libsecurity_ocspd/common/ocspdUtils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "GENERAL_TIME_STRLEN",
+    "source": "libsecurity_ocspd/common/ocspdUtils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_ocspd/common/ocspResponse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_ocspd/common/ocspResponse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_ocspd/common/ocspResponse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_ocspd/common/ocspResponse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_ocspd/common/ocspResponse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_ocspd/common/ocspResponse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_ocspd/common/ocspResponse.cpp",
+    "type": "EnumCase"
+  }
+]

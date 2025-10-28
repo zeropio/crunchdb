@@ -1,0 +1,776 @@
+[
+  {
+    "hex": "0x0",
+    "name": "kPS2PowerStateSleep",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPS2PowerStateDoze",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPS2PowerStateNormal",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gApplePS2Controller",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_workLoop",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptSourceKeyboard",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptSourceMouse",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptTargetKeyboard",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptTargetMouse",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_mouseDevice",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_keyboardDevice",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_modifierState",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_controllerLock",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debugFlag",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_requestQueueLock",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_powerChangeThreadCall",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gApplePS2Controller",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptTargetKeyboard",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptTargetMouse",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "completionParam",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "timeoutCounter",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstByte",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "timeoutCounter",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierShiftLeft",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierShiftRight",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierCtrlLeft",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierCtrlRight",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierAltLeft",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierAltRight",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierWindowsLeft",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kModifierWindowsRight",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_modifierState",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C4B40",
+    "name": "result",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_powerControlTargetKeyboard",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_powerControlTargetMouse",
+    "source": "ApplePS2Controller/ApplePS2Controller.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUGGER_SUPPORT",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "OUT_OF_ORDER_DATA_CORRECTION_FEATURE",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIRQ_Keyboard",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "kIRQ_Mouse",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kIPL_Keyboard",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIPL_Mouse",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "kDataDelay",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDataPort",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommandPort",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kOutputReady",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInputBusy",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSystemFlag",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommandLastSent",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kKeyboardInhibited",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMouseData",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "kKeyboardQueueSize",
+    "source": "ApplePS2Controller/ApplePS2Controller.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetMouseScaling1To1",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetMouseScaling2To1",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetMouseResolution",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_GetMouseInformation",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetMouseStreamMode",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetKeyboardLEDs",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_TestKeyboardEcho",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_GetSetKeyboardASCs",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_GetId",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetKeyboardTypematic",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetMouseSampleRate",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_Enable",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetDefaultsAndDisable",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetDefaults",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetAllTypematic",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetAllMakeRelease",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetAllMakeOnly",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetAllTypematicMakeRelease",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetKeyMakeRelease",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_SetKeyMakeOnly",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDP_Reset",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_GetCommandByte",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_ReadControllerRAMBase",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_SetCommandByte",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_WriteControllerRAMBase",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_TestPassword",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_GetPassword",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_VerifyPassword",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_DisableMouseClock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_EnableMouseClock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_TestMousePort",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_TestController",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_TestKeyboardPort",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_GetControllerDiagnostic",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_DisableKeyboardClock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_EnableKeyboardClock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_ReadInputPort",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_PollInputPortLow",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_PollInputPortHigh",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_ReadOutputPort",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_WriteOutputPort",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_WriteKeyboardOutputBuffer",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_WriteMouseOutputBuffer",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_TransmitToMouse",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_ReadTestInputs",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCP_PulseOutputBitBase",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCB_EnableKeyboardIRQ",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCB_EnableMouseIRQ",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCB_SystemFlag",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCB_InhibitOverride",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCB_DisableKeyboardClock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCB_DisableMouseClock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCB_TranslateMode",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLED_ScrollLock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLED_NumLock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLED_CapsLock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Acknowledge",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Extend",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Pause",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Resend",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Reset",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_UpBit",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Alt",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Ctrl",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_ShiftLeft",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_ShiftRight",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_WindowsLeft",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_WindowsRight",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_Delete",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSC_NumLock",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "kMaxCommands",
+    "source": "ApplePS2Controller/ApplePS2Device.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_controller",
+    "source": "ApplePS2Controller/ApplePS2KeyboardDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_controller",
+    "source": "ApplePS2Controller/ApplePS2MouseDevice.cpp",
+    "type": "EnumCase"
+  }
+]

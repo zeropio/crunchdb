@@ -1,0 +1,26 @@
+[
+  {
+    "hex": "0x0",
+    "name": "CHECKPW_SUCCESS",
+    "source": "libsecurity_checkpw/lib/checkpw.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libsecurity_checkpw/test/perf-checkpw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_checkpw/test/perf-checkpw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libsecurity_checkpw/test/test-checkpw.c",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,3794 @@
+[
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "base",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_minus_w",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_plus_w",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "removewide",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "removewide",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "line_len",
+    "source": "X11misc/font-util/font-util-1.2.0/bdftruncate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dest_size",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eof",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eof",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eof",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "decmap_size",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ai",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dec_chars",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dec_chars",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "default_char",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hyphen",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/font-util/font-util-1.2.0/ucs2any.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "MAXPATHLEN",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "silent",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignore_links",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "with_revinfo",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curdir",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curdir",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "silent",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ignore_links",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "with_revinfo",
+    "source": "X11misc/lndir/lndir-1.0.2/lndir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXNAMELEN",
+    "source": "X11misc/makedepend/makedepend-1.0.3/cppsetup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "X11misc/makedepend/makedepend-1.0.3/cppsetup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "MAXDEFINES",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAXFILES",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "MAXINCFILES",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "MAXDIRS",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SYMTABINC",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IF",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IFDEF",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "IFNDEF",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ELSE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ENDIF",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DEFINE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "UNDEF",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "INCLUDE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "LINE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "PRAGMA",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "ERROR",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "IDENT",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "SCCS",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "ELIF",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "EJECT",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "WARNING",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "INCLUDENEXT",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "IFFALSE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "ELIFFALSE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "INCLUDEDOT",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "IFGUESSFALSE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "ELIFGUESSFALSE",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "INCLUDENEXTDOT",
+    "source": "X11misc/makedepend/makedepend-1.0.3/def.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "base",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valp",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "base",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valp",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "valp",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "paren",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "valp",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "False",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "True",
+    "source": "X11misc/makedepend/makedepend-1.0.3/ifparser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/include.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/include.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdinc_count",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4E",
+    "name": "width",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numundefs",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nargc",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wp",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f_line",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdinc_count",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdinc_line",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdinc_line",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recurse_lvl",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i_ndefs",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first1",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first2",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "X11misc/makedepend/makedepend-1.0.3/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/pr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/makedepend/makedepend-1.0.3/pr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "MIN_ARRAY_SIZE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/garray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ref_count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gcache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gcompletion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gcompletion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gcompletion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gcompletion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_data_cache_length",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdataset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_quark_seq_id",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdataset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quark",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdataset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quark",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdataset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quark",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdataset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "y",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wd",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x78A",
+    "name": "twodigit_start_year",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "NUM_LEN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_ints",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "day",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "day",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "month",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "day",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "day",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "day",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "state",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gerror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "HASH_TABLE_MIN_SIZE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD342AB",
+    "name": "HASH_TABLE_MAX_SIZE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nnodes",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deleted",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seq_id",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ref_count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hook_id",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hook_id",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ref_count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/ghook.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel_flags",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giochannel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ref_count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giochannel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_read",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giounix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_written",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giounix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "N_WATCHED_PIPES",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_watched_pipes",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_read",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_written",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_read",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_written",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_read",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_written",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/giowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4D2",
+    "name": "G_LITTLE_ENDIAN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E1",
+    "name": "G_BIG_ENDIAN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD54",
+    "name": "G_PDP_ENDIAN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_TRAVERSE_LEAFS",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_TRAVERSE_NON_LEAFS",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_TRAVERSE_MASK",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_FLAG_RECURSION",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_FLAG_FATAL",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_LEVEL_ERROR",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_LEVEL_CRITICAL",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_LEVEL_WARNING",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_LEVEL_MESSAGE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_LEVEL_INFO",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_LOG_LEVEL_DEBUG",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_HOOK_FLAG_ACTIVE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_HOOK_FLAG_IN_CALL",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_HOOK_FLAG_MASK",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_ALLOC_ONLY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "G_ALLOC_AND_FREE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "nth_bit",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_bits",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_TOKEN_EOF",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "G_TOKEN_NONE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_DATE_DAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_DATE_MONTH",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "G_DATE_YEAR",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_DATE_BAD_WEEKDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_DATE_MONDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "G_DATE_TUESDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "G_DATE_WEDNESDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "G_DATE_THURSDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "G_DATE_FRIDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "G_DATE_SATURDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "G_DATE_SUNDAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_DATE_BAD_MONTH",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_DATE_JANUARY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "G_DATE_FEBRUARY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "G_DATE_MARCH",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "G_DATE_APRIL",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "G_DATE_MAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "G_DATE_JUNE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "G_DATE_JULY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "G_DATE_AUGUST",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "G_DATE_SEPTEMBER",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "G_DATE_OCTOBER",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "G_DATE_NOVEMBER",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "G_DATE_DECEMBER",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_DATE_BAD_JULIAN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_DATE_BAD_DAY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_DATE_BAD_YEAR",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFF9C",
+    "name": "G_PRIORITY_HIGH",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_PRIORITY_DEFAULT",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "G_PRIORITY_HIGH_IDLE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "G_PRIORITY_DEFAULT_IDLE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "G_PRIORITY_LOW",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x130E396",
+    "name": "G_WIN32_MSG_HANDLE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/glist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_SOURCE_READY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_SOURCE_CAN_RECURSE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_check_or_prepare",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_poll_records",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nhandles",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revents",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxfd",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revents",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_tick",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_ready",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_priority",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_ready",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revents",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revents",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msec",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "MEM_PROFILE_TABLE_SIZE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MEM_AREA_SIZE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_mem",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freed_mem",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_mem_areas",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_marked_areas",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mark",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mark",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_mem_areas",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mem",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "power_of_2",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handler_id",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmessages.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "test_level",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmessages.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RTLD_LAZY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule-dl.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_NOW",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule-dl.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_GLOBAL",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule-dl.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DYNAMIC_PATH",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule-dld.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIND_RESTRICTED",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule-dld.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ref_count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ref_count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_MODULE_BIND_LAZY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "G_MODULE_BIND_MASK",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmodule/gmodule.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_index",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gmutex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "depth",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gnode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_height",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gnode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gnode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gnode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gnode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gnode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gprimes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/grel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/grel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/grel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/grel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/grel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/grel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/grel.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_parse_errors",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parse_errors",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "line",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "next_line",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_position",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scope_id",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "line",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "line",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fchar",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fchar",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x38",
+    "name": "token_string_len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "expected_string_len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_int",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gscanner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gslist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gslist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gslist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "l",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val_2",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "conv_len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backslashes",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "string",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "string",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstrfuncs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "storage_next",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gstring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "G_MICROSEC",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/gthread-nspr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "G_MICROSEC",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/gthread-posix.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "G_NANOSEC",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/gthread-posix.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "G_MICROSEC",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/gthread-solaris.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "G_NANOSEC",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/gthread-solaris.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "TEST_PRIVATE_THREADS",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/testgthread.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TEST_PRIVATE_ROUNDS",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/testgthread.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "G_MICROSEC",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/testgthread.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/testgthread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seed",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/testgthread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/testgthread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gthread/testgthread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtimer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "microseconds",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtimer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "balance",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_height",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_height",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_height",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_height",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gtree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "G_CAN_INLINE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "bufsize",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "peer",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "peer_fd",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_wakeups",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "message",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/gutils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "passed",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notpassed",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sunday_week_of_year",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "monday_week_of_year",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "day",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testgdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gu16t1",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gu32t1",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_dirname_checks",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/testglib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/array-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/dirname-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLY",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/hash-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/list-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/node-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/node-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/node-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/relation-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/relation-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/relation-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/relation-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/relation-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/relation-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/slist-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/string-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/string-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/tree-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/tree-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/tree-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/tree-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/tree-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gu16t1",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/type-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gu32t1",
+    "source": "X11misc/pkg-config/pkg-config-0.25/glib-1.2.10/tests/type-test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_debug_spew",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_verbose_errors",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_stdout_errors",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEFINE_VARIABLE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_my_version",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_version",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_libs",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_cflags",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_l_libs",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_L_libs",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_other_libs",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_I_cflags",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_other_cflags",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_list",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_short_errors",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_uninstalled",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_exists",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_provides",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_requires",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_requires_private",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_silence_errors",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_variable_list",
+    "source": "X11misc/pkg-config/pkg-config-0.25/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_read",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTSIDE_MODULE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IN_MODULE_NAME",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "BEFORE_OPERATOR",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "IN_OPERATOR",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "AFTER_OPERATOR",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "IN_MODULE_VERSION",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PARSE_SPEW",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanned_dir_count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "EXT_LEN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "UNINSTALLED_LEN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "offset",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "offset",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isnum",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isnum",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mlen",
+    "source": "X11misc/pkg-config/pkg-config-0.25/pkg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "X_OK",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/findme.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "next",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "execAbsolute",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "next",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numLeftovers",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextLeftover",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restLeftover",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "finalArgvCount",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stuffed",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "restLeftover",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "restLeftover",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "singleDash",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "singleDash",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF6",
+    "name": "POPT_ERROR_NOARG",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF5",
+    "name": "POPT_ERROR_BADOPT",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF3",
+    "name": "POPT_ERROR_OPTSTOODEEP",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF1",
+    "name": "POPT_ERROR_BADQUOTE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF0",
+    "name": "POPT_ERROR_ERRNO",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stuffed",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "POPT_OPTION_DEPTH",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARG_NONE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "POPT_ARG_STRING",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "POPT_ARG_INT",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "POPT_ARG_LONG",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "POPT_ARG_INCLUDE_TABLE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "POPT_ARG_CALLBACK",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARG_MASK",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_ONEDASH",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_DOC_HIDDEN",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_PRE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_POST",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_INC_DATA",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF6",
+    "name": "POPT_ERROR_NOARG",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF5",
+    "name": "POPT_ERROR_BADOPT",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF3",
+    "name": "POPT_ERROR_OPTSTOODEEP",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF1",
+    "name": "POPT_ERROR_BADQUOTE",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF0",
+    "name": "POPT_ERROR_ERRNO",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFEF",
+    "name": "POPT_ERROR_BADNUMBER",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFEE",
+    "name": "POPT_ERROR_OVERFLOW",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F",
+    "name": "lineLength",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "len",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "cursor",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "argvAlloced",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "X11misc/pkg-config/pkg-config-0.25/popt/poptparse.c",
+    "type": "EnumCase"
+  }
+]

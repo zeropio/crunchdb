@@ -1,0 +1,1364 @@
+[
+  {
+    "hex": "0x0",
+    "name": "fParent",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPlatformFuncArray",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAmRegistered",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAmRegisteredLock",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAmEnabled",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAmEnabledLock",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClients",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClientsLock",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntRegister",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntUnRegister",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntEnable",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntDisable",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRegisterStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fUnregisterStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fEnableStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDisableStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "score",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intCapable",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClients",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClientsLock",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAmRegisteredLock",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAmEnabledLock",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fParent",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntRegister",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntUnRegister",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntEnable",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSymIntDisable",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pfParam1",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pfParam2",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param3",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param3",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param3",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param3",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z1",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param3",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRegisterStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fUnregisterStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fEnableStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDisableStrings",
+    "source": "AppleGPIO/AppleGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "APPLEGPIO_DEBUG",
+    "source": "AppleGPIO/AppleGPIO.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleGPIOPowerOff",
+    "source": "AppleGPIO/AppleGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAppleGPIOPowerOn",
+    "source": "AppleGPIO/AppleGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kAppleGPIONumPowerStates",
+    "source": "AppleGPIO/AppleGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGPIOIDInvalid",
+    "source": "AppleGPIO/AppleGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CBus",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CAddress",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fI2CInterface",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRegisteredWithI2CLock",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBayIndex",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIntAddrInfo",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIntRegState",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCurrentPowerState",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigReg",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPolarityReg",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fWriteCookie",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fReadCookie",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subaddress",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRegisteredWithI2CLock",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "orig",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "orig",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nub",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutputReg",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "AppleGPIO/I2CGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "I2CGPIO_DEBUG",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kI2CReadRetryCount",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kI2CWriteRetryCount",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554InputPort",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554OutputPort",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554PolarityInv",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554Config",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kNumGPIOs",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kPresent",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSwitch",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kI2CGPIOPowerOff",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kI2CGPIOPowerOn",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kI2CGPIONumPowerStates",
+    "source": "AppleGPIO/I2CGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOI2CDriveBayGPIO_DEBUG",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigReg",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPolarityReg",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "self",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handler",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClientLock",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "self",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handler",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kI2CReadRetryCount",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kI2CWriteRetryCount",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554InputPort",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554OutputPort",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554PolarityInv",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k9554Config",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kNumGPIOs",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kPresent",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSwitch",
+    "source": "AppleGPIO/IOI2CDriveBayGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOI2CPCA9554_DEBUG",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "subaddress",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConfigReg",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPolarityReg",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClientCount",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reg",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFlags",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reg",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reg",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handler",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "anyClients",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "always",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xor",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mappedState",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mappedMask",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kPresent",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSwitch",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kCLIENT_MAX",
+    "source": "AppleGPIO/IOI2CDriveBayMGPIO.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOPFDEBUG",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kIOPFMaxParams",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagOnInit",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagOnTerm",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagOnSleep",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagOnWake",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagOnDemand",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagIntGen",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagHighSpeed",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFFlagLowSpeed",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommandCommandList",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandCommandListLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandWriteGPIO",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandWriteGPIOLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandReadGPIO",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandReadGPIOLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandWriteReg32",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandWriteReg32Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kCommandReadReg32",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandReadReg32Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kCommandWriteReg16",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandWriteReg16Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kCommandReadReg16",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandReadReg16Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kCommandWriteReg8",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandWriteReg8Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kCommandReadReg8",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandReadReg8Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kCommandDelay",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandDelayLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kCommandWaitReg32",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandWaitReg32Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kCommandWaitReg16",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandWaitReg16Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kCommandWaitReg8",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandWaitReg8Length",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kCommandReadI2C",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandReadI2CLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kCommandWriteI2C",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandWriteI2CLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kCommandRMWI2C",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCommandRMWI2CLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kCommandGeneralI2C",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommandGeneralI2CLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "kCommandShiftBytesRight",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandShiftBytesRightLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "kCommandShiftBytesLeft",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandShiftBytesLeftLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "kCommandReadConfig",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandReadConfigLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kCommandWriteConfig",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandWriteConfigLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "kCommandRMWConfig",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kCommandRMWConfigLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "kCommandReadI2CSubAddr",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandReadI2CSubAddrLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "kCommandWriteI2CSubAddr",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kCommandWriteI2CSubAddrLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "kCommandI2CMode",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCommandI2CModeLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "kCommandRMWI2CSubAddr",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kCommandRMWI2CSubAddrLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOPFNoError",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOPFUnknownCmd",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOPFBadCmdLength",
+    "source": "AppleGPIO/IOPlatformFunction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fKeyLargoDrv",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fGPIOBaseAddress",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClients",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClientLock",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fWorkLoop",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClients",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fClientLock",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fWorkLoop",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fGPIOBaseAddress",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nub",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newData",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "AppleGPIO/MacIOGPIO.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MACIOGPIO_DEBUG",
+    "source": "AppleGPIO/MacIOGPIO.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kGPIOLevelsRegLen",
+    "source": "AppleGPIO/MacIOGPIO.h",
+    "type": "PreprocessorConstant"
+  }
+]

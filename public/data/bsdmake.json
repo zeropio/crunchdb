@@ -1,0 +1,1544 @@
+[
+  {
+    "hex": "0x3",
+    "name": "BSD_EXT1LEN",
+    "source": "bsdmake/arch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "mlen",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nametablen",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have_long_name",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_long_name",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_long_name",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mtime",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mtime",
+    "source": "bsdmake/arch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAKE_BSIZE",
+    "source": "bsdmake/buf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "BUF_DEF_SIZE",
+    "source": "bsdmake/buf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "BUF_ADD_INC",
+    "source": "bsdmake/buf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "MAXIF",
+    "source": "bsdmake/cond.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "skipIfLevel",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "x",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "varSpecLen",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arglen",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "bsdmake/cond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "COND_PARSE",
+    "source": "bsdmake/cond.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "COND_SKIP",
+    "source": "bsdmake/cond.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "COND_INVALID",
+    "source": "bsdmake/cond.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEFMAXJOBS",
+    "source": "bsdmake/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "wild",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wild",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wild",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wild",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bracelevel",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "st_mtime",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hits",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refCount",
+    "source": "bsdmake/dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forLevel",
+    "source": "bsdmake/for.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_DEPENDS",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_FORCE",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_DOUBLEDEP",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_OPTIONAL",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_USE",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_EXEC",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_IGNORE",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_PRECIOUS",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_SILENT",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_MAKE",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_JOIN",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_INVISIBLE",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_NOTMAIN",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_PHONY",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_TRANSFORM",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_MEMBER",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_LIB",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_ARCHV",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_HAS_COMMANDS",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_SAVE_CMDS",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OP_DEPS_FOUND",
+    "source": "bsdmake/GNode.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "rebuildLimit",
+    "source": "bsdmake/hash.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "i",
+    "source": "bsdmake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "bsdmake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numEntries",
+    "source": "bsdmake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "bsdmake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "bsdmake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextIndex",
+    "source": "bsdmake/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "n",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "m",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "c",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maxlen",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "minklen",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "maxklen",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x61",
+    "name": "minchar",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x77",
+    "name": "maxchar",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numiter",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f1",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x48",
+    "name": "n",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x22",
+    "name": "m",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "c",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maxlen",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "minklen",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "maxklen",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2E",
+    "name": "minchar",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5F",
+    "name": "maxchar",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "numiter",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f1",
+    "source": "bsdmake/hash_tables.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OLD_JOKE",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEL_SEC",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEL_USEC",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "JOB_BUFSIZE",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_IGNERR",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_SILENT",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_SPECIAL",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_IGNDOTS",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_FIRST",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_RESTART",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_RESUME",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_CONTINUING",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errors",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aborting",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ABORT_ERROR",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ABORT_INTERRUPT",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ABORT_WAIT",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JOB_RUNNING",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "JOB_ERROR",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "JOB_FINISHED",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "JOB_STOPPED",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sh",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "merge_errors",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pgroup",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searchpath",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv_free",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curPos",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numCommands",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nr",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curPos",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "KEV_SIZE",
+    "source": "bsdmake/job.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fifoMaster",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxJobs",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "maxJobs",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nJobs",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aborting",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errors",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interrupted",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aborting",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge_errors",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pgroup",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searchpath",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argv_free",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interrupted",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge_errors",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pgroup",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "searchpath",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argv_free",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv_free",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error_cnt",
+    "source": "bsdmake/job.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LST_CONCNEW",
+    "source": "bsdmake/lst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LST_CONCLINK",
+    "source": "bsdmake/lst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "WANT_ENV_MKLVL",
+    "source": "bsdmake/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "MKLVL_MAXVAL",
+    "source": "bsdmake/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "neg",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "neg",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optreset",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outOfDate",
+    "source": "bsdmake/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numNodes",
+    "source": "bsdmake/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "WARN_DIRSYNTAX",
+    "source": "bsdmake/make.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONTINUE",
+    "source": "bsdmake/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DONE",
+    "source": "bsdmake/parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fatals",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tOp",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "waiting",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "jobLimit",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compatMake",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ep",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fatals",
+    "source": "bsdmake/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "PARSE_WARNING",
+    "source": "bsdmake/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PARSE_FATAL",
+    "source": "bsdmake/parse.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bsdmake/shell.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "bsdmake/shell.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bsdmake/shell.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "size",
+    "source": "bsdmake/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "bsdmake/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "bsdmake/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "bsdmake/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "bsdmake/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "bsdmake/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "bsdmake/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STR_ADDSPACE",
+    "source": "bsdmake/str.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STR_ADDSLASH",
+    "source": "bsdmake/str.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sNum",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUFF_INCLUDE",
+    "source": "bsdmake/suff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUFF_LIBRARY",
+    "source": "bsdmake/suff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUFF_NULL",
+    "source": "bsdmake/suff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "sNum",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refCount",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sNum",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nameLen",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refCount",
+    "source": "bsdmake/suff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBF",
+    "name": "HTSIZE",
+    "source": "bsdmake/targ.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "bsdmake/targ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unmade",
+    "source": "bsdmake/targ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "order",
+    "source": "bsdmake/targ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmtime",
+    "source": "bsdmake/targ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TARG_CREATE",
+    "source": "bsdmake/targ.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TARG_NOCREATE",
+    "source": "bsdmake/targ.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "bsdmake/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "bsdmake/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_ARCH",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_COND",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_DIR",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_GRAPH1",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_GRAPH2",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_JOB",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_MAKE",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_SUFF",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_TARG",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_VAR",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_FOR",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_LOUD",
+    "source": "bsdmake/util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "VAR_IN_USE",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "VAR_JUNK",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "VAR_TO_ENV",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAR_SUB_GLOBAL",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAR_SUB_ONE",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAR_SUB_MATCHED",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAR_MATCH_START",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAR_MATCH_END",
+    "source": "bsdmake/var.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "added",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "added",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sublen",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sublen",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nsub",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "nsub",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cnt",
+    "source": "bsdmake/var.c",
+    "type": "EnumCase"
+  }
+]

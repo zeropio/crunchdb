@@ -1,0 +1,1358 @@
+[
+  {
+    "hex": "0x3E8",
+    "name": "ONE_SECOND_TICKS",
+    "source": "AppleIntel8255x/i82557.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "powerOffThreadCall",
+    "source": "AppleIntel8255x/i82557.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "powerOnThreadCall",
+    "source": "AppleIntel8255x/i82557.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txCount",
+    "source": "AppleIntel8255x/i82557.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txPendingInterruptCount",
+    "source": "AppleIntel8255x/i82557.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "model",
+    "source": "AppleIntel8255x/i82557.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "NUM_RECEIVE_FRAMES",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "NUM_TRANSMIT_FRAMES",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "TRANSMIT_INT_DELAY",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "TRANSMIT_QUEUE_SIZE",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC350",
+    "name": "SPIN_TIMEOUT",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SPIN_COUNT",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kActivationLevel0",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paddr",
+    "source": "AppleIntel8255x/i82557.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557eeprom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557eeprom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eeprom",
+    "source": "AppleIntel8255x/i82557eeprom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nbits",
+    "source": "AppleIntel8255x/i82557eeprom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "AppleIntel8255x/i82557eeprom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "AppleIntel8255x/i82557eeprom.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "BITS_IN_SHORT",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "MIN_SK_HIGH",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "MIN_SK_LOW",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NUM_EEPROM_WORDS",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EEPROM_CHECKSUM_VALUE",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EEPROM_TYPE_82558",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EEPROM_TYPE_82557",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "EEPROM_PHY_DEVICE_SHIFT",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EEPROM_PHY_ADDRESS_SHIFT",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PHYDevice_None_e",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "NUM_PHYS",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRIMARY_PHY",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECONDARY_PHY",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NPWA_BYTES",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "I82557_CONTROLLER_TYPE",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "I82558_CONTROLLER_TYPE",
+    "source": "AppleIntel8255x/i82557eeprom.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DWORD_ALIGNMENT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "WORD_ALIGNMENT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PARAGRAPH_ALIGNMENT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "CACHE_ALIGNMENT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "C_CSR_BAD",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCI_CFID_INTEL82557",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MEDIUM_TYPE_10_HD",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCB_STATUS_INT_MASK",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "SCB_STATUS_CUS_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCB_CUS_IDLE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SCB_CUS_SUSPEND",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SCB_CUS_ACTIVE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SCB_STATUS_RUS_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCB_RUS_IDLE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SCB_RUS_SUSPEND",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SCB_RUS_NO_RESOURCES",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SCB_RUS_READY",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "SCB_RUS_SUSPEND_NO_RBDS",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SCB_RUS_NO_RBDS",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "SCB_RUS_READY_NO_RBDS",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SCB_COMMAND_CUC_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCB_CUC_NOP",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SCB_CUC_START",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SCB_CUC_RESUME",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SCB_CUC_LOAD_DUMP_ADDR",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "SCB_CUC_DUMP_STAT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "SCB_CUC_LOAD_BASE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "SCB_CUC_DUMP_RESET_STAT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SCB_CUC_STATIC_RESUME",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCB_COMMAND_RUC_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCB_RUC_NOP",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SCB_RUC_START",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SCB_RUC_RESUME",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SCB_RUC_DMA_REDIRECT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SCB_RUC_ABORT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "SCB_RUC_LOAD_HDS",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "SCB_RUC_LOAD_BASE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "SCB_RUC_RBD_RESUME",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "MDI_CONTROL_OPCODE_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MDI_CONTROL_OP_WRITE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MDI_CONTROL_OP_READ",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "MDI_CONTROL_PHYADDR_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "MDI_CONTROL_REGADDR_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_CONTROL_DATA_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_THRESHOLD_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FC_THRESHOLD_512",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FC_THRESHOLD_1024",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FC_THRESHOLD_1280",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FC_THRESHOLD_1536",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_NOP",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CB_IA_ADDRESS",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CB_CONFIGURE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CB_MULTICAST",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CB_TRANSMIT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "CB_LOAD_MICROCODE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "CB_DUMP",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "CB_DIAGNOSE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CMD_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CMD_NOP",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CMD_IASETUP",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CMD_CONFIGURE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CMD_MCSETUP",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CMD_TRANSMIT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "CB_CONFIG_BYTE_COUNT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB0_BYTE_COUNT_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CB_CB1_TX_FIFO_LIMIT_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB1_RX_FIFO_LIMIT_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "CB_CB1_TX_FIFO_0",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "CB_CB1_RX_FIFO_64",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB2_ADAPTIVE_IFS_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB4_RX_MIN_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB5_TX_MAX_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CB_CB7_UNDERRUN_RETRY_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CB_CB7_UNDERRUN_RETRY_1",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CB_CB7_UNDERRUN_RETRY_2",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CB_CB7_UNDERRUN_RETRY_3",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "CB_CB10_LOOPBACK_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CB_CB10_PREAMBLE_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB10_PREAMBLE_1_BYTE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CB_CB10_PREAMBLE_3_BYTES",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CB_CB10_PREAMBLE_7_BYTES",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CB_CB10_PREAMBLE_15_BYTES",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB11_LIN_PRIORITY_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CB_CB12_IFS_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB12_IFS_96_BIT_TIMES",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB13_FC_TYPE_LSB_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB13_FC_TYPE_LSB_DEF",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB14_FC_TYPE_MSB_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB14_FC_TYPE_MSB_DEF",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB16_FC_DELAY_LSB_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB16_FC_DELAY_LSB_DEF",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB17_FC_DELAY_MSB_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB17_FC_DELAY_MSB_DEF",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB20_FC_ADDR_LSB_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CB_CB20_FC_ADDR_LSB_DEF",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "portReset_e",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "portSelfTest_e",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "portSelectiveReset_e",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "portDump_e",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "PORT_ADDRESS_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PORT_FUNCTION_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUMP_STATUS",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUMP_COMPLETE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUMP_AND_RESET_COMPLETE",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RBD_COUNT_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RBD_SIZE_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RFD_MISC_ACT_COUNT_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "RFD_MISC_SIZE_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TBD_SIZE_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TCB_COMMAND_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TCB_COUNT_SHIFT",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "TBDS_PER_TCB",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TCB_TX_THRESHOLD",
+    "source": "AppleIntel8255x/i82557HW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "MBPS",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "PHY_RESET_TIMEOUT",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "PHY_RESET_DELAY",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "PHY_POST_RESET_DELAY",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1388",
+    "name": "PHY_NWAY_TIMEOUT",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "PHY_NWAY_DELAY",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "AUTONEGOTIATE_TIMEOUT",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phyAddr",
+    "source": "AppleIntel8255x/i82557PHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PHY_ADDRESS_0",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PHY_ADDRESS_DEFAULT",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "PHY_ADDRESS_I82503",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "PHY_ADDRESS_MAX",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PHY_MODEL_MASK",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PHY_MODEL_NSC83840",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PHY_MODEL_I82553_A_B",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PHY_MODEL_I82553_C",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PHY_MODEL_I82555",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_CONTROL",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_STATUS",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_PHYID_WORD_1",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_PHYID_WORD_2",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_ANAR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_ANLP",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_ANEX",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_REG_RESERVED_TOP",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_ANAR_SELECTOR_SHIFT",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDI_ANLP_SELECTOR_SHIFT",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_DCR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_FCSCR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_RECR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_SRR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_PCR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_LBREMR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_PAR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_10BTSR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_REG_10BTCR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSC83840_PAR_PHYADDR_SHIFT",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "I82553_REG_SCR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "I82553_REG_100RDCR",
+    "source": "AppleIntel8255x/i82557PHY.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "k8255xPowerStateOff",
+    "source": "AppleIntel8255x/i82557PM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C4B40",
+    "name": "kFiveSeconds",
+    "source": "AppleIntel8255x/i82557PM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdstatus",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_mbuf",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addrs",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memory",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memory",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paddr",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_in",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_in",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_mbuf",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txCount",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_interruptFlag",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptFlag",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_mbuf",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntel8255x/i82557Private.cpp",
+    "type": "EnumCase"
+  }
+]

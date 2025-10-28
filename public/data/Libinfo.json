@@ -1,0 +1,6380 @@
+[
+  {
+    "hex": "0x2",
+    "name": "iov_len",
+    "source": "Libinfo/dns.subproj/herror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iov_len",
+    "source": "Libinfo/dns.subproj/herror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checked",
+    "source": "Libinfo/dns.subproj/res_comp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x228",
+    "name": "RES_9_STATE_SIZE",
+    "source": "Libinfo/dns.subproj/res_query.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "RES_9_STATE_SIZE",
+    "source": "Libinfo/dns.subproj/res_query.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpylen",
+    "source": "Libinfo/dns.subproj/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/ether_addr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "slen",
+    "source": "Libinfo/gen.subproj/ether_addr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/ether_addr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "MEMORY_MIN",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000000",
+    "name": "MEMORY_MAX",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "icnt",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcnt",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ncnt",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cif",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alen",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alen",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/getifaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAX_SYSCTL_TRY",
+    "source": "Libinfo/gen.subproj/getifmaddrs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "icnt",
+    "source": "Libinfo/gen.subproj/getifmaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcnt",
+    "source": "Libinfo/gen.subproj/getifmaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntry",
+    "source": "Libinfo/gen.subproj/getifmaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/getifmaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/getifmaddrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "Libinfo/gen.subproj/if_indextoname.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ni",
+    "source": "Libinfo/gen.subproj/if_nameindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes",
+    "source": "Libinfo/gen.subproj/if_nameindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "if_index",
+    "source": "Libinfo/gen.subproj/if_nameindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ni",
+    "source": "Libinfo/gen.subproj/if_nametoindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optlen",
+    "source": "Libinfo/gen.subproj/ip6opt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optlen",
+    "source": "Libinfo/gen.subproj/ip6opt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padlen",
+    "source": "Libinfo/gen.subproj/ip6opt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/map_v4v6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ip6r0_segleft",
+    "source": "Libinfo/gen.subproj/rthdr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ip6r0_reserved",
+    "source": "Libinfo/gen.subproj/rthdr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/gen.subproj/rthdr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "Libinfo/Libinfo/darwin_directory_helpers.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/Libinfo/darwin_directory_helpers.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gL1CacheEnabled",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "CACHE_MAX",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pn",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pn",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vers",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "head",
+    "source": "Libinfo/lookup.subproj/cache_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DD_VALIDATION_FLAGS_MASK",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DD_VALIDATION_FLAG_IMMUTABLE",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DD_VALIDATION_GENERATION_MASK",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "validation",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "primaryGID",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gidCount",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "gidListMax",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vers",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/darwin_directory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "IPV6_ADDR_LEN",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "IPV4_ADDR_LEN",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ds_serv_cache_key",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_si_opendirectory_disabled",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_si_opendirectory_disabled",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_si_opendirectory_disabled",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "peek",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alias_local",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alias_members_len",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_net",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_port",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_proto",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r_number",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "parts",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fs_freq",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fs_passno",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_innetgr",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vers",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/ds_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "CHUNK",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FNG_MEM",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FNG_GRP",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_PASSWD",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "VALIDATION_MASTER_PASSWD",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "VALIDATION_GROUP",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "VALIDATION_NETGROUP",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "VALIDATION_ALIASES",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "VALIDATION_HOSTS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "VALIDATION_NETWORKS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "VALIDATION_SERVICES",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "VALIDATION_PROTOCOLS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "VALIDATION_RPC",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "VALIDATION_FSTAB",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "VALIDATION_ETHERS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "VALIDATION_COUNT",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_PASSWD",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_MASTER_PASSWD",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_MASK_GROUP",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_NETGROUP",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_ALIASES",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_HOSTS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_NETWORKS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_SERVICES",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_PROTOCOLS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_RPC",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_FSTAB",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALIDATION_MASK_ETHERS",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end_on_sep",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "end_on_sep",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end_on_sep",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "end_on_sep",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "more",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "more",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bit",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "white",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "paren",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "white",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "white",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fmt",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vb",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fmt",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gidcount",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gidcount",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freq",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "passno",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "synthesize_root",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "synthesize_root",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vers",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/file_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/getnameinfo_link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ILS_MAGIC_SIZE",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "item",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "largest",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hsize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slen",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "largest",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "csize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "largest",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "csize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "largest",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "csize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "largest",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "csize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "largest",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "csize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "largest",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "csizep1",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hsize",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "slen",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "slen",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "slen",
+    "source": "Libinfo/lookup.subproj/ils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "KVBUF_CHUNK",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "vl",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vc",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vc",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_vlist",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_val",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "extra",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curr_count",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_count",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_dict",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_key",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_vlist",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_val",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_key",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_vlist",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_val",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val_count",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_vlist",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_val",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_vlist",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vltemp",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libinfo/lookup.subproj/kvbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "KVBUF_START_SIZE",
+    "source": "Libinfo/lookup.subproj/kvbuf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SOCK_UNSPEC",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IPPROTO_UNSPEC",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "IPV6_ADDR_LEN",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "IPV4_ADDR_LEN",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "SYSTEM_UID_LIMIT",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ngroups",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ngroups",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "x",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "add",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "add",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wantn",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wantn",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wants",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wants",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key_offset",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hsize",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buflen",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hsize",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/libinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "Libinfo/lookup.subproj/libinfo.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "DNS_MAX_RECEIVE_SIZE",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "INET_NTOP_AF_INET_OFFSET",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "INET_NTOP_AF_INET6_OFFSET",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IPPROTO_UNSPEC",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GOT_DATA",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "GOT_ERROR",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SHORT_AAAA_EXTRA",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MEDIUM_AAAA_EXTRA",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "LONG_AAAA_EXTRA",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDNS_DEBUG_STDOUT",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDNS_DEBUG_STDERR",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDNS_DEBUG_ASL",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDNS_DEBUG_OUT",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_mdns_debug",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_mdns_generation",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "BILLION",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x48",
+    "name": "IPv6_REVERSE_LEN",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3A",
+    "name": "IPv6_REVERSE_LINK_LOCAL_TRAILING_CHAR",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "IPv6_REVERSE_LINK_LOCAL_SCOPE_ID_LOW",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3F",
+    "name": "j",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alias_count",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr_count",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alias_count",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr_count",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifnum",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dns_flags",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "h_length",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vers",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "domainlen",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_ifnum",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "qr",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rd",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iface",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_gen",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "malformed",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "malformed",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "malformed",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "malformed",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "malformed",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "malformed",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got_a_response",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_iface_4",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "initialize_retries",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_ctx",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_ctx",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filter",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "tn",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/mdns_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_si_muser_disabled",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHasSecondaryUsers",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "multiuser_flags",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_si_muser_disabled",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_si_muser_disabled",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "reqs",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "reqs",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gidcount",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vers",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/muser_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "NETDB_INTERNAL",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NETDB_SUCCESS",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HOST_NOT_FOUND",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TRY_AGAIN",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NO_RECOVERY",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NO_DATA",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EAI_ADDRFAMILY",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EAI_AGAIN",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "EAI_BADFLAGS",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "EAI_FAIL",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "EAI_FAMILY",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "EAI_MEMORY",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "EAI_NODATA",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "EAI_NONAME",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "EAI_SERVICE",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "EAI_SOCKTYPE",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "EAI_SYSTEM",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "EAI_BADHINTS",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "EAI_PROTOCOL",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "EAI_OVERFLOW",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "EAI_MAX",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_PASSIVE",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_CANONNAME",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_NUMERICHOST",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_NUMERICSERV",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_ALL",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_V4MAPPED_CFG",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_ADDRCONFIG",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_V4MAPPED",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_UNUSABLE",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x401",
+    "name": "NI_MAXHOST",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "NI_MAXSERV",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_NOFQDN",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_NUMERICHOST",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_NAMEREQD",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_NUMERICSERV",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_NUMERICSCOPE",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_DGRAM",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_WITHSCOPEID",
+    "source": "Libinfo/lookup.subproj/netdb.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_PARALLEL",
+    "source": "Libinfo/lookup.subproj/netdb_async.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AI_SRV",
+    "source": "Libinfo/lookup.subproj/netdb_async.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "_PASSWORD_LEN",
+    "source": "Libinfo/lookup.subproj/pwd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PASSWORD_NOUID",
+    "source": "Libinfo/lookup.subproj/pwd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PASSWORD_NOGID",
+    "source": "Libinfo/lookup.subproj/pwd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PASSWORD_NOCHG",
+    "source": "Libinfo/lookup.subproj/pwd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_PASSWORD_NOEXP",
+    "source": "Libinfo/lookup.subproj/pwd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "_PASSWORD_WARNDAYS",
+    "source": "Libinfo/lookup.subproj/pwd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "_PASSWORD_CHGNOW",
+    "source": "Libinfo/lookup.subproj/pwd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEARCH_FLAG_CACHE_ENABLED",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEARCH_MODULE_FLAG_DISABLED",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "null_res",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "null_res",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "null_res",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "null_res",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vers",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntokens",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/search_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPrefer_Dest1",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPrefer_Equal",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPrefer_Dest1_Slightly",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLookupFailure",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kLookupSuccess_Found",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kLookupSuccess_Created",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cache_timeout",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "TCP_RTT_SCALE",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kFailureAttemptsTolerated",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kDefaultRTTLeeway",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kDefaultRTTLeewaySmall",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctl_id",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sc_unit",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "rcvbuf",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kLoopbackIndex",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/lookup.subproj/si_compare.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/si_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/si_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libinfo/lookup.subproj/si_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curr",
+    "source": "Libinfo/lookup.subproj/si_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SOCK_UNSPEC",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IPPROTO_UNSPEC",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "IPV6_ADDR_LEN",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "IPV4_ADDR_LEN",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WANT_NOTHING",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "WANT_A4_ONLY",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "WANT_A6_ONLY",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "WANT_A6_PLUS_MAPPED_A4",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "WANT_A6_OR_MAPPED_A4_IF_NO_A6",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "V6TO4_PREFIX_16",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "net_v4_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "net_v6_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "checkit",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "checkit",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "net_v4_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "net_v6_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifnum",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numeric",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numeric",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numeric",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_map",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_map",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numerichost",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_addr",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numerichost",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v4mapped_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v6_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "filter_mapped",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filter_mapped",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curr",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curr",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_inet6",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numericserv",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scope",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numericserv",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alias_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr_count",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "if4",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "if6",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "Libinfo/lookup.subproj/si_getaddrinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORKUNIT_CANCELLED",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORKUNIT_RETURNS_LIST",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "WORKUNIT_CANCELLED_BIT_ADDRESS",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "WORKUNIT_CANCELLED_BIT_ADDRESS",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "module_count",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "module_count",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "module_count",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "refcount",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/si_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SI_HAS_NAT64_SYNTHESIS",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SI_HAS_PATH_CHECK",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SI_CALL_USER_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SI_CALL_USER_BYUID",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SI_CALL_USER_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SI_CALL_GROUP_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SI_CALL_GROUP_BYGID",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "SI_CALL_GROUP_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "SI_CALL_NETGROUP_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "SI_CALL_IN_NETGROUP",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "SI_CALL_GROUPLIST",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "SI_CALL_ALIAS_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SI_CALL_ALIAS_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "SI_CALL_HOST_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "SI_CALL_HOST_BYADDR",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "SI_CALL_HOST_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "SI_CALL_NETWORK_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "SI_CALL_NETWORK_BYADDR",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "SI_CALL_NETWORK_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "SI_CALL_SERVICE_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "SI_CALL_SERVICE_BYPORT",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "SI_CALL_SERVICE_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "SI_CALL_PROTOCOL_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "SI_CALL_PROTOCOL_BYNUMBER",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "SI_CALL_PROTOCOL_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "SI_CALL_RPC_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "SI_CALL_RPC_BYNUMBER",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "SI_CALL_RPC_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "SI_CALL_FS_BYSPEC",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "SI_CALL_FS_BYFILE",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "SI_CALL_FS_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "SI_CALL_ADDRINFO",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "SI_CALL_NAMEINFO",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "SI_CALL_IPNODE_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "SI_CALL_MAC_BYNAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "SI_CALL_MAC_BYMAC",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "SI_CALL_MAC_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "SI_CALL_DNS_QUERY",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "SI_CALL_DNS_SEARCH",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CATEGORY_DEFAULT",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CATEGORY_USER",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CATEGORY_GROUP",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CATEGORY_GROUPLIST",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CATEGORY_NETGROUP",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "CATEGORY_ALIAS",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "CATEGORY_HOST_IPV4",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "CATEGORY_HOST_IPV6",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "CATEGORY_NETWORK",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "CATEGORY_SERVICE",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "CATEGORY_PROTOCOL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "CATEGORY_RPC",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "CATEGORY_FS",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "CATEGORY_MAC",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "CATEGORY_NAMEINFO",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "CATEGORY_ADDRINFO",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "CATEGORY_DNSPACKET",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "CATEGORY_SRV",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "CATEGORY_COUNT",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEL_ALL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SEL_NAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEL_NUMBER",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SI_STATUS_NO_ERROR",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SI_STATUS_H_ERRNO_HOST_NOT_FOUND",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SI_STATUS_H_ERRNO_TRY_AGAIN",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SI_STATUS_H_ERRNO_NO_RECOVERY",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SI_STATUS_H_ERRNO_NO_DATA",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SI_STATUS_INTERNAL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "SI_STATUS_WORKITEM_NOT_FOUND",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "SI_STATUS_RETURNS_ITEM",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "SI_STATUS_RETURNS_LIST",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "SI_STATUS_CALL_IN_PROGRESS",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "SI_STATUS_CALL_CANCELLED",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "SI_STATUS_EAI_PLUS_100",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "SI_STATUS_EAI_ADDRFAMILY",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x66",
+    "name": "SI_STATUS_EAI_AGAIN",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x67",
+    "name": "SI_STATUS_EAI_BADFLAGS",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x68",
+    "name": "SI_STATUS_EAI_FAIL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x69",
+    "name": "SI_STATUS_EAI_FAMILY",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6A",
+    "name": "SI_STATUS_EAI_MEMORY",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6B",
+    "name": "SI_STATUS_EAI_NODATA",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6C",
+    "name": "SI_STATUS_EAI_NONAME",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6D",
+    "name": "SI_STATUS_EAI_SERVICE",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6E",
+    "name": "SI_STATUS_EAI_SOCKTYPE",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6F",
+    "name": "SI_STATUS_EAI_SYSTEM",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x70",
+    "name": "SI_STATUS_EAI_BADHINTS",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x71",
+    "name": "SI_STATUS_EAI_PROTOCOL",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x72",
+    "name": "SI_STATUS_EAI_OVERFLOW",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "SI_STATUS_ERRNO_PLUS_200",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SI_MOD_FLAG_STATIC",
+    "source": "Libinfo/lookup.subproj/si_module.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_info_key",
+    "source": "Libinfo/lookup.subproj/thread_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_info_key_ok",
+    "source": "Libinfo/lookup.subproj/thread_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/thread_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_info_key_ok",
+    "source": "Libinfo/lookup.subproj/thread_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/lookup.subproj/thread_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_si_opendirectory_disabled",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DD_MBR_SUCCESS",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isMember",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "temp",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "Libinfo/membership.subproj/membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ID_TYPE_UID",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ID_TYPE_GID",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ID_TYPE_SID",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ID_TYPE_USERNAME",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ID_TYPE_GROUPNAME",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "ID_TYPE_UUID",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "ID_TYPE_GROUP_NFS",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "ID_TYPE_USER_NFS",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "ID_TYPE_GSS_EXPORT_NAME",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "ID_TYPE_X509_DN",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "ID_TYPE_KERBEROS",
+    "source": "Libinfo/membership.subproj/membership.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25",
+    "name": "MBR_UU_STRING_SIZE",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "MBR_MAX_SID_STRING_SIZE",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SID_TYPE_USER",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SID_TYPE_GROUP",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MBR_REC_TYPE_USER",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MBR_REC_TYPE_GROUP",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "ID_TYPE_UID_OR_GID",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "ID_TYPE_NAME",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "ID_TYPE_WINDOWS_FQN",
+    "source": "Libinfo/membership.subproj/membershipPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "NTSID_MAX_AUTHORITIES",
+    "source": "Libinfo/membership.subproj/ntsid.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAXGROUPLEN",
+    "source": "Libinfo/nis.subproj/getnetgrent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "q",
+    "source": "Libinfo/nis.subproj/getnetgrent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "LISTSIZE",
+    "source": "Libinfo/nis.subproj/innetgr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libinfo/nis.subproj/innetgr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q",
+    "source": "Libinfo/nis.subproj/innetgr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/nis.subproj/innetgr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "Libinfo/nis.subproj/innetgr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YPERR_BADARGS",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YPERR_RPC",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "YPERR_DOMAIN",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "YPERR_MAP",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "YPERR_KEY",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "YPERR_YPERR",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "YPERR_RESRC",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "YPERR_NOMORE",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "YPERR_PMAP",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "YPERR_YPBIND",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "YPERR_YPSERV",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "YPERR_NODOM",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "YPERR_BADDB",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "YPERR_VERS",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "YPERR_ACCESS",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "YPERR_BUSY",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YPOP_CHANGE",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YPOP_INSERT",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "YPOP_DELETE",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "YPOP_STORE",
+    "source": "Libinfo/nis.subproj/ypclnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ThreadStateExitRequested",
+    "source": "Libinfo/nis.subproj/ypinternal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "YP_BIND_UDP",
+    "source": "Libinfo/nis.subproj/ypinternal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "YP_BIND_TCP",
+    "source": "Libinfo/nis.subproj/ypinternal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "_yplib_cache",
+    "source": "Libinfo/nis.subproj/ypmatch_cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tries",
+    "source": "Libinfo/nis.subproj/ypmatch_cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outvallen",
+    "source": "Libinfo/nis.subproj/ypmatch_cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/ypmatch_cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tries",
+    "source": "Libinfo/nis.subproj/ypmatch_cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outvallen",
+    "source": "Libinfo/nis.subproj/ypmatch_cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/ypmatch_cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "Libinfo/nis.subproj/yp_all.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/yp_all.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/nis.subproj/yp_all.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "_yplib_timeout",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dom_vers",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "new",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "abort",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/yp_bind.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tries",
+    "source": "Libinfo/nis.subproj/yp_first.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outvallen",
+    "source": "Libinfo/nis.subproj/yp_first.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/yp_first.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tries",
+    "source": "Libinfo/nis.subproj/yp_maplist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/yp_maplist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tries",
+    "source": "Libinfo/nis.subproj/yp_master.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/yp_master.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tries",
+    "source": "Libinfo/nis.subproj/yp_order.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/nis.subproj/yp_order.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x640",
+    "name": "YPMSGSZ",
+    "source": "Libinfo/nis.subproj/yp_prot.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YPBIND_SUCC_VAL",
+    "source": "Libinfo/nis.subproj/yp_prot.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YPBIND_FAIL_VAL",
+    "source": "Libinfo/nis.subproj/yp_prot.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YPBIND_ERR_ERR",
+    "source": "Libinfo/nis.subproj/yp_prot.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YPBIND_ERR_NOSERV",
+    "source": "Libinfo/nis.subproj/yp_prot.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "YPBIND_ERR_RESC",
+    "source": "Libinfo/nis.subproj/yp_prot.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x190",
+    "name": "MAX_AUTH_BYTES",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAXNETNAMELEN",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTH_OK",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AUTH_BADCRED",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "AUTH_REJECTEDCRED",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "AUTH_BADVERF",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "AUTH_REJECTEDVERF",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "AUTH_TOOWEAK",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "AUTH_INVALIDRESP",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "AUTH_FAILED",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTH_NONE",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTH_NULL",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "AUTH_UNIX",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "AUTH_SHORT",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "AUTH_DES",
+    "source": "Libinfo/rpc.subproj/auth.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAX_MARSHEL_SIZE",
+    "source": "Libinfo/rpc.subproj/auth_none.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "au_shfaults",
+    "source": "Libinfo/rpc.subproj/auth_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAX_MACHINE_NAME",
+    "source": "Libinfo/rpc.subproj/auth_unix.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RPC_SUCCESS",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RPC_CANTENCODEARGS",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "RPC_CANTDECODERES",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "RPC_CANTSEND",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "RPC_CANTRECV",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "RPC_TIMEDOUT",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "RPC_VERSMISMATCH",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "RPC_AUTHERROR",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "RPC_PROGUNAVAIL",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "RPC_PROGVERSMISMATCH",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "RPC_PROCUNAVAIL",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "RPC_CANTDECODEARGS",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "RPC_SYSTEMERROR",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "RPC_UNKNOWNHOST",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "RPC_UNKNOWNPROTO",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "RPC_PMAPFAILURE",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "RPC_PROGNOTREGISTERED",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "RPC_FAILED",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CLSET_TIMEOUT",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CLGET_TIMEOUT",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CLGET_SERVER_ADDR",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "CLSET_RETRY_TIMEOUT",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "CLGET_RETRY_TIMEOUT",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2260",
+    "name": "UDPMSGSIZE",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x190",
+    "name": "RPCSMALLMSGSIZE",
+    "source": "Libinfo/rpc.subproj/clnt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/clnt_generic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/clnt_generic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/clnt_generic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "CLNT_PERROR_BUFSIZE",
+    "source": "Libinfo/rpc.subproj/clnt_perror.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/clnt_perror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/clnt_perror.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "MCALL_MSG_SIZE",
+    "source": "Libinfo/rpc.subproj/clnt_raw.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "valid",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "valid",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valid",
+    "source": "Libinfo/rpc.subproj/clnt_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "MCALL_MSG_SIZE",
+    "source": "Libinfo/rpc.subproj/clnt_tcp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/clnt_tcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/clnt_tcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "refreshes",
+    "source": "Libinfo/rpc.subproj/clnt_tcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/clnt_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/clnt_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dontblock",
+    "source": "Libinfo/rpc.subproj/clnt_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rsize",
+    "source": "Libinfo/rpc.subproj/clnt_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nrefreshes",
+    "source": "Libinfo/rpc.subproj/clnt_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/clnt_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/clnt_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23",
+    "name": "MAXALIASES",
+    "source": "Libinfo/rpc.subproj/getrpcent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/getrpcport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "Libinfo/rpc.subproj/get_myaddress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pm_port",
+    "source": "Libinfo/rpc.subproj/pmap_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pm_prot",
+    "source": "Libinfo/rpc.subproj/pmap_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NAMELEN",
+    "source": "Libinfo/rpc.subproj/pmap_getmaps.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x578",
+    "name": "MAX_BROADCAST_SIZE",
+    "source": "Libinfo/rpc.subproj/pmap_getmaps.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/pmap_getmaps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/pmap_getmaps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/pmap_getmaps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Libinfo/rpc.subproj/pmap_getport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pm_port",
+    "source": "Libinfo/rpc.subproj/pmap_getport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/pmap_getport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x578",
+    "name": "MAX_BROADCAST_SIZE",
+    "source": "Libinfo/rpc.subproj/pmap_rmt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/pmap_rmt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/pmap_rmt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "Libinfo/rpc.subproj/pmap_rmt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libinfo/rpc.subproj/pmap_rmt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "tv_sec",
+    "source": "Libinfo/rpc.subproj/pmap_rmt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/pmap_rmt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CALL",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "REPLY",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSG_ACCEPTED",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MSG_DENIED",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUCCESS",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PROG_UNAVAIL",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "PROG_MISMATCH",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "PROC_UNAVAIL",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "GARBAGE_ARGS",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SYSTEM_ERR",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RPC_MISMATCH",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AUTH_ERROR",
+    "source": "Libinfo/rpc.subproj/rpc_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x190",
+    "name": "RQCRED_SIZE",
+    "source": "Libinfo/rpc.subproj/svc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sock",
+    "source": "Libinfo/rpc.subproj/svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low_vers",
+    "source": "Libinfo/rpc.subproj/svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "high_vers",
+    "source": "Libinfo/rpc.subproj/svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "RPC_ANYSOCK",
+    "source": "Libinfo/rpc.subproj/svc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "AUTH_MAX",
+    "source": "Libinfo/rpc.subproj/svc_auth.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "oa_length",
+    "source": "Libinfo/rpc.subproj/svc_auth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/svc_auth_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oa_length",
+    "source": "Libinfo/rpc.subproj/svc_auth_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_sock",
+    "source": "Libinfo/rpc.subproj/svc_raw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_port",
+    "source": "Libinfo/rpc.subproj/svc_raw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/svc_tcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_addrlen",
+    "source": "Libinfo/rpc.subproj/svc_tcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_port",
+    "source": "Libinfo/rpc.subproj/svc_tcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_port",
+    "source": "Libinfo/rpc.subproj/svc_tcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "Libinfo/rpc.subproj/svc_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SPARSENESS",
+    "source": "Libinfo/rpc.subproj/svc_udp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "uc_nextvictim",
+    "source": "Libinfo/rpc.subproj/svc_udp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "__dontcare__",
+    "source": "Libinfo/rpc.subproj/types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "Libinfo/rpc.subproj/types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "XDR_ENCODE",
+    "source": "Libinfo/rpc.subproj/xdr.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "XDR_DECODE",
+    "source": "Libinfo/rpc.subproj/xdr.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "XDR_FREE",
+    "source": "Libinfo/rpc.subproj/xdr.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAX_NETOBJ_SZ",
+    "source": "Libinfo/rpc.subproj/xdr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/xdr_array.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/xdr_array.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAX_SNG_BIAS",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IEEE_SNG_BIAS",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAX_DBL_BIAS",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IEEE_DBL_BIAS",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libinfo/rpc.subproj/xdr_float.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "Libinfo/rpc.subproj/xdr_mem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fbtbc",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_hdrlen",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_reclen",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_received",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hfd",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fbtbc",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fbtbc",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fbtbc",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fbtbc",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_hdrlen",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_received",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA0",
+    "name": "s",
+    "source": "Libinfo/rpc.subproj/xdr_rec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_base",
+    "source": "Libinfo/rpc.subproj/xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_handy",
+    "source": "Libinfo/rpc.subproj/xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_base",
+    "source": "Libinfo/rpc.subproj/xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_handy",
+    "source": "Libinfo/rpc.subproj/xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_handy",
+    "source": "Libinfo/rpc.subproj/xdr_stdio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_base",
+    "source": "Libinfo/rpc.subproj/xdr_stdio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NI_WITHSCOPEID",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ai_protocol",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nres",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refused",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timo",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refused",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refused",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lport",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aport",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lport",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sport",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__check_rhosts_file",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userok",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hostok",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "userok",
+    "source": "Libinfo/util.subproj/rcmd.c",
+    "type": "EnumCase"
+  }
+]

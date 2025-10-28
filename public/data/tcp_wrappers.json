@@ -1,0 +1,686 @@
+[
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "tcp_wrappers/tcp_wrappers/address_range.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "tcp_wrappers/tcp_wrappers/address_range.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "tcp_wrappers/tcp_wrappers/address_range.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "tcp_wrappers/tcp_wrappers/address_range.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "tcp_wrappers/tcp_wrappers/address_range.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "tcp_wrappers/tcp_wrappers/address_range.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "tcp_wrappers/tcp_wrappers/address_range.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "tcp_wrappers/tcp_wrappers/environ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DO_CLOBBER",
+    "source": "tcp_wrappers/tcp_wrappers/environ.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "allocated",
+    "source": "tcp_wrappers/tcp_wrappers/environ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changed",
+    "source": "tcp_wrappers/tcp_wrappers/environ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "tcp_wrappers/tcp_wrappers/environ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "changed",
+    "source": "tcp_wrappers/tcp_wrappers/environ.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IPOPT_OPTVAL",
+    "source": "tcp_wrappers/tcp_wrappers/fix_options.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IPOPT_OLEN",
+    "source": "tcp_wrappers/tcp_wrappers/fix_options.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "BUFFER_SIZE",
+    "source": "tcp_wrappers/tcp_wrappers/fix_options.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "optlen",
+    "source": "tcp_wrappers/tcp_wrappers/fix_options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "tcp_wrappers/tcp_wrappers/hosts_access.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO",
+    "source": "tcp_wrappers/tcp_wrappers/hosts_access.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hosts_access_verbose",
+    "source": "tcp_wrappers/tcp_wrappers/hosts_access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "BUFLEN",
+    "source": "tcp_wrappers/tcp_wrappers/hosts_access.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "tcp_wrappers/tcp_wrappers/hosts_access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mydomain",
+    "source": "tcp_wrappers/tcp_wrappers/hosts_access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inet_list",
+    "source": "tcp_wrappers/tcp_wrappers/inetcf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tcp_wrappers/tcp_wrappers/inetcf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "tcp_wrappers/tcp_wrappers/inetcf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "WR_NOT",
+    "source": "tcp_wrappers/tcp_wrappers/inetcf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "WR_MAYBE",
+    "source": "tcp_wrappers/tcp_wrappers/inetcf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "WR_YES",
+    "source": "tcp_wrappers/tcp_wrappers/inetcf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_run",
+    "source": "tcp_wrappers/tcp_wrappers/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "runs",
+    "source": "tcp_wrappers/tcp_wrappers/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_run",
+    "source": "tcp_wrappers/tcp_wrappers/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_run",
+    "source": "tcp_wrappers/tcp_wrappers/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "tcp_wrappers/tcp_wrappers/misc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STDIN_FILENO",
+    "source": "tcp_wrappers/tcp_wrappers/miscd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAX_MODULE_COUNT",
+    "source": "tcp_wrappers/tcp_wrappers/ncr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tcp_wrappers/tcp_wrappers/ncr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dry_run",
+    "source": "tcp_wrappers/tcp_wrappers/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "tcp_wrappers/tcp_wrappers/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "tcp_wrappers/tcp_wrappers/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "niceval",
+    "source": "tcp_wrappers/tcp_wrappers/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dry_run",
+    "source": "tcp_wrappers/tcp_wrappers/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst",
+    "source": "tcp_wrappers/tcp_wrappers/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "tcp_wrappers/tcp_wrappers/options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "expansion_len",
+    "source": "tcp_wrappers/tcp_wrappers/percent_x.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "tcp_wrappers/tcp_wrappers/percent_x.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x71",
+    "name": "RFC931_PORT",
+    "source": "tcp_wrappers/tcp_wrappers/rfc931.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ANY_PORT",
+    "source": "tcp_wrappers/tcp_wrappers/rfc931.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "tcp_wrappers/tcp_wrappers/rfc931.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "tcp_wrappers/tcp_wrappers/rfc931.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "TIME_LIMIT",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "INPUT_LENGTH",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "LINE_LENGTH",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7FFF",
+    "name": "UNPRIV_UGID",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "line_length",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "input_count",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line_length",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line_length",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tcp_wrappers/tcp_wrappers/safe_finger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tcp_wrappers/tcp_wrappers/scaffold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tcp_wrappers/tcp_wrappers/scaffold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tcp_wrappers/tcp_wrappers/scaffold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmp_fd",
+    "source": "tcp_wrappers/tcp_wrappers/shell_cmd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tcp_wrappers/tcp_wrappers/socket.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STDIN_FILENO",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "STRING_LENGTH",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "IPV6_ABITS",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "RQ_FILE",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "RQ_DAEMON",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "RQ_USER",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "RQ_CLIENT_NAME",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "RQ_CLIENT_ADDR",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "RQ_CLIENT_SIN",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "RQ_SERVER_NAME",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "RQ_SERVER_ADDR",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "RQ_SERVER_SIN",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "AC_PERMIT",
+    "source": "tcp_wrappers/tcp_wrappers/tcpd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x800",
+    "name": "BUFLEN",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "resident",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hosts_access_verbose",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PERMIT",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DENY",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "allow_check",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dry_run",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "daemons",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "daemons",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clients",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clients",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "addr_count",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "err",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdchk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inetcf",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdmatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "hosts_access_verbose",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdmatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdmatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdmatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dry_run",
+    "source": "tcp_wrappers/tcp_wrappers/tcpdmatch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tcp_wrappers/tcp_wrappers/tli-sequent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tcp_wrappers/tcp_wrappers/tli-sequent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "tcp_wrappers/tcp_wrappers/tli-sequent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "tcp_wrappers/tcp_wrappers/tli-sequent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "tcp_wrappers/tcp_wrappers/tli.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tcp_wrappers/tcp_wrappers/tli.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STDIN_FILENO",
+    "source": "tcp_wrappers/tcp_wrappers/try-from.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tcp_wrappers/tcp_wrappers/vfprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fmtp",
+    "source": "tcp_wrappers/tcp_wrappers/vfprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXHOSTNAMELEN",
+    "source": "tcp_wrappers/tcp_wrappers/workarounds.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "tcp_wrappers/tcp_wrappers/workarounds.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INADDR_NONE",
+    "source": "tcp_wrappers/tcp_wrappers/workarounds.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "broken_gethostbyname",
+    "source": "tcp_wrappers/tcp_wrappers/workarounds.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "broken_gethostbyname",
+    "source": "tcp_wrappers/tcp_wrappers/workarounds.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_addr_list",
+    "source": "tcp_wrappers/tcp_wrappers/workarounds.c",
+    "type": "EnumCase"
+  }
+]

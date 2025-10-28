@@ -1,0 +1,410 @@
+[
+  {
+    "hex": "0x0",
+    "name": "DEBUG_MALLOC",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_CLIENT",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SHIFT_QUANTUM",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MIN_BLOCK",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "THIS_FREE",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PREV_FREE",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "INITIAL_NUM_REGIONS",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CHECKSUM_MAGIC",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PROTECT_SMALL",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_RECORDER_BUFFER",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "MAX_GRAIN",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GrP_small_buckets",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GrP_large_death_row",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GrP_replace_scalable_malloc",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GrP_small_bucket_lazy_alloc",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GrP_small_bucket_lazy_init",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LARGE_DEATH_ROW_COUNT",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "target",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "its_msize_and_free",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_free",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_free",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "locked",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "locked",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "locked",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "locked",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "s",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address_and_num_pages",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address_and_num_pages",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num_pages",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "leftover_msize",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msize_and_free",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_size",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num_pages",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szone_check_counter",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szone_check_start",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "szone_check_modulo",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ci",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_use",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "firstTime",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msize_used",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstTime",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num_regions",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "MALLOC_FREEZEDRY_VERSION",
+    "source": "stmalloc/stmalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "stmalloc/stmalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "scalable_zone_info_count",
+    "source": "stmalloc/stmalloc.h",
+    "type": "PreprocessorConstant"
+  }
+]

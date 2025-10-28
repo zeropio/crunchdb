@@ -1,0 +1,6566 @@
+[
+  {
+    "hex": "0xA",
+    "name": "INFLATE_LEN_BITS_OPT",
+    "source": "zlib/AddOn/zopt_defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "INFLATE_DIST_BITS_OPT",
+    "source": "zlib/AddOn/zopt_defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "LENBITS",
+    "source": "zlib/AddOn/zopt_inffast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_pos",
+    "source": "zlib/AddOn/zopt_inffast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/AddOn/zopt_inffast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kKPC_OK",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kKPC_OK",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fallback",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "tmp_size",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eof",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_common.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dst_size",
+    "source": "zlib/AddOn/ZTests/ztest_fuzzer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_fixed",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_rfc1950",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_torture",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "n_its_enc",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "n_its_dec",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_size",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_size",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dec_size",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compressed_zlib",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compressed_comp",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycles_crc",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycles_adler",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycles_zlib_enc",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycles_zlib_dec",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycles_comp_enc",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycles_comp_dec",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum_crc",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum_adler",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "k",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_fixed",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_rfc1950",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_torture",
+    "source": "zlib/AddOn/ZTests/ztest_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_zlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/AddOn/ZTests/ztest_zlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFF1",
+    "name": "BASE",
+    "source": "zlib/zlib/adler32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15B0",
+    "name": "NMAX",
+    "source": "zlib/zlib/adler32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "destLen",
+    "source": "zlib/zlib/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "zlib/zlib/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "MAXBITS",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXWIN",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "left",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "left",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "virgin",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "virgin",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitbuf",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitcnt",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "err",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "err",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4000",
+    "name": "CHUNK",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/contrib/blast/blast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "WSIZE",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "bits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hold",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wrap",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastblock",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wrap",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hold",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "lenbits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "distbits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "lenbits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "copy",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "copy",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "copy",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "lenbits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "distbits",
+    "source": "zlib/zlib/contrib/infback9/infback9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAXBITS",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "min",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "left",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "end",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "end",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "huff",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "drop",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fill",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "huff",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "drop",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "huff",
+    "source": "zlib/zlib/contrib/infback9/inftree9.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x354",
+    "name": "ENOUGH_LENS",
+    "source": "zlib/zlib/contrib/infback9/inftree9.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x252",
+    "name": "ENOUGH_DISTS",
+    "source": "zlib/zlib/contrib/infback9/inftree9.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "PAD_AVAIL_IN",
+    "source": "zlib/zlib/contrib/inflate86/inffas86.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "PAD_AVAIL_OUT",
+    "source": "zlib/zlib/contrib/inflate86/inffas86.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PAD_AVAIL_IN",
+    "source": "zlib/zlib/contrib/inflate86/inffas86.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x101",
+    "name": "PAD_AVAIL_OUT",
+    "source": "zlib/zlib/contrib/inflate86/inffas86.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "own_file_descriptor",
+    "source": "zlib/zlib/contrib/iostream/zfstream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "own_file_descriptor",
+    "source": "zlib/zlib/contrib/iostream/zfstream.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_fp",
+    "source": "zlib/zlib/contrib/iostream2/zstream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_os",
+    "source": "zlib/zlib/contrib/iostream2/zstream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_fp",
+    "source": "zlib/zlib/contrib/iostream2/zstream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "byte",
+    "source": "zlib/zlib/contrib/iostream2/zstream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "PAD_AVAIL_IN",
+    "source": "zlib/zlib/contrib/masmx64/inffas8664.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "PAD_AVAIL_OUT",
+    "source": "zlib/zlib/contrib/masmx64/inffas8664.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PAD_AVAIL_IN",
+    "source": "zlib/zlib/contrib/masmx64/inffas8664.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x101",
+    "name": "PAD_AVAIL_OUT",
+    "source": "zlib/zlib/contrib/masmx64/inffas8664.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "RAND_HEAD_LEN",
+    "source": "zlib/zlib/contrib/minizip/crypt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "calls",
+    "source": "zlib/zlib/contrib/minizip/crypt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/contrib/minizip/crypt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/contrib/minizip/crypt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fseek_origin",
+    "source": "zlib/zlib/contrib/minizip/ioapi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/ioapi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fseek_origin",
+    "source": "zlib/zlib/contrib/minizip/ioapi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/ioapi.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BIT",
+    "source": "zlib/zlib/contrib/minizip/ioapi.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOWIN32_USING_WINRT_API",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lpdwCreationDisposition",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwErr",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwErr",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QuadPart",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QuadPart",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwMoveMethod",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwMoveMethod",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/iowin32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BIT",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "offset",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "pos_string",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "size_display_string",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ratio",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rep",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skip",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "popt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret_value",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_do_list",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_do_extract",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_do_extract_withoutpath",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_extractdir",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_do_list",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_do_list",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_do_extract",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_do_extract_withoutpath",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_extractdir",
+    "source": "zlib/zlib/contrib/minizip/miniunz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BIT",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tm_t",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "calculate_crc",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_read",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_read",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "largeFile",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "largeFile",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_exclude_path",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zipfilenamearg",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_buf",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "opt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_exclude_path",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zipok",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dot_found",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "zipok",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dot_found",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rep",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zipok",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "opt_overwrite",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crcFile",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zip64",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tm_year",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dosDate",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "internal_fa",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "external_fa",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastslash",
+    "source": "zlib/zlib/contrib/minizip/minizip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entries",
+    "source": "zlib/zlib/contrib/minizip/mztools.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalBytes",
+    "source": "zlib/zlib/contrib/minizip/mztools.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "zlib/zlib/contrib/minizip/mztools.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offsetCD",
+    "source": "zlib/zlib/contrib/minizip/mztools.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entriesZip",
+    "source": "zlib/zlib/contrib/minizip/mztools.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pX",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pX",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pX",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "CASESENSITIVITYDEFAULTVALUE",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CASESENSITIVITYDEFAULTVALUE",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "iCaseSenisivity",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "iCaseSenisivity",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iCaseSenisivity",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uMaxBack",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uPosFound",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "uBackRead",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uMaxBack",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uPosFound",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "uBackRead",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isZip64",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_comment",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isZip64",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "encrypted",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lSeek",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lSeek",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acc",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lSeek",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lSeek",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_file",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piSizeVar",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "poffset_local_extrafield",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "psize_local_extrafield",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos_local_extrafield",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stream_initialised",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "level",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "level",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "level",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "level",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc32",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_64",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "raw",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_in",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "encrypted",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "encrypted",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iRead",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_hi32",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_hi32",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stream_initialised",
+    "source": "zlib/zlib/contrib/minizip/unzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "Z_BZIP2ED",
+    "source": "zlib/zlib/contrib/minizip/unzip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "iCaseSenisivity",
+    "source": "zlib/zlib/contrib/minizip/unzip.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "iCaseSenisivity",
+    "source": "zlib/zlib/contrib/minizip/unzip.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iCaseSenisivity",
+    "source": "zlib/zlib/contrib/minizip/unzip.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SEEK_CUR",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SEEK_END",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEEK_SET",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "filled_in_this_block",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pX",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pX",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pX",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uMaxBack",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uPosFound",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "uBackRead",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uMaxBack",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uPosFound",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "uBackRead",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasZIP64Record",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasZIP64Record",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_comment",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number_entry",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number_entry_CD",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_central_dir",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset_central_dir",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_opened_file_inzip",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stream_initialised",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number_entry",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "add_position_when_writing_offset",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HeaderID",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "DataSize",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CompressedSize",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UncompressedSize",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_comment",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dosDate",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc32",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "encrypt",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stream_initialised",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos_in_buffered_data",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "size_centralExtraFree",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalCompressedData",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalUncompressedData",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos_zip64extrainfo",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_hi32",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_lo32",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_hi32",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out_lo32",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bzalloc",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bzfree",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crypt_header_size",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "encrypt",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_opened_file_inzip",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_lo32",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in_hi32",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos_in_buffered_data",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bBreak",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invalidValue",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datasize",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stream_initialised",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stream_initialised",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zip64",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_opened_file_inzip",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2C",
+    "name": "Zip64DataSize",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_global_comment",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_centraldir",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "zlib/zlib/contrib/minizip/zip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "Z_BZIP2ED",
+    "source": "zlib/zlib/contrib/minizip/zip.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "raw",
+    "source": "zlib/zlib/contrib/minizip/zip.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "raw",
+    "source": "zlib/zlib/contrib/minizip/zip.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAXBITS",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11E",
+    "name": "MAXLCODES",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "MAXDCODES",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x120",
+    "name": "FIXLCODES",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitbuf",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitcnt",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "left",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "left",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "virgin",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "virgin",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "symbol",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "incnt",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitbuf",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bitcnt",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "err",
+    "source": "zlib/zlib/contrib/puff/puff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "size",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "put",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "put",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "zlib/zlib/contrib/puff/pufftest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HighPart",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QuadPart",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HighPart",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "dwLog",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retVal",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retVal",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retVal",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BlockSizeCompress",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BlockSizeUncompress",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lCompressedSize",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lOrigDone",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "step",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lOrigDone",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "step",
+    "source": "zlib/zlib/contrib/testzlib/testzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "BLOCKSIZE",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "SHORTNAMESIZE",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wMilliseconds",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getheader",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remaining",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remaining",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getheader",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getheader",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "getheader",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "getheader",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CRT_glob",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "zlib/zlib/contrib/untgz/untgz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "N",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLY",
+    "source": "zlib/zlib/crc32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "flag",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF96",
+    "name": "Z_BATCH",
+    "source": "zlib/zlib/crc32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Z_BATCH_ZEROS",
+    "source": "zlib/zlib/crc32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x320",
+    "name": "Z_BATCH_MIN",
+    "source": "zlib/zlib/crc32.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc1",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc2",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc1",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc2",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vector_code",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vector_code",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "len",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "endian",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc1",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc2",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc3",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc4",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc5",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc1",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc2",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc3",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc4",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc5",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "k",
+    "source": "zlib/zlib/crc32.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NIL",
+    "source": "zlib/zlib/deflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "wrap",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "level",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "level",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wrap",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "wrap",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "windowBits",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "w_size",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hash_size",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "high_water",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lit_bufsize",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wrap",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strstart",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_start",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insert",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lookahead",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_available",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "level",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "level",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matches",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wraplen",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "wraplen",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "wraplen",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "wraplen",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level_flags",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "level_flags",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "level_flags",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "level_flags",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gzindex",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "beg",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gzindex",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "beg",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gzindex",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "beg",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strstart",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_start",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insert",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strstart",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_start",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lookahead",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insert",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_available",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ins_h",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EQUAL",
+    "source": "zlib/zlib/deflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "MAX_STORED",
+    "source": "zlib/zlib/deflate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "matches",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_length",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_available",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match_available",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_available",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_length",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_length",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insert",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match_length",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insert",
+    "source": "zlib/zlib/deflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "LENGTH_CODES",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "LITERALS",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "D_CODES",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "BL_CODES",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAX_BITS",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "Buf_size",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A",
+    "name": "INIT_STATE",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x45",
+    "name": "EXTRA_STATE",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x49",
+    "name": "NAME_STATE",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5B",
+    "name": "COMMENT_STATE",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x67",
+    "name": "HCRC_STATE",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x71",
+    "name": "BUSY_STATE",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29A",
+    "name": "FINISH_STATE",
+    "source": "zlib/zlib/deflate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "size",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "least",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bit",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "length",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rem",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "syms",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "left",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "least",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rem",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rem",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "large",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "n",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "left",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11E",
+    "name": "syms",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "root",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "max",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "word",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n",
+    "source": "zlib/zlib/examples/enough.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "RAWLEN",
+    "source": "zlib/zlib/examples/fitblk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "EXCESS",
+    "source": "zlib/zlib/examples/fitblk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "MARGIN",
+    "source": "zlib/zlib/examples/fitblk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/fitblk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "SIZE",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "PIECE",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rem",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chunk",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "max",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "bits",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "left",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outcnt",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stack",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "bits",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "end",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcnt",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stack",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "check",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "infile",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outfile",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "test",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "test",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "zlib/zlib/examples/gun.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "LGCHUNK",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8000",
+    "name": "DSIZE",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastbit",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "full",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "full",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "len",
+    "source": "zlib/zlib/examples/gzappend.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "CHUNK",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tot",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "zlib/zlib/examples/gzjoin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gzlog_bail",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "PATIENCE",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "MAX_STORE",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "TRIGGER",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8000",
+    "name": "DICT",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_OP",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "APPEND_OP",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "COMPRESS_OP",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "REPLACE_OP",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lock",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "back",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stored",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "back",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "back",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stored",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stored",
+    "source": "zlib/zlib/examples/gzlog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4000",
+    "name": "CHUNK",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memb",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tail",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "part",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "part",
+    "source": "zlib/zlib/examples/gznorm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4000",
+    "name": "CHUNK",
+    "source": "zlib/zlib/examples/zpipe.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/zpipe.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "WINSIZE",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "CHUNK",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "gzip",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gzip",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gzip",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skip",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100000",
+    "name": "SPAN",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "LEN",
+    "source": "zlib/zlib/examples/zran.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "GZBUFSIZE",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GZ_NONE",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C4F",
+    "name": "GZ_READ",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x79B1",
+    "name": "GZ_WRITE",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GZ_APPEND",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOOK",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "COPY",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "GZIP",
+    "source": "zlib/zlib/gzguts.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eof",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "past",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reset",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cloexec",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exclusive",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "direct",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cloexec",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exclusive",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "direct",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "direct",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "size",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eof",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "past",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seek",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eof",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "past",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p",
+    "source": "zlib/zlib/gzlib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eof",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "direct",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eof",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "direct",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "past",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "past",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "past",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "past",
+    "source": "zlib/zlib/gzread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reset",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reset",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek",
+    "source": "zlib/zlib/gzwrite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "dmax",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wsize",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wnext",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "whave",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "virgin",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "bits",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bits",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "virgin",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "lenbits",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "distbits",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hold",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "whave",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hold",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "lenbits",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "copy",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "copy",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "copy",
+    "source": "zlib/zlib/infback.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "havedict",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "dmax",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hold",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sane",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wsize",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "whave",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wnext",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wrap",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hold",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "virgin",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "bits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "virgin",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "lenbits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "distbits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wsize",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wnext",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "whave",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wnext",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wnext",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hold",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "wbits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dmax",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copy",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copy",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "lenbits",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "copy",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "copy",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "copy",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "back",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "havedict",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "got",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wrap",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wsize",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sane",
+    "source": "zlib/zlib/inflate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F34",
+    "name": "HEAD",
+    "source": "zlib/zlib/inflate.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "MAXBITS",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bits",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "min",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "left",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "match",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x101",
+    "name": "match",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "huff",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sym",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "drop",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "min",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fill",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "incr",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "huff",
+    "source": "zlib/zlib/inftrees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x354",
+    "name": "ENOUGH_LENS",
+    "source": "zlib/zlib/inftrees.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x250",
+    "name": "ENOUGH_DISTS",
+    "source": "zlib/zlib/inftrees.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "avail_out",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "avail_out",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "avail_out",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "comprLen",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "zlib/zlib/test/example.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highwater",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "limit",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notlifo",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rogue",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "val",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "val",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "err",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "avail_out",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "bits",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bits",
+    "source": "zlib/zlib/test/infcover.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4000",
+    "name": "BUFLEN",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAX_NAME_LEN",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_in",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copyout",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uncompr",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uncompr",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uncompr",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "copyout",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uncompr",
+    "source": "zlib/zlib/test/minigzip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "MAX_BL_BITS",
+    "source": "zlib/zlib/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "END_BLOCK",
+    "source": "zlib/zlib/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "REP_3_6",
+    "source": "zlib/zlib/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "REPZ_3_10",
+    "source": "zlib/zlib/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "REPZ_11_138",
+    "source": "zlib/zlib/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "DIST_CODE_LEN",
+    "source": "zlib/zlib/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "static_init_done",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dist",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "Len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "Len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "Len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "Len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "Len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "static_init_done",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_buf",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_valid",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compressed_len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits_sent",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Freq",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "static_len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matches",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SMALLEST",
+    "source": "zlib/zlib/trees.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "overflow",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xbits",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bits",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "heap_len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Len",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Freq",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "min_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "min_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "max_count",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rank",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_blindex",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sx",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_mask",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "n",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_buf",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_valid",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_buf",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bi_valid",
+    "source": "zlib/zlib/trees.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destLen",
+    "source": "zlib/zlib/uncompr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "left",
+    "source": "zlib/zlib/uncompr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "zlib/zlib/uncompr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "zlib/zlib/uncompr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "left",
+    "source": "zlib/zlib/uncompr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "windowBits",
+    "source": "zlib/zlib/zconf.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "DMAX_WBITS",
+    "source": "zlib/zlib/zconf.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "windowBits",
+    "source": "zlib/zlib/zconf.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_LARGEFILE64_SOURCE",
+    "source": "zlib/zlib/zconf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_LARGEFILE64_SOURCE",
+    "source": "zlib/zlib/zconf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ZLIB_VERNUM",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ZLIB_VER_MAJOR",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ZLIB_VER_MINOR",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "ZLIB_VER_REVISION",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ZLIB_VER_SUBREVISION",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "DMAX_WBITS",
+    "source": "zlib/zlib/zlib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Z_NO_FLUSH",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "Z_PARTIAL_FLUSH",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "Z_SYNC_FLUSH",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "Z_FULL_FLUSH",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "Z_FINISH",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "Z_BLOCK",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "Z_TREES",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Z_OK",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "Z_STREAM_END",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "Z_NEED_DICT",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Z_NO_COMPRESSION",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "Z_BEST_SPEED",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "Z_BEST_COMPRESSION",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "Z_FILTERED",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "Z_HUFFMAN_ONLY",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "Z_RLE",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "Z_FIXED",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Z_DEFAULT_STRATEGY",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Z_BINARY",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "Z_TEXT",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "Z_UNKNOWN",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "Z_DEFLATED",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Z_NULL",
+    "source": "zlib/zlib/zlib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "memLevel",
+    "source": "zlib/zlib/zlib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "memLevel",
+    "source": "zlib/zlib/zlib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "00",
+    "source": "zlib/zlib/zlib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "zlib/zlib/zutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "zlib/zlib/zutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "zlib/zlib/zutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAX_PTR",
+    "source": "zlib/zlib/zutil.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x280",
+    "name": "64K",
+    "source": "zlib/zlib/zutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_ptr",
+    "source": "zlib/zlib/zutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "zlib/zlib/zutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "zlib/zlib/zutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STORED_BLOCK",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STATIC_TREES",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DYN_TREES",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MIN_MATCH",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "MAX_MATCH",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRESET_DICT",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "mbc",
+    "source": "zlib/zlib/zutil.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "INFLATE_LEN_BITS",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "INFLATE_DIST_BITS",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "INFLATE_MIN_INPUT",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x102",
+    "name": "INFLATE_MIN_OUTPUT",
+    "source": "zlib/zlib/zutil.h",
+    "type": "PreprocessorConstant"
+  }
+]

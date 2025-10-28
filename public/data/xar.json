@@ -1,0 +1,2288 @@
+[
+  {
+    "hex": "0x1A",
+    "name": "XAR_ASH_SIZE",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "APPLESINGLE_MAGIC",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "APPLEDOUBLE_MAGIC",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "APPLESINGLE_VERSION",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "APPLEDOUBLE_VERSION",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "AS_ID_DATA",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "AS_ID_RESOURCE",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "AS_ID_NAME",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "AS_ID_COMMENT",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "AS_ID_BWICON",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "AS_ID_COLORICON",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "AS_ID_DATES",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "AS_ID_FINDER",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "AS_ID_MAC",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "AS_ID_PRODOS",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "AS_ID_MSDOS",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "AS_ID_SHORTNAME",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "AS_ID_AFPINFO",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "AS_ID_AFPDIR",
+    "source": "xar/xar/lib/appledouble.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/archive.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_EXLOCK",
+    "source": "xar/xar/lib/archive.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_SHLOCK",
+    "source": "xar/xar/lib/archive.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "readbuf_len",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sz2read",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cksum_match",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cksum_match",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tlen",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fd",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer_size",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gztoc",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_in",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chklen",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signed_len",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skipwarn",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "read_size",
+    "source": "xar/xar/lib/archive.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/arcmod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/arcmod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "includeset",
+    "source": "xar/xar/lib/arcmod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "includeset",
+    "source": "xar/xar/lib/arcmod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "XarAsprintfStartLen",
+    "source": "xar/xar/lib/asprintf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "B64_noError",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "B64_decodeError",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "B64_bufferOverrun",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inputIndex",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignorableCharacterCount",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentInputBlockPaddingCharacterCount",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "decodedCharacterCount",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "currentInputBlockPaddingCharacterCount",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "currentInputBlockPaddingCharacterCount",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/b64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bzipcompressed",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "level",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bzipcompressed",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "outlen",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "xar/xar/lib/bzxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_entries",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_entries",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_fi",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "have_rsrc",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "xar/xar/lib/darwinattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/data.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_EXLOCK",
+    "source": "xar/xar/lib/data.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/ext2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "xar/xar/lib/ext2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/ext2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/ext2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "xar/xar/lib/ext2.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eaopt",
+    "source": "xar/xar/lib/fbsdattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignore_compare",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ignore_compare",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nochild",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nochild",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nochild",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f1_name_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prefix1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fspath1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "keys_to_ignore_count",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prefix1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns1_size",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nexteaid",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nochild",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nochild",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isempty",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isname",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isempty",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isname",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isencoded",
+    "source": "xar/xar/lib/filetree.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/filetree.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "bar",
+    "source": "xar/xar/lib/filetree.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "id",
+    "source": "xar/xar/lib/filetree.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outHashSize",
+    "source": "xar/xar/lib/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "itr",
+    "source": "xar/xar/lib/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "itr",
+    "source": "xar/xar/lib/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "xar/xar/lib/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/io.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fsize",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readsize",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "r",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "written",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inc",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inc",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_buf_size",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_in",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_out",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending_buf_size",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "xar/xar/lib/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXT3_SUPER_MAGIC",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JFS_SUPER_MAGIC",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REISERFS_SUPER_MAGIC",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "XFS_SUPER_MAGIC",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "bufsz",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufsz",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eaopt",
+    "source": "xar/xar/lib/linuxattr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "preset_level",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5D",
+    "name": "memory_limit",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lzmacompressed",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_crc32",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lzmacompressed",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "outlen",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "xar/xar/lib/lzmaxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/macho.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIT64",
+    "source": "xar/xar/lib/macho.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PPC",
+    "source": "xar/xar/lib/macho.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "I386",
+    "source": "xar/xar/lib/macho.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lf_fatheader",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "consumed",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byteswapped",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curarch",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "consumed",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "byteswapped",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curarch",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "consumed",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curme",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curme",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "bits",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "byteswapped",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "bits",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "byteswapped",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "bits",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "bits",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curlc",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "consumed",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/macho.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initted",
+    "source": "xar/xar/lib/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "xar/xar/lib/script.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/signature.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cert_data",
+    "source": "xar/xar/lib/signature.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "xar/xar/lib/signature.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/signature.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputLength",
+    "source": "xar/xar/lib/signature.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_extended",
+    "source": "xar/xar/lib/signature.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/stat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ATIME",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "savesuid",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "savesuid",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "savesuid",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "savesuid",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mset",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mset",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modet",
+    "source": "xar/xar/lib/stat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "_FILE_OFFSET_BITS",
+    "source": "xar/xar/lib/subdoc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "slash_count",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4D2",
+    "name": "t",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "component_length",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "path_depth",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "optimal_rsize",
+    "source": "xar/xar/lib/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gzipcompressed",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gzipcompressed",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "outlen",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "avail_out",
+    "source": "xar/xar/lib/zxar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SYMBOLIC",
+    "source": "xar/xar/src/xar.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NUMERIC",
+    "source": "xar/xar/src/xar.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Perms",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Local",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Err",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "List",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Verbose",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Coalesce",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LinkSame",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NoOverwrite",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SaveSuid",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exclude_match",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nocompress_match",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "Err",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "files_extracted",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argi",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exclude_match",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nochild",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "extract_match",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deferred",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "deferred",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "Err",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "Err",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argi",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argi",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "list_match",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "Err",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loptind",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "required_dash_f",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "command",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "command",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "command",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "command",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Coalesce",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LinkSame",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "List",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "required_dash_f",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Local",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xar/src/xar.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HeapOff",
+    "source": "xar/xar/test/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/test/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "xar/xar/test/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "xar/xar/test/validate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SYMBOLIC",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NUMERIC",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "E_NOSIG",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3D",
+    "name": "E_SIGEXISTS",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "Perms",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Local",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Err",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Verbose",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Coalesce",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LinkSame",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DoSign",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SigSize",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataToSignOffset",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataToSignSize",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signedDataOffset",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "Err",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "buffer_size",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exclude_match",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nocompress_match",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "Err",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "files_extracted",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exclude_match",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "matched",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "Err",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "Err",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "Err",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loptind",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "required_dash_f",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "command",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "command",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "command",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Coalesce",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LinkSame",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DoSign",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "required_dash_f",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Local",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "xar/xarsig/xar-sig.c",
+    "type": "EnumCase"
+  }
+]

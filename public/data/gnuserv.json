@@ -1,0 +1,542 @@
+[
+  {
+    "hex": "0x2",
+    "name": "GETOPT_INTERFACE_VERSION",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__getopt_initialized",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opterr",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_max_len",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nonoption_flags_len",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__getopt_initialized",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optopt",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exact",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambig",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indfound",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exact",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambig",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digit_optind",
+    "source": "gnuserv/gnuserv/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_GETOPT_H",
+    "source": "gnuserv/gnuserv/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_argument",
+    "source": "gnuserv/gnuserv/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "required_argument",
+    "source": "gnuserv/gnuserv/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "optional_argument",
+    "source": "gnuserv/gnuserv/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "over",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "starting_line",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quick",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "batch",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "view",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nofiles",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errflg",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suppress_windows_system",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rflg",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suppress_windows_system",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "batch",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suppress_windows_system",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suppress_windows_system",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "over",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quick",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "view",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflg",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errflg",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nofiles",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "starting_line",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "starting_line",
+    "source": "gnuserv/gnuserv/gnuclient.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ipc_qid",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ipc_wpid",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "total",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auth_data_pos",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hosts",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "chan",
+    "source": "gnuserv/gnuserv/gnuserv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "PATCHLEVEL",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "AUTH_TIMEOUT",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "AUTH_NAMESZ",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "TABLE_SIZE",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x53F2",
+    "name": "DEFAULT_PORT",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "HOSTNAMSZ",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "REPLYSIZ",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "_NFILE",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5C303034",
+    "name": "EOT_CHR",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "CONN_UNIX",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONN_INTERNET",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "CONN_IPC",
+    "source": "gnuserv/gnuserv/gnuserv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "mtype",
+    "source": "gnuserv/gnuserv/gnuslib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "gnuserv/gnuserv/gnuslib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "add_newline",
+    "source": "gnuserv/gnuserv/gnuslib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STDIN_FILENO",
+    "source": "gnuserv/gnuserv/sysfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDOUT_FILENO",
+    "source": "gnuserv/gnuserv/sysfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "STDERR_FILENO",
+    "source": "gnuserv/gnuserv/sysfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_RDONLY",
+    "source": "gnuserv/gnuserv/sysfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "O_WRONLY",
+    "source": "gnuserv/gnuserv/sysfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "O_RDWR",
+    "source": "gnuserv/gnuserv/sysfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFA0",
+    "name": "O_NONBLOCK",
+    "source": "gnuserv/gnuserv/sysfile.h",
+    "type": "PreprocessorConstant"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "hex": "0x0",
+    "name": "MAGIC_NUMBER",
+    "source": "Libstreams/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOCK_INITIALIZER",
+    "source": "Libstreams/except.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "handlerStack",
+    "source": "Libstreams/except.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "altHandlersUsed",
+    "source": "Libstreams/except.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thread",
+    "source": "Libstreams/except.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handlerStack",
+    "source": "Libstreams/except.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "altHandlersUsed",
+    "source": "Libstreams/except.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "Libstreams/except.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_left",
+    "source": "Libstreams/file_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_NXStreamsUnused2",
+    "source": "Libstreams/globals.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actual",
+    "source": "Libstreams/indir_ops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_left",
+    "source": "Libstreams/indir_ops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_left",
+    "source": "Libstreams/indir_ops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_type_long_number",
+    "source": "Libstreams/ipc_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_left",
+    "source": "Libstreams/ipc_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "msg_type_long_size",
+    "source": "Libstreams/ipc_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_offset",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_offset",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eof",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "archOffset",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "archOffset",
+    "source": "Libstreams/memory_funcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasTerm",
+    "source": "Libstreams/NXLogError.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasTerm",
+    "source": "Libstreams/NXLogError.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NX_READONLY",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NX_WRITEONLY",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NX_READWRITE",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NX_FROMSTART",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NX_FROMCURRENT",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NX_FROMEND",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NX_READFLAG",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NX_FREEBUFFER",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NX_TRUNCATEBUFFER",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NX_SAVEBUFFER",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "NX_STREAMERRBASE",
+    "source": "Libstreams/streams.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "MAXOCT",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAXDIGS",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "MAXFPPREC",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "FILL_MINUS",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILL_ZERO",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FILL_BLANK",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SIGN_MINUS",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIGN_SPACE",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SIGN_ALWAYS",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEN_INT",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LEN_LONGINT",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LEN_SHORTINT",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "LEN_LONGDOUBLE",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sizePrintfProcTable",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "leftadj",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alt",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "width",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "alt",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "nbits",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "nbits",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "width",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "prec",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "prec",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "prec",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "leftadj",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "alt",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prec",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "alt",
+    "source": "Libstreams/streams_doprnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SPC",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "STP",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SHORT",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "REGULAR",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LONG",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INT",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FLOAT",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "SCTAB_SIZE",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nmatch",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fileended",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7530",
+    "name": "len",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcval",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ndigit",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "base",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "base",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expseen",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "negflg",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eofptr",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eofptr",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eofptr",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignstp",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignstp",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eofptr",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eofptr",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "Libstreams/streams_doscan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_left",
+    "source": "Libstreams/streams_internal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "Libstreams/streams_internal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "Libstreams/streams_internal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info",
+    "source": "Libstreams/streams_internal.c",
+    "type": "EnumCase"
+  }
+]

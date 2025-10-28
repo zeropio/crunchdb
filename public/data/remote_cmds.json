@@ -1,0 +1,3812 @@
+[
+  {
+    "hex": "0x0",
+    "name": "send_to_all",
+    "source": "remote_cmds/logger/logger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logflags",
+    "source": "remote_cmds/logger/logger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsock",
+    "source": "remote_cmds/logger/logger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsock",
+    "source": "remote_cmds/logger/logger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxs",
+    "source": "remote_cmds/logger/logger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/logger/logger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fac",
+    "source": "remote_cmds/logger/logger.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/password_enabled.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "remote_cmds/password_enabled.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invitation_waiting",
+    "source": "remote_cmds/talk/ctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "remote_cmds/talk/ctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "remote_cmds/talk/ctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/talk/ctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "CTL_WAIT",
+    "source": "remote_cmds/talk/ctl_transact.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nready",
+    "source": "remote_cmds/talk/ctl_transact.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curses_initialized",
+    "source": "remote_cmds/talk/display.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "curses_initialized",
+    "source": "remote_cmds/talk/init_disp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotwinch",
+    "source": "remote_cmds/talk/init_disp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "remote_cmds/talk/invite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "invitation_waiting",
+    "source": "remote_cmds/talk/invite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invitation_waiting",
+    "source": "remote_cmds/talk/invite.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "INFTIM",
+    "source": "remote_cmds/talk/io.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotwinch",
+    "source": "remote_cmds/talk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_line",
+    "source": "remote_cmds/talk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotwinch",
+    "source": "remote_cmds/talk/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "remote_cmds/talk/look_up.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "MSG_INTERVAL",
+    "source": "remote_cmds/talk/msgs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_line",
+    "source": "remote_cmds/talk/msgs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "remote_cmds/talk/msgs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "N_LINES",
+    "source": "remote_cmds/talkd/announce.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "N_CHARS",
+    "source": "remote_cmds/talkd/announce.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/talkd/announce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_size",
+    "source": "remote_cmds/talkd/announce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/talkd/announce.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "best",
+    "source": "remote_cmds/talkd/process.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E80",
+    "name": "MAX_ID",
+    "source": "remote_cmds/talkd/table.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_id",
+    "source": "remote_cmds/talkd/table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "current_id",
+    "source": "remote_cmds/talkd/table.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "remote_cmds/talkd/talkd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "TIMEOUT",
+    "source": "remote_cmds/talkd/talkd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x78",
+    "name": "MAXIDLE",
+    "source": "remote_cmds/talkd/talkd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "debug",
+    "source": "remote_cmds/talkd/talkd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXHOSTNAMELEN",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "margc",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inquote",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inquote",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needconnect",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "col",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "col",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "donelclchars",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "donebinarytoggle",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "binmode",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "binmode",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "donebinarytoggle",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "donebinarytoggle",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "variable",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variable",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kludgelinemode",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "connected",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "resettermname",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "export",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "export",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "export",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "export",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "env_auto",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "env_auto",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "env_auto",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srp",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "proto",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srlen",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srcroute",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srcroute",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hostp",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "autologin",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ai_flags",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "srcroute",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "telnetport",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "telnetport",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "telnetport",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gni_err",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srp",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "af_error",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "af_error",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "af_error",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "connected",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argno",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tbuf",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rcname",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotmachine",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotmachine",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotmachine",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp2",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp2",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ai_flags",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpp",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lenp",
+    "source": "remote_cmds/telnet/commands.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2B",
+    "name": "BSD",
+    "source": "remote_cmds/telnet/externs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "SUBBUFSIZE",
+    "source": "remote_cmds/telnet/externs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_STATE_WILL",
+    "source": "remote_cmds/telnet/externs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_WANT_STATE_WILL",
+    "source": "remote_cmds/telnet/externs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_STATE_DO",
+    "source": "remote_cmds/telnet/externs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_WANT_STATE_DO",
+    "source": "remote_cmds/telnet/externs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPTS_FORWARD_CREDS",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPTS_FORWARDABLE_CREDS",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "autologin",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "eight",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "autologin",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doaddrlookup",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAXTOS",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "autologin",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skiprc",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "telnet_debug",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "autologin",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argp",
+    "source": "remote_cmds/telnet/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/telnet/network.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ring_clock",
+    "source": "remote_cmds/telnet/ring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearto",
+    "source": "remote_cmds/telnet/ring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mark",
+    "source": "remote_cmds/telnet/ring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mark",
+    "source": "remote_cmds/telnet/ring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearto",
+    "source": "remote_cmds/telnet/ring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearto",
+    "source": "remote_cmds/telnet/ring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearto",
+    "source": "remote_cmds/telnet/ring.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "olmode",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prevmode",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localchars",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "localchars",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "onoff",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "onoff",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SYNCHing",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bogus_oob",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bogus_oob",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bogus_oob",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "returnValue",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "c",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "returnValue",
+    "source": "remote_cmds/telnet/sys_bsd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eight",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "autologin",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skiprc",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "telnet_debug",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "autoflush",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doaddrlookup",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clienteof",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prompt",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TS_DATA",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TS_IAC",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TS_WILL",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TS_WONT",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TS_DO",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TS_DONT",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "TS_CR",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "TS_SB",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "TS_SE",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kludgelinemode",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "donebinarytoggle",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SYNCHing",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_state_ok",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "new_state_ok",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flushout",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flushout",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flushout",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_state_ok",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "new_state_ok",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "new_state_ok",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "new_state_ok",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "new_state_ok",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kludgelinemode",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kludgelinemode",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linemode",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argvp",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errp",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errp",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "resettermname",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tnamep",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resettermname",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "restartany",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restartany",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "localflow",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localflow",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLC_IMPORT",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SLC_EXPORT",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SLC_RVALUE",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "localchars",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valp",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_update",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_update",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "env_auto",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ep",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "epc",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "epc",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scc",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "returnValue",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SYNCHing",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "localflow",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tcc",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "returnValue",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "local",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tcc",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tcc",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bol",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushout",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_status_response",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flushline",
+    "source": "remote_cmds/telnet/telnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "remote_cmds/telnet/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "enc_passwd",
+    "source": "remote_cmds/telnet/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enc_passwd",
+    "source": "remote_cmds/telnet/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "enc_passwd",
+    "source": "remote_cmds/telnet/terminal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transcom",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "SBTERMMODEL",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HaveInput",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sigiocount",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Sent3270TerminalType",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HaveInput",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HaveInput",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "In3270",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "In3270",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Sent3270TerminalType",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "MaxNumberLines",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x84",
+    "name": "MaxNumberColumns",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2B",
+    "name": "MaxNumberLines",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "MaxNumberColumns",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "MaxNumberLines",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "MaxNumberColumns",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "MaxNumberLines",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "MaxNumberColumns",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "NumberLines",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "NumberColumns",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transcom",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/tn3270.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NetTrace",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want_status_response",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noquote",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnet/utilities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOG_DAEMON",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOG_ODELAY",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "NETSLOP",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REAL_LINEMODE",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "KLUDGE_OK",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_AUTOKLUDGE",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "KLUDGE_LINEMODE",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_LINEMODE",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TD_REPORT",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TD_EXERCISE",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TD_NETDATA",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TD_PTYDATA",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TD_OPTIONS",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_STATE_WILL",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_WANT_STATE_WILL",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_STATE_DO",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MY_WANT_STATE_DO",
+    "source": "remote_cmds/telnetd/defs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "def_slclen",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slcchange",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slcchange",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slcchange",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "def_slclen",
+    "source": "remote_cmds/telnetd/slc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "not42",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TS_DATA",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TS_IAC",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TS_CR",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TS_SB",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TS_SE",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TS_WILL",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "TS_WONT",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "TS_DO",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "TS_DONT",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "changeok",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "not42",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "not42",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "not42",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "turn_on_sga",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "changeok",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "turn_on_sga",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "terminaltype",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "empty",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got_var",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "empty",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "empty",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valp",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valp",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/telnetd/state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valp",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valpp",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_NOCTTY",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "autologin",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "envp",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pty",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpp",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reject_it",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reject_it",
+    "source": "remote_cmds/telnetd/sys_term.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auth_level",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "registerd_host_only",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hostinfo",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "keepalive",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXHOSTNAMELEN",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nclearto",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "linemode",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "auth_debug_mode",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auth_level",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "encrypt_debug_mode",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hostinfo",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "alwayslinemode",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keepalive",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAXTOS",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "registerd_host_only",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ai_protocol",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "tos",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "net",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAXHOSTNAMELEN",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "user_name",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "TABBUFSIZ",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "linemode",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "editmode",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flowmode",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hostinfo",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IM",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HE",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SYNCHing",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ncc",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcc",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pcc",
+    "source": "remote_cmds/telnetd/telnetd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "def_row",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_terminit",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_will_echo",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uselinemode",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "enc_passwd",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enc_passwd",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "enc_passwd",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_will_echo",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "useeditmode",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_terminit",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uselinemode",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "useeditmode",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "def_rspeed",
+    "source": "remote_cmds/telnetd/termstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "neturg",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nclearto",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "neturg",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nclearto",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noquote",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "noquote",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/telnetd/utility.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "TIMEOUT",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAX_MARGV",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "tsize",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tout",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tsize",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tout",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "acting_as_client",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "connected",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "connected",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "txrx_error",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "txrx_error",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "txrx_error",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "txrx_error",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "longest",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nmatches",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nmatches",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "margc",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "options_extra_enabled",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "options_rfc_enabled",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options_extra_enabled",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options_rfc_enabled",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftp/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "remote_cmds/tftp/tftp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftp/tftp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "block",
+    "source": "remote_cmds/tftp/tftp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "remote_cmds/tftp/tftp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftp/tftp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block",
+    "source": "remote_cmds/tftp/tftp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "block",
+    "source": "remote_cmds/tftp/tftp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B39",
+    "name": "BASEPORT",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitcode",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitcode",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "tv_sec",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argv_idx",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "w_flag",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitcode",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitcode",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitcode",
+    "source": "remote_cmds/tftpd/tests/functional.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotcr",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotcr",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotcr",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "remote_cmds/tftpd/tftp-file.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "t",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bp",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "size",
+    "source": "remote_cmds/tftpd/tftp-io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RP_NONE",
+    "source": "remote_cmds/tftpd/tftp-io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "RP_RECVFROM",
+    "source": "remote_cmds/tftpd/tftp-io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "RP_TOOSMALL",
+    "source": "remote_cmds/tftpd/tftp-io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFD",
+    "name": "RP_ERROR",
+    "source": "remote_cmds/tftpd/tftp-io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFC",
+    "name": "RP_WRONGSOURCE",
+    "source": "remote_cmds/tftpd/tftp-io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFB",
+    "name": "RP_TIMEOUT",
+    "source": "remote_cmds/tftpd/tftp-io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFA",
+    "name": "RP_TOOBIG",
+    "source": "remote_cmds/tftpd/tftp-io.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "options_rfc_enabled",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "options_extra_enabled",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnsize",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options_failed",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-options.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPT_TSIZE",
+    "source": "remote_cmds/tftpd/tftp-options.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "block",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amount",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acktry",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sendtry",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acktry",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amount",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowstart",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "windowblock",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-transfer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxtimeouts",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_tftp_logtostdout",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetdroppercentage",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amount",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rollovers",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retries",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blocks",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amount",
+    "source": "remote_cmds/tftpd/tftp-utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "TIMEOUT",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAX_TIMEOUTS",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFB8",
+    "name": "MAXSEGSIZE",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "BLKSIZE_MIN",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TIMEOUT_MIN",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "TIMEOUT_MAX",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MIN_TIMEOUTS",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "WINDOWSIZE",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "WINDOWSIZE_MIN",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "WINDOWSIZE_MAX",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_NONE",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_PACKETS",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_SIMPLE",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_OPTIONS",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_ACCESS",
+    "source": "remote_cmds/tftpd/tftp-utils.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAXDIRS",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "check_woth",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "create_new",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "increase_name",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "allow_ro",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acting_as_client",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ipchroot",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ipchroot",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "logging",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suppress_naks",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options_rfc_enabled",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options_extra_enabled",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "create_new",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "create_new",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "increase_name",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check_woth",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "check_woth",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin6_port",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_options",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_options",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "length",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "block",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block",
+    "source": "remote_cmds/tftpd/tftpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forked",
+    "source": "remote_cmds/wall/ttymsg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "remote_cmds/wall/ttymsg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "remote_cmds/wall/ttymsg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "TTYMSG_IOV_MAX",
+    "source": "remote_cmds/wall/ttymsg.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "nobanner",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ingroup",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ingroup",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ingroup",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "remote_cmds/wall/wall.c",
+    "type": "EnumCase"
+  }
+]

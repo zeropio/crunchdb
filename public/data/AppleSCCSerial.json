@@ -1,0 +1,524 @@
+[
+  {
+    "hex": "0x0",
+    "name": "UNKNOWN",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "I8250",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS16450",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS16C1450",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS16550",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "NS16550C",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "NS16C1550",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "ST16C650",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "I82510",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RX_DATA_AVAIL_IRQ_EN",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TX_DATA_EMPTY_IRQ_EN",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LINE_STAT_IRQ_EN",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MODEM_STAT_IRQ_EN",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IRQ_ID_FIELD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BANK_PTR_FIELD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIFO_FIELD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MODEM_STAT_CH",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_IRQ",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TX_DATA_EMPTY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RX_DATA_AVAIL",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LINE_STAT_CH",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TX_MACHINE",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TIMER_IRQ",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CHR_TIMEOUT",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "COMPAT_BANK",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORK_BANK",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CONFIG_BANK",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MODEM_BANK",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIFO_DISABLED",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIFO_ENABLED",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIFO_ENABLE",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RX_FIFO_RESET",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TX_FIFO_RESET",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMA_MODE_SEL",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIFO_TRIG_FIELD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_01_16",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_04_16",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_08_16",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_14_16",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_08_32",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_16_32",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_24_32",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEVEL_28_32",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORD_LEN_FIELD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STOP_LEN_FIELD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PARITY_FIELD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SET_BREAK",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIVISOR_ACCESS",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORD_LEN_5",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORD_LEN_6",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORD_LEN_7",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORD_LEN_8",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STOP_LEN_1",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STOP_LEN_2",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_PARITY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ODD_PARITY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EVEN_PARITY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MARK_PARITY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SPACE_PARITY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DTR",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTS",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUT1",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUT2",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOOP",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POWER_DOWN",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CLOCK_SELECT",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DATA_READY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OVERRUN_ERR",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PARITY_ERR",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FRAMING_ERR",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GOT_BREAK",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TX_EMPTY",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TX_IDLE",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RX_FIFO_ERR",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_CTS",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_DSR",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TE_RI",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_DCD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTS",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSR",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RI",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCD",
+    "source": "AppleSCCSerial/HardwareDefs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "InQueue",
+    "source": "AppleSCCSerial/SccQueuePrimatives.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Size",
+    "source": "AppleSCCSerial/SccQueuePrimatives.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BytesWritten",
+    "source": "AppleSCCSerial/SccQueuePrimatives.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BytesReceived",
+    "source": "AppleSCCSerial/SccQueuePrimatives.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "queueNoError",
+    "source": "AppleSCCSerial/SccQueuePrimatives.h",
+    "type": "EnumCase"
+  }
+]

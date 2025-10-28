@@ -1,0 +1,5144 @@
+[
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/include_server/c_extensions/distcc_pump_c_extensions_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/include_server/c_extensions/distcc_pump_c_extensions_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ARPA_NAMESER_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ASPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_C99_VSNPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_CTYPE_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_ASPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_SNPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_STRNDUP",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VASPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VSNPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FLOAT_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FLOCK",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETADDRINFO",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETCWD",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETEUID",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETLOADAVG",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETNAMEINFO",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETRUSAGE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETTIMEOFDAY",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETUID",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETPAGESIZE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETWD",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_HSTRERROR",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INET_NTOA",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INET_NTOP",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_IN_ADDR_T",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_IN_PORT_T",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LOCKF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MCHECK",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MCHECK_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MMAP",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_NETINET_IN_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_RESOLV_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SENDFILE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETGROUPS",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETREUID",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETSID",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETUID",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SNPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SOCKADDR_STORAGE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SOCKETPAIR",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRERROR",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRNDUP",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRSIGNAL",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_MMAN_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_RESOURCE_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_SELECT_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_SENDFILE_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_SIGNAL_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_SOCKET_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VASPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VA_COPY",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VSNPRINTF",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAIT3",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAIT4",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAITPID",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISTCC_VERBOSE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tweaked_path",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x45",
+    "name": "DCC_COMPRESS_NONE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "DCC_CPP_ON_CLIENT",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DCC_VER_1",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "DCC_VER_2",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "DCC_VER_3",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE30",
+    "name": "DISTCC_DEFAULT_PORT",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISTCC_DEFAULT_STATS_ENABLED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE31",
+    "name": "DISTCC_DEFAULT_STATS_PORT",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXPATHLEN",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "EXIT_DISTCC_FAILED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x65",
+    "name": "EXIT_BAD_ARGUMENTS",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x66",
+    "name": "EXIT_BIND_FAILED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x67",
+    "name": "EXIT_CONNECT_FAILED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x68",
+    "name": "EXIT_COMPILER_CRASHED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x69",
+    "name": "EXIT_OUT_OF_MEMORY",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6A",
+    "name": "EXIT_BAD_HOSTSPEC",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6B",
+    "name": "EXIT_IO_ERROR",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6C",
+    "name": "EXIT_TRUNCATED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6D",
+    "name": "EXIT_PROTOCOL_ERROR",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6E",
+    "name": "EXIT_COMPILER_MISSING",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6F",
+    "name": "EXIT_RECURSION",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x70",
+    "name": "EXIT_SETUID_FAILED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x71",
+    "name": "EXIT_ACCESS_DENIED",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x72",
+    "name": "EXIT_BUSY",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x73",
+    "name": "EXIT_NO_SUCH_FILE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x74",
+    "name": "EXIT_NO_HOSTS",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x75",
+    "name": "EXIT_GONE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x76",
+    "name": "EXIT_TIMEOUT",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DCC_MODE_TCP",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/hosts.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCC_STATE_MAGIC",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/state.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RS_LOG_EMERG",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RS_LOG_ALERT",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "RS_LOG_CRIT",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "RS_LOG_ERR",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "RS_LOG_WARNING",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "RS_LOG_NOTICE",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "RS_LOG_INFO",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "RS_LOG_DEBUG",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "RS_LOG_PRIMASK",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "RS_LOG_NONAME",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "RS_LOG_NO_PROGRAM",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "RS_LOG_NO_PID",
+    "source": "distcc/distcc_dist/include_server/test_data/distcc/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LZO_VERSION",
+    "source": "distcc/distcc_dist/lzo/lzoconf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFF",
+    "name": "LZO_0xffffffffL",
+    "source": "distcc/distcc_dist/lzo/lzoconf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LZO_E_OK",
+    "source": "distcc/distcc_dist/lzo/lzoconf.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4D2",
+    "name": "LZO_LITTLE_ENDIAN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10E1",
+    "name": "LZO_BIG_ENDIAN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD54",
+    "name": "LZO_PDP_ENDIAN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFF1",
+    "name": "LZO_BASE",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15B0",
+    "name": "LZO_NMAX",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "r",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "r",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "r",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "k",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "r",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "xn",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__lzo_init_done",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__lzo_init_done",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "D_BITS",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "M1_MAX_OFFSET",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "M2_MAX_OFFSET",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "M3_MAX_OFFSET",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "M4_MAX_OFFSET",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "M1_MIN_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "M1_MAX_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "M2_MIN_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "M2_MAX_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "M3_MIN_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "M3_MAX_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "M4_MIN_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "M4_MAX_LEN",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "M1_MARKER",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "M2_MARKER",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "M3_MARKER",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "M4_MARKER",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LZO_HASH_GZIP",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LZO_HASH_GZIP_INCREMENTAL",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "LZO_HASH_LZO_INCREMENTAL_A",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "LZO_HASH_LZO_INCREMENTAL_B",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dict_len",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_len",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "t",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "t",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "t",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dict_len",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_len",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "t",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_off",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "t",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "t",
+    "source": "distcc/distcc_dist/lzo/minilzo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MINILZO_VERSION",
+    "source": "distcc/distcc_dist/lzo/minilzo.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_popt_debug",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "next",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numAliases",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numExecs",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "execAbsolute",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "next",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numLeftovers",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextLeftover",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restLeftover",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "finalArgvCount",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stuffed",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "canstrip",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shorty",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "restLeftover",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "restLeftover",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "singleDash",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "singleDash",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "canstrip",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shorty",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shorty",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aLong",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aDouble",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stuffed",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "POPT_OPTION_DEPTH",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARG_NONE",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "POPT_ARG_STRING",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "POPT_ARG_INT",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "POPT_ARG_LONG",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "POPT_ARG_INCLUDE_TABLE",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "POPT_ARG_CALLBACK",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "POPT_ARG_INTL_DOMAIN",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "POPT_ARG_VAL",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "POPT_ARG_FLOAT",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "POPT_ARG_DOUBLE",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARG_MASK",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_ONEDASH",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_DOC_HIDDEN",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_STRIP",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_OPTIONAL",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_OR",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_NOR",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_AND",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_NAND",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_XOR",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_NOT",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_ARGFLAG_SHOW_DEFAULT",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_PRE",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_POST",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_INC_DATA",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_SKIPOPTION",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CBFLAG_CONTINUE",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF6",
+    "name": "POPT_ERROR_NOARG",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF5",
+    "name": "POPT_ERROR_BADOPT",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF3",
+    "name": "POPT_ERROR_OPTSTOODEEP",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF1",
+    "name": "POPT_ERROR_BADQUOTE",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF0",
+    "name": "POPT_ERROR_ERRNO",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFEF",
+    "name": "POPT_ERROR_BADNUMBER",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFEE",
+    "name": "POPT_ERROR_OVERFLOW",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFED",
+    "name": "POPT_ERROR_BADOPERATION",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFEC",
+    "name": "POPT_ERROR_NULLARG",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFEB",
+    "name": "POPT_ERROR_MALLOC",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POPT_CALLBACK_REASON_PRE",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "POPT_CALLBACK_REASON_POST",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "POPT_CALLBACK_REASON_OPTION",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD903",
+    "name": "5555",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD903",
+    "name": "5555",
+    "source": "distcc/distcc_dist/popt/popt.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/poptconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "show_option_defaults",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "slen",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4F",
+    "name": "lineLength",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "len",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "len",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "cursor",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nopts",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "maxopts",
+    "source": "distcc/distcc_dist/popt/popthelp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "POPT_ARGV_ARRAY_GROW_DELTA",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argc",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argvlen",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E0",
+    "name": "maxargvlen",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linenum",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "distcc/distcc_dist/popt/poptparse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allones",
+    "source": "distcc/distcc_dist/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seen_opt_c",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_opt_s",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_opt_c",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotone",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotone",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra_args",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/arg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/argutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/argutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "distcc/distcc_dist/src/argutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/argutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "dcc_backoff_period",
+    "source": "distcc/distcc_dist/src/backoff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fsize",
+    "source": "distcc/distcc_dist/src/bulk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rate",
+    "source": "distcc/distcc_dist/src/bulk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/bulk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/bulk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cleanups",
+    "source": "distcc/distcc_dist/src/cleanup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cleanups_size",
+    "source": "distcc/distcc_dist/src/cleanup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_cleanups",
+    "source": "distcc/distcc_dist/src/cleanup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISCC_VERBOSE",
+    "source": "distcc/distcc_dist/src/cleanup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "distcc/distcc_dist/src/cleanup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "findlen",
+    "source": "distcc/distcc_dist/src/climasq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "did_masquerade",
+    "source": "distcc/distcc_dist/src/climasq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "did_masquerade",
+    "source": "distcc/distcc_dist/src/climasq.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "dcc_connect_timeout",
+    "source": "distcc/distcc_dist/src/clinet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "tries",
+    "source": "distcc/distcc_dist/src/clinet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/clirpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/clirpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcc_scan_includes",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "max_discrepancies_before_demotion",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dotd_fname_size",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "server_side_argv_deep_copied",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needs_dotd",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sets_dotd_target",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpp_pid",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remote_ret",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpp_pid",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "server_side_argv_deep_copied",
+    "source": "distcc/distcc_dist/src/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_size",
+    "source": "distcc/distcc_dist/src/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "out_size",
+    "source": "distcc/distcc_dist/src/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "out_size",
+    "source": "distcc/distcc_dist/src/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_buf",
+    "source": "distcc/distcc_dist/src/compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpp_pid",
+    "source": "distcc/distcc_dist/src/cpp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "distcc/distcc_dist/src/daemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISTCC_VERBOSE",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nslots",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tweaked_path",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dcc_scan_includes",
+    "source": "distcc/distcc_dist/src/distcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x45",
+    "name": "DCC_COMPRESS_NONE",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "DCC_CPP_ON_CLIENT",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DCC_VER_1",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "DCC_VER_2",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "DCC_VER_3",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE30",
+    "name": "DISTCC_DEFAULT_PORT",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DISTCC_DEFAULT_STATS_ENABLED",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE31",
+    "name": "DISTCC_DEFAULT_STATS_PORT",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXPATHLEN",
+    "source": "distcc/distcc_dist/src/distcc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "opt_niceness",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg_max_jobs",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_no_fork",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_daemon_mode",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_inetd_mode",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_no_fifo",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_no_detach",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_log_stderr",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_lifetime",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_job_lifetime",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "opt_log_to_file",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_zeroconf",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "arg_priority",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitcode",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_job_lifetime",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_log_stderr",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_daemon_mode",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_no_detach",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_no_fork",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_no_fifo",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitcode",
+    "source": "distcc/distcc_dist/src/dopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needle_len",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_needle_len",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deps_output",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_dash_o",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "env_var",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needs_dotd",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sets_dotd_target",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_dotd",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sets_dotd_target",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sets_dotd_target",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_dotd",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_dash_o",
+    "source": "distcc/distcc_dist/src/dotd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcc_nkids",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcc_max_kids",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "id",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "id",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "dcc_max_kids",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "id",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "id",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "id",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "id",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/dparent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcc_master_pid",
+    "source": "distcc/distcc_dist/src/dsignal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "should_send_email",
+    "source": "distcc/distcc_dist/src/emaillog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "never_send_email",
+    "source": "distcc/distcc_dist/src/emaillog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "should_send_email",
+    "source": "distcc/distcc_dist/src/emaillog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_fd",
+    "source": "distcc/distcc_dist/src/emaillog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child_pid",
+    "source": "distcc/distcc_dist/src/emaillog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcc_job_lifetime",
+    "source": "distcc/distcc_dist/src/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bRet",
+    "source": "distcc/distcc_dist/src/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "distcc/distcc_dist/src/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "distcc/distcc_dist/src/exec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "EXIT_DISTCC_FAILED",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x65",
+    "name": "EXIT_BAD_ARGUMENTS",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x66",
+    "name": "EXIT_BIND_FAILED",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x67",
+    "name": "EXIT_CONNECT_FAILED",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x68",
+    "name": "EXIT_COMPILER_CRASHED",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x69",
+    "name": "EXIT_OUT_OF_MEMORY",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6A",
+    "name": "EXIT_BAD_HOSTSPEC",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6B",
+    "name": "EXIT_IO_ERROR",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6C",
+    "name": "EXIT_TRUNCATED",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6D",
+    "name": "EXIT_PROTOCOL_ERROR",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6E",
+    "name": "EXIT_COMPILER_MISSING",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6F",
+    "name": "EXIT_RECURSION",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x70",
+    "name": "EXIT_SETUID_FAILED",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x71",
+    "name": "EXIT_ACCESS_DENIED",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x72",
+    "name": "EXIT_BUSY",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x73",
+    "name": "EXIT_NO_SUCH_FILE",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x74",
+    "name": "EXIT_NO_HOSTS",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x75",
+    "name": "EXIT_GONE",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x76",
+    "name": "EXIT_TIMEOUT",
+    "source": "distcc/distcc_dist/src/exitcode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slash",
+    "source": "distcc/distcc_dist/src/filename.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SELFMAG",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "section_size",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "desired_section_size",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "section_size",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cumulative_cmdsizes",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command_index",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_sect",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sect_index",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_sect",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sect_index",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_sect",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_sect",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "section_size",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "swap",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "swap",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "macho_bits",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "macho_bits",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fat_index",
+    "source": "distcc/distcc_dist/src/fix_debug_info.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "distcc/distcc_dist/src/gcc-id.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "dcc_max_history_queue",
+    "source": "distcc/distcc_dist/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "now",
+    "source": "distcc/distcc_dist/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/history.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret_nhosts",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_up",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "n_slots",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag_randomize",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flag_randomize",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_up",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "n_slots",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DCC_MODE_TCP",
+    "source": "distcc/distcc_dist/src/hosts.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "distcc/distcc_dist/src/h_compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/h_hosts.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1068",
+    "name": "sin_port",
+    "source": "distcc/distcc_dist/src/h_sa2str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "INCLUDE_SERVER_DIR_DEPTH",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_symlink",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_forced_directory",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_system_include_directory",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_forced_directory",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "distcc/distcc_dist/src/include_server_if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "dcc_io_timeout",
+    "source": "distcc/distcc_dist/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "distcc/distcc_dist/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "distcc/distcc_dist/src/io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/loadfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_start",
+    "source": "distcc/distcc_dist/src/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_len",
+    "source": "distcc/distcc_dist/src/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_start",
+    "source": "distcc/distcc_dist/src/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_len",
+    "source": "distcc/distcc_dist/src/lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "STATE_LOOKUP",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE30",
+    "name": "DEFAULT_PORT",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEFAULT_PROTOCOL",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "DEFAULT_BIGTIMEOUT",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "DEFAULT_DNSTIMEOUT_MS",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x384",
+    "name": "DEFAULT_CONNTIMEOUT_MS",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5DC",
+    "name": "DEFAULT_COMPTIMEOUT_MS",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEFAULT_OVERLAP",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEFAULT_DNSGAP",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "canned_query_len",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_latency",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_numeric",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_verbose",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_domain",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_match",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opt_bang_down",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "MAXHOSTS",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAXTRIES",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curhdrlen",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curhdrlen",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "up",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "up",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curhdrlen",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "up",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nfds",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highest",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ngotaddr",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntries",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ndone",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nok",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbaddns",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "start_state",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opti",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_latency",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_numeric",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opt_bang_down",
+    "source": "distcc/distcc_dist/src/lsdistcc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FAT_MAGIC",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MH_MAGIC",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MH_CIGAM",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MH_MAGIC_64",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MH_CIGAM_64",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LC_SEGMENT",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LC_SYMTAB",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LC_SEGMENT_64",
+    "source": "distcc/distcc_dist/src/mach_o_stub.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i_state",
+    "source": "distcc/distcc_dist/src/mon-gnome.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delay",
+    "source": "distcc/distcc_dist/src/mon-text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "dcc_phase_max_age",
+    "source": "distcc/distcc_dist/src/mon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "distcc/distcc_dist/src/mon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/mon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ncpus",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ncpus",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "sektion",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "sektion",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ncpus",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28A",
+    "name": "coll",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ncpus",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ncpus",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "speed",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "speed",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "speed",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "speed",
+    "source": "distcc/distcc_dist/src/ncpus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "val",
+    "source": "distcc/distcc_dist/src/netutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "child_lifetime",
+    "source": "distcc/distcc_dist/src/prefork.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ireq",
+    "source": "distcc/distcc_dist/src/prefork.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssh_pid",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "using_clang",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "using_clang",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssh_pid",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ssh_pid",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_hosts",
+    "source": "distcc/distcc_dist/src/remote.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bar_width",
+    "source": "distcc/distcc_dist/src/renderer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/renderer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cell_chart_type",
+    "source": "distcc/distcc_dist/src/renderer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "shift",
+    "source": "distcc/distcc_dist/src/rpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/rpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/rpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "distcc/distcc_dist/src/rslave.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/rslave.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC8",
+    "name": "rslave_HOSTLEN",
+    "source": "distcc/distcc_dist/src/rslave.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "rslave_NSLAVES",
+    "source": "distcc/distcc_dist/src/rslave.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_DISTCC_SAFEGUARD",
+    "source": "distcc/distcc_dist/src/safeguard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dcc_safeguard_level",
+    "source": "distcc/distcc_dist/src/safeguard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcc_safeguard_level",
+    "source": "distcc/distcc_dist/src/safeguard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rev",
+    "source": "distcc/distcc_dist/src/sendfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "distcc/distcc_dist/src/sendfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "DISTCC_CMDLIST_NUMWORDS",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdlist_checked",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "map",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cmdlist_checked",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numFinalWordsToMatch",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_of_first_filename_char",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_of_first_filename_char",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parsed_needs_dotd",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dotd_target",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "send_back_dotd",
+    "source": "distcc/distcc_dist/src/serve.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFE",
+    "name": "pgid",
+    "source": "distcc/distcc_dist/src/setuid.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DP_S_DEFAULT",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DP_S_FLAGS",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DP_S_MIN",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DP_S_DOT",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DP_S_MAX",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DP_S_MOD",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "DP_S_CONV",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "DP_S_DONE",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DP_C_SHORT",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DP_C_LONG",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DP_C_LDOUBLE",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DP_C_LLONG",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "min",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "min",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "max",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "min",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strln",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signvalue",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "place",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spadlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "caps",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "caps",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spadlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spadlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signvalue",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iplace",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fplace",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "caps",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "max",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "caps",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "max",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zpadlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "padlen",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signvalue",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fail",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v0",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "distcc/distcc_dist/src/snprintf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "one",
+    "source": "distcc/distcc_dist/src/srvnet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/srvrpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/srvrpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/srvrpc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/ssh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DCC_STATE_MAGIC",
+    "source": "distcc/distcc_dist/src/state.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAX_FILENAME_LEN",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "tv_sec",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "distcc/distcc_dist/src/stats.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "distcc/distcc_dist/src/stringmap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "distcc/distcc_dist/src/stringmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "distcc/distcc_dist/src/stringmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w",
+    "source": "distcc/distcc_dist/src/stringmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w",
+    "source": "distcc/distcc_dist/src/stringmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/stringmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/stringmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num",
+    "source": "distcc/distcc_dist/src/stringmap.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "to_i",
+    "source": "distcc/distcc_dist/src/strip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "to_i",
+    "source": "distcc/distcc_dist/src/strip.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f",
+    "source": "distcc/distcc_dist/src/tempfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copy",
+    "source": "distcc/distcc_dist/src/tempfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "random_bits",
+    "source": "distcc/distcc_dist/src/tempfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/timefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "called",
+    "source": "distcc/distcc_dist/src/trace.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "distcc/distcc_dist/src/trace.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RS_LOG_EMERG",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RS_LOG_ALERT",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "RS_LOG_CRIT",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "RS_LOG_ERR",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "RS_LOG_WARNING",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "RS_LOG_NOTICE",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "RS_LOG_INFO",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "RS_LOG_DEBUG",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "RS_LOG_PRIMASK",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "RS_LOG_NONAME",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "RS_LOG_NO_PROGRAM",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "RS_LOG_NO_PID",
+    "source": "distcc/distcc_dist/src/trace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "failed_to_open_logfile",
+    "source": "distcc/distcc_dist/src/traceenv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "save_errno",
+    "source": "distcc/distcc_dist/src/traceenv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failed_to_open_logfile",
+    "source": "distcc/distcc_dist/src/traceenv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "apropos",
+    "source": "distcc/distcc_dist/src/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "MAXDOMAINLEN",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "pagesize",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_D",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_RSS",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kernel26",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_reads",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_writes",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernel26",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_reads",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_writes",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_spaces",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_pos",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len_change",
+    "source": "distcc/distcc_dist/src/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pause_time",
+    "source": "distcc/distcc_dist/src/where.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i_cpu",
+    "source": "distcc/distcc_dist/src/where.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HMAP_NOT_A_KEY",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "swap",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "swap",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bucket_index",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/xci_headermap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2800",
+    "name": "max_buffer_chunk",
+    "source": "distcc/distcc_dist/src/xci_utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "buffer_size",
+    "source": "distcc/distcc_dist/src/xci_utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "distcc/distcc_dist/src/xci_utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_xcodeselect_path",
+    "source": "distcc/distcc_dist/src/xci_utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_xcodeselect_path",
+    "source": "distcc/distcc_dist/src/xci_utils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_system_version",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_system_version",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parsed_compilers",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "parsed_compilers",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sdk_count",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_host_info",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_host_info",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "int_decimal_len",
+    "source": "distcc/distcc_dist/src/xci_versinfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ncpus",
+    "source": "distcc/distcc_dist/src/xci_zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thread_live",
+    "source": "distcc/distcc_dist/src/xci_zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thread_live",
+    "source": "distcc/distcc_dist/src/xci_zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "thread_live",
+    "source": "distcc/distcc_dist/src/xci_zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "txtvers",
+    "source": "distcc/distcc_dist/src/zeroconf-reg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAX_IDLE_TIME",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_start",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_len",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n_cpus",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n_cpus",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fork_daemon",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fork_daemon",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "distcc/distcc_dist/src/zeroconf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ALLOCA_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ARPA_NAMESER_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ASPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_C99_VSNPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_CTYPE_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_ASPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_SNPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_DECL_STRNDUP",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VASPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DECL_VSNPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DNSSD",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FLOAT_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FLOCK",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FNMATCH_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETADDRINFO",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETCWD",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETEUID",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETLOADAVG",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETNAMEINFO",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETPAGESIZE",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETRUSAGE",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETTIMEOFDAY",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETUID",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETWD",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_HSTRERROR",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INET_NTOA",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INET_NTOP",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_IN_ADDR_T",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_IN_PORT_T",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LOCKF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MKDTEMP",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MMAP",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_NETINET_IN_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_RESOLV_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SENDFILE",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETGROUPS",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETREUID",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETSID",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETUID",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SNPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SOCKADDR_STORAGE",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SOCKETPAIR",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRERROR",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCPY",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRSEP",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRSIGNAL",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_MMAN_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_RESOURCE_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_SELECT_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_SIGNAL_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_SOCKET_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNDERSCORE_UNDERSCORE_VA_COPY",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VASPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VA_COPY",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VSNPRINTF",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAIT3",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAIT4",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WAITPID",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "XCODE_INTEGRATION",
+    "source": "distcc/src/config.h",
+    "type": "PreprocessorConstant"
+  }
+]

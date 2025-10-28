@@ -1,0 +1,1460 @@
+[
+  {
+    "hex": "0x3E8",
+    "name": "weight",
+    "source": "libsecurity_codesigning/lib/bundlediskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x44C",
+    "name": "weight",
+    "source": "libsecurity_codesigning/lib/bundlediskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "libsecurity_codesigning/lib/bundlediskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pageSize",
+    "source": "libsecurity_codesigning/lib/cdbuilder.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slot",
+    "source": "libsecurity_codesigning/lib/cdbuilder.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "libsecurity_codesigning/lib/cdbuilder.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "magicLength",
+    "source": "libsecurity_codesigning/lib/cfmdiskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "scanLength",
+    "source": "libsecurity_codesigning/lib/cfmdiskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "scanAlignment",
+    "source": "libsecurity_codesigning/lib/cfmdiskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "libsecurity_codesigning/lib/cfmdiskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "libsecurity_codesigning/lib/Code.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pagesConsumed",
+    "source": "libsecurity_codesigning/lib/codedirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/codedirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cdInfoSlot",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "cdRequirementsSlot",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "cdResourceDirSlot",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "cdApplicationSlot",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "cdEntitlementSlot",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cdCodeDirectorySlot",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cdSignatureSlot",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cdComponentPerArchitecture",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "cdComponentIsBlob",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentVersion",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compatibilityLimit",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "earliestVersion",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "supportsScatter",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "limit",
+    "source": "libsecurity_codesigning/lib/codedirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "mCMSSize",
+    "source": "libsecurity_codesigning/lib/CodeSigner.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acceptable",
+    "source": "libsecurity_codesigning/lib/cs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CSMAGIC_REQUIREMENT",
+    "source": "libsecurity_codesigning/lib/cscdefs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CSMAGIC_REQUIREMENTS",
+    "source": "libsecurity_codesigning/lib/cscdefs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CSMAGIC_CODEDIRECTORY",
+    "source": "libsecurity_codesigning/lib/cscdefs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CSMAGIC_EMBEDDED_SIGNATURE",
+    "source": "libsecurity_codesigning/lib/cscdefs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CSMAGIC_DETACHED_SIGNATURE",
+    "source": "libsecurity_codesigning/lib/cscdefs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CSSLOT_CODEDIRECTORY",
+    "source": "libsecurity_codesigning/lib/cscdefs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecNoGuest",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCSDefaultFlags",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSConsiderExpiration",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSEnforceRevocationChecks",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeSignatureHost",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeSignatureAdhoc",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeSignatureForceHard",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeSignatureForceKill",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeSignatureForceExpiration",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeStatusValid",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeStatusHard",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeStatusKill",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecHostRequirementType",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSecGuestRequirementType",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSecDesignatedRequirementType",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSecLibraryRequirementType",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kSecPluginRequirementType",
+    "source": "libsecurity_codesigning/lib/CSCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicRequirement",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicRequirementSet",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicCodeDirectory",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicEmbeddedSignature",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicDetachedSignature",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicEntitlement",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicByte",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeSignatureNoHash",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCodeSignatureHashSHA1",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSecCodeSignatureHashSHA256",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kSecCodeSignatureHashPrestandardSkein160x256",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "kSecCodeSignatureHashPrestandardSkein256x512",
+    "source": "libsecurity_codesigning/lib/CSCommonPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/csdatabase.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrLength",
+    "source": "libsecurity_codesigning/lib/csgeneric.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/csgeneric.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurity_codesigning/lib/cskernel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/csutilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "limit",
+    "source": "libsecurity_codesigning/lib/csutilities.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "libsecurity_codesigning/lib/csutilities.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_codesigning/lib/diskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "libsecurity_codesigning/lib/diskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "segmentedPageSize",
+    "source": "libsecurity_codesigning/lib/diskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "monolithicPageSize",
+    "source": "libsecurity_codesigning/lib/diskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrs",
+    "source": "libsecurity_codesigning/lib/diskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "writerLastResort",
+    "source": "libsecurity_codesigning/lib/diskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "writerNoGlobal",
+    "source": "libsecurity_codesigning/lib/diskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "libsecurity_codesigning/lib/filediskrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libsecurity_codesigning/lib/policydb.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "disabled",
+    "source": "libsecurity_codesigning/lib/policydb.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C4B40",
+    "name": "never",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthorityInvalid",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAuthorityExecute",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kAuthorityInstall",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kAuthorityOpenDoc",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthorityFlagVirtual",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthorityFlagDefault",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthorityFlagInhibitCache",
+    "source": "libsecurity_codesigning/lib/policydb.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "NEGATIVE_HOLD",
+    "source": "libsecurity_codesigning/lib/policyengine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "latentID",
+    "source": "libsecurity_codesigning/lib/policyengine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "latentID",
+    "source": "libsecurity_codesigning/lib/policyengine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "priority",
+    "source": "libsecurity_codesigning/lib/policyengine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "disabled",
+    "source": "libsecurity_codesigning/lib/policyengine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "disabled",
+    "source": "libsecurity_codesigning/lib/policyengine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opInvalid",
+    "source": "libsecurity_codesigning/lib/policyengine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "row",
+    "source": "libsecurity_codesigning/lib/policyengine.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/reqdumper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/reqdumper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/reqdumper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xCEF913F5",
+    "name": "appleIntermediateCN",
+    "source": "libsecurity_codesigning/lib/reqinterp.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x567A2956",
+    "name": "appleIntermediateO",
+    "source": "libsecurity_codesigning/lib/reqinterp.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "libsecurity_codesigning/lib/reqinterp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errorCount",
+    "source": "libsecurity_codesigning/lib/reqinterp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/reqinterp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zero",
+    "source": "libsecurity_codesigning/lib/reqmaker.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exprForm",
+    "source": "libsecurity_codesigning/lib/requirement.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "leafCert",
+    "source": "libsecurity_codesigning/lib/requirement.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opFlagMask",
+    "source": "libsecurity_codesigning/lib/requirement.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opGenericFalse",
+    "source": "libsecurity_codesigning/lib/requirement.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opGenericSkip",
+    "source": "libsecurity_codesigning/lib/requirement.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "weight",
+    "source": "libsecurity_codesigning/lib/resources.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libsecurity_codesigning/lib/resources.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optional",
+    "source": "libsecurity_codesigning/lib/resources.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "omitted",
+    "source": "libsecurity_codesigning/lib/resources.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exclusion",
+    "source": "libsecurity_codesigning/lib/resources.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x631AD567",
+    "name": "kSecAssessmentContextKeyOperation",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x7B5BA062",
+    "name": "kSecAssessmentOperationTypeExecute",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x3EB0CE88",
+    "name": "kSecAssessmentOperationTypeInstall",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xAC921DC4",
+    "name": "kSecAssessmentOperationTypeOpenDocument",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xE48BC921",
+    "name": "kSecAssessmentAssessmentVerdict",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xF8D66134",
+    "name": "kSecAssessmentAssessmentOriginator",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xB62ED48B",
+    "name": "kSecAssessmentAssessmentAuthority",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x4137DDEA",
+    "name": "kSecAssessmentAssessmentSource",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xA267AE6B",
+    "name": "kSecAssessmentAssessmentAuthorityRow",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8A3859DB",
+    "name": "kSecAssessmentAssessmentAuthorityOverride",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x251CB6F1",
+    "name": "kSecAssessmentAssessmentFromCache",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x5B3C29A7",
+    "name": "kSecAssessmentContextKeyCertificates",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xCE0038C9",
+    "name": "kSecAssessmentContextKeyUpdate",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xEE508270",
+    "name": "kSecAssessmentUpdateOperationAdd",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8116855",
+    "name": "kSecAssessmentUpdateOperationRemove",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xF25B9554",
+    "name": "kSecAssessmentUpdateOperationEnable",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1CA5AD37",
+    "name": "kSecAssessmentUpdateOperationDisable",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xB42E3388",
+    "name": "kSecAssessmentUpdateKeyAuthorization",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x22723935",
+    "name": "kSecAssessmentUpdateKeyPriority",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9CD35103",
+    "name": "kSecAssessmentUpdateKeyLabel",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x6AFE3183",
+    "name": "kSecAssessmentUpdateKeyExpires",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9C3D7558",
+    "name": "kSecAssessmentUpdateKeyAllow",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xFA153742",
+    "name": "kSecAssessmentUpdateKeyRemarks",
+    "source": "libsecurity_codesigning/lib/SecAssessment.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecAssessmentDefaultFlags",
+    "source": "libsecurity_codesigning/lib/SecAssessment.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecAssessmentFlagDirect",
+    "source": "libsecurity_codesigning/lib/SecAssessment.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecAssessmentFlagAsynchronous",
+    "source": "libsecurity_codesigning/lib/SecAssessment.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecAssessmentFlagIgnoreCache",
+    "source": "libsecurity_codesigning/lib/SecAssessment.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecAssessmentFlagNoCache",
+    "source": "libsecurity_codesigning/lib/SecAssessment.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecAssessmentFlagEnforce",
+    "source": "libsecurity_codesigning/lib/SecAssessment.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecAssessmentFlagRequestOrigin",
+    "source": "libsecurity_codesigning/lib/SecAssessment.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x92D83854",
+    "name": "kSecCFErrorArchitecture",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x6535FFEF",
+    "name": "kSecCFErrorPattern",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x49E21E2C",
+    "name": "kSecCFErrorResourceSeal",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xF16396B1",
+    "name": "kSecCFErrorResourceAdded",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x35612CA6",
+    "name": "kSecCFErrorResourceAltered",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xAB058ED7",
+    "name": "kSecCFErrorResourceMissing",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x39FBD99F",
+    "name": "kSecCFErrorInfoPlist",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x3C328AAE",
+    "name": "kSecCFErrorGuestAttributes",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xAC3439D5",
+    "name": "kSecCFErrorRequirementSyntax",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x83F43211",
+    "name": "kSecCFErrorPath",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x315FA4F4",
+    "name": "kSecGuestAttributeCanonical",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xDA0B0B9B",
+    "name": "kSecGuestAttributeHash",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xA6A4E8D5",
+    "name": "kSecGuestAttributeMachPort",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1B18B",
+    "name": "kSecGuestAttributePid",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x320C6953",
+    "name": "kSecGuestAttributeArchitecture",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1822C793",
+    "name": "kSecGuestAttributeSubarchitecture",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1788F1BC",
+    "name": "kSecCodeInfoCertificates",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x5EF45A1E",
+    "name": "kSecCodeInfoChangedFiles",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x18149",
+    "name": "kSecCodeInfoCMS",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x941DC0C6",
+    "name": "kSecCodeInfoDesignatedRequirement",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9A6638E6",
+    "name": "kSecCodeInfoEntitlements",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xB45FF7F7",
+    "name": "kSecCodeInfoFormat",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xDCAECFA6",
+    "name": "kSecCodeInfoDigestAlgorithm",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9F88ACA9",
+    "name": "kSecCodeInfoIdentifier",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x650CC5B",
+    "name": "kSecCodeInfoImplicitDesignatedRequirement",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x45E04CDE",
+    "name": "kSecCodeInfoMainExecutable",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8E39B72F",
+    "name": "kSecCodeInfoPList",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9F72AC90",
+    "name": "kSecCodeInfoRequirements",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x127E66F4",
+    "name": "kSecCodeInfoRequirementData",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xCA90681B",
+    "name": "kSecCodeInfoSource",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xCACDCFF2",
+    "name": "kSecCodeInfoStatus",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8E4B4A95",
+    "name": "kSecCodeInfoTime",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x6983E58",
+    "name": "kSecCodeInfoTrust",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xCDE68BD1",
+    "name": "kSecCodeInfoUnique",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8AB31AE0",
+    "name": "kSecCodeInfoCodeDirectory",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x384BF500",
+    "name": "kSecCodeInfoCodeOffset",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xC42B69DF",
+    "name": "kSecCodeInfoResourceDirectory",
+    "source": "libsecurity_codesigning/lib/SecCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSInternalInformation",
+    "source": "libsecurity_codesigning/lib/SecCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSSigningInformation",
+    "source": "libsecurity_codesigning/lib/SecCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSRequirementInformation",
+    "source": "libsecurity_codesigning/lib/SecCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSDynamicInformation",
+    "source": "libsecurity_codesigning/lib/SecCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSContentInformation",
+    "source": "libsecurity_codesigning/lib/SecCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSDedicatedHost",
+    "source": "libsecurity_codesigning/lib/SecCodeHost.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSGenerateGuestHash",
+    "source": "libsecurity_codesigning/lib/SecCodeHost.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeOperationNull",
+    "source": "libsecurity_codesigning/lib/SecCodePriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCodeOperationInvalidate",
+    "source": "libsecurity_codesigning/lib/SecCodePriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSecCodeOperationSetHard",
+    "source": "libsecurity_codesigning/lib/SecCodePriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSecCodeOperationSetKill",
+    "source": "libsecurity_codesigning/lib/SecCodePriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF2EB610F",
+    "name": "kSecCodeSignerApplicationData",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x3E428B72",
+    "name": "kSecCodeSignerDetached",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xDCAECFA6",
+    "name": "kSecCodeSignerDigestAlgorithm",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xB123D100",
+    "name": "kSecCodeSignerDryRun",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9A6638E6",
+    "name": "kSecCodeSignerEntitlements",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x5CFEE87",
+    "name": "kSecCodeSignerFlags",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9F88ACA9",
+    "name": "kSecCodeSignerIdentifier",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x47519036",
+    "name": "kSecCodeSignerIdentifierPrefix",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xCA356F2A",
+    "name": "kSecCodeSignerIdentity",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x33486310",
+    "name": "kSecCodeSignerPageSize",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x9F72AC90",
+    "name": "kSecCodeSignerRequirements",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xBCA75E78",
+    "name": "kSecCodeSignerResourceRules",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x742A901C",
+    "name": "kSecCodeSignerSDKRoot",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8E4B4A95",
+    "name": "kSecCodeSignerSigningTime",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSRemoveSignature",
+    "source": "libsecurity_codesigning/lib/SecCodeSigner.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x25794E55",
+    "name": "kSecRequirementKeyInfoPlist",
+    "source": "libsecurity_codesigning/lib/SecRequirement.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8A598B8D",
+    "name": "kSecRequirementKeyEntitlements",
+    "source": "libsecurity_codesigning/lib/SecRequirement.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/SecRequirement.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/SecRequirement.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCSParseRequirement",
+    "source": "libsecurity_codesigning/lib/SecRequirementPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCSParseRequirementSet",
+    "source": "libsecurity_codesigning/lib/SecRequirementPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x320C6953",
+    "name": "kSecCodeAttributeArchitecture",
+    "source": "libsecurity_codesigning/lib/SecStaticCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1822C793",
+    "name": "kSecCodeAttributeSubarchitecture",
+    "source": "libsecurity_codesigning/lib/SecStaticCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xD6F8B616",
+    "name": "kSecCodeAttributeBundleVersion",
+    "source": "libsecurity_codesigning/lib/SecStaticCode.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSCheckAllArchitectures",
+    "source": "libsecurity_codesigning/lib/SecStaticCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSDoNotValidateExecutable",
+    "source": "libsecurity_codesigning/lib/SecStaticCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSDoNotValidateResources",
+    "source": "libsecurity_codesigning/lib/SecStaticCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecCSCheckNestedCode",
+    "source": "libsecurity_codesigning/lib/SecStaticCode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSecCodeMagicEntitlement",
+    "source": "libsecurity_codesigning/lib/SecTask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "libsecurity_codesigning/lib/SecTask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_codesigning/lib/SecTask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cdFlags",
+    "source": "libsecurity_codesigning/lib/signer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cdFlags",
+    "source": "libsecurity_codesigning/lib/signer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cdFlags",
+    "source": "libsecurity_codesigning/lib/signer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cdFlags",
+    "source": "libsecurity_codesigning/lib/signer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "signingTime",
+    "source": "libsecurity_codesigning/lib/signer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libsecurity_codesigning/lib/signer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/signer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libsecurity_codesigning/lib/signer.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "csAlign",
+    "source": "libsecurity_codesigning/lib/signerutils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrs",
+    "source": "libsecurity_codesigning/lib/singlediskrep.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/slcrep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurity_codesigning/lib/StaticCode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSigningTime",
+    "source": "libsecurity_codesigning/lib/StaticCode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "libsecurity_codesigning/lib/StaticCode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "libsecurity_codesigning/lib/StaticCode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mXar",
+    "source": "libsecurity_codesigning/lib/xar++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSig",
+    "source": "libsecurity_codesigning/lib/xar++.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "libsecurity_codesigning/lib/xar++.cpp",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,2756 @@
+[
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetLog",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRegs",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetTxRing",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRxRing",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadAllMII",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadMII",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteMII",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "i",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pLogBuffer",
+    "source": "AppleGMACEthernet/Tools/gmacLog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetLog",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRegs",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetTxRing",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRxRing",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadAllMII",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadMII",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteMII",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phyAddr",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "netif",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logBufferSz",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "netif",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logBufferSz",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "netif",
+    "source": "AppleGMACEthernet/Tools/gmacPHYregs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetLog",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRegs",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetTxRing",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRxRing",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadAllMII",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadMII",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteMII",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reqID",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pBuffer",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSz",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/Tools/gmacRegs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetLog",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRegs",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetTxRing",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRxRing",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteOneReg",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadAllMII",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadMII",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteMII",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pBuffer",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSz",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pBuffer",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSz",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleGMACEthernet/Tools/gmacRings.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "USE_ELG",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "pages",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "page",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNumOfPowerStates",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "kUniNsettle_time",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBG_UniN_ENET",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetLog",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRegs",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetOneReg",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetTxRing",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_GetRxRing",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteOneReg",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadAllMII",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_ReadMII",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGMACUserCmd_WriteMII",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "builtin",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "AppleGMACEthernet/UniNEnet.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetMII.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetMII.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_OP_READ",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_OP_WRITE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "MII_MAX_PHY",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MII_STATUS",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MII_ID0",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MII_ID1",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MII_ADVERTISEMENT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MII_LINKPARTNER",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "MII_EXPANSION",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "MII_NEXTPAGE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_1000BASETCONTROL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_RESET",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_LOOPBACK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_SPEED_SELECTION",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_AUTONEGOTIATION",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_POWERDOWN",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_ISOLATE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_RESTART_NEGOTIATION",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_FULLDUPLEX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_COLLISION_TEST",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_CONTROL_SPEED_SELECTION_2",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_100BASET4",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_100BASETX_FD",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_100BASETX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_10BASET_FD",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_10BASET",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_NEGOTIATION_COMPLETE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_REMOTE_FAULT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_NEGOTIATION_ABILITY",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_LINK_STATUS",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_JABBER_DETECT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_STATUS_EXTENDED_CAPABILITY",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_ASYM_PAUSE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_PAUSE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_100BASET4",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_100BASETX_FD",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_100BASETX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_10BASET_FD",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_ANAR_10BASET",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_NEXT_PAGE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_ACKNOWLEDGE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_REMOTE_FAULT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_ASYM_PAUSE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_PAUSE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_100BASET4",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_100BASETX_FD",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_100BASETX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_10BASET_FD",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LPAR_10BASET",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_1000BASETCONTROL_FULLDUPLEXCAP",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_1000BASETCONTROL_HALFDUPLEXCAP",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_OUI",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_REV",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_MASK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_AUXSTATUS",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_AUXSTATUS_DUPLEX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_AUXSTATUS_SPEED",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_INTERRUPT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_INTERRUPT_INTREnable",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_INTERRUPT_FDXChange",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_INTERRUPT_SPDChange",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_INTERRUPT_LINKChange",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_AUXMODE2",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_AUXMODE2_LOWPOWER",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_MULTIPHY",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_MULTIPHY_SERIALMODE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5201_MULTIPHY_SUPERISOLATE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_OUI",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_REV",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_MASK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_AuxiliaryMode4",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_SetIDDQMode",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_EnableClkDuringLowPwr",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_AuxiliaryStatus2",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_APD_EnableBit",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_5SecSleepTimer",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_APDWakeUPTimer",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_AuxiliaryStatus3",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BC_5221EnableAutoMDIX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_TestRegister",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5221_ShadowRegEnableBit",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5241_ID",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5241_MASK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5241_StandbyPowerMode",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LXT971_OUI",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LXT971_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LXT971_REV",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LXT971_MASK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LXT971_STATUS_2",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LXT971_STATUS_2_DUPLEX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_LXT971_STATUS_2_SPEED",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_OUI",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5401_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5411_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5421_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM54K2_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5462_MODEL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_REV",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_MASK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_AUXCONTROL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_AUXCONTROL_PWR10BASET",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_AUXSTATUS",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_AUXSTATUS_LINKMODE_MASK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_BCM5400_AUXSTATUS_LINKMODE_BIT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_ID",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_ID_1",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_ID_2",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_ID_2_1",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_MASK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_CONTROL",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_CONTROL_AUTOL_MDIX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_CONTROL_MANUAL_MDIX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_STATUS",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_STATUS_1000",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_STATUS_100",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_STATUS_10",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_STATUS_RESOLVED",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_PHY_SPECIFIC_STATUS_FULL_DUPLEX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_ENABLE",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_ENABLE_SPEED",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_ENABLE_DUPLEX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_ENABLE_LINK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_STATUS",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_STATUS_SPEED",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_STATUS_DUPLEX",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MII_MARVELL_INT_STATUS_LINK",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "MII_DEFAULT_DELAY",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MII_RESET_TIMEOUT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MII_RESET_DELAY",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C4",
+    "name": "MII_LINK_TIMEOUT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1388",
+    "name": "MII_LINK_TIMEOUT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B58",
+    "name": "MII_LINK_TIMEOUT",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "MII_LINK_DELAY",
+    "source": "AppleGMACEthernet/UniNEnetMII.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "txCommandHead",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txCommandTail",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxIntCnt",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "txWDCount",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rxCommandHead",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phyId",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYType",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rxCommandHead",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "segCount",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags1",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxIntCnt",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pkt_len",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debuggerPktSize",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "evLogFlag",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rxPktStatus",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packet",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetsQueued",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxIntCnt",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPHYStatus",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "linkSpeed",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMACControlConfiguration",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTxIntCnt",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENET_CRCPOLY",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highCRCBitSet",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "highCRCBitSet",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowDataBitSet",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lowDataBitSet",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNEnetPrivate.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RX_RING_LENGTH_FACTOR",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TX_RING_LENGTH_FACTOR",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "TX_DESC_PER_INT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "MAX_SEGS_PER_TX_MBUF",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "TRANSMIT_QUEUE_SIZE",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "WATCHDOG_TIMER_MS",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "TX_KDB_TIMEOUT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "kRxHwCksumStartOffset",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfiguration_Infinite_Burst",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfiguration_RonPaulBit",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kConfiguration_EnableBug2Fix",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_TX_INT_ME",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_TX_ALL",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_TX_DONE",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_RX_DONE",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_Rx_Buffer_Not_Available",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_RX_TAG_ERROR",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_PCS_INT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_TX_MAC_INT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_RX_MAC_INT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_MAC_CTRL_INT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_MIF_Interrupt",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStatus_PCI_ERROR_INT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "kStatus_TxCompletion_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInterruptMask_None",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBIFConfiguration_SLOWCLK",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBIFConfiguration_B64D_DIS",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBIFConfiguration_M66EN",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSoftwareReset_TX",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSoftwareReset_RX",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSoftwareReset_RSTOUT",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxConfiguration_Tx_DMA_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTxConfiguration_Tx_Desc_Ring_Size_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxConfiguration_TxFIFO_Threshold",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxConfiguration_Paced_Mode",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLPatternMatchCount_N",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLWakeupCSR_Magic_Wakeup_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLWakeupCSR_Mode_MII",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLWakeupCSR_Magic_Event_Seen",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLWakeupCSR_Rx_Filter_Unicast_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLWakeupCSR_Rx_Filter_Multicast_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLWakeupCSR_Rx_Filter_Broadcast_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWOLWakeupCSR_Rx_Filter_Event_Seen",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxConfiguration_Rx_DMA_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kRxConfiguration_Rx_Desc_Ring_Size_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxConfiguration_Batch_Disable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxConfiguration_RX_DMA_Threshold",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kPauseThresholds_Factor",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPauseThresholds_OFF_Threshold_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "kPauseThresholds_ON_Threshold_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FACTOR33",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FACTOR66",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTxMACSoftwareResetCommand_Reset",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kRxMACSoftwareResetCommand_Reset",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSendPauseCommand_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Frame_Transmitted",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Tx_Underrun",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Max_Pkt_Err",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Normal_Coll_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Excess_Coll_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Late_Coll_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_First_Coll_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Defer_Timer_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTX_MAC_Status_Peak_Attempts_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRX_MAC_Status_Frame_Received",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRX_MAC_Status_Rx_Overflow",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRX_MAC_Status_Frame_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRX_MAC_Status_Align_Err_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "OSStatus"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRX_MAC_Status_CRC_Err_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "OSStatus"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRX_MAC_Status_Length_Err_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "OSStatus"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRX_MAC_Status_Viol_Err_Cnt_Exp",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "OSStatus"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACMask_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACMask_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "kMACControlMask_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_TxMac_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_Ignore_Carrier_Sense",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_Ignore_Collisions",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_Enable_IPG0",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_Never_Give_Up",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_Never_Give_Up_Limit",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_No_Backoff",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_Slow_Down",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_No_FCS",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxMACConfiguration_TX_Carrier_Extension",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Rx_Mac_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Strip_Pad",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Strip_FCS",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Promiscuous",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Promiscuous_Group",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Hash_Filter_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Address_Filter_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Disable_Discard_On_Err",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRxMACConfiguration_Rx_Carrier_Extension",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMACControlConfiguration_Send_Pause_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMACControlConfiguration_Receive_Pause_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMACControlConfiguration_Pass_MAC_Control",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXIFConfiguration_Tx_MII_OE",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXIFConfiguration_MII_Int_Loopback",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXIFConfiguration_Disable_Echo",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXIFConfiguration_GMIIMODE",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXIFConfiguration_MII_Buffer_OE",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXIFConfiguration_LINKLED",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kXIFConfiguration_FDPLXLED",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInterPacketGap0_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kInterPacketGap1_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kInterPacketGap2_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSlotTime_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMinFrameSize_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5F2",
+    "name": "kMaxFrameSize_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPASize_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kJamSize_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAttemptLimit_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMACControlType_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMACAddress_default_6",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMACAddress_default_7",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMACAddress_default_8",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFBitBangFrame_Output_ST_default",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFBitBangFrame_Output_OP_read",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFBitBangFrame_Output_OP_write",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "kMIFBitBangFrame_Output_PHYAD_shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "kMIFBitBangFrame_Output_REGAD_shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFBitBangFrame_Output_TA_MSB",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFBitBangFrame_Output_TA_LSB",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFConfiguration_PHY_Select",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFConfiguration_Poll_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFConfiguration_BB_Mode",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFConfiguration_MDI_0",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIFConfiguration_MDI_1",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kMIFConfiguration_Poll_Reg_Adr_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kMIFConfiguration_Poll_Phy_Adr_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_1000_Mbs_Speed_Select",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Collision_Test",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Duplex_Mode",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Restart_Auto_Negotiation",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Isolate",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Power_Down",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Auto_Negotiation_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Wrapback",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSMIIControl_Reset",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAdvertisement_Full_Duplex",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAdvertisement_Half_Duplex",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAdvertisement_PAUSE",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAdvertisement_ASM_DIR",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAdvertisement_Ack",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSConfiguration_Enable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSConfiguration_Signal_Detect_Override",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSConfiguration_Signal_Detect_Active_Low",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSConfiguration_10ms_Timer_Override",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDatapathMode_XMode",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDatapathMode_ExtSERDESMode",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDatapathMode_GMIIMode",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDatapathMode_GMIIOutputEnable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSerialinkControl_DisableLoopback",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSerialinkControl_EnableSyncDet",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSerialinkControl_LockRefClk",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMRxDescFrameSize_Mask",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMRxDescFrameSize_Own",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMRxDescFlags_HashValueBit",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMRxDescFlags_HashValueMask",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMRxDescFlags_HashPass",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMRxDescFlags_AlternateAddr",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMRxDescFlags_BadCRC",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "kGEMTxDescFlags0_ChecksumStart_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "kGEMTxDescFlags0_ChecksumStuff_Shift",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMTxDescFlags0_ChecksumEnable",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMTxDescFlags0_EndOfFrame",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMTxDescFlags0_StartOfFrame",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMTxDescFlags1_Int",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGEMTxDescFlags1_NoCRC",
+    "source": "AppleGMACEthernet/UniNEnetRegisters.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleGMACEthernet/UniNPowerSaver.cpp",
+    "type": "EnumCase"
+  }
+]

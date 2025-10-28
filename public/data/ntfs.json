@@ -1,0 +1,8432 @@
+[
+  {
+    "hex": "0x200",
+    "name": "NTFS_BLOCK_SIZE",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "NTFS_BLOCK_SIZE_SHIFT",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NTFS_MAX_NAME_LEN",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NTFS_MAX_ATTR_NAME_LEN",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "NTFS_MAX_SECTOR_SIZE",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "NTFS_MAX_CLUSTER_SIZE",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "NTFS_ALLOC_BLOCK",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "NTFS_MAX_HARD_LINKS",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "NTFS_MAX_ATTR_LIST_SIZE",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "NTFS_COMPRESSION_UNIT",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_MAX_ATTRIBUTE_SIZE",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_MAX_NR_MFT_RECORDS",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFS_SUB_SECTOR_MFT_RECORD_SIZE_RW",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ON_ERRORS_PANIC",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ON_ERRORS_REMOUNT_RO",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ON_ERRORS_CONTINUE",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ON_ERRORS_RECOVER",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ON_ERRORS_FAIL_DIRTY",
+    "source": "ntfs/kext/ntfs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_error",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_error",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_first",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_mft_locked",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_first",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_first",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_first",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "al_ofs",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "al_ofs",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_clusters",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size_shift",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_clusters",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_first",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size_shift",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_clusters",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compressed_size",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size_shift",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_allocated",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_allocated",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_allocated",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_is_locked",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "max_size",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_len",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size_change",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size_change",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "alloc_change",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc_change",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_is_locked",
+    "source": "ntfs/kext/ntfs_attr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_first",
+    "source": "ntfs/kext/ntfs_attr.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc_count",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_list_size",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_list_alloc",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mp_size",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc_count",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_error",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc_count",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val_len",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "al_ofs",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_error",
+    "source": "ntfs/kext/ntfs_attr_list.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err2",
+    "source": "ntfs/kext/ntfs_bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/kext/ntfs_collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/kext/ntfs_collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/kext/ntfs_collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "ntfs/kext/ntfs_collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_SB_SIZE_MASK",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_SB_SIZE",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_SB_IS_COMPRESSED",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_SYMBOL_TOKEN",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFS_PHRASE_TOKEN",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFS_TOKEN_MASK",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "4",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_mask",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip_sbs",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "token",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lg",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_pg",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pages_per_cb",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_pg",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_pg_ofs",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_pg_ofs",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_ofs_in_cb",
+    "source": "ntfs/kext/ntfs_compress.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flen",
+    "source": "ntfs/kext/ntfs_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flen",
+    "source": "ntfs/kext/ntfs_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "index",
+    "source": "ntfs/kext/ntfs_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fn_size",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tag",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ofs",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_name",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d_ino",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d_namlen",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d_ino",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d_ino",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d_ino",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d_namlen",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tag",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eof",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirhint_tag",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fn_size",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tag",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirhint_tag",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_ofs",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_ofs",
+    "source": "ntfs/kext/ntfs_dir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "NTFS_MAX_DIRHINTS",
+    "source": "ntfs/kext/ntfs_dir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2D",
+    "name": "NTFS_DIRHINT_TTL",
+    "source": "ntfs/kext/ntfs_dir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_DIR_POS_MASK",
+    "source": "ntfs/kext/ntfs_dir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_DIR_TAG_MASK",
+    "source": "ntfs/kext/ntfs_dir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "NTFS_DIR_TAG_SHIFT",
+    "source": "ntfs/kext/ntfs_dir.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "vn_id",
+    "source": "ntfs/kext/ntfs_hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vn_id",
+    "source": "ntfs/kext/ntfs_hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_dirty",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_entries",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "max_entries",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "max_root_entries",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_root",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_dirty",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_dirty",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_dirty",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_dirty",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_entry",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "min_left",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry_nr",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_pos",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry_nr",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry_nr",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_dirty",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lock",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bmp_is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_pos",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_pos",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usn",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clusters",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clusters",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_large_index",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_root",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "upl_ofs",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_iteration",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_root",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nr_entries",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_set_bit",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_root",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_ofs",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "promote_inserted",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "insert_to_add",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "split_node",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "promote_inserted",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "right_is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_locked",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_match",
+    "source": "ntfs/kext/ntfs_index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_refs",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_opens",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialized_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seq_no",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file_attributes",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_list_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_list_alloc",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "collation_rule",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_size_shift",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_dirhints",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirhint_tag",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_extents",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extent_alloc",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_attr_nis",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_nis_alloc",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_list_alloc",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "name_len",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "collation_rule",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_size_shift",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name_len",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialized_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_clusters",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_clusters",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size_shift",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_clusters",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_clusters",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size_shift",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialized_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_extents",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E9",
+    "name": "count",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file_attributes",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_access_time",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res_size",
+    "source": "ntfs/kext/ntfs_inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name_len",
+    "source": "ntfs/kext/ntfs_inode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "name_len",
+    "source": "ntfs/kext/ntfs_inode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILE_MFT",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FILE_MFTMirr",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "FILE_LogFile",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "FILE_Volume",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "FILE_AttrDef",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "FILE_root",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "FILE_Bitmap",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "FILE_Boot",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "FILE_BadClus",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "FILE_Secure",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "FILE_UpCase",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "FILE_Extend",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "FILE_reserved12",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "FILE_reserved13",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "FILE_reserved14",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "FILE_reserved15",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "FILE_first_user",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MFT_REF_MASK_CPU",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "X",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "compression_unit",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESIDENT_ATTR_IS_INDEXED",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAME_POSIX",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAME_WIN32",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAME_DOS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAME_WIN32_AND_DOS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_NULL_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_WORLD_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_LOCAL_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_CREATOR_OWNER_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_CREATOR_GROUP_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SECURITY_CREATOR_OWNER_SERVER_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECURITY_CREATOR_GROUP_SERVER_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_DIALUP_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SECURITY_NETWORK_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECURITY_BATCH_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SECURITY_INTERACTIVE_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "SECURITY_SERVICE_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "SECURITY_ANONYMOUS_LOGON_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SECURITY_PROXY_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "SECURITY_ENTERPRISE_CONTROLLERS_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "SECURITY_SERVER_LOGON_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_PRINCIPAL_SELF_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_AUTHENTICATED_USER_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_RESTRICTED_CODE_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_TERMINAL_SERVER_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SECURITY_LOGON_IDS_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECURITY_LOGON_IDS_RID_COUNT",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_LOCAL_SYSTEM_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_NT_NON_UNIQUE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_BUILTIN_DOMAIN_RID",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_USER_RID_ADMIN",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_USER_RID_GUEST",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_USER_RID_KRBTGT",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_ADMINS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_USERS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_GUESTS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_COMPUTERS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_CONTROLLERS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_CERT_ADMINS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_SCHEMA_ADMINS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_ENTERPRISE_ADMINS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_POLICY_ADMINS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_ADMINS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_USERS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_GUESTS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_POWER_USERS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_ACCOUNT_OPS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_SYSTEM_OPS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_PRINT_OPS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_BACKUP_OPS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_REPLICATOR",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_RAS_SERVERS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_PREW2KCOMPACCESS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sub_authority_count",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SID_REVISION",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "SID_MAX_SUB_AUTHORITIES",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SID_RECOMMENDED_SUB_AUTHORITIES",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACCESS_MIN_MS_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACCESS_ALLOWED_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ACCESS_DENIED_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SYSTEM_AUDIT_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SYSTEM_ALARM_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ACCESS_MAX_MS_V2_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACCESS_ALLOWED_COMPOUND_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACCESS_MAX_MS_V3_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ACCESS_MIN_MS_OBJECT_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ACCESS_ALLOWED_OBJECT_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ACCESS_DENIED_OBJECT_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "SYSTEM_AUDIT_OBJECT_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SYSTEM_ALARM_OBJECT_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ACCESS_MAX_MS_OBJECT_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ACCESS_MAX_MS_V4_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ACCESS_MAX_MS_ACE_TYPE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OBJECT_INHERIT_ACE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CONTAINER_INHERIT_ACE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_PROPAGATE_INHERIT_ACE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INHERIT_ONLY_ACE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INHERITED_ACE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALID_INHERIT_FLAGS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUCCESSFUL_ACCESS_ACE_FLAG",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FAILED_ACCESS_ACE_FLAG",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ACL_REVISION",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACL_REVISION_DS",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ACL_REVISION1",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "MIN_ACL_REVISION",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ACL_REVISION2",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ACL_REVISION3",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACL_REVISION4",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "MAX_ACL_REVISION",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_DESCRIPTOR_REVISION",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_DESCRIPTOR_REVISION1",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SMALL_INDEX",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LARGE_INDEX",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEAF_NODE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INDEX_NODE",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NODE_MASK",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "QUOTA_VERSION",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NEED_EA",
+    "source": "ntfs/kext/ntfs_layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_lcn",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alloc_count",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done_zones",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zone_start",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "search_zone",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "search_zone",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "search_zone",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlcount",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bit",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free_clusters",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "prev_run_len",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_pos",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data2_zone_pos",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zone_start",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_pos",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "search_zone",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "search_zone",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bmp_initial_pos",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data2_zone_pos",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_end",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_pos",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "search_zone",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_vcn",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "real_freed",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_freed",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_vcn",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_vcn",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "real_freed",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_freed",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free_clusters",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free_clusters",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_vcn",
+    "source": "ntfs/kext/ntfs_lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIRST_ZONE",
+    "source": "ntfs/kext/ntfs_lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MFT_ZONE",
+    "source": "ntfs/kext/ntfs_lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DATA_ZONE",
+    "source": "ntfs/kext/ntfs_lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LAST_ZONE",
+    "source": "ntfs/kext/ntfs_lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usa_end",
+    "source": "ntfs/kext/ntfs_logfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usa_count",
+    "source": "ntfs/kext/ntfs_logfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fs_bits",
+    "source": "ntfs/kext/ntfs_logfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_logfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ppos",
+    "source": "ntfs/kext/ntfs_logfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NtfsMaxLogFileSize",
+    "source": "ntfs/kext/ntfs_logfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "NtfsDefaultLogPageSize",
+    "source": "ntfs/kext/ntfs_logfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "NtfsMinLogRecordPages",
+    "source": "ntfs/kext/ntfs_logfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOGFILE_NO_CLIENT_CPU",
+    "source": "ntfs/kext/ntfs_logfile.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_mft_record",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_mft_record",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_mft_record",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "data_pos",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "data_pos",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "pass_start",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_len",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tb",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free_clusters",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_len",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "min_nr",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_mft_locked",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lsn",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base_mft_record",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_attr_instance",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_mft_record",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "bit",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_mft_records_added",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_mft_locked",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free_mft_records",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_mft_record",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usn",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "security_id",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "data_len",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_len",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "name_len",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_size",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "collation_rule",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_size_shift",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name_len",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va_flags",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free_mft_records",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extent_alloc",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seq_no",
+    "source": "ntfs/kext/ntfs_mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usn",
+    "source": "ntfs/kext/ntfs_mst.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ioflags",
+    "source": "ntfs/kext/ntfs_page.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/kext/ntfs_quota.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "disc",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "disc",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "disc",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "si",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_ins",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "marker",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "marker_vcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "marker",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slots",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slots",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "slots",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slots",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlpos",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_cluster",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_cluster",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clusters",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mp_size",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mp_size",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_lcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rls",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stop_vcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_lcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn_len",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn_len",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "element",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hole_size",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_ofs",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_real_clusters",
+    "source": "ntfs/kext/ntfs_runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_runlist.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sub_authority_count",
+    "source": "ntfs/kext/ntfs_secure.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "ntfs/kext/ntfs_secure.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "ntfs/kext/ntfs_sfm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "ntfs/kext/ntfs_sfm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFSCHAR_SIZE_SHIFT",
+    "source": "ntfs/kext/ntfs_types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "bytes",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "ntfs/kext/ntfs_unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "UsnJrnlMajorVer",
+    "source": "ntfs/kext/ntfs_usnjrnl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UsnJrnlMinorVer",
+    "source": "ntfs/kext/ntfs_usnjrnl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectors",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cluster_size_mask",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mft_record_size",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_record_size_mask",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_records_per_sector_mask",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index_block_size",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_block_size_mask",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_clusters",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_lcn",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mftmirr_lcn",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "mftmirr_size",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "mftmirr_size",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mftmirr_size",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serial_no",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_multiplier",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_pos",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_start",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_start",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_zone_end",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data1_zone_pos",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data2_zone_pos",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data2_zone_pos",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "mft_data_pos",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mft_data_pos",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gid",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nr_blocks",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_list_alloc",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highest_vcn",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highest_vcn",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gid",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "recs_per_buf",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recno",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recno",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_size",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofs",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "upcase_len",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_size",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofs",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "NTFS_HIBERFIL_HEADER_SIZE",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofs",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_free",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vflags",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "fmask",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "dmask",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mft_zone_multiplier",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shift",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntfs_name_len",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vfe_vopcnt",
+    "source": "ntfs/kext/ntfs_vfsops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "magic",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recno",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recno",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "va_nlink",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va_data_size",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "on_disk_size",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "va_fileid",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "va_encoding",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parent_mft_no",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parent_mft_no",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "parent_mft_no",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "va_parentid",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next_pg",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur_pg",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_truncated",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mark_dirty",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seek_type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntfs_name_len",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fn_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fn_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fn_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntfs_name_type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reparse_tag",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reparse_tag",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reparse_tag",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reserved",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reparse_tag",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reparse_tag",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_ntfs_name_type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "target_ntfs_name_type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "elements",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nr_mrefs",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a_retval",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30DB0",
+    "name": "a_retval",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30DB0",
+    "name": "a_retval",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a_retval",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "a_retval",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "magic",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ioflags",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "ntfs_name_len",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "ntfs_name_len",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "ntfs_name_len",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "creator",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a_poff",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_count",
+    "source": "ntfs/kext/ntfs_vnops.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/mount/mount_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "major_ver",
+    "source": "ntfs/mount/mount_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minor_ver",
+    "source": "ntfs/mount/mount_ntfs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name_len",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_clusters",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name_len",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highest_vcn",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highest_vcn",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "not_mapped",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "not_mapped",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total2",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1FF",
+    "name": "efs_padding_length",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofs",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofsi",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "unused_runs",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused_runs",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "undo_data_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "undo_initialized_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hole_end",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "err",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused_runs",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "upcase_len",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "min_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "non_resident",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resident_flags",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialized_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compression_block_clusters",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "name_ofs",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "non_resident",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resident_flags",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reservedR",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_size",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_block_clusters",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "NTFS_VCN_DELETE_MARK",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "from_vcn",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stop_vcn",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "from_vcn",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stop_vcn",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stop_vcn",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/attrib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "ntfs/newfs/attrlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/newfs/attrlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "firstbyte",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstbyte",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "bufsize",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastbyte",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lastbyte",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstbyte",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/bitmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "ntfs/newfs/bitmap.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BOOTCAMP_FORMATTER_ENABLE_WIPEFS",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "NTFS_PAGE_SIZE",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_mft_bitmap_byte_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_lcn_bitmap_byte_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_dynamic_buf_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_mft_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_mft_lcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_mftmirr_lcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_logfile_lcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_logfile_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "g_mft_zone_end",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bit",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inited_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delta",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retry",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_lcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlpos",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlsize",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_run_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "prev_run_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bw",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uname_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x48",
+    "name": "hdr_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mpa_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mpa_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "hdr_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mpa_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "compression_unit",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bw",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uname_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x48",
+    "name": "hdr_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mpa_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mpa_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "hdr_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mpa_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "non_resident",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "compression_unit",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compression_unit",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uname_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "non_resident",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reservedR",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "sd_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x48",
+    "name": "sd_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "si",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uname_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uname_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q1_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q2_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "o_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "sector_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "part_start_sect",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "part_start_sect",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "cluster_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "mft_record_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "indx_record_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "g_mft_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "g_logfile_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "g_logfile_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "g_logfile_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "g_logfile_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "nr_sysfiles",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "media_type",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "physical_drive",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extended_boot_signature",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_sds_first_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_sds_first_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_sds_size",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "major_ver",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "minor_ver",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "upcase_len",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lw",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lw",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ntfs/newfs/bootcamp_formatter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "ntfs/newfs/collate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "NTFS_COLLATION_ERROR",
+    "source": "ntfs/newfs/collate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "PATH_MAX",
+    "source": "ntfs/newfs/compat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "O_BINARY",
+    "source": "ntfs/newfs/compat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "idx",
+    "source": "ntfs/newfs/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "___i",
+    "source": "ntfs/newfs/debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HDIO_GETGEO",
+    "source": "ntfs/newfs/device.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "high",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "partition_offset",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sector_size",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sect_size",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sect_size",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sect_size",
+    "source": "ntfs/newfs/device.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "item",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_length",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bit",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "ntfs/newfs/index.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "MAX_PARENT_VCN",
+    "source": "ntfs/newfs/index.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_attached",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "al_len",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr_list_size",
+    "source": "ntfs/newfs/inode.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFS_UPDATE_ATIME",
+    "source": "ntfs/newfs/inode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFS_UPDATE_MTIME",
+    "source": "ntfs/newfs/inode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFS_UPDATE_CTIME",
+    "source": "ntfs/newfs/inode.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_SB_MAGIC",
+    "source": "ntfs/newfs/layout.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "NTFS_BLOCK_SIZE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "NTFS_BLOCK_SIZE_BITS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILE_MFT",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FILE_MFTMirr",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "FILE_LogFile",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "FILE_Volume",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "FILE_AttrDef",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "FILE_root",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "FILE_Bitmap",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "FILE_Boot",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "FILE_BadClus",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "FILE_Secure",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "FILE_UpCase",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "FILE_Extend",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "FILE_reserved12",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "FILE_reserved13",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "FILE_reserved14",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "FILE_reserved15",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "FILE_first_user",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MFT_REC_SPACE_FILLER",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MFT_REF_MASK_CPU",
+    "source": "ntfs/newfs/layout.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "X",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "compression_unit",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RESIDENT_ATTR_IS_INDEXED",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowest_vcn",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NTFS_MAX_NAME_LEN",
+    "source": "ntfs/newfs/layout.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILE_NAME_POSIX",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILE_NAME_WIN32",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILE_NAME_DOS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILE_NAME_WIN32_AND_DOS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_NULL_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_WORLD_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_LOCAL_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_CREATOR_OWNER_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_CREATOR_GROUP_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SECURITY_CREATOR_OWNER_SERVER_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECURITY_CREATOR_GROUP_SERVER_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_DIALUP_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SECURITY_NETWORK_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECURITY_BATCH_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SECURITY_INTERACTIVE_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "SECURITY_SERVICE_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "SECURITY_ANONYMOUS_LOGON_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SECURITY_PROXY_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "SECURITY_ENTERPRISE_CONTROLLERS_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "SECURITY_SERVER_LOGON_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_PRINCIPAL_SELF_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_AUTHENTICATED_USER_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_RESTRICTED_CODE_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_TERMINAL_SERVER_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SECURITY_LOGON_IDS_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SECURITY_LOGON_IDS_RID_COUNT",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_LOCAL_SYSTEM_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_NT_NON_UNIQUE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SECURITY_BUILTIN_DOMAIN_RID",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_USER_RID_ADMIN",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_USER_RID_GUEST",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_USER_RID_KRBTGT",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_ADMINS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_USERS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_GUESTS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_COMPUTERS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_CONTROLLERS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_CERT_ADMINS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_SCHEMA_ADMINS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_ENTERPRISE_ADMINS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_GROUP_RID_POLICY_ADMINS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_ADMINS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_USERS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_GUESTS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_POWER_USERS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_ACCOUNT_OPS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_SYSTEM_OPS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_PRINT_OPS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_BACKUP_OPS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_REPLICATOR",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_RAS_SERVERS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOMAIN_ALIAS_RID_PREW2KCOMPACCESS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SID_REVISION",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "SID_MAX_SUB_AUTHORITIES",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SID_RECOMMENDED_SUB_AUTHORITIES",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACCESS_MIN_MS_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ACCESS_ALLOWED_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ACCESS_DENIED_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "SYSTEM_AUDIT_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SYSTEM_ALARM_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ACCESS_MAX_MS_V2_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACCESS_ALLOWED_COMPOUND_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACCESS_MAX_MS_V3_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ACCESS_MIN_MS_OBJECT_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ACCESS_ALLOWED_OBJECT_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ACCESS_DENIED_OBJECT_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "SYSTEM_AUDIT_OBJECT_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SYSTEM_ALARM_OBJECT_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ACCESS_MAX_MS_OBJECT_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ACCESS_MAX_MS_V4_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ACCESS_MAX_MS_ACE_TYPE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OBJECT_INHERIT_ACE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CONTAINER_INHERIT_ACE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_PROPAGATE_INHERIT_ACE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INHERIT_ONLY_ACE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INHERITED_ACE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VALID_INHERIT_FLAGS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUCCESSFUL_ACCESS_ACE_FLAG",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FAILED_ACCESS_ACE_FLAG",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ACL_REVISION",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACL_REVISION_DS",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ACL_REVISION1",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "MIN_ACL_REVISION",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ACL_REVISION2",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ACL_REVISION3",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACL_REVISION4",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "MAX_ACL_REVISION",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_DESCRIPTOR_REVISION",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SECURITY_DESCRIPTOR_REVISION1",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SMALL_INDEX",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LARGE_INDEX",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LEAF_NODE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INDEX_NODE",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NODE_MASK",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INDEX_ENTRY_SPACE_FILLER",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NEED_EA",
+    "source": "ntfs/newfs/layout.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "NTFS_LCNALLOC_BSIZE",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ZONE_MFT",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ZONE_DATA1",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ZONE_DATA2",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "run",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_range",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "run",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "run",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "writeback",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_lcn",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done_zones",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_guess",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_guess",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlsize",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "writeback",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bit",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_guess",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_guess",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "writeback",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "prev_run_len",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used_zone_pos",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zone_start",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_freed",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_freed",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr_freed",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/lcnalloc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FIRST_ZONE",
+    "source": "ntfs/newfs/lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MFT_ZONE",
+    "source": "ntfs/newfs/lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DATA_ZONE",
+    "source": "ntfs/newfs/lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LAST_ZONE",
+    "source": "ntfs/newfs/lcnalloc.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "LOG_LINE_LEN",
+    "source": "ntfs/newfs/logging.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "ntfs/newfs/logging.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/logging.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/logging.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "ntfs/newfs/logging.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "x",
+    "source": "ntfs/newfs/logging.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "PAGE_SIZE",
+    "source": "ntfs/newfs/mft.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "RESERVED_MFT_RECORDS",
+    "source": "ntfs/newfs/mft.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "pass",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data_pos",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "pass",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ll",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_alen",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ll",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ll",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_alen",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "min_nr",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated_size",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seq_no",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usn",
+    "source": "ntfs/newfs/mft.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usn",
+    "source": "ntfs/newfs/mst.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOOTCAMP_FORMATTER_ENABLE_WIPEFS",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_CTYPE_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_ERRNO_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FCNTL_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETTIMEOFDAY",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIBGEN_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LIMITS_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LOCALE_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MACHINE_ENDIAN_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MBSINIT",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SETXATTR",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDARG_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDDEF_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDIO_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYSLOG_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_DISK_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_IOCTL_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_MOUNT_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_PARAM_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TIME_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_WCHAR_H",
+    "source": "ntfs/newfs/newfs_ntfs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "ntfs/newfs/ntfstime.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "ntfs/newfs/ntfstime.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "STANDARD_COMPRESSION_UNIT",
+    "source": "ntfs/newfs/param.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAX_COMPRESSION_CLUSTER_SIZE",
+    "source": "ntfs/newfs/param.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PARTIAL_RUNLIST_UPDATING",
+    "source": "ntfs/newfs/param.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "marker",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "marker_vcn",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dend",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "di",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slots",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slots",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "slots",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlpos",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlsize",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_cluster",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_cluster",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofs",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rls",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_lcn",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rls",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_lcn",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn_len",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn_len",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/runlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_val_len",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_val_len",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment1",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_val_len",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sacl",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment1",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment2",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment1",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment2",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment1",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alignment2",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_authority_count",
+    "source": "ntfs/newfs/sd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UCHAR_T_SIZE_BITS",
+    "source": "ntfs/newfs/types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FALSE",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ZERO",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRUE",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ONE",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CASE_SENSITIVE",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IGNORE_CASE",
+    "source": "ntfs/newfs/types.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NOREVBOM",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "use_utf8",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nfconvert_utf8",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cnt",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "uc_len",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "ntfs/newfs/unistr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "ntfs/newfs/unix_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_len",
+    "source": "ntfs/newfs/unix_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_len",
+    "source": "ntfs/newfs/unix_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "ntfs/newfs/unix_io.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mnt_flags",
+    "source": "ntfs/newfs/volume.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MS_RDONLY",
+    "source": "ntfs/newfs/volume.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MS_EXCLUSIVE",
+    "source": "ntfs/newfs/volume.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MS_RECOVER",
+    "source": "ntfs/newfs/volume.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MS_IGNORE_HIBERFILE",
+    "source": "ntfs/newfs/volume.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MS_FORENSIC",
+    "source": "ntfs/newfs/volume.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NTFS_MF_MOUNTED",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "NTFS_MF_ISROOT",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "NTFS_MF_READONLY",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NTFS_VOLUME_OK",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "NTFS_VOLUME_SYNTAX_ERROR",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "NTFS_VOLUME_NOT_NTFS",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "NTFS_VOLUME_CORRUPT",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "NTFS_VOLUME_HIBERNATED",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "NTFS_VOLUME_UNCLEAN_UNMOUNT",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "NTFS_VOLUME_LOCKED",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "NTFS_VOLUME_RAID",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "NTFS_VOLUME_UNKNOWN_REASON",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "NTFS_VOLUME_NO_PRIVILEGE",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "NTFS_VOLUME_OUT_OF_MEMORY",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "NTFS_VOLUME_FUSE_ERROR",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "NTFS_VOLUME_INSECURE",
+    "source": "ntfs/newfs/volume.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "NTFS_BUF_SIZE",
+    "source": "ntfs/newfs/volume.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "NTFS_RL_ALLOC_BLOCK",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "mft_record_size",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcn",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlpos",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clusters",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copied",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "sector_size",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcn_ofs",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ntfs/util/ntfs.util.c",
+    "type": "EnumCase"
+  }
+]

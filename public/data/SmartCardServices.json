@@ -1,0 +1,7592 @@
+[
+  {
+    "hex": "0x1",
+    "name": "HAVE_DAEMON",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PCSC_TARGET_OSX",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MSC_TARGET_OSX",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PCSC_DEBUG",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MSC_DEBUG",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_DAEMON",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_THREAD_SAFETY",
+    "source": "SmartCardServices/pbx/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/atrhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/atrhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "p",
+    "source": "SmartCardServices/src/PCSC/atrhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Y1i",
+    "source": "SmartCardServices/src/PCSC/atrhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/atrhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CONVENTION_DIRECT",
+    "source": "SmartCardServices/src/PCSC/atrhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CONVENTION_INVERSE",
+    "source": "SmartCardServices/src/PCSC/atrhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DAEMON",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_DLFCN_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FCNTL_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_FLOCK",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT_LONG",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_NANOSLEEP",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_PTHREAD",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRERROR",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCAT",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRLCPY",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYSLOG_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_FILIO_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_WAIT_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VPRINTF",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_VSNPRINTF",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TIME_WITH_SYS_TIME",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YYTEXT_POINTER",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MSC_DEBUG",
+    "source": "SmartCardServices/src/PCSC/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_FLEX_MAJOR_VERSION",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "YY_FLEX_MINOR_VERSION",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "YY_FLEX_SUBMINOR_VERSION",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__STDC_LIMIT_MACROS",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_OF_BUFFER_CHAR",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8000",
+    "name": "YY_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "YY_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOB_ACT_CONTINUE_SCAN",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOB_ACT_END_OF_FILE",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOB_ACT_LAST_MATCH",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_BUFFER_NEW",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_BUFFER_NORMAL",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_BUFFER_EOF_PENDING",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_buffer_stack_top",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_buffer_stack_max",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_buffer_stack",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_init",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yylineno",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "YY_NUM_RULES",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "YY_END_OF_BUFFER",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_flex_debug",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "iLinenumber",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcPrevious",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcCurrent",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcFriendlyname",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcDevicename",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcLibpath",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcChannelid",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "badError",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INITIAL",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "YY_START_STACK_INCR",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_DECL_IS_OURS",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_ch_buf",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_c",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_fill_buffer",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_bs_lineno",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_bs_column",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "num_to_alloc",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "grow_size",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_input_file",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_fill_buffer",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_EXIT_FAILURE",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwChannelId",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "badError",
+    "source": "SmartCardServices/src/PCSC/configfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "DEBUG_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/debug.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LogDoColor",
+    "source": "SmartCardServices/src/PCSC/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LogDoColor",
+    "source": "SmartCardServices/src/PCSC/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_initialized",
+    "source": "SmartCardServices/src/PCSC/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_initialized",
+    "source": "SmartCardServices/src/PCSC/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSC_LOG_DEBUG",
+    "source": "SmartCardServices/src/PCSC/debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "DEBUG_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/debuglog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LogDoColor",
+    "source": "SmartCardServices/src/PCSC/debuglog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/debuglog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/debuglog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "LogDoColor",
+    "source": "SmartCardServices/src/PCSC/debuglog.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "DEBUG_INFO_LENGTH",
+    "source": "SmartCardServices/src/PCSC/debuglog.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUGLOG_LOG_ENTRIES",
+    "source": "SmartCardServices/src/PCSC/debuglog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DEBUGLOG_IGNORE_ENTRIES",
+    "source": "SmartCardServices/src/PCSC/debuglog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUGLOG_NO_DEBUG",
+    "source": "SmartCardServices/src/PCSC/debuglog.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_CATEGORY_NOTHING",
+    "source": "SmartCardServices/src/PCSC/debuglog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_CATEGORY_APDU",
+    "source": "SmartCardServices/src/PCSC/debuglog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DEBUG_CATEGORY_SW",
+    "source": "SmartCardServices/src/PCSC/debuglog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSC_LOG_DEBUG",
+    "source": "SmartCardServices/src/PCSC/debuglog.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_FLEX_MAJOR_VERSION",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "YY_FLEX_MINOR_VERSION",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_OF_BUFFER_CHAR",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "YY_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOB_ACT_CONTINUE_SCAN",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOB_ACT_END_OF_FILE",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOB_ACT_LAST_MATCH",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_BUFFER_NEW",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_BUFFER_NORMAL",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_BUFFER_EOF_PENDING",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_current_buffer",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_init",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "YY_NUM_RULES",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "YY_END_OF_BUFFER",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INITIAL",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcDesiredKey",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_ptr",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_depth",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_PUSH_STATE",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_POP_STATE",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_TOP_STATE",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "YY_START_STACK_INCR",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_init",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_ch_buf",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_c",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_fill_buffer",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_interactive",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_input_file",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_fill_buffer",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_EXIT_FAILURE",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "SmartCardServices/src/PCSC/driverparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvLHandle",
+    "source": "SmartCardServices/src/PCSC/dyn_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvLHandle",
+    "source": "SmartCardServices/src/PCSC/dyn_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pageSize",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerID",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lockState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerSharing",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cardAtrLength",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cardProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerID",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lockState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerSharing",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cardAtrLength",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cardProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pthThread",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lpcReader",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwStatus",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lpcReader",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwStatus",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwReaderSharing",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwCurrentState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwErrorCount",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pageSize",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwAtrLen",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwAtrLen",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwStatus",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwAtrLen",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwErrorCount",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwAtrLen",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwAtrLen",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwProtocol",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/eventhandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pageSize",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerID",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lockState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerSharing",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cardAtrLength",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pthThread",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwStatus",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwAtrLen",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwStatus",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwReaderSharing",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwCurrentState",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwStatus",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwErrorCount",
+    "source": "SmartCardServices/src/PCSC/eventhandler.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSCLITE_HP_BASE_PORT",
+    "source": "SmartCardServices/src/PCSC/hotplug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSCLITE_HP_BASE_PORT",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSCLITE_HP_Proprietary",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "PCSCLITE_HP_InterfaceClass",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_NotEOV",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vendorId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotVendorId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "productId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotProductId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotVendorId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotProductId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m_initialized",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usbDevice",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vendorId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "productId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usbAddress",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "match",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pccDevice",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vendorId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "productId",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pccAddress",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCSCLITE_HP_BASE_PORT",
+    "source": "SmartCardServices/src/PCSC/hotplug_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_ATR",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_SLOTNUM",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_SLOT_THREAD_SAFE",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_THREAD_SAFE",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_SLOTS_NUMBER",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_SIMULTANEOUS_ACCESS",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_POLLING_THREAD",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TAG_IFD_POLLING_THREAD_KILLABLE",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IFD_HVERSION_1_0",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IFD_HVERSION_2_0",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IFD_HVERSION_3_0",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "IFD_POWER_UP",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F5",
+    "name": "IFD_POWER_DOWN",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F6",
+    "name": "IFD_RESET",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IFD_NEGOTIATE_PTS1",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "IFD_NEGOTIATE_PTS2",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "IFD_NEGOTIATE_PTS3",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IFD_SUCCESS",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x258",
+    "name": "IFD_ERROR_TAG",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x259",
+    "name": "IFD_ERROR_SET_FAILURE",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25A",
+    "name": "IFD_ERROR_VALUE_READ_ONLY",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25D",
+    "name": "IFD_ERROR_PTS_FAILURE",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25E",
+    "name": "IFD_ERROR_NOT_SUPPORTED",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25F",
+    "name": "IFD_PROTOCOL_NOT_SUPPORTED",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x260",
+    "name": "IFD_ERROR_POWER_ACTION",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x261",
+    "name": "IFD_ERROR_SWALLOW",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x262",
+    "name": "IFD_ERROR_EJECT",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x263",
+    "name": "IFD_ERROR_CONFISCATE",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x264",
+    "name": "IFD_COMMUNICATION_ERROR",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x265",
+    "name": "IFD_RESPONSE_TIMEOUT",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x266",
+    "name": "IFD_NOT_SUPPORTED",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x267",
+    "name": "IFD_ICC_PRESENT",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x268",
+    "name": "IFD_ICC_NOT_PRESENT",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x269",
+    "name": "IFD_NO_SUCH_DEVICE",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x26A",
+    "name": "IFD_ERROR_INSUFFICIENT_BUFFER",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/ifdhandler.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/ifdwrapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwStatus",
+    "source": "SmartCardServices/src/PCSC/ifdwrapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdwAtrLen",
+    "source": "SmartCardServices/src/PCSC/ifdwrapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwTag",
+    "source": "SmartCardServices/src/PCSC/ifdwrapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdwAtrLen",
+    "source": "SmartCardServices/src/PCSC/ifdwrapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdwAtrLen",
+    "source": "SmartCardServices/src/PCSC/ifdwrapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x109",
+    "name": "MAX_BUFFER_SIZE",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x96",
+    "name": "MSC_MAXSIZE_TOKENAME",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "MSC_MAXSIZE_SVCPROV",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "MSC_MAXSIZE_OBJID",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "MSC_MAXSIZE_AID",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "MSC_MAXSIZE_MAC",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "MSC_MAXSIZE_LABEL",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "MSC_MAXSIZE_CERT_ISSUER",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "MSC_MAXSIZE_CERT_SUBJECT",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "MSC_MAXSIZE_CERT_SERIAL",
+    "source": "SmartCardServices/src/PCSC/mscdefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "localHContext",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerLength",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokensFound",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerList",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strLoc",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localHContext",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addParams",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addParamsSize",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenType",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenIdLength",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenAppLen",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenSize",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenList",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenSize",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slotState",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slotProtocol",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vIdFunction",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vInitFunction",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenLibHandle",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hContext",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenIdLength",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shareMode",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localHContext",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenLibHandle",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenLibHandle",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vFunction",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenLibHandle",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenLibHandle",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hContext",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shareMode",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rgReaderStates",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localHContext",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwEventState",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwEventState",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenIdLength",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curToken",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curToken",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pOutputData",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vInitFunction",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vFinFunction",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vIdFunction",
+    "source": "SmartCardServices/src/PCSC/musclecard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUCCESS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_NO_MEMORY_LEFT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUTH_FAILED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_OPERATION_NOT_ALLOWED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INCONSISTENT_STATUS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_UNSUPPORTED_FEATURE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_UNAUTHORIZED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_OBJECT_NOT_FOUND",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_OBJECT_EXISTS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INCORRECT_ALG",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SIGNATURE_INVALID",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_IDENTITY_BLOCKED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_UNSPECIFIED_ERROR",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_TRANSPORT_ERROR",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INVALID_PARAMETER",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INCORRECT_P1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INCORRECT_P2",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SEQUENCE_END",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INTERNAL_ERROR",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CANCELLED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INSUFFICIENT_BUFFER",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_UNRECOGNIZED_TOKEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SERVICE_UNRESPONSIVE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_TIMEOUT_OCCURRED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_TOKEN_REMOVED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_TOKEN_RESET",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_TOKEN_INSERTED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_TOKEN_UNRESPONSIVE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INVALID_HANDLE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SHARING_VIOLATION",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_BLOCKSTATUS_RESUME",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_BLOCKSTATUS_BLOCKING",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_BLOCKSTATUS_CANCELLING",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "MSC_MAX_KEYS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "MSC_MAX_PINS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "MSC_SIZEOF_KEYPACKET",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MSC_MAXSIZEOF_APDU_DATALEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MSC_PERCENT_STEPSIZE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MSC_SINGLE_READ_PACKET",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MSC_MAXSIZE_TOKENARRAY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_GEN_ALG_RSA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_GEN_ALG_RSA_CRT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_GEN_ALG_DSA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_GEN_ALG_DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_GEN_ALG_3DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_GEN_ALG_3DES3",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_BLOB_ENC_PLAIN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_BLOB_ENC_CRYPT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_RSA_PUBLIC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_RSA_PRIVATE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_RSA_PRIVATE_CRT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_DSA_PUBLIC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_DSA_PRIVATE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_3DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEY_3DES3",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_OPT_DEFAULT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_OPT_RSA_PUB_EXP",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_OPT_DSA_GPQ",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CIPHER_INIT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CIPHER_PROCESS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CIPHER_FINAL",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_MODE_RSA_NOPAD",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_MODE_RSA_PAD_PKCS1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_MODE_DSA_SHA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_MODE_DES_CBC_NOPAD",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_MODE_DES_ECB_NOPAD",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_DIR_SIGN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_DIR_VERIFY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_DIR_ENCRYPT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_DIR_DECRYPT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SEQUENCE_RESET",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SEQUENCE_NEXT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_ZF_DEFAULT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_ZF_WRITE_ZERO",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_ALL",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_NONE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_PIN_0",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_PIN_1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_PIN_2",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_PIN_3",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_PIN_4",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_KEY_0",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_KEY_1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_KEY_2",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_KEY_3",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_KEY_4",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_KEY_5",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_USR_0",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_AUT_USR_1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INIT_DEFAULT_KEY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INIT_IGNORE_KEY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_INIT_USE_KEY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_MODE_RSA_NOPAD",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_MODE_RSA_PAD_PKCS1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_MODE_DSA_SHA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_MODE_DES_CBC_NOPAD",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_MODE_DES_ECB_NOPAD",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_DIR_SIGN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_DIR_VERIFY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_DIR_ENCRYPT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_KEYPOLICY_DIR_DECRYPT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MSC_LIST_KNOWN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MSC_LIST_SLOTS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MSC_LIST_ALL",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MSC_TOKEN_TYPE_REMOVED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MSC_TOKEN_TYPE_UNKNOWN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MSC_TOKEN_TYPE_KNOWN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "MSC_TOKEN_TYPE_RESET",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_STATE_UNAWARE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "MSC_TAG_SUPPORT_FUNCTIONS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x66",
+    "name": "MSC_TAG_SUPPORT_CRYPTOALG",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x67",
+    "name": "MSC_TAG_CAPABLE_RSA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x68",
+    "name": "MSC_TAG_CAPABLE_DSA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x69",
+    "name": "MSC_TAG_CAPABLE_ECURVE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6A",
+    "name": "MSC_TAG_CAPABLE_ELGAMAL",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB4",
+    "name": "MSC_TAG_CAPABLE_KEY_AUTH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC9",
+    "name": "MSC_TAG_CAPABLE_DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xCA",
+    "name": "MSC_TAG_CAPABLE_3DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xCB",
+    "name": "MSC_TAG_CAPABLE_IDEA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xCC",
+    "name": "MSC_TAG_CAPABLE_AES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xCD",
+    "name": "MSC_TAG_CAPABLE_BLOWFISH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xCE",
+    "name": "MSC_TAG_CAPABLE_TWOFISH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xCF",
+    "name": "MSC_TAG_CAPABLE_MD5",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD0",
+    "name": "MSC_TAG_CAPABLE_SHA1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12D",
+    "name": "MSC_TAG_CAPABLE_OBJ_ATTR",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12E",
+    "name": "MSC_TAG_CAPABLE_OBJ_IDSIZE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12F",
+    "name": "MSC_TAG_CAPABLE_OBJ_AUTH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x130",
+    "name": "MSC_TAG_CAPABLE_OBJ_MAXNUM",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x191",
+    "name": "MSC_TAG_CAPABLE_PIN_ATTR",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x192",
+    "name": "MSC_TAG_CAPABLE_PIN_MAXNUM",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x193",
+    "name": "MSC_TAG_CAPABLE_PIN_MINSIZE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x194",
+    "name": "MSC_TAG_CAPABLE_PIN_MAXSIZE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x195",
+    "name": "MSC_TAG_CAPABLE_PIN_CHARSET",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x196",
+    "name": "MSC_TAG_CAPABLE_PIN_POLICY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x197",
+    "name": "MSC_TAG_CAPABLE_PIN_AUTH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F5",
+    "name": "MSC_TAG_CAPABLE_ID_STATE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x258",
+    "name": "MSC_TAG_CAPABLE_RANDOM",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x259",
+    "name": "MSC_TAG_CAPABLE_RANDOM_MAX",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25A",
+    "name": "MSC_TAG_CAPABLE_RANDOM_MIN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_GENKEYS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_IMPORTKEY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_EXPORTKEY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_COMPUTECRYPT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_EXTAUTH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_LISTKEYS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_CREATEPIN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_VERIFYPIN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_CHANGEPIN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_UNBLOCKPIN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_LISTPINS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_CREATEOBJECT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_DELETEOBJECT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_WRITEOBJECT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_READOBJECT",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_LISTOBJECTS",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_LOGOUTALL",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_GETCHALLENGE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_RSA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_DSA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_ECURVE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_ELGAMAL",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_3DES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_IDEA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_AES",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_BLOWFISH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_TWOFISH",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_SHA1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_SUPPORT_MD5",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_512",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_768",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_1024",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_2048",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_4096",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_KEYGEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_NOPAD",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RSA_PKCS1",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DSA_512",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DSA_768",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DSA_1024",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DSA_2048",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DSA_4096",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DSA_KEYGEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DES_KEYGEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DES_CBC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DES_EBC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_DES_ECB",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_3DES_KEYGEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_3DES_3KEY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_3DES_CBC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_3DES_EBC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_3DES_ECB",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_IDEA_KEYGEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_IDEA_CBC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_IDEA_ECB",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_AES_KEYGEN",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_AES_CBC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_AES_ECB",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_OBJ_ZERO",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_RESET",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_LEAVE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_A_Z",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_a_z",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_0_9",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_SPACE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_CALC",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_NONALPHA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_A_Z",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_a_z",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_0_9",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_NONALPHA",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_PIN_HISTORY",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_ID_STATE",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MSC_CAPABLE_RANDOM_SEED",
+    "source": "SmartCardServices/src/PCSC/musclecard.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "MY_OBJECT_SIZE",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenList",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenSize",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/muscletest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AraKiri",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Init",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HPForceReaderPolling",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "PID_ASCII_SIZE",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rsp",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AraKiri",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option_index",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setToForeground",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HotPlug",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "setToForeground",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HotPlug",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Init",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rescan_ongoing",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rescan_ongoing",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rescan_ongoing",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AraKiri",
+    "source": "SmartCardServices/src/PCSC/pcscdaemon.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CS_EVENT_CARD_INSERTION",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CS_EVENT_CARD_REMOVAL",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CS_EVENT_EJECTION_REQUEST",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVendorProductMask",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kVendorIDApple",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kProductIDBuiltInISight",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBuiltIniSightProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBuiltIniSightWave2ProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBuiltIniSightWave3ProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBWave4ProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBWave2InK29ProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBWaveReserved1ProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBWaveReserved2ProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kExternaliSightProductID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogitechVendorID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "sleepTimeMSec",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "def",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refCon",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "productID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vendorID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "productID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmp",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refCon",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vendorID",
+    "source": "SmartCardServices/src/PCSC/pcscdmonitor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_BUNDLE_MATCHES",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD7B0A06A",
+    "name": "kManufacturerName",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x206CB323",
+    "name": "kProductName",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x29DF525D",
+    "name": "kFriendlyName",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x8C546A86",
+    "name": "kInterfaceClass",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xACD1DF4A",
+    "name": "kInterfaceSubClass",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xEF5E8ACA",
+    "name": "kInterfaceProtocol",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "radix",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eMatchNone",
+    "source": "SmartCardServices/src/PCSC/PCSCDriverBundle.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/pcscd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "MAX_ATR_SIZE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_S_SUCCESS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_F_INTERNAL_ERROR",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_CANCELLED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_INVALID_HANDLE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_INVALID_PARAMETER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_INVALID_TARGET",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_MEMORY",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_F_WAITED_TOO_LONG",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_INSUFFICIENT_BUFFER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_UNKNOWN_READER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_TIMEOUT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_SHARING_VIOLATION",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_SMARTCARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_UNKNOWN_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_CANT_DISPOSE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_PROTO_MISMATCH",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NOT_READY",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_INVALID_VALUE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_SYSTEM_CANCELLED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_F_COMM_ERROR",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_F_UNKNOWN_ERROR",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_INVALID_ATR",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NOT_TRANSACTED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_READER_UNAVAILABLE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_P_SHUTDOWN",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_PCI_TOO_SMALL",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_READER_UNSUPPORTED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_DUPLICATE_READER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_CARD_UNSUPPORTED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_SERVICE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_SERVICE_STOPPED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_UNEXPECTED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_ICC_INSTALLATION",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_ICC_CREATEORDER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_UNSUPPORTED_FEATURE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_DIR_NOT_FOUND",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_FILE_NOT_FOUND",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_DIR",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_FILE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_ACCESS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_WRITE_TOO_MANY",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_BAD_SEEK",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_INVALID_CHV",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_UNKNOWN_RES_MNG",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_SUCH_CERTIFICATE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_CERTIFICATE_UNAVAILABLE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_READERS_AVAILABLE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_COMM_DATA_LOST",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_NO_KEY_CONTAINER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_SERVER_TOO_BUSY",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_UNSUPPORTED_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_UNRESPONSIVE_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_UNPOWERED_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_RESET_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_REMOVED_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_SECURITY_VIOLATION",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_WRONG_CHV",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_CHV_BLOCKED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_EOF",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_CANCELLED_BY_USER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_CARD_NOT_AUTHENTICATED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SCOPE_USER",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SCOPE_TERMINAL",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SCOPE_SYSTEM",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PROTOCOL_UNDEFINED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PROTOCOL_T0",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PROTOCOL_T1",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PROTOCOL_RAW",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PROTOCOL_T15",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SHARE_EXCLUSIVE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SHARE_SHARED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SHARE_DIRECT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_LEAVE_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_RESET_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_UNPOWER_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_EJECT_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_UNKNOWN",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_ABSENT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PRESENT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SWALLOWED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_POWERED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_NEGOTIABLE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SPECIFIC",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_UNAWARE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_IGNORE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_CHANGED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_UNKNOWN",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_UNAVAILABLE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_EMPTY",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_PRESENT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_ATRMATCH",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_EXCLUSIVE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_INUSE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_MUTE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATE_UNPOWERED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_W_INSERTED_CARD",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_E_UNSUPPORTED_FEATURE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SCOPE_GLOBAL",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_RESET",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_INSERTED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_REMOVED",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_STATUS_RESUME",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_STATUS_BLOCKING",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSCLITE_SVC_IDENTITY",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INFINITE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x41EB00",
+    "name": "PCSCLITE_INFINITE_TIMEOUT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x78",
+    "name": "PCSCLITE_CLIENT_ATTEMPTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "PCSCLITE_MCLIENT_ATTEMPTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x61A80",
+    "name": "PCSCLITE_STATUS_POLL_RATE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MSG_KEY_LEN",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "PCSCLITE_RW_ATTEMPTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_APPLICATIONS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_APPLICATION_CONTEXTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_READER_CONTEXT_CHANNELS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_APPLICATION_CONTEXT_CHANNELS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_READERS_CONTEXTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_THREADS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30D40",
+    "name": "PCSCLITE_STATUS_WAIT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "PCSCLITE_TRANSACTION_TIMEOUT",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x34",
+    "name": "MAX_READERNAME",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MAX_LIBNAME",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAX_DEVICENAME",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_CHANNELS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "PCSCLITE_MAX_CONTEXTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "PCSCLITE_MAX_COMSIZE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x800",
+    "name": "PCSCLITE_MAX_MESSAGE_SIZE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x108",
+    "name": "MAX_BUFFER_SIZE",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "PCSCLITE_SERVER_ATTEMPTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC8",
+    "name": "PCSCLITE_SERVER_ATTEMPTS",
+    "source": "SmartCardServices/src/PCSC/pcsclite.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/prothandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/prothandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/prothandler.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SET_PROTOCOL_WRONG_ARGUMENT",
+    "source": "SmartCardServices/src/PCSC/prothandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "SET_PROTOCOL_PPS_FAILED",
+    "source": "SmartCardServices/src/PCSC/prothandler.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SCARD_CLASS_VENDOR_INFO",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SCARD_CLASS_COMMUNICATIONS",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SCARD_CLASS_PROTOCOL",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SCARD_CLASS_POWER_MGMT",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "SCARD_CLASS_SECURITY",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "SCARD_CLASS_MECHANICAL",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "SCARD_CLASS_VENDOR_DEFINED",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "SCARD_CLASS_IFD_PROTOCOL",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "SCARD_CLASS_ICC_STATE",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CLASS_SYSTEM",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_VERIFY_PIN_START",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_VERIFY_PIN_FINISH",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_MODIFY_PIN_START",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_MODIFY_PIN_FINISH",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_GET_KEY_PRESSED",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_VERIFY_PIN_DIRECT",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_MODIFY_PIN_DIRECT",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_MCT_READERDIRECT",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_MCT_READER_DIRECT",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_MCT_UNIVERSAL",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_IFD_PIN_PROPERTIES",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_ABORT",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_SET_SPE_MESSAGE",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_VERIFY_PIN_DIRECT_APP_ID",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_MODIFY_PIN_DIRECT_APP_ID",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_WRITE_DISPLAY",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_GET_KEY",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_IFD_DISPLAY_PROPERTIES",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_GET_TLV_PROPERTIES",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FEATURE_CCID_ESC_COMMAND",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/reader.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSCLITE_HP_BASE_PORT",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwNumReadersContexts",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastLockID",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "slot",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "supportedChannels",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "supportedChannels",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vHandle",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwEventStatus",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwEventStatus",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwEventStatus",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rx",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "alreadyInitializedFlag",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jx",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "alreadyInitializedFlag",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pdwFeeds",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pdwMutex",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mMutex",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwBlockStatus",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwContexts",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pdwMutex",
+    "source": "SmartCardServices/src/PCSC/readerfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vAddress",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vAddress",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iRandNum",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iRandNum",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myseed",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tz_minuteswest",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tz_dsttime",
+    "source": "SmartCardServices/src/PCSC/sys_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vAddress",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vAddress",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iRandNum",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iRandNum",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myseed",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tz_minuteswest",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tz_dsttime",
+    "source": "SmartCardServices/src/PCSC/sys_unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "REPEAT_TEST",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mszGroups",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "t",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "t",
+    "source": "SmartCardServices/src/PCSC/testpcsc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "THREAD_ATTR_DEFAULT",
+    "source": "SmartCardServices/src/PCSC/thread_generic.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "THREAD_ATTR_DETACHED",
+    "source": "SmartCardServices/src/PCSC/thread_generic.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PCSC_MUTEX_LOCKED",
+    "source": "SmartCardServices/src/PCSC/thread_macosx.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCSC_MUTEX_UNLOCKED",
+    "source": "SmartCardServices/src/PCSC/thread_macosx.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inLen",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hpDir",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currFP",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "atrIndex",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "atrIndex",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenAppLen",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfWriteFramework",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfInitializePlugin",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfFinalizePlugin",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetStatus",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetCapabilities",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExtendedFeature",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGenerateKeys",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfImportKey",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExportKey",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfComputeCrypt",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExtAuthenticate",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListKeys",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfCreatePIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfVerifyPIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfChangePIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfUnblockPIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListPINs",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfCreateObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfDeleteObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfWriteObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfReadObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListObjects",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfLogoutAll",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetChallenge",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tokenLibHandle",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfWriteFramework",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfIdentifyToken",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfInitializePlugin",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfFinalizePlugin",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetStatus",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetCapabilities",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExtendedFeature",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGenerateKeys",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfImportKey",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExportKey",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfComputeCrypt",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExtAuthenticate",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListKeys",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfCreatePIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfVerifyPIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfChangePIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfUnblockPIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListPINs",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfCreateObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfDeleteObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfWriteObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfReadObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListObjects",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfLogoutAll",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetChallenge",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfWriteFramework",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfInitializePlugin",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfFinalizePlugin",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetStatus",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetCapabilities",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExtendedFeature",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGenerateKeys",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfImportKey",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExportKey",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfComputeCrypt",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfExtAuthenticate",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListKeys",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfCreatePIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfVerifyPIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfChangePIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfUnblockPIN",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListPINs",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfCreateObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfDeleteObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfWriteObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfReadObject",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfListObjects",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfLogoutAll",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pvfGetChallenge",
+    "source": "SmartCardServices/src/PCSC/tokenfactory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_FLEX_MAJOR_VERSION",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "YY_FLEX_MINOR_VERSION",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_NULL",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_END_OF_BUFFER_CHAR",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "YY_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EOB_ACT_CONTINUE_SCAN",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EOB_ACT_END_OF_FILE",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOB_ACT_LAST_MATCH",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_BUFFER_NEW",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_BUFFER_NORMAL",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_BUFFER_EOF_PENDING",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_current_buffer",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_init",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "YY_NUM_RULES",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "YY_END_OF_BUFFER",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "YY_MORE_ADJ",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INITIAL",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcDesiredKey",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valueIndex",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "desiredIndex",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_ptr",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack_depth",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_start_stack",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_PUSH_STATE",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_POP_STATE",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "YY_NO_TOP_STATE",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "YY_READ_BUF_SIZE",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "YY_START_STACK_INCR",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_init",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_start",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valueIndex",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_ch_buf",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_c",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_did_buffer_switch_on_eof",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_fill_buffer",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_interactive",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_n_chars",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_input_file",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_is_interactive",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_at_bol",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yy_fill_buffer",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "yy_is_our_buffer",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "YY_EXIT_FAILURE",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "len",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "SmartCardServices/src/PCSC/tokenparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currBundle",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalBundles",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "readerListSize",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filePosition",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "restOffset",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "getsSize",
+    "source": "SmartCardServices/src/PCSC/utils/bundleTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PROTOCOL_ANY_OLD",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SCARD_LAST_CONTEXT",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_NO_CONTEXT",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SCARD_EXCLUSIVE_CONTEXT",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_NO_LOCK",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "PCSCLITE_LOCK_POLL_RATE",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "phContext",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phCard",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phCard",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phCard",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_sleep",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_sleep",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_sleep",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwContexts",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwControlCode",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesReturned",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lpBytesReturned",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSCARD_LE_IN_SW2",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReadBinaryAPDU",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kReadBinaryLe",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcbRecvLength",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Protocol",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Protocol",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcbRecvLength",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcbRecvLength",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "receiveLength",
+    "source": "SmartCardServices/src/PCSC/winscard.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_PROTOCOL_ANY_OLD",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "isExecuted",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mapAddr",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwClientID",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phContext",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isExecuted",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phContext",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phCard",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "randnum",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdwState",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdwProtocol",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcchReaderLen",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcbAtrLen",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwTime",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentReaderCount",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwEventState",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newReaderCount",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ReaderCountChanged",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ReaderCountChanged",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cbAtr",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dwBreakFlag",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lpBytesReturned",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "T",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcbRecvLength",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwReadersLen",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastChrPtr",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hContext",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwClientID",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isExecuted",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwClientID",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hContext",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hCard",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2EE0",
+    "name": "baseTimeout",
+    "source": "SmartCardServices/src/PCSC/winscard_clnt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "one",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "PROTOCOL_VERSION_MAJOR",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PROTOCOL_VERSION_MINOR",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WINSCARD_MSG_HEADER_TAG",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_FUNCTION",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_FAILED",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_SERVER_DIED",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_CLIENT_DIED",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_READER_EVENT",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_SYN",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_ACK",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CMD_VERSION",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_ESTABLISH_CONTEXT",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_RELEASE_CONTEXT",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_LIST_READERS",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CONNECT",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_RECONNECT",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_DISCONNECT",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_BEGIN_TRANSACTION",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_END_TRANSACTION",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_TRANSMIT",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CONTROL",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_STATUS",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_GET_STATUS_CHANGE",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CANCEL",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CANCEL_TRANSACTION",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_GET_ATTRIB",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_SET_ATTRIB",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_TRANSMIT_EXTENDED",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCARD_CONTROL_EXTENDED",
+    "source": "SmartCardServices/src/PCSC/winscard_msg.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commonSocket",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "one",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "command",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2EE0",
+    "name": "baseTimeout",
+    "source": "SmartCardServices/src/PCSC/winscard_msg_srv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdwClientID",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwClientID",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwClientID",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replySize",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rv",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "replySize",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwLockId",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hContext",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dwClientID",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "protocol_major",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "protocol_minor",
+    "source": "SmartCardServices/src/PCSC/winscard_svc.c",
+    "type": "EnumCase"
+  }
+]

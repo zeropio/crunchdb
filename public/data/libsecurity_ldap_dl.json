@@ -1,0 +1,284 @@
+[
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/DSX509Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/DSX509Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/DSX509Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/DSX509Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libsecurity_ldap_dl/lib/DSX509Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCertTypeID",
+    "source": "libsecurity_ldap_dl/lib/DSX509Relation.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kMaxTuples",
+    "source": "libsecurity_ldap_dl/lib/DSX509Relation.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/LDAPDLModule.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/LDAPDLModule.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/LDAPDLModule.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/LDAPDLModule.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NumberOfValues",
+    "source": "libsecurity_ldap_dl/lib/LDAPDLModule.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMaximumSelectionPredicates",
+    "source": "libsecurity_ldap_dl/lib/LDAPDLModule.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "OD_query_time_out",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "LINEWIDTH",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BYTESPERBLOB",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ODmaxResults",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentRecord",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_OD_BRIDGE_H_",
+    "source": "libsecurity_ldap_dl/lib/ODBridge.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/PartialRelation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/PartialRelation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/PartialRelation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/PartialRelation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numberOfItems",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numberOfItems",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numberOfItems",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numberOfItems",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mLengthCache",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numberOfItems",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numberOfItems",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numberOfItems",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/Relation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "libsecurity_ldap_dl/lib/TableRelation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/TableRelation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libsecurity_ldap_dl/lib/TableRelation.cpp",
+    "type": "EnumCase"
+  }
+]

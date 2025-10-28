@@ -1,0 +1,386 @@
+[
+  {
+    "hex": "0x0",
+    "name": "actualByteCount",
+    "source": "IODVDStorageFamily/IODVDMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualByteCount",
+    "source": "IODVDStorageFamily/IODVDMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualByteCount",
+    "source": "IODVDStorageFamily/IODVDMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualByteCount",
+    "source": "IODVDStorageFamily/IODVDMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IODVDStorageFamily/IODVDMediaBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "IODVDStorageFamily/IODVDMediaBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "IODVDStorageFamily/IODVDMediaBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "IODVDStorageFamily/IODVDMediaBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IODVDStorageFamily/IODVDMediaBSDClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeUnknown",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeROM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeRAM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeR",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeRW",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypePlusRW",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypePlusR",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeHDROM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeHDRAM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeHDR",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeHDRW",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeMin",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDMediaTypeMax",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDSpeedMin",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDSpeedMax",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDCPRMRegion1",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDCPRMRegion2",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDCPRMRegion3",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDCPRMRegion4",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDCPRMRegion5",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDCPRMRegion6",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDRegionalPlaybackControlSchemePhase1",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDRegionalPlaybackControlSchemePhase2",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeROM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeRAM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeR",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeRW",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeHDROM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeHDRAM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeHDR",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypeHDRW",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypePlusRW",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypePlusR",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypePlusRWDoubleLayer",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDBookTypePlusRDoubleLayer",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyClassCSS_CPPM_CPRM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyClassRSSA",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatAGID_CSS",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatChallengeKey",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatKey1",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatKey2",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatTitleKey",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatASF",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatSetRegion",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatRegionState",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatAGID_CSS2",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatAGID_CPRM",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDKeyFormatAGID_Invalidate",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDStructureFormatPhysicalFormatInfo",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDStructureFormatCopyrightInfo",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDStructureFormatDiscKeyInfo",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDStructureFormatManufacturingInfo",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDRZoneInfoAddressTypeLBA",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDRZoneInfoAddressTypeRZoneNumber",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDVDRZoneInfoAddressTypeBorderNumber",
+    "source": "IODVDStorageFamily/IODVDTypes.h",
+    "type": "EnumCase"
+  }
+]

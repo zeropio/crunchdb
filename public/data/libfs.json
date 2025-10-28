@@ -1,0 +1,356 @@
+[
+  {
+    "hex": "0x0",
+    "name": "BOOTSIG0",
+    "source": "libfs/bootsect.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BOOTSIG1",
+    "source": "libfs/bootsect.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXBOOTSIG",
+    "source": "libfs/bootsect.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BOOTSIG0",
+    "source": "libfs/bootsect.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BOOTSIG1",
+    "source": "libfs/bootsect.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BOOTSIG0",
+    "source": "libfs/bootsect.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BOOTSIG1",
+    "source": "libfs/bootsect.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__FSLocalizedNameTableLock",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indx",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fssubtype",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fssubtype",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hfs_plus_data_offset",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_size",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "volume_header_offset",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block_size",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fd",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fssubtype",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fssubtype",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "fssubtype",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes_read",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scale",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "encryption_details",
+    "source": "libfs/FSFormatName.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__FS_FORMATNAME__",
+    "source": "libfs/FSFormatName.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAX_FS_SUBTYPES",
+    "source": "libfs/FSFormatName.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAX_FSNAME",
+    "source": "libfs/FSFormatName.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAPFSXSubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAPFSSubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "APFS_IOUC_VOLUME_GET_VEK_STATE",
+    "source": "libfs/FSFormatName.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHFSPlusSubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kHFSJSubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kHFSXSubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kHFSXJSubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "kHFSSubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "MAX_HFS_BLOCKSIZE",
+    "source": "libfs/FSFormatName.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFAT12SubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFAT16SubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFAT32SubType",
+    "source": "libfs/FSFormatName.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "MAX_DOS_BLOCKSIZE",
+    "source": "libfs/FSFormatName.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "libfs/FSMiscInfo.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__FILESYSTEM_PRIVATE__",
+    "source": "libfs/FSPrivate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FS_MEDIA_DEV_ENCRYPTED",
+    "source": "libfs/FSPrivate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FS_MEDIA_FDE_ENCRYPTED",
+    "source": "libfs/FSPrivate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FS_MEDIA_ENCRYPTION_CONVERTING",
+    "source": "libfs/FSPrivate.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "f_fssubtype",
+    "source": "libfs/libfs_tests/libfs_tests.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "f_fssubtype",
+    "source": "libfs/libfs_tests/libfs_tests.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "f_fssubtype",
+    "source": "libfs/libfs_tests/libfs_tests.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "f_fssubtype",
+    "source": "libfs/libfs_tests/libfs_tests.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "f_fssubtype",
+    "source": "libfs/libfs_tests/libfs_tests.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "NUM_TESTS",
+    "source": "libfs/test-libfs/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libfs/test-libfs/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "TEST_BUFFER_SIZE",
+    "source": "libfs/test-libfs/test_harness.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "libfs/test-libfs/test_harness.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "libfs/test-libfs/test_harness.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "encryption_detail",
+    "source": "libfs/test-libfs/test_harness.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "encryption_detail",
+    "source": "libfs/test-libfs/test_harness.c",
+    "type": "EnumCase"
+  }
+]

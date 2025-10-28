@@ -1,0 +1,602 @@
+[
+  {
+    "hex": "0x1",
+    "name": "__BSD_VISIBLE",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LC_REQ_DYLD",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSADDIMAGE_OPTION_RETURN_ONLY_IF_LOADED",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSADDIMAGE_OPTION_RETURN_ON_ERROR",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSLOOKUPSYMBOLINIMAGE_OPTION_BIND",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NSLOOKUPSYMBOLINIMAGE_OPTION_RETURN_ON_ERROR",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFB",
+    "name": "ERR_STR_LEN",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "MAX_SEARCH_PATHS",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DL_IN_LIST",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "err_filled",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errset",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "list",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refs",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mh",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lc",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nssym",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nssym",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "caller_mh",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofi",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lib",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "init_done",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "init_done",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errset",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lockcnt",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errset",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "module",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errset",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mh",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lc",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mh",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mh",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lc",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dli_fname",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dli_fbase",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dli_sname",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dli_saddr",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/dlfcn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_LAZY",
+    "source": "Libwrappers/dlcompat/dlfcn.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_NOW",
+    "source": "Libwrappers/dlcompat/dlfcn.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_LOCAL",
+    "source": "Libwrappers/dlcompat/dlfcn.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_GLOBAL",
+    "source": "Libwrappers/dlcompat/dlfcn.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_NOLOAD",
+    "source": "Libwrappers/dlcompat/dlfcn.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RTLD_NODELETE",
+    "source": "Libwrappers/dlcompat/dlfcn.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "ERR_STR_LEN",
+    "source": "Libwrappers/dlcompat/dlfcn_simple.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "err_filled",
+    "source": "Libwrappers/dlcompat/dlfcn_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "err_filled",
+    "source": "Libwrappers/dlcompat/dlfcn_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err_filled",
+    "source": "Libwrappers/dlcompat/dlfcn_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "module",
+    "source": "Libwrappers/dlcompat/dlfcn_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofi",
+    "source": "Libwrappers/dlcompat/dlfcn_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nssym",
+    "source": "Libwrappers/dlcompat/dlfcn_simple.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__BSD_VISIBLE",
+    "source": "Libwrappers/dlcompat/test/dladdr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "retCode",
+    "source": "Libwrappers/dlcompat/test/dladdr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/test/dladdr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retCode",
+    "source": "Libwrappers/dlcompat/test/dlsymtest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__BSD_VISIBLE",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "test",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "test",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "handle",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "test",
+    "source": "Libwrappers/dlcompat/test/dltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/poll/poll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "Libwrappers/poll/poll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "Libwrappers/poll/poll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libwrappers/poll/poll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revents",
+    "source": "Libwrappers/poll/poll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLLIN",
+    "source": "Libwrappers/poll/poll.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLLPRI",
+    "source": "Libwrappers/poll/poll.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLLOUT",
+    "source": "Libwrappers/poll/poll.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLLERR",
+    "source": "Libwrappers/poll/poll.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLLHUP",
+    "source": "Libwrappers/poll/poll.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "POLLNVAL",
+    "source": "Libwrappers/poll/poll.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAX",
+    "source": "Libwrappers/poll/polltest.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "Libwrappers/poll/polltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revents",
+    "source": "Libwrappers/poll/polltest.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "Libwrappers/poll/polltest.c",
+    "type": "EnumCase"
+  }
+]

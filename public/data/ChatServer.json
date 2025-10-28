@@ -1,0 +1,2024 @@
+[
+  {
+    "hex": "0x0",
+    "name": "OPRESULT_OK",
+    "source": "ChatServer/jabber_autobuddy/JABAction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x24D83E4",
+    "name": "resultMsg",
+    "source": "ChatServer/jabber_autobuddy/JABAction.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x937E54D6",
+    "name": "resultMsg",
+    "source": "ChatServer/jabber_autobuddy/JABAction.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPCODE_UNKNOWN",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "OPCODE_OPT_VERBOSE",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x270F",
+    "name": "OPCODE_LAST",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "JAB_VERSION_MAJOR",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "JAB_VERSION_MINOR",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "JAB_VERSION_BUILD",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DUP_ALLOW",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21BCB30E",
+    "name": "fmt",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x983FC1A1",
+    "name": "fmt",
+    "source": "ChatServer/jabber_autobuddy/JABActionInfo.m",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "max_tries",
+    "source": "ChatServer/jabber_autobuddy/JABDatabase.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "sleep_ms",
+    "source": "ChatServer/jabber_autobuddy/JABDatabase.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nBackup",
+    "source": "ChatServer/jabber_autobuddy/JABDatabase.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DBActivityActiveRowSelect",
+    "source": "ChatServer/jabber_autobuddy/JABDatabaseAction.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iCount",
+    "source": "ChatServer/jabber_autobuddy/JABDatabaseAction.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "MAX_JID_LEN",
+    "source": "ChatServer/jabber_autobuddy/JABDatabaseQuery.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_queryCanStep",
+    "source": "ChatServer/jabber_autobuddy/JABDatabaseQuery.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_queryCanStep",
+    "source": "ChatServer/jabber_autobuddy/JABDatabaseQuery.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIRECTORYSCOPE_LOCAL",
+    "source": "ChatServer/jabber_autobuddy/JABDirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DIRECTORYSCOPE_SEARCH",
+    "source": "ChatServer/jabber_autobuddy/JABDirectory.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iUser",
+    "source": "ChatServer/jabber_autobuddy/JABInitUserAction.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAX_LOG_LINE",
+    "source": "ChatServer/jabber_autobuddy/JABLogger.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RosterGroupAction_None",
+    "source": "ChatServer/jabber_autobuddy/JABMakeGroupBuddiesAction.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalUsers",
+    "source": "ChatServer/jabber_autobuddy/JABMoveDomainAction.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iUser",
+    "source": "ChatServer/jabber_autobuddy/JABMoveDomainAction.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "movedUsers",
+    "source": "ChatServer/jabber_autobuddy/JABMoveDomainAction.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogErrors_disabled",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kValidate_AuthMethod",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searchNodeRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numchars",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destChars",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destChars",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiCount",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiRecCount",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valueRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrListRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searchNodeRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userNodeRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiNameLen",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiChalLen",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiRespLen",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiBuffSzie",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiCurr",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiLen",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userNodeRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iResult",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userNodeRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiNameLen",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiBuffSzie",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iResult",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userNodeRef",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAuthenticated",
+    "source": "ChatServer/jabber_od_auth/apple_authenticate.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isMember",
+    "source": "ChatServer/jabber_od_auth/apple_authorize.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAuthorized",
+    "source": "ChatServer/jabber_od_auth/apple_authorize.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNotAuthorized",
+    "source": "ChatServer/jabber_od_auth/apple_authorize.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mbrErr",
+    "source": "ChatServer/jabber_od_auth/apple_membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isMember",
+    "source": "ChatServer/jabber_od_auth/apple_membership.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eUnknownEvent",
+    "source": "ChatServer/jabber_od_auth/auth_event.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "eAuthFailure",
+    "source": "ChatServer/jabber_od_auth/auth_event.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "eAuthSuccess",
+    "source": "ChatServer/jabber_od_auth/auth_event.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "ChatServer/jabber_od_auth/cyrus-sasl-digestmd5-parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "ChatServer/jabber_od_auth/cyrus-sasl-digestmd5-parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escaped",
+    "source": "ChatServer/jabber_od_auth/cyrus-sasl-digestmd5-parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "cBufferSize",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "node",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "context",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "svc",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverresponse",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "svc",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "svc",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "svc",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "svc",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "svc",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mDir",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/fasterauth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/hex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "o",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/hex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "T3",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T6",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T9",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T13",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T16",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T19",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T22",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T25",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T28",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T31",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T35",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T38",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T41",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T44",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T47",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T50",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T53",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T57",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T60",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T63",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "w",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nesc",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "esc",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "esc",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "esc",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nc",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "challen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "step",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/mech_digest_md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pool__total",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/pool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pool__ltotal",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/pool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/pool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/pool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INCL_UTIL_POOL_H",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/pool.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C49",
+    "name": "POOL_NUM",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/pool.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resplen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "authd",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failed",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resplen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "authd",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failed",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "challen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "authd",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failed",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "challen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "authd",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "failed",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sd_type_NONE",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sd_type_CLIENT",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "sd_type_SERVER",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/scod.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lenW",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sizeLo",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lenW",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pad0x80",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pad0x00",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "t",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "t",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "t",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "t",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/sha1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/str.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/xhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/xhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/xhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirty",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/xhash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INCL_UTIL_XHASH_H",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabberd/xhash.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv0",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ZONE",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "respLen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "server_challenge",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "challen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignore",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ignorelen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resp1",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resplen1",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resp2",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resplen2",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auths_succeeded",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_digest_md5_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv0",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iResult",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iResult",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iResult",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iResult",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "users_found",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auths_succeeded",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/jabber_od_auth_plain_test.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argv0",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/membership_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/membership_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/membership_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9695972",
+    "name": "good_id",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xD497BEA5",
+    "name": "bogus_id",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xBCE85555",
+    "name": "short_name",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "record",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "record",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "node",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "failure",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/odkerb_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSASLMinSecurityFactor",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "kSASLMaxSecurityFactor",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10000",
+    "name": "kSASLMaxBufferSize",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSASLSecurityFlags",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "logging",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverOut",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverOutLen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "conn",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logging",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auths_succeeded",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "logging",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slen",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverChal",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverResp",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/jabber_od_auth_test/sasl_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "session",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flushable",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flushable",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverChallengeOut",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverChallengeLenOut",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "badParameter",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userNameOut",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverResponseOut",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverResponseLenOut",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "badParameter",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odckit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mbrErr",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkerb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kODKActiveDirectoryUnknown",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kODKActiveDirectoryAbsent",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kODKActiveDirectoryPresent",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "then",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasChanged",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasChanged",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "adNodeOnSearchPolicy",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "adNodeOnSearchPolicy",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error_num",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "session",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isActiveDirectory",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userNameOut",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverrespstr",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userNameOut",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverResponseOut",
+    "source": "ChatServer/jabber_od_auth/odkit.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSASLMinSecurityFactor",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSASLMaxSecurityFactor",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10000",
+    "name": "kSASLMaxBufferSize",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSASLSecurityFlags",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sasl_switch_hit_plugin_to_override",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "text",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "conn_context",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "username",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctx",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chall",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "step",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverout",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serveroutlen",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "authid",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "step",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverout",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serveroutlen",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doneflag",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mech_ssf",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxoutbuf",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "param_version",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serverout",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serveroutlen",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_ssf",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "plugcount",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "ChatServer/jabber_od_auth/sasl_switch_hit.c",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,1316 @@
+[
+  {
+    "hex": "0x1",
+    "name": "DEBUG_LEVEL",
+    "source": "IOUSBMassStorageClass/Debugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_LEVEL",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kNumberRetries",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "kMaximumBlockCountRead",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "kMaximumBlockCountWrite",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "kMaximumByteCountRead",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "kMaximumByteCountWrite",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxBlockCount",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxByteCount",
+    "source": "IOUSBMassStorageClass/IOUFIStorageServices.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7530",
+    "name": "kDefaultReadTimeoutDuration",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7530",
+    "name": "kDefaultWriteTimeoutDuration",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20000",
+    "name": "kDefaultMaximumByteCountRead",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20000",
+    "name": "kDefaultMaximumByteCountWrite",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100000",
+    "name": "kDefaultMaximumByteCountReadUSB3",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100000",
+    "name": "kDefaultMaximumByteCountWriteUSB3",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kMaxConsecutiveResets",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gUSBDebugFlags",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gUSBDebugFlags",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gUSBDebugFlags",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interface",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBulkOnlyCommandTag",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPostDeviceResetCoolDownInterval",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRequiredMaxBusStall",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "specifier",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearPipeAttempts",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bRequest",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wValue",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wLength",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopLUN",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConsecutiveResetCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "taskStatus",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceSpeed",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wValue",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "wLength",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConsecutiveResetCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "taskStatus",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceInfo",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResetStatus",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceInformation",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kUSBDAddressLength",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kIOUSBMassStorageReconfigurationTimeoutMS",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBResetStatusSuccess",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kUSBResetStatusFailure",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kUSBStorageRBCSubclass",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kUSBStorageSFF8020iSubclass",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kUSBStorageQIC157Subclass",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kUSBStorageUFISubclass",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kUSBStorageSFF8070iSubclass",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kUSBStorageSCSITransparentSubclass",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kProtocolControlBulkInterrupt",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kProtocolControlBulk",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kProtocolBulkOnly",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kUSBStorageAutoStatusSize",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "kByteCountOfCBW",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCBWLUNMask",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCBWFlagsDataOut",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCBWFlagsDataIn",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kByteCountOfCSW",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCSWCommandPassedError",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCSWCommandFailedError",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCSWPhaseError",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5553424D",
+    "name": "kUSBTypeDebug",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBOperationGetFlags",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kUSBOperationSetFlags",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAbortedTask",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCompleteSCSICommand",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNewCommandWhileTerminating",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLUNConfigurationComplete",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOUMCStorageCharacDictFound",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNoProtocolForDevice",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOUSBMassStorageClassStart",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOUSBMassStorageClassStop",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAtUSBAddress",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMessagedCalled",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kWillTerminateCalled",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDidTerminateCalled",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBLog1",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCDBLog2",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kClearEndPointStall",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kGetEndPointStatus",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHandlePowerOnUSBReset",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBDeviceResetWhileTerminating",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBDeviceResetAfterDisconnect",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUSBDeviceResetReturned",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAbortCurrentSCSITask",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCompletingCommandWithError",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDeviceInformation",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSuspendPort",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSubclassUse",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCBIProtocolDeviceDetected",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCBICommandAlreadyInProgress",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCBISendSCSICommandReturned",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCBICompletion",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBODeviceDetected",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOPreferredMaxLUN",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOGetMaxLUNReturned",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOCommandAlreadyInProgress",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOSendSCSICommandReturned",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOCBWDescription",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOCBWBulkOutWriteResult",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBODoubleCompleteion",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOCompletionDuringTermination",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBOCompletion",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSubclassCode_AppleUSBODD",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSubclassCode_AppleUSBCardReaderUMC",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBODD_probe",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBODD_start",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBODD_requestedExtraPower",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBODD_isMacModelSupported",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBODD_FindACPIPlatformDevice",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBODD_CheckForACPIFlags",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_start",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_stop",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_HandlePowerChange",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_message",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_setProperty",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_gpioMediaDetectFired",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_gpioMediaDetectEnable",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_controllerReset",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_powerControl",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_waitForReconnect",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_systemWillShutdown",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_generalPurpose",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleUSBCardReaderUMC_stop_2",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageClassTimestamps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOUSBMassStorageUFIDevicePowerStateSleep",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOUSBMassStorageUFIDevicePowerStateActive",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIOUSBMassStorageUFIDeviceNumPowerStates",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gRestartShutdownFlag",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMediumBlockSize",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMediumBlockCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ASC",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockSize",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "maxBlockCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "maxBlockCount",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPollingMode_Suspended",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPollingMode_NewMedia",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPollingMode_MediaRemoval",
+    "source": "IOUSBMassStorageClass/IOUSBMassStorageUFISubclass.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xEA60",
+    "name": "kTraceBufferSampleSize",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "kMicrosecondsPerSecond",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMicrosecondsPerMillisecond",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "kFilePathMaxSize",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInvalid",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDivisorEntry",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "gNumCPUs",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gDivisor",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSavedTraceMask",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current_usecs",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev_usecs",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delta_usecs",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debugFlags",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSavedTraceMask",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gPrintfMask",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSavedTraceMask",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value1",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOGICAL_BLOCK_ADDRESS",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TRANSFER_LENGTH",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LBA",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOGICAL_BLOCK_ADDRESS",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TRANSFER_LENGTH",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LBA",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delta_usecs",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "taskStatus",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DeviceInformation",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "debugFlags",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "child",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subclassID",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subclassCode",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "subclassID",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intSubclassCode",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returned",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returned",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returned",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returned",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returned",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "specifier",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intSubclassCode",
+    "source": "IOUSBMassStorageClass/UMCLogger/UMCLogger.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kBulkOnlyCommandSent",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bRequest",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wValue",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wLength",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cbwFlags",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "fRequiredMaxBusStall",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRequiredMaxBusStall",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultingStatus",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRequiredMaxBusStall",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cbwTag",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stalled",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSizeRemaining",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cswTag",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassBulkOnly.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCBIExecuteCommand",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassCBI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bRequest",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassCBI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wValue",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassCBI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "wLength",
+    "source": "IOUSBMassStorageClass/USBMassStorageClassCBI.cpp",
+    "type": "EnumCase"
+  }
+]

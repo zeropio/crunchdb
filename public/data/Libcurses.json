@@ -1,0 +1,824 @@
+[
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libcurses/addbytes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libcurses/addbytes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libcurses/addbytes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libcurses/addbytes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libcurses/addbytes.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/addch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libcurses/addnstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/box.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/box.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "startx",
+    "source": "Libcurses/clrtobot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/clrtobot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "startx",
+    "source": "Libcurses/clrtobot.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "Libcurses/clrtoeol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/clrtoeol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "HARDTABS",
+    "source": "Libcurses/cr_put.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcol",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destcol",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcol",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outline",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcol",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcol",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outcol",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "Libcurses/cr_put.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__echoit",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__pfast",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__rawmode",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__noqch",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AM",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MI",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "XB",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "COLS",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LINES",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "My_term",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GT",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NONL",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UPPERCASE",
+    "source": "Libcurses/curses.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__STANDOUT",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__ISDIRTY",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__ISPASTEOL",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__FORCEPAINT",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__ENDLINE",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__FLUSH",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__FULLWIN",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__IDLINE",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__SCROLLWIN",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__SCROLLOK",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__CLEAROK",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__WSTANDOUT",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__LEAVEOK",
+    "source": "Libcurses/curses.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "h",
+    "source": "Libcurses/cur_hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/cur_hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/delch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/deleteln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/deleteln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "Libcurses/erase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/erase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "weset",
+    "source": "Libcurses/getch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "weset",
+    "source": "Libcurses/getch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__echoit",
+    "source": "Libcurses/initscr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__noqch",
+    "source": "Libcurses/initscr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/insertln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/insertln.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch_off",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstch",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastch",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curx",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "Libcurses/newwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wy",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wy",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ly",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lx",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cury",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curx",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wy",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wy",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curx",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lx",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wx",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "top",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attr",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/refresh.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curx",
+    "source": "Libcurses/scroll.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unknown",
+    "source": "Libcurses/setterm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CA",
+    "source": "Libcurses/setterm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CM",
+    "source": "Libcurses/setterm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CA",
+    "source": "Libcurses/setterm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "PBUFSIZ",
+    "source": "Libcurses/termcap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "PVECSIZ",
+    "source": "Libcurses/termcap.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "MAXRETURNSIZE",
+    "source": "Libcurses/tgoto.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "oncol",
+    "source": "Libcurses/tgoto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oncol",
+    "source": "Libcurses/tgoto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oncol",
+    "source": "Libcurses/tgoto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "Libcurses/touchwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "Libcurses/touchwin.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ospeed",
+    "source": "Libcurses/tputs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Libcurses/tputs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "MAXRETURNSIZE",
+    "source": "Libcurses/tscroll.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__tcaction",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__tcaction",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OXTABS",
+    "source": "Libcurses/tty.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "useraw",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GT",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__rawmode",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__rawmode",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__rawmode",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__rawmode",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__echoit",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__echoit",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__pfast",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "len",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Libcurses/tty.c",
+    "type": "EnumCase"
+  }
+]

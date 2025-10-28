@@ -1,0 +1,1514 @@
+[
+  {
+    "hex": "0x0",
+    "name": "exp",
+    "source": "cddafs/AIFFSupport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockSize",
+    "source": "cddafs/AIFFSupport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kMono",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kStereo",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "k8BitsPerSample",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "k16BitsPerSample",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k16BitLittleEndianFormat",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAIFCVersion1",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAIFFID",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAIFCID",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFormatVersionID",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCommonID",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFormID",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSoundDataID",
+    "source": "cddafs/AIFFSupport.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "cddafs/AppleCDDAFileSystemDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUGLEVEL",
+    "source": "cddafs/AppleCDDAFileSystemDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MACH_ASSERT",
+    "source": "cddafs/AppleCDDAFileSystemDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPreEmphasisBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kDigitalDataBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "kSecondsPerMinute",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4B",
+    "name": "kFramesPerSecond",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAppleCDDADirectoryType",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kAppleCDDATrackType",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kAppleCDDAXMLFileType",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAppleCDDANumberOfFileReferences",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kAppleCDDANumberOfRootDirReferences",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleCDDANodeBusyBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kAppleCDDANodeWantedBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kAppleCDDAXMLFileID",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "kUnknownUserID",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "kUnknownGroupID",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kCDDAMaxFileNameBytes",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFinderInfoOnDesktopBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFinderInfoOwnApplBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFinderInfoNoFileExtensionBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFinderInfoSharedBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFinderInfoCachedBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kFinderInfoInitedBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kFinderInfoChangedBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kFinderInfoBusyBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kFinderInfoNoCopyBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kFinderInfoSystemBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kFinderInfoHasBundleBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kFinderInfoInvisibleBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kFinderInfoLockedBit",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kExtendedFinderInfoSize",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleCDDAForkAttributesValidMask",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleCDDAFileSystemVolumeSignature",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleCDDAFileSystemVCBFSID",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x101",
+    "name": "kMaxNameSize",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x63",
+    "name": "kMaxTrackCount",
+    "source": "cddafs/AppleCDDAFileSystemDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferLength",
+    "source": "cddafs/AppleCDDAFileSystemUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vnfs_rdev",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cn_flags",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cn_nameiop",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cn_hash",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vnfs_flags",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vnfs_marksystem",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cn_hash",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cn_consume",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cn_hash",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cn_consume",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "directorySize",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numberOfDescriptors",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextOffset",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numberOfDescriptors",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentA2Offset",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentOffset",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trackNumber",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nameSize",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numberOfDescriptors",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "frames",
+    "source": "cddafs/AppleCDDAFileSystemUtils.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nameData",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nameDataSize",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vid",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counting",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nl",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "counting",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counting",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "vfe_vopcnt",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kAppleCDDARootFileID",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kNumberOfFakeDirEntries",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kOffsetForFiles",
+    "source": "cddafs/AppleCDDAFileSystemVFSOps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nameLength",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "directoryEntryLength",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "directoryEntryLength",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inode",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uio_resid",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amountToCopy",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numBytes",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerSize",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockNumber",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectorOffset",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amountToCopy",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amountToCopy",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blocksToRead",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offsetValue",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "direntSize",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nocommit",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numBytes",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kret",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vmOffsetPtr",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amountToCopy",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headerSize",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockNumber",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sectorOffset",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "residual",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kret",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vmOffsetPtr",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amountToCopy",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "amountToCopy",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blocksToRead",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a_retval",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a_retval",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a_retval",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a_retval",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x930",
+    "name": "kPhysicalMediaBlockSize",
+    "source": "cddafs/AppleCDDAFileSystemVNodeOps.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "cddafs/Classes/CDDATrackName.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "urlRef",
+    "source": "cddafs/Classes/CDDATrackName.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fArtistStringRef",
+    "source": "cddafs/Classes/CDDATrackName.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAlbumStringRef",
+    "source": "cddafs/Classes/CDDATrackName.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTrackNameStringRef",
+    "source": "cddafs/Classes/CDDATrackName.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSeparatorStringRef",
+    "source": "cddafs/Classes/CDDATrackName.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "cddafs/Classes/TBundle.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/Classes/TBundle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "cddafs/Classes/TBundle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/Classes/TBundle.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "cddafs/Classes/TSystemUtils.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "cddafs/Classes/TSystemUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "cddafs/Classes/TSystemUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gid",
+    "source": "cddafs/Classes/TSystemUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fileSize",
+    "source": "cddafs/Classes/TSystemUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesRead",
+    "source": "cddafs/Classes/TSystemUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_LEVEL",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kMaxPrefixSize",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kASCIINumberZero",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kASCIISpace",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isLocked",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isEjectable",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceLength",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isEjectablePtr",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isEjectablePtr",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isLockedPtr",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isLockedPtr",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "albumName",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "albumName",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mountflags",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mountFlags",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "altFlags",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mountFlags",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myPtr",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fileType",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fileCreator",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numberOfDescriptors",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trackString",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numTracks",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trackIndex",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentTrack",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trackIndex",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suffixSize",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "prefixSize",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSize",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numSessions",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numberOfDescriptors",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theCDDictionaryRef",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theSessionArrayRef",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theRawTOCDataRef",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xmlData",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theSessionDictionaryRef",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theTrackArrayRef",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trackIndex",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theTrackRef",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionType",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firstTrackNum",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionNumber",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastTrackNum",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "leadoutBlock",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockAddress",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "properties",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferLength",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numberOfDescriptors",
+    "source": "cddafs/FilesystemProber/cddafs_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUsageTypeUtility",
+    "source": "cddafs/FilesystemProber/cddafs_util.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kUsageTypeMount",
+    "source": "cddafs/FilesystemProber/cddafs_util.h",
+    "type": "EnumCase"
+  }
+]

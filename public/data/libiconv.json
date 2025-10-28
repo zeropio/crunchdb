@@ -1,0 +1,4148 @@
+[
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/bsd_iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libiconv/citrus/bsd_iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libiconv/citrus/bsd_iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libiconv/citrus/bsd_iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "c2",
+    "source": "libiconv/citrus/citrus_bcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "c2",
+    "source": "libiconv/citrus/citrus_bcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_csmapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_csmapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_csmapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "norm",
+    "source": "libiconv/citrus/citrus_csmapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rnorm",
+    "source": "libiconv/citrus/citrus_csmapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rnorm",
+    "source": "libiconv/citrus/citrus_csmapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_CSMAPPER_F_PREVENT_PIVOT",
+    "source": "libiconv/citrus/citrus_csmapper.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dl_hashval",
+    "source": "libiconv/citrus/citrus_db.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dl_offset",
+    "source": "libiconv/citrus/citrus_db.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "DB_ALIGN",
+    "source": "libiconv/citrus/citrus_db_factory.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "df_num_entries",
+    "source": "libiconv/citrus/citrus_db_factory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "df_total_data_size",
+    "source": "libiconv/citrus/citrus_db_factory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofs",
+    "source": "libiconv/citrus/citrus_db_factory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_db_factory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_db_factory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextofs",
+    "source": "libiconv/citrus/citrus_db_factory.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "_CITRUS_DB_MAGIC_SIZE",
+    "source": "libiconv/citrus/citrus_db_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "_CITRUS_DB_HEADER_SIZE",
+    "source": "libiconv/citrus/citrus_db_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "_CITRUS_DB_ENTRY_SIZE",
+    "source": "libiconv/citrus/citrus_db_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "libiconv/citrus/citrus_db_hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "db_len_variable",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "db_use_invalid",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "db_use_invalid",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "db_num_charsets",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "db_len_variable",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_esdb.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_ESDB_VERSION",
+    "source": "libiconv/citrus/citrus_esdb_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_LC_GROUPING_VALUE_MIN",
+    "source": "libiconv/citrus/citrus_fix_grouping.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7E",
+    "name": "_CITRUS_LC_GROUPING_VALUE_MAX",
+    "source": "libiconv/citrus/citrus_fix_grouping.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "_CITRUS_LC_GROUPING_VALUE_NO_FUTHER",
+    "source": "libiconv/citrus/citrus_fix_grouping.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ch_loop",
+    "source": "libiconv/citrus/citrus_hash.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x65",
+    "name": "CI_HASH_SIZE",
+    "source": "libiconv/citrus/citrus_iconv.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "CI_INITIAL_MAX_REUSE",
+    "source": "libiconv/citrus/citrus_iconv.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ci_used_count",
+    "source": "libiconv/citrus/citrus_iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wchar_dir",
+    "source": "libiconv/citrus/citrus_iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_ICONV_F_HIDE_INVALID",
+    "source": "libiconv/citrus/citrus_iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__isthreaded",
+    "source": "libiconv/citrus/citrus_lock.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_dbidx",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_rewind",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_rewind",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_dbidx",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cl_rewind",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_rewind",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_rewind",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cl_rewind",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_keylen",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cl_rewind",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cl_keylen",
+    "source": "libiconv/citrus/citrus_lookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_LOOKUP_CASE_SENSITIVE",
+    "source": "libiconv/citrus/citrus_lookup.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CITRUS_LOOKUP_CASE_IGNORE",
+    "source": "libiconv/citrus/citrus_lookup.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x65",
+    "name": "CM_HASH_SIZE",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "REFCOUNT_PERSISTENT",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cm_refcount",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cm_dir",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cm_refcount",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "_CITRUS_MAPPER_CONVERT_DIR_SHIFT",
+    "source": "libiconv/citrus/citrus_mapper.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDIR_UCS_SRC",
+    "source": "libiconv/citrus/citrus_mapper_local.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MDIR_UCS_DST",
+    "source": "libiconv/citrus/citrus_mapper_local.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_memstream.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ms_pos",
+    "source": "libiconv/citrus/citrus_memstream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ms_pos",
+    "source": "libiconv/citrus/citrus_memstream.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_mmap.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "I18NMODULE_MAJOR",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MAXDEWEY",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n_search_dirs",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ndewey",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_dot_a",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_dot_a",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_dot_so",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_dot_a",
+    "source": "libiconv/citrus/citrus_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vmask",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "et_mb_cur_min",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "et_state_size",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "et_mb_cur_max",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "neg",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "neg",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "base",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_func_",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "_CITRUS_PROP_STR_BUFSIZ",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "_CITRUS_PROP_HINT_NAME_LEN_MAX",
+    "source": "libiconv/citrus/citrus_prop.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_PROP_BOOL",
+    "source": "libiconv/citrus/citrus_prop.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CITRUS_PROP_STR",
+    "source": "libiconv/citrus/citrus_prop.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "_CITRUS_PROP_CHR",
+    "source": "libiconv/citrus/citrus_prop.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "_CITRUS_PROP_NUM",
+    "source": "libiconv/citrus/citrus_prop.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_STDENC_SDID_GENERIC",
+    "source": "libiconv/citrus/citrus_stdenc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_STDENC_SDGEN_UNKNOWN",
+    "source": "libiconv/citrus/citrus_stdenc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CITRUS_STDENC_SDGEN_INITIAL",
+    "source": "libiconv/citrus/citrus_stdenc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "_CITRUS_STDENC_SDGEN_STABLE",
+    "source": "libiconv/citrus/citrus_stdenc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "_CITRUS_STDENC_SDGEN_INCOMPLETE_CHAR",
+    "source": "libiconv/citrus/citrus_stdenc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "_CITRUS_STDENC_SDGEN_INCOMPLETE_SHIFT",
+    "source": "libiconv/citrus/citrus_stdenc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_HAVE_MBTOCSN",
+    "source": "libiconv/citrus/citrus_stdenc_local.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_NEED_INIT_STATE",
+    "source": "libiconv/citrus/citrus_stdenc_local.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_HAVE_MBTOCSN",
+    "source": "libiconv/citrus/citrus_stdenc_local.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_NEED_INIT_STATE",
+    "source": "libiconv/citrus/citrus_stdenc_local.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_HAVE_MBTOCSN",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_NEED_INIT_STATE",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_HAVE_MBTOCSN",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_NEED_INIT_STATE",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acc",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/citrus/citrus_stdenc_template.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_LIBICONV_VERSION",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "__ICONV_F_HIDE_INVALID",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ICONV_TRIVIALP",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ICONV_GET_TRANSLITERATE",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ICONV_SET_TRANSLITERATE",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ICONV_GET_DISCARD_ILSEQ",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ICONV_SET_DISCARD_ILSEQ",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ICONV_SET_HOOKS",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "ICONV_SET_FALLBACKS",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "ICONV_GET_ILSEQ_INVALID",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x81",
+    "name": "ICONV_SET_ILSEQ_INVALID",
+    "source": "libiconv/citrus/iconv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_iconv_version_compat",
+    "source": "libiconv/citrus/iconv_compat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "neg",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "neg",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acc",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any",
+    "source": "libiconv/citrus/_strtol.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "neg",
+    "source": "libiconv/citrus/_strtoul.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "neg",
+    "source": "libiconv/citrus/_strtoul.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "base",
+    "source": "libiconv/citrus/_strtoul.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acc",
+    "source": "libiconv/citrus/_strtoul.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "libiconv/citrus/_strtoul.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any",
+    "source": "libiconv/citrus/_strtoul.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "INBUFSIZE",
+    "source": "libiconv/iconv/iconv.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "invalids",
+    "source": "libiconv/iconv/iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/iconv/iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "libiconv/iconv/iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/iconv/iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "res",
+    "source": "libiconv/iconv/iconv.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "LOCALE_CHARSET_MAXSZ",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "LOCALE_CHARSET_MAXSCALE",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nelem",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oelem",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oelem",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "charset_elems",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libcharset/libcharset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "l",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "l",
+    "source": "libiconv/libiconv_modules/BIG5/citrus_big5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/DECHanyu/citrus_dechanyu.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/DECHanyu/citrus_dechanyu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HANYUBIT",
+    "source": "libiconv/libiconv_modules/DECHanyu/citrus_dechanyu.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/DECHanyu/citrus_dechanyu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/DECHanyu/citrus_dechanyu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plane",
+    "source": "libiconv/libiconv_modules/DECHanyu/citrus_dechanyu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libiconv/libiconv_modules/DECHanyu/citrus_dechanyu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libiconv/libiconv_modules/DECKanji/citrus_deckanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_SS2",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_SS3",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "mb_cur_max",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wchar",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cs",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cs",
+    "source": "libiconv/libiconv_modules/EUC/citrus_euc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_SS2",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_SS3",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wchar",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clen",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "clen",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "clen",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/EUCTW/citrus_euctw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wc",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "mb_cur_max",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "mb_cur_max",
+    "source": "libiconv/libiconv_modules/GBK2K/citrus_gbk2k.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_NEED_INIT_STATE",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CTRL",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ROWCOL_MAX",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tail",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bit",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "length",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "length",
+    "source": "libiconv/libiconv_modules/HZ/citrus_hz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "e2big",
+    "source": "libiconv/libiconv_modules/iconv_none/citrus_iconv_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "e2big",
+    "source": "libiconv/libiconv_modules/iconv_none/citrus_iconv_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_none/citrus_iconv_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invalids",
+    "source": "libiconv/libiconv_modules/iconv_none/citrus_iconv_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpcnt",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szrin",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accum",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acc",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpsz",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tmpcnt",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpoff",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpidx",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attempted",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpcsid",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_mapdir",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szrout",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inval",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szrout",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "invalids",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szrout",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szrout",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "szrout",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmpout",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "_ICONV_STD_PERCVT",
+    "source": "libiconv/libiconv_modules/iconv_std/citrus_iconv_std_local.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_NEED_INIT_STATE",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ISO2022STATE_FLAG_INITIALIZED",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_8BIT",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_NOOLD",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SI",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SO",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LS0",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LS1",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LS2",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LS3",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LS1R",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LS2R",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_LS3R",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SS2",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SS3",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SS2R",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SS3R",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_NOTMATCH",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_MATCH",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "_PARSEFAIL",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "maxcharset",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "maxcharset",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "maxcharset",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxcharset",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5C303333",
+    "name": "ESC",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "ECMA",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "INTERM",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFD",
+    "name": "OECMA",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "wchar",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "gr",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "gl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "gl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gr",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "gr",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "gr",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "singlegl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "singlegl",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "singlegr",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "singlegr",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/ISO2022/citrus_iso2022.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libiconv/libiconv_modules/JOHAB/citrus_johab.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ILSEQ",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "INVALID",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "m6_forward",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m6_forward",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mt_dst_max",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mt_state_size",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_646/citrus_mapper_646.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mt_dst_max",
+    "source": "libiconv/libiconv_modules/mapper_none/citrus_mapper_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mt_state_size",
+    "source": "libiconv/libiconv_modules/mapper_none/citrus_mapper_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_none/citrus_mapper_none.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mt_dst_max",
+    "source": "libiconv/libiconv_modules/mapper_serial/citrus_mapper_serial.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mt_state_size",
+    "source": "libiconv/libiconv_modules/mapper_serial/citrus_mapper_serial.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir",
+    "source": "libiconv/libiconv_modules/mapper_serial/citrus_mapper_serial.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_serial/citrus_mapper_serial.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tmpcnt",
+    "source": "libiconv/libiconv_modules/mapper_serial/citrus_mapper_serial.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc_src_rowcol_len",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mt_dst_max",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mt_state_size",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "_CITRUS_MAPPER_STD_ROWCOL_MAX",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "_CITRUS_MAPPER_STD_ROWCOL_INFO_SIZE",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "_CITRUS_MAPPER_STD_ROWCOL_INFO_COMPAT_SIZE",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_CITRUS_MAPPER_STD_OOB_NONIDENTICAL",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CITRUS_MAPPER_STD_OOB_ILSEQ",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "_CITRUS_MAPPER_STD_ROWCOL_EXT_ILSEQ_SIZE",
+    "source": "libiconv/libiconv_modules/mapper_std/citrus_mapper_std_file.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "BUFSIZE",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T_ERR",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "T_IMM",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sign",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isrc",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isrc",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "mz_col_bits",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z_end",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mz_row_offset",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z_end",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z_end",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mz_col_bits",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mz_row_offset",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mz_col_offset",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mt_dst_max",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mt_state_size",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "row",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "row",
+    "source": "libiconv/libiconv_modules/mapper_zone/citrus_mapper_zone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MODE_JIS2004",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "libiconv/libiconv_modules/MSKanji/citrus_mskanji.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MODE_C99",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "UCS2_BIT",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "UCS4_BIT",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tail",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "tail",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tail",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tail",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "head",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/UES/citrus_ues.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_HAVE_MBTOCSN",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENDIAN_UNKNOWN",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENDIAN_BIG",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "_ENDIAN_LITTLE",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_MODE_UTF32",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_MODE_FORCE_ENDIAN",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlenbak",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlenbak",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlenbak",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlenbak",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "needlen",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "cnt",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "cnt",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wc2",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wc2",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/UTF1632/citrus_utf1632.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "6",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "BASE64_BIT",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "UTF16_BIT",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BASE64_MAX",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mode",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cache",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cache",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mode",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siz",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cache",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/UTF7/citrus_utf7.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_HAVE_MBTOCSN",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/UTF8/citrus_utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_HAVE_MBTOCSN",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UTF_REVERSE_ENDIAN",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UTF_NO_NULL_TERM",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UTF_DECOMPOSED",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UTF_PRECOMPOSED",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SP_HALF_SHIFT",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SP_HALF_BASE",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SP_HALF_MASK",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SP_HIGH_FIRST",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SP_HIGH_LAST",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SP_LOW_FIRST",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SP_LOW_LAST",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usedLength",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HANGUL_SBASE",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HANGUL_LBASE",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HANGUL_VBASE",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HANGUL_TBASE",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2BA4",
+    "name": "HANGUL_SCOUNT",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "HANGUL_LCOUNT",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "HANGUL_VCOUNT",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "HANGUL_TCOUNT",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ucslen",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/UTF8MAC/citrus_utf8mac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escape",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escape",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nresult",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csid",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mb_cur_max",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/libiconv_modules/VIQR/citrus_viqr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_ENCODING_IS_STATE_DEPENDENT",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chlen",
+    "source": "libiconv/libiconv_modules/ZW/citrus_zw.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "MAX_PIECES",
+    "source": "libiconv/tests/fuzz/fuzz.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/fuzz/fuzz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/fuzz/fuzz.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "04X",
+    "source": "libiconv/tests/iconv/diff2mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "04X",
+    "source": "libiconv/tests/iconv/diff2mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linecap",
+    "source": "libiconv/tests/iconv/diff2mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "libiconv/tests/iconv/diff2mapper.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "inbytesleft",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "inbytesleft",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "inbytesleft",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/gnu/gnu.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x401",
+    "name": "MAX_LIMIT",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "inbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "inbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "inbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "inbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/posix/posix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UC_TO_MB_FLAG",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MB_TO_WC_FLAG",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MB_TO_UC_FLAG",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "WC_TO_MB_FLAG",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "deltasz",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linesz",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "arg",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inbuf",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "outbytesleft",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outbuf",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fb_flags",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/iconv/tablegen/tablegen.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libiconv/tests/libcharset/print_charset.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "libiconv/tests/libiconv/fallback_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "libiconv/tests/libiconv/fallback_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "outsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "insz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "outsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "outsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outwritten",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "outsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "outsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SHORT_BUF_SIZE",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "outbufsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "inpairsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "testsz",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outleft",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outleft",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outleft",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "outleft",
+    "source": "libiconv/tests/libiconv/libiconv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "tcp_oscale",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tcp_offset",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fpos",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "_ICONV_STD_PERCVT",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expectedsz",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "injectsz",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "MBC_BADCS_OFS",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "MBC_SHORTBUF_OFS",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "insz",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "tcp_oscale",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "libiconv/tests/libiconv/mbopt_test.c",
+    "type": "EnumCase"
+  }
+]

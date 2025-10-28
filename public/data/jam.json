@@ -1,0 +1,1790 @@
+[
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "jam/command.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stat1",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "llist",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "jam/compile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intr",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdsrunning",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usePipeForShellCommands",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usePipeForShellCommands",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotpercent",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "output_capacity",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_length",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_capacity",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_length",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_length",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_first",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_first",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "lowest_descriptor",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_capacity",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_length",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_active",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "active_handles",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/execunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF0",
+    "name": "WRTLEN",
+    "source": "jam/execvms.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "quote",
+    "source": "jam/execvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "e",
+    "source": "jam/execvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "depth",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "variables",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "remainder",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub2",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "havezeroed",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "downshift",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "upshift",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "parent",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/expand.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SARMAG",
+    "source": "jam/filent.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "string_table",
+    "source": "jam/filent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "name",
+    "source": "jam/filent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "endname",
+    "source": "jam/filent.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_QUOTING",
+    "source": "jam/filesys.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "SARMAG",
+    "source": "jam/fileunix.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "string_table",
+    "source": "jam/fileunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x989680",
+    "name": "divisor",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VMS_archive",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "jam/filevms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "neg",
+    "source": "jam/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/glob.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bloat",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nel",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "more",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nel",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "inel",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sets",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/hash.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "headlist",
+    "source": "jam/headers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rec",
+    "source": "jam/headers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_of_scan",
+    "source": "jam/headers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left",
+    "source": "jam/headers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "jam/headers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "nmatch",
+    "source": "jam/headers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/headers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastOption",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "anyhow",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "apple_jam_extensions",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "parsable_output",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debug_parsable_output",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ascii_output_annotation",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "enable_timings",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "jam/jam.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29",
+    "name": "OSVER",
+    "source": "jam/jam.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "OSVER",
+    "source": "jam/jam.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freelist",
+    "source": "jam/lists.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "jam/lists.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nl",
+    "source": "jam/lists.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "jam/lists.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/lists.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "jam/lists.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/lists.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "leaf",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "time",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hlast",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hleaf",
+    "source": "jam/make.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "intr",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "asynccnt",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmds",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chunk",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "running",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "running",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chunk",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "count",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "chunk",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "settings",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nl",
+    "source": "jam/make1.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doDotC",
+    "source": "jam/mkjambase.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strhash",
+    "source": "jam/newstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strtotal",
+    "source": "jam/newstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/option.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/option.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "yypsave",
+    "source": "jam/parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "JAMVERSION",
+    "source": "jam/patchlevel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "jam/pathmac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "jam/pathmac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/pathmac.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "len",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needs_quoting_ptr",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needs_quoting",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_quoting",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_quoting",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_quoting",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_quoting",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_quoting",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any_substring_needs_quotes",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "this_substring_needs_quotes",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/pathunix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parent",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "parent",
+    "source": "jam/pathvms.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "END",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BOL",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EOL",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ANY",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ANYOF",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ANYBUT",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "BRANCH",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "BACK",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "EXACTLY",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "NOTHING",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "STAR",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "PLUS",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "WORDA",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "WORDZ",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "OPEN",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "CLOSE",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HASWIDTH",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SIMPLE",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SPSTART",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WORST",
+    "source": "jam/regexp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "regnpar",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regsize",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "regnpar",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reganch",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regmlen",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regprev",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "regnarrate",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "jam/regexp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "NSUBEXP",
+    "source": "jam/regexp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xEA",
+    "name": "MAGIC",
+    "source": "jam/regexp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rulehash",
+    "source": "jam/rules.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "targethash",
+    "source": "jam/rules.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "jam/rules.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "jam/rules.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "jam/rules.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "incp",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "anyerrors",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "strings",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nest",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inquote",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "literal",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasquote",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "literal",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "jam/scan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "jam/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/search.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bindhash",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "jam/timestamp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_cmd_user_time",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_cmd_sys_time",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phase_user_time",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phase_sys_time",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phase_user_time",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phase_sys_time",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suppressed_count",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suppressed_time",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suppressed_pcnt",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "time_elapsed",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_lines",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obj_size",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_lines",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/timingdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "varhash",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "committing_def_asgs",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "olist",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dollar",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setenv_num",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setenv_bytes",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shouldset",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shouldset",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needsquotes",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extralen",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needsquotes",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setenv_num",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setenv_bytes",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "capacity",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needs_quotes",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "extra_length",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra_length",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needs_quotes",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extra_length",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_escape_char",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_single_quote",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_double_quote",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "had_quote",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_escape_char",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_escape_char",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "had_quote",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "had_quote",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "had_quote",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "should_concatenate",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_recursion",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "free_value",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "free_value",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "should_concatenate",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "being_expanded",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "being_expanded",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "capacity",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "being_expanded",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "committing_def_asgs",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "committing_def_asgs",
+    "source": "jam/variable.c",
+    "type": "EnumCase"
+  }
+]

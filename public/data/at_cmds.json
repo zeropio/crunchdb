@@ -1,0 +1,842 @@
+[
+  {
+    "hex": "0xA",
+    "name": "MAXWAIT",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntransmitted",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nreceived",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timing",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9AC9FF",
+    "name": "tmin",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmax",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tsum",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9AC9FF",
+    "name": "hopmin",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hopmax",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hopsum",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "datalen",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timing",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sat_port",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "waittime",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "waittime",
+    "source": "at_cmds/appleping.tproj/appleping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "router",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "C_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "h_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "t_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zone_prompt",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "router_mix",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checkCfg",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "displayCfg",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_option",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "multihome",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cp",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "net",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "node",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ddptype",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "DISPLAY_ZONES",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zone_index",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "at_cmds/appletalk.tproj/appletalk.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5DC",
+    "name": "NTUPLES",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "ATP_BUFFS",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "fixedWidth",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "entryWidth",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opterr",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aoption",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doption",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xoption",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zoption",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Coption",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "backoff",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufcnt",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entryCount",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "totalWidth",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalWidth",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "totalWidth",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "row",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "at_cmds/atlookup.tproj/atlookup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "PRINTBUFSZ",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "PRINTBUFSZ",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/atprint.tproj/atprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/atstatus.tproj/atstatus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/atstatus.tproj/atstatus.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "NUM_APPLE_PRINTERS",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "MAX_PRINTERS",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOOKUP_ALL",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LOOKUP_LOCAL",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LOOKUP_CURRENT",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "fixedWidth",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "entryWidth",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z_option",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numPrinters",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "retries",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interval",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufcnt",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/at_cho_prn.tproj/at_cho_prn.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldp",
+    "source": "at_cmds/chooser/chooser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "at_cmds/chooser/chooser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/chooser/chooser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "at_cmds/chooser/chooser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/chooser/chooser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "COLUMNS",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MOD",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LEV",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quit",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "redisplay",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quit",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbgMod",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbgLev",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbgMod",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dbgLev",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "redisplay",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "redisplay",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "redisplay",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "redisplay",
+    "source": "at_cmds/setdbg.tproj/setdbg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "at_cmds/tuple_pr/tuple_pr.c",
+    "type": "EnumCase"
+  }
+]

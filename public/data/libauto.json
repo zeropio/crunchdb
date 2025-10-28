@@ -1,0 +1,116 @@
+[
+  {
+    "hex": "0x0",
+    "name": "AUTO_RETAINED_BLOCK_TYPE",
+    "source": "libauto/auto_zone.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTO_LOG_NONE",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AUTO_HEAP_HOLES_SHRINKING",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "AUTO_HEAP_HOLES_EXHAUSTED",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "AUTO_HEAP_SUBZONE_EXHAUSTED",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "AUTO_HEAP_REGION_EXHAUSTED",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "AUTO_HEAP_ARENA_EXHAUSTED",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTO_ZONE_COLLECT_NO_OPTIONS",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AUTO_ZONE_COLLECT_RATIO_COLLECTION",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "AUTO_ZONE_COLLECT_GENERATIONAL_COLLECTION",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "AUTO_ZONE_COLLECT_FULL_COLLECTION",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "AUTO_ZONE_COLLECT_EXHAUSTIVE_COLLECTION",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTO_ZONE_COLLECT_GLOBAL_COLLECTION_MODE_MASK",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTO_ZONE_COMPACT_NO_OPTIONS",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AUTO_ZONE_COMPACT_IF_IDLE",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "AUTO_ZONE_COMPACT_ANALYZE",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "AUTO_RETAIN_EVENT",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "AUTO_RELEASE_EVENT",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auto_is_not_auto",
+    "source": "libauto/auto_zone.h",
+    "type": "EnumCase"
+  }
+]

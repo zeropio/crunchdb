@@ -1,0 +1,6962 @@
+[
+  {
+    "hex": "0x0",
+    "name": "ifscope",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "F_GET",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "F_SET",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "F_FILESET",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "F_REPLACE",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "F_DELETE",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "func",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rtn",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "xflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_proxy",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expire_time",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifscope",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doing_proxy",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "proxy_only",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "proxy_only",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_entry",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_entry",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hp",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seg",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifscope",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "sin_len",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_addr",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_other",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "MAX_IFS",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_entry",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_entry",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hp",
+    "source": "network_cmds/arp.tproj/arp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IP_MASK_ALL",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TOK_NULL",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "res",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_printed",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index_printed",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_printed",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index_printed",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rulenum",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "nalloc",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbytes",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitval",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_ip",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_ip",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dst_port",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_port",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "proto",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bandwidth",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lookup_step",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "weight",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_acct",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_force",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "copy",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ac",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ac",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optreset",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_acct",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_force",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "test_only",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_quiet",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_pipe",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_pipe",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "do_pipe",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "MAX_ARGS",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineno",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "preproc",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "test_only",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_quiet",
+    "source": "network_cmds/dnctl/dnctl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_flags",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "cidr",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mode_p",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode_p",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/af_inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "explicit_prefix",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "explicit_prefix",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n_flags",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "explicit_prefix",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plen",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "bit",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IPV6_ROUTER_MODE_DISABLED",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IPV6_ROUTER_MODE_EXCLUSIVE",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "IPV6_ROUTER_MODE_HYBRID",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/af_inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifbond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifbond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifbond.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "len",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "len",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ifba_vlan",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifbrp_proto",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ifbrp_proto",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifbridge.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "network_cmds/ifconfig.tproj/ifclone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifclone.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bond_details",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "supmedia",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "showrtref",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "showrtref",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printkeys",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noload",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "supmedia",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "all",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iscreate",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clearaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clearaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clearaddr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "percent",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "latency",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "corruption",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "duplication",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loss_p_gr_gl",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loss_p_bl_gr",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loss_recovery_ms",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "reordering",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_ival_ms",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ret",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ifr_qosmarking_enabled",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifr_qosmarking_enabled",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_len",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eflags",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xflags",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curcap",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "allfamilies",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allfamilies",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "agent_i",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "KILOBYTES",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "GIGABIT_PER_SEC",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "MEGABIT_PER_SEC",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "KILOBIT_PER_SEC",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "NSEC_PER_SEC",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "USEC_PER_SEC",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MSEC_PER_SEC",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "EN_SWABIPS",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NEXTARG",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NEXTARG2",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPTARG",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VAARGS",
+    "source": "network_cmds/ifconfig.tproj/ifconfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/iffake.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifm_count",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "did_it",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "did_it",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "option",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seen_option",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifmedia.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vlr_tag",
+    "source": "network_cmds/ifconfig.tproj/ifvlan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ifconfig.tproj/ifvlan.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "SEGSIZE",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "RRQ",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "WRQ",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DATA",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ACK",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ERROR",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "KDP_SEEK",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "KDP_EOF",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EUNDEF",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ENOTFOUND",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EACCESS",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ENOSPACE",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "EBADOP",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "EBADID",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "EEXISTS",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "ENOUSER",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WRITE_DEBUG",
+    "source": "network_cmds/kdumpd.tproj/kdump.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TIMEOUT",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "maxtimeout",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "MAXDIRS",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "logging",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "server_mode",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "KDP_FEATURE_LARGE_CRASHDUMPS",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ipchroot",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ipchroot",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "logging",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suppress_naks",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "server_mode",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jmpval",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "block",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeout",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crashdump_offset",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tempoff",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "MAXERRMSGLEN",
+    "source": "network_cmds/kdumpd.tproj/kdumpd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFD",
+    "name": "BF_ALLOC",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "BF_FREE",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "newline",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newline",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "current",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newline",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newline",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "network_cmds/kdumpd.tproj/kdumpsubs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thiszone",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "repeat",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Pflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Hflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Pflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Rflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "xflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "zflag",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "sdl_alen",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expire_time",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "W_ADDR",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "W_LL",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "W_IF",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "isrouter",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_entry",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isrouter",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_entry",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clear",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "clear",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "column",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "column",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "column",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldn",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any",
+    "source": "network_cmds/ndp.tproj/ndp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "FQ_IF_STATS_MAX_GROUPS",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fmt",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opackets",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ipackets",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "obytes",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ibytes",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oerrors",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ierrors",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "collisions",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fpackets",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fbytes",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mtu",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timer",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "drops",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_itcp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_itcb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_otcp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_otcb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ipvp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ipvb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_opvp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_opvb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "network_layer",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "link_layer",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_itcp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_itcb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_otcp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_otcb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ipvp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ipvb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_opvp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_opvb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_addr",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "network_layer",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "network_layer",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "link_layer",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifmdall",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interesting_row",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ip",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ie",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ib",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_op",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_oe",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ob",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_co",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_dr",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_itcp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_itcb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_otcp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_otcb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ipvp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_ipvb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_opvp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_opvb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_fp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ift_fb",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAX_SYSCTL_TRY",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntry",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needed",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifqr_slot",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "grp",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "NSEC_PER_SEC",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "USEC_PER_SEC",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MSEC_PER_SEC",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sc_unit",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sref",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/netstat.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "istcp",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tcp_done",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "istcp",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "udp_done",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tcp_done",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mptcp_done",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "udp_done",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sp",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/netstat.tproj/inet.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sp",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/netstat.tproj/inet6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/ipsec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "proto",
+    "source": "network_cmds/netstat.tproj/ipsec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/ipsec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/ipsec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/ipsec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/ipsec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/ipsec.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Aflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Bflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Fflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Lflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Rflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Sflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Wflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "xflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Rflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "zflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iflag",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_written",
+    "source": "network_cmds/netstat.tproj/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "totmem",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_mbufs",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_mbufclfree",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m_16kclusters",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totmbufs",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totpct",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mbuf.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAX_SYSCTL_TRY",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastifindex",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "thisifindex",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAX_SYSCTL_TRY",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntry",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needed",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "MAX_SYSCTL_TRY",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ntry",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needed",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "any",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "any",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mcast.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mptcp_done",
+    "source": "network_cmds/netstat.tproj/mptcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/mptcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "network_cmds/netstat.tproj/mptcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "id",
+    "source": "network_cmds/netstat.tproj/mptcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mptcp_done",
+    "source": "network_cmds/netstat.tproj/mptcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "try",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAX_TRIES",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fam",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastindex",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "np",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "illegal",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "masklen",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "masklen",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "masklen",
+    "source": "network_cmds/netstat.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/systm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "network_cmds/netstat.tproj/unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "network_cmds/netstat.tproj/unix.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "network_cmds/netstat.tproj/vsock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/vsock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/netstat.tproj/vsock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sum",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "namelen",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "MAX_PER_LINE",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "network_cmds/network_cmds_lib/network_cmds_lib_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x38",
+    "name": "DEFDATALEN",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4E20",
+    "name": "FLOOD_BACKOFF",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2710",
+    "name": "MAXWAIT",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAXTOS",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_FLOOD",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_INTERVAL",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_NUMERIC",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PINGFILLED",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_QUIET",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_RROUTE",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SO_DEBUG",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SO_DONTROUTE",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_VERBOSE",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_QUIET2",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_NOLOOP",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MTTL",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MIF",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_AUDIBLE",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_POLICY",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TTL",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MISSED",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_ONCE",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_HDRINCL",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MASK",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_TIME",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SWEEP",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_WAITTIME",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_CONNECT",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PRTIME",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PRID",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PRREQ",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "phdr_len",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_sendmsg",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_recvmsg",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_dup",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sweepmin",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sweepincr",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "interval",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nrcvtimeout",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp_len",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9AC9FF",
+    "name": "tmin",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmax",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tsum",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tsumsq",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "longopt_flag",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_CONNECT",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_PRTIME",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_PRID",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_PRREQ",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "tos",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "df",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "longopt_flag",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_dup",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "no_dup",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hold",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ip_id",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "npackets",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "snpackets",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "tv_usec",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "almost_done",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sntransmitted",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "almost_done",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "tv_sec",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "finish_up",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp_code",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp_cksum",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timing",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timing",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_namelen",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_controllen",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_flags",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "triptime",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timing",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dupflag",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dupflag",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hlen",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_rrlen",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "siginfo_p",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siginfo_p",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pointer",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kk",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jj",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jj",
+    "source": "network_cmds/ping.tproj/ping.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "Sa",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "Sb",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "Sc",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "Sd",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "Se",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "Sf",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "Sg",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "Sh",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "Si",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "Sj",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "Sk",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "Sl",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "Sm",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "Sn",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "So",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "Sp",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MD5_A0",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MD5_B0",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MD5_C0",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MD5_D0",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "md5_n",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "md5_i",
+    "source": "network_cmds/ping6.tproj/md5.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "MD5_BUFLEN",
+    "source": "network_cmds/ping6.tproj/md5.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20000",
+    "name": "MAXPACKETLEN",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "IP6LEN",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "ICMP6ECHOLEN",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "EXTRA",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "NROUTES",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2710",
+    "name": "MAXWAIT",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_FLOOD",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_INTERVAL",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PINGFILLED",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_QUIET",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_RROUTE",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SO_DEBUG",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PRTIME",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_VERBOSE",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_POLICY",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_AUTHHDR",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_ENCRYPT",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_NODEADDR",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_FQDN",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_INTERFACE",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SRCADDR",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_HOSTNAME",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_FQDNOLD",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_NIGROUP",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SUPTYPES",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_NOMINMTU",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_ONCE",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_AUDIBLE",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_MISSED",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_DONTFRAG",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_SWEEP",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_CONNECT",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_WAITTIME",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PRID",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_PRREQ",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "longopt_flag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_CONNECT",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_PRTIME",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_PRID",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOF_PRREQ",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2775",
+    "name": "DUMMY_PORT",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "MAXTOS",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pathmtu",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "interval",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nrcvtimeout",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "snpackets",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sntransmitted",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sweepmax",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sweepmin",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sweepincr",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9AC9FF",
+    "name": "tmin",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmax",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tsum",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tsumsq",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rcvtclass",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_sendmsg",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_recvmsg",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ip6optlen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sockbufsize",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usepktinfo",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mflag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "preload",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_usec",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rcvtclass",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "longopt_flag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opton",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "npackets",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "snpackets",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "timing",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timing",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timing",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "datalen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "packlen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optval",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hold",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hold",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optval",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opton",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optval",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hops",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "hold",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optval",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "lu",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seenint",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seeninfo",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2710",
+    "name": "tv_usec",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "almost_done",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seeninfo",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_flags",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "almost_done",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "tv_sec",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sntransmitted",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp6_cksum",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datalen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp6_code",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datalen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datalen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datalen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp6_code",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msg_namelen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "triptime",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tclass",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dupflag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dupflag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "i",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dupflag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dupflag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oldfqdn",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldfqdn",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "comma",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufsize",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentlen",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ii",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cur",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "withttl",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "withttl",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ttl",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pointer",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kk",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jj",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jj",
+    "source": "network_cmds/ping6.tproj/ping6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FATAL",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NONFATAL",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "aflag",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dflag",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fflag",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opterr",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "immediate",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxfd",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dd",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arp_flags",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "sa_len",
+    "source": "network_cmds/rarpd.tproj/rarpd.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "K_ADD",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "K_BLACKHOLE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "K_CHANGE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "K_CLONING",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "K_DELETE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "K_DST",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "K_EXPIRE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "K_FLUSH",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "K_GATEWAY",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "K_GENMASK",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "K_GET",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "K_HOST",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "K_HOPCOUNT",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "K_IFACE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "K_INTERFACE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "K_IFA",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "K_IFP",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "K_INET",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "K_INET6",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "K_ISO",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "K_LINK",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "K_LLINFO",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "K_LOCK",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "K_LOCKREST",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "K_MASK",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "K_MONITOR",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "K_MTU",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "K_NET",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "K_NETMASK",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "K_NOSTATIC",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "K_OSI",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "K_PREFIXLEN",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "K_PROTO1",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "K_PROTO2",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "K_RECVPIPE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "K_REJECT",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25",
+    "name": "K_RTT",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x26",
+    "name": "K_RTTVAR",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x27",
+    "name": "K_SA",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "K_SENDPIPE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29",
+    "name": "K_SSTHRESH",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A",
+    "name": "K_STATIC",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2B",
+    "name": "K_X25",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2C",
+    "name": "K_XNS",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2D",
+    "name": "K_XRESOLVE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2E",
+    "name": "K_IFSCOPE",
+    "source": "network_cmds/route.tproj/keywords.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "K_INVALID",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifscope",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_flags",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "no_type",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "qflag",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tflag",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "debugonly",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uid",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seqno",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "niflags",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "niflags",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "locking",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ishost",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hp",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "locking",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lockrest",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "forcenet",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ishost",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "forcenet",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ishost",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ishost",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ishost",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "attempts",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "bits",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_len",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin6_scope_id",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "max",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "max",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "str",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_len",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sa_len",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp2",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nflag",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotsome",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotsome",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VIRGIN",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "GOTONE",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "GOTTWO",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byte",
+    "source": "network_cmds/route.tproj/route.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/rtsol.tproj/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/rtsol.tproj/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/rtsol.tproj/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/rtsol.tproj/dump.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mediareqok",
+    "source": "network_cmds/rtsol.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max",
+    "source": "network_cmds/rtsol.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/rtsol.tproj/if.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/rtsol.tproj/probe.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "network_cmds/rtsol.tproj/rtsock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "idx",
+    "source": "network_cmds/rtsol.tproj/rtsock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/rtsol.tproj/rtsol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/rtsol.tproj/rtsol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/rtsol.tproj/rtsol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/rtsol.tproj/rtsol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "hoplimit",
+    "source": "network_cmds/rtsol.tproj/rtsol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/rtsol.tproj/rtsol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "probes",
+    "source": "network_cmds/rtsol.tproj/rtsol.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E7",
+    "name": "log_upto",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MAX_RTR_SOLICITATION_DELAY",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "RTR_SOLICITATION_INTERVAL",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MAX_RTR_SOLICITATIONS",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "PROBE_INTERVAL",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mobile_node",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "once",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "once",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "aflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "dflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fflag",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mobile_node",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "once",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_dump",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mediareqok",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lladdroptlen",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nd_rs_code",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nd_rs_cksum",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nd_rs_reserved",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "probe",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "probe",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "probe",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "probes",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "MILLION",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "DADRETRY",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dadcount",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "tv_sec",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "MILLION",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_dump",
+    "source": "network_cmds/rtsol.tproj/rtsold.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IFS_IDLE",
+    "source": "network_cmds/rtsol.tproj/rtsold.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IFS_DELAY",
+    "source": "network_cmds/rtsol.tproj/rtsold.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "IFS_PROBE",
+    "source": "network_cmds/rtsol.tproj/rtsold.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "IFS_DOWN",
+    "source": "network_cmds/rtsol.tproj/rtsold.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "IFS_TENTATIVE",
+    "source": "network_cmds/rtsol.tproj/rtsold.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "IFS_OPTIMISTIC",
+    "source": "network_cmds/rtsol.tproj/rtsold.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x56",
+    "name": "SPRAYOVERHEAD",
+    "source": "network_cmds/spray.tproj/spray.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "network_cmds/spray.tproj/spray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delay",
+    "source": "network_cmds/spray.tproj/spray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "network_cmds/spray.tproj/spray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "count",
+    "source": "network_cmds/spray.tproj/spray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/spray.tproj/spray.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30B52",
+    "name": "RPCGEN_VERSION",
+    "source": "network_cmds/spray.tproj/spray.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x56",
+    "name": "SPRAYOVERHEAD",
+    "source": "network_cmds/spray.tproj/spray.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x228D",
+    "name": "SPRAYMAX",
+    "source": "network_cmds/spray.tproj/spray.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "as",
+    "source": "network_cmds/traceroute.tproj/as.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dlen",
+    "source": "network_cmds/traceroute.tproj/as.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seq",
+    "source": "network_cmds/traceroute.tproj/findsaddr-socket.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/traceroute.tproj/findsaddr-socket.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nipaddr",
+    "source": "network_cmds/traceroute.tproj/ifaddrlist.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "ICMP_UNREACH_FILTER_PROHIB",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "ICMP_UNREACH_HOST_PRECEDENCE",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "ICMP_UNREACH_PRECEDENCE_CUTOFF",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "MAXHOSTNAMELEN",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F",
+    "name": "IPPROTO_GRE",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "GRE_PPTP_PROTO",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hiplen",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "maxpacket",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first_ttl",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "waittime",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doipcksum",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "doipcksum",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixedPort",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "printdiff",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ecn",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "port",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "port",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "hdrlen",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seq",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tos",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lsrr",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "off",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sump",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sockerrno",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "max_ttl",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opterr",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "as_path",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "as_path",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "printdiff",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fixedPort",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ecn",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sump",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "packlen",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ifindex",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "as_path",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastaddr",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotlastaddr",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got_there",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unreachable",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sentfirst",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "probe",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "precis",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "precis",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "precis",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "precis",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_sec",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_usec",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "hdrlen",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hdrlen",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "hdrlen",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pmtu",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "i",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp_cksum",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp_cksum",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uh_sum",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "th_ack",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "th_off",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "th_sum",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/traceroute.tproj/traceroute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x271A",
+    "name": "DUMMY_PORT",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "MAXPACKET",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "datalen",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ICMP6ECHOLEN",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "2064",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "nprobes",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first_hop",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "max_hops",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8000",
+    "name": "port",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "waittime",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ecn",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixedPort",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seq",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "as_path",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "as_path",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fixedPort",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ecn",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tclass",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minlen",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "datalen",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "as_path",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got_there",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unreachable",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "probe",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cc",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "hdrlen",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hdrlen",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "hdrlen",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp6_code",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icmp6_cksum",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uh_sum",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "th_ack",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "th_off",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "th_sum",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rcvhlim",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "WIDTH",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "network_cmds/traceroute6.tproj/traceroute6.c",
+    "type": "EnumCase"
+  }
+]

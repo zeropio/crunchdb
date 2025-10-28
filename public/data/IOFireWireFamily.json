@@ -1,0 +1,6758 @@
+[
+  {
+    "hex": "0x0",
+    "name": "FWLOGGING",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FWASSERTS",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x46574442",
+    "name": "kFireWireTypeDebug",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFireWireOperationGetFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFireWireOperationSetFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFireWireEnableDebugLoggingBit",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFireWireEnableTracePointsBit",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWTController",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWTDevice",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWTIsoch",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kFWTUserClient",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kFWTFWIM",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "kFWTPowerManager",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A",
+    "name": "kFWTResetBusAction",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B",
+    "name": "kFWTStateChangeAction",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "kFWTScheduleResetLinkAction",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPControllerStart",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPControllerWillChangePowerState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPControllerPoweredStart",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTPControllerSetPowerState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTPControllerResetBus",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kTPControllerDelayedStateChange",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kTPControllerProcessSelfIDs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kTPControllerStartBusScan",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kTPControllerReadDeviceROM",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kTPControllerReadDeviceROMSubmitCmd",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kTPControllerUpdateDevice",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kTPControllerUpdateDeviceNewDevice",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kTPControllerUpdateDeviceCreateDevice",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kTPControllerFinishedBusScan",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kTPControllerBuildTopology",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kTPControllerUpdatePlane",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "kTPControllerAsyncRead",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "kTPControllerAsyncWrite",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "kTPControllerAsyncLock",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kTPControllerAsyncStreamWrite",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "kTPControllerProcessRcvPacket",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "kTPControllerProcessRcvPacketWR",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "kTPControllerProcessRcvPacketRQ",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "kTPControllerProcessRcvPacketRB",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "kTPControllerProcessRcvPacketRQR",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "kTPControllerProcessRcvPacketRBR",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "kTPControllerProcessWriteRequest",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "kTPControllerProcessLockRequest",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "kTPControllerAsyncLockResponse",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "kTPControllerTimeoutQBusReset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "kTPControllerTimeoutQProcessTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPDeviceSetNodeROM",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPDeviceProcessROM",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPDeviceProcessUnitDirectories",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPIsochIRMAllocateIsochResources",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPIsochIRMThreadFunc",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kTPIsochAllocateChannelBegin",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kTPIsochReallocBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kTPIsochPortUserInitWithUserDCLProgram",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPUserClientStart",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPUserClientFree",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPUserClientClientClose",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTPUserClientClientDied",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTPUserClientBusReset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPFWIMStart",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPFWIMPoweredStart",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPFWIMFinishStart",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTPFWIMResetLink",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTPFWIMInitLink",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kTPFWIMHandleBusResetInt",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kTPFWIMHandleSelfIDInt",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kTPFWIMEnterLoggingMode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kTPFWIMKPF",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPPMSetupPowerManagement",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPPMHandleLinkOnInterrupt",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPPMStartPowerSavingsTimer",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTPPMHandlePowerSavingsTimer",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTPPMExitPowerSavings",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kTPPMCancelPowerSavingsTimer",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kTPPMSleep",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kTPPMDoze",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPResetSetPowerState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPResetResetStateChangeResetScheduled",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPResetDelayedStateChangeWaitingBusReset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTPResetProcessSelfIDs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTPResetAssignCycleMaster",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kTPResetFinishedBusScan",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kTPResetUpdatePlane",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kTPResetAddUnitDirectory",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kTPResetRemoveUnitDirectory",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kTPResetMakeRoot",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kTPResetFWIMHandleSelfIDInt",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kTPResetFWIMHAABB",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kTPResetFWIMHandleSystemShutDown",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPStateChangeResetBus",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPStateChangeResetStateChange",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPStateChangeProcessSelfIDs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTPStateChangeFinishedBusScan",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTPStateChangeDoBusReset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kTPStateChangeProcessBusReset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTPScheduleReset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTPScheduleResetNotifyInvalidSelfIDs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTPScheduleResetHandleInterrupts",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTPScheduleResetHandleSelfIDInt",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTPScheduleResetWritePhyRegister",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kTPScheduleResetReadPhyRegister",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kTPScheduleResetSetLinkMode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kTPScheduleResetDCLContextDied",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kTPScheduleResetARxResProcessReceivedPacket",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kTPScheduleResetARxReqCheckForReceivedPackets",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kTPScheduleResetARxReqFilterPhysicalReadRequests",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kTPScheduleResetARxWaitForDMA",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kTPScheduleResetATxHandleCompletedCommand",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kTPScheduleResetATxWaitForDMA",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kTPScheduleResetATxAllocateCommandElement",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/FWTracepoints.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumEntries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "position",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigDirectoryIterator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigEntry.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigEntry.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOConfigEntry.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireBus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireBus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "startEvent",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireBus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireBus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireBus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "capacity",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireBus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gFireWireDebugFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gFireWireDebugFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gFireWireDebugFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kScanBusDelay",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x88B8",
+    "name": "kBusResetStartTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kBusResetTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kSelfIDTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kNormalDevicePruneDelay",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "kRepeatResetDelay",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "kOnlyNodeDevicePruneDelay",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3A98",
+    "name": "kWakeDevicePruneDelay",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7530",
+    "name": "kWakeDevicePruneDelayBusy",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xAFC8",
+    "name": "kDeviceMaximuPruneTime",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kRequestExtTCodeShift",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRequestExtTCodeMask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRequestIsComplete",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRequestIsLock",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRequestIsQuad",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWInvalidPort",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWPMSleepState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWPMWakeState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWPMSleepState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWPMWakeState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabels",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabels10S",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabelsThreshold",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fWaitingForSelfID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_power_states",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hub_port_property",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "characteristics",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fDelayedPhyPacket",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fWaitingForSelfID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "disableSoftwareBusResets",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fWaitingForSelfID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "realGen",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabels",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabels10S",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabelsThreshold",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRootNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "irmID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabels10S",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutOfTLabels",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otherContenderID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRead",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRetriesBumped",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIRMBitBucketNew",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIRMBitBucketOld",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRetriesBumped",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRetriesBumped",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fROMSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "fROMSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "fRead",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "guid",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxPing",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pingGap",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "maxHops",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF5",
+    "name": "maxPing",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "pingGap",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ports",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ports",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ports",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ports",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ports",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxDepth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "children",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hubChildRemainder",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hubChildRemainder",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "retryCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tran",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data1",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "used",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressLo",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressLo",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "outLen",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualOldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "retries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressLo",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualOldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "retries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualOldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "retries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualOldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "retries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mapper",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "log",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childNumber",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kMaxWaitForValidSelfID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSelfIDPacketSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMaxSelfIDs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWConfigurationPacketID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWLinkOnPacketID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWSelfIDPacketID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kFWSelfIDPortStatusChild",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWSelfIDPortStatusParent",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWSelfIDPortStatusNotConnected",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSelfIDPortStatusNotPresent",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSelfIDNoPower",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWSelfIDSelfPowered15W",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWSelfIDSelfPowered30W",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kFWSelfIDSelfPowered45W",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFWSelfIDBusPowered1W",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kFWSelfIDBusPowered3W",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWSelfIDBusPowered6W",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWSelfIDBusPowered10W",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWAsynchNew",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWAsynchRetryA",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kTIAsycnhRetryB",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWTCodeWriteQuadlet",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWTCodeWriteBlock",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWTCodeWriteResponse",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFWTCodeReadQuadlet",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kFWTCodeReadBlock",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWTCodeReadQuadletResponse",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWTCodeReadBlockResponse",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kFWTCodeCycleStart",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kFWTCodeLock",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kFWTCodeIsochronousBlock",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kFWTCodeLockResponse",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kFWTCodePHYPacket",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWExtendedTCodeMaskSwap",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWExtendedTCodeCompareSwap",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kFWExtendedTCodeFetchAdd",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFWExtendedTCodeLittleAdd",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kFWExtendedTCodeBoundedAdd",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWExtendedTCodeWrapAdd",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWExtendedTCodeVendorDependent",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWDebugIgnoreNodeNone",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStarting",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "startEvent",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hub_port",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUGGING_LEVEL",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fUnitCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fROMReadRetry",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "maxPackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "fMaxReadROMPackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "fMaxReadROMPackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "fMaxReadROMPackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "fMaxReadPackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "fMaxWritePackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unitSpecID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unitSWVers",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modelID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modelVendorID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modelID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vendorID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unitSpecID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unitSoftwareVersion",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "modelID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbp2_revision",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbp2_lun",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sbp2_mao",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "propTable",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newDevice",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNodeFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNodeFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FWLOCALLOGGING",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kChannel31Mask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fGeneration",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ourNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "fLockRetries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocationGeneration",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidthUnits",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fIsochChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocationGeneration",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidthUnits",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fIsochChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocationGeneration",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocationGeneration",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireIRM.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kIOFWAllPhysicalFilters",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireLink.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOFWSetDSLimit",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireLink.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIOFWSetForceLinkReset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireLink.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "fMaxReadROMPackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireLocalNode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "fMaxReadPackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireLocalNode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "fMaxWritePackLog",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireLocalNode.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numRanges",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireMultiIsochReceive.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numClientReferences",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireMultiIsochReceive.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kMaxRangesPerMultiIsochReceivePacket",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireMultiIsochReceive.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNotTerminated",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireNub.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMaximumDeciwatts",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWirePowerManager.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedDeciwatts",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWirePowerManager.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedDeciwatts",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWirePowerManager.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kROMBIBSizeMinimal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireROMCache.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "kROMBIBSizeGeneral",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireROMCache.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "getBytesNoCopy",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireROMCache.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireROMCache.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireROMCache.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireROMCache.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireROMCache.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUGGING_LEVEL",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUnit.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "objectCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "selectorObjectLookupIndex",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "selectorObjectLookupIndex",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "selectorObjectLookupIndex",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycleTime",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "upTime",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outGeneration",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outLocalNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDataLen",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDir",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outAddressSpaceHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outSegmentCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outSegmentCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDirRef",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outValue",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDirHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outKey",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outKey",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDataHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDataLen",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDirHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outValue",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outValue",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outIteratorHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outIteratorHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outType",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outNumEntries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outChanSupportedHi",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outChanSupportedLo",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outChannelHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busTime",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cycleTime",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outGeneration",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outLocalNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outRemoteNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "irmNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outFlags",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outDataHandle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isochChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bandwidthUnits",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernel_ref",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fSelfOpenCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSessionRef",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outBytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outBytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTextLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outLen",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IORecursiveLockAlloc",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClientIniter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IORecursiveLockFree",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClientIniter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sIniterLock",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClientIniter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "provider",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClientIniter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dest",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClientIniter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dest",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClientIniter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "srcDictionary",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFireWireUserClientIniter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceNodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWResponseComplete",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFWResponseConflictError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kFWResponseDataError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWResponseTypeError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWResponseAddressError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWResponseComplete",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFWResponseConflictError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kFWResponseDataError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWResponseTypeError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWResponseAddressError",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7530",
+    "name": "kIOFWAsyncCommandMaxExecutionTime",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "fTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fMaxPack",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAckCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "fTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fMaxPack",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAckCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fMaxPack",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAckCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fMaxPack",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAckCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fMaxPack",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncPHYCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "fTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncPHYCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "fTimeout",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DCL_MODE",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seg",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seg",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSegment",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numDCLCommands",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numDCLCommands",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kMaxAsyncStreamReceiveBuffers",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kMaxAsyncStreamReceiveBufferSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWAsyncStreamReceiver.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWBusCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kFWCmdDefaultRetries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWCmdZeroRetries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWCmdReducedRetries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWCmdIncreasedRetries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kMaxWriteQuads",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCommand.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCompareAndSwapCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCompareAndSwapCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "fSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCompareAndSwapCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCompareAndSwapCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWCompareAndSwapCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rangesCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rangesCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sync",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tag",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refcon",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCL.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCurrentTag",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCurrentSync",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exportLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernBaseAddress",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rangeCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dclIndex",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theDCL",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "highAddress",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lowAddress",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outPhysicalSegmentCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rangeIndex",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transferBytes",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numSegs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLProgram.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetNum",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPingCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetNum",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPingCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pingPongNum",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetNum",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPingCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pingPongNum",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetNum",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPingCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNumPingPongs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "kNumPacketsPerPingPong",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMaxIsochPacketSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDCLTranslator.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWDelayCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "fChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "num_segments",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIOVMAddr",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inSpeed",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inAllowedChans",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "delayRetries",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldVal",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "fChannel",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWIsochChannelUnknownCondition",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWIsochChannelNotEnoughBandwidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWIsochChannelChannelNotAvailable",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWIsochChannel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWLocalIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWLocalIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tagBits",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWLocalIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listIndex",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWLocalIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWLocalIsochPort.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lineDelayMS",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWLocalIsochPort.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "num_segments",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIOVMAddr",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phys",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numSegments",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "fMaxPack",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "fMaxPack",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "fSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWReadQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFrontOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fQueueLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paddingBytes",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paddingBytes",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "drawBufferWidth",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paddingBytes",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paddingBytes",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWRingBufferQ.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWSimpleContiguousPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWSimpleContiguousPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressLo",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWSimpleContiguousPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "segment_count",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWSimpleContiguousPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset_64",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWSimpleContiguousPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "segment_count",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWSimpleContiguousPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fBufferAvailable",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addressHi",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "whichAsyncRef",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumQuads",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumQuads",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumQuads",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "bytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "responseCode",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userRef",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "num_segments",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIOVMAddr",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fProgramCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "version",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextUserExportDCLOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "import_data_size",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pairIndex",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "fCapacity",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newCapacity",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_handle",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fObjectCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCapacity",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserObjectExporter.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "fMaxQueueCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedQueueCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asyncref",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "asyncref",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fElementWaitingCompletion",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "commandID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "element",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fElementWaitingCompletion",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fElementWaitingCompletion",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data1",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data2",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data1",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data2",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFreeListHead",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFreeListTail",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFreeState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPendingState",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTypeNone",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTypeData",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTypeSkipped",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPHYPacketListener.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSegmentCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numSegs",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GUID",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "argCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "argCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skippedPacketCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "argCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFree",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserPseudoAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fInflightCmds",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResultOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernCommandRef",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernCommandRef",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "bytesTransferred",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUserVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "shift",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc16",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quadNum",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "shift",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outOffset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUGGING_LEVEL",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWWorkLoop.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sLockGroupCount",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWWorkLoop.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWWriteCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IOASSERT",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWWriteQuadCommand.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "fSize",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWWriteQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOFWWriteQuadCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "crc",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "zeros",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "headerLength",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireFamily.kmodproj/IOLocalConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWAddressSpaceNoFlags",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kFWUserCommandSubmitWithCopyMaxBufferBytes",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLib.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWCommandNoFlags",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBuffer",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBufferSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inCallBack",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inRefCon",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibAsyncStreamListener.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCoalesceTree.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernel_ref",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "staleFlags",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vm_address",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "staleFlags",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newBuffer",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newBufferSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "staleFlags",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibConfigDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mStorageSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "foundFreeBlock",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compilerData",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newStorage",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDCLCommandPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mConnection",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mAsyncPort",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mAsyncCFPort",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBusResetHandler",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBusResetDoneHandler",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoop",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopSource",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopMode",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochRunLoop",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochRunLoopSource",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochRunLoopMode",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochAsyncPort",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochAsyncCFPort",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "connection",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoop",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopMode",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoop",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopMode",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputStructSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "size",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputStructSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochRunLoop",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochRunLoopSource",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mIsochRunLoopMode",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnInterface",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoop",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopSource",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopMode",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmplrData",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmplrData",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "packetSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listIndex",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inAddressLo",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "generation",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibDevice.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inCallBack",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inRefCon",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIRMAllocation.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mKernChannelRef",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listenIndex",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listenIndex",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listenIndex",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "listenIndex",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochChannel.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "programExportBytes",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "programData",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "programExportBytes",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "programData",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "programCount",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byteCount",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exportBytes",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pairIndex",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputStructSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputStructSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIsochPort.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRefCount",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibIUnknown.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "updateSetCount",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeStampOffset",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "statusOffset",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skipBranchIndex",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userHeaderOffset",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "userHeaderMaskOffset",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kReserved",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCL.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exportBytes",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibNuDCLPool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernel_ref",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPHYPacketListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "currentSegment",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPhysicalAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kIOFireWireLibConnection",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPriv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDCLExportDataLegacyVersion",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kDCLExportDataNuDCLRosettaVersion",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kOpen",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPriv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mPendingLocks",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBuffer",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mBufferSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inRefCon",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibPseudoAddressSpace.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputVal",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "descLen",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "descLen",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "descLen",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputStructSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibUnitDirectory.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kernel_ref",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outputCnt",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSubmitBufferSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mResultBufferSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_count",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSubmitBufferSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mResultBufferSize",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_count",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "IOFireWireFamily/IOFireWireLib.CFPlugInProj/IOFireWireLibVectorCommand.cpp",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "hex": "0xA",
+    "name": "DEFAULT_STALE_DAYS",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE10",
+    "name": "DEFAULT_EXPIRE_OVERLAP_SECONDS",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_PRINT",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_PRINT",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "irtn",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optArg",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArg",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "optArg",
+    "source": "security_crlrefresh/src/crlRefresh.cpp",
+    "type": "EnumCase"
+  }
+]

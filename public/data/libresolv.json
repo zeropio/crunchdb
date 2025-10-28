@@ -1,0 +1,6416 @@
+[
+  {
+    "hex": "0x1328DBE",
+    "name": "__NAMESER",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "NS_PACKETSZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x401",
+    "name": "NS_MAXDNAME",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "NS_MAXMSG",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NS_MAXCDNAME",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3F",
+    "name": "NS_MAXLABEL",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "NS_MAXLABELS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "NS_MAXNNAME",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "NS_HFIXEDSZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_QFIXEDSZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "NS_RRFIXEDSZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_INT32SZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_INT16SZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NS_INT8SZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_INADDRSZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "NS_IN6ADDRSZ",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_CMPRSFLGS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x35",
+    "name": "NS_DEFAULTPORT",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_s_qd",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_s_zn",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_s_an",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_s_pr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_s_ns",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_s_ud",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_s_ar",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_s_max",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_o_query",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_o_iquery",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_o_status",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_o_notify",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ns_o_update",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ns_o_max",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_r_noerror",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_r_formerr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_r_servfail",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_r_nxdomain",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_r_notimpl",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ns_r_refused",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ns_r_yxdomain",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "ns_r_yxrrset",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ns_r_nxrrset",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "ns_r_notauth",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "ns_r_notzone",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "ns_r_max",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ns_r_badvers",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ns_r_badsig",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "ns_r_badkey",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "ns_r_badtime",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_uop_delete",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_uop_add",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_uop_max",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "NS_TSIG_FUDGE",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "NS_TSIG_TCP_COUNT",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF6",
+    "name": "NS_TSIG_ERROR_NO_TSIG",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF5",
+    "name": "NS_TSIG_ERROR_NO_SPACE",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF4",
+    "name": "NS_TSIG_ERROR_FORMERR",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_t_invalid",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_t_a",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_t_ns",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_t_md",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_t_mf",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ns_t_cname",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ns_t_soa",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "ns_t_mb",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ns_t_mg",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "ns_t_mr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "ns_t_null",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "ns_t_wks",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "ns_t_ptr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "ns_t_hinfo",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "ns_t_minfo",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "ns_t_mx",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ns_t_txt",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "ns_t_rp",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "ns_t_afsdb",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "ns_t_x25",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "ns_t_isdn",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "ns_t_rt",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "ns_t_nsap",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "ns_t_nsap_ptr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "ns_t_sig",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "ns_t_key",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "ns_t_px",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "ns_t_gpos",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "ns_t_aaaa",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "ns_t_loc",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "ns_t_nxt",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "ns_t_eid",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "ns_t_nimloc",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "ns_t_srv",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x22",
+    "name": "ns_t_atma",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23",
+    "name": "ns_t_naptr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x24",
+    "name": "ns_t_kx",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x25",
+    "name": "ns_t_cert",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x26",
+    "name": "ns_t_a6",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "ns_t_dname",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "ns_t_sink",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29",
+    "name": "ns_t_opt",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "ns_t_apl",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2B",
+    "name": "ns_t_ds",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2C",
+    "name": "ns_t_sshfp",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2D",
+    "name": "ns_t_ipseckey",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2E",
+    "name": "ns_t_rrsig",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2F",
+    "name": "ns_t_nsec",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "ns_t_dnskey",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31",
+    "name": "ns_t_dhcid",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "ns_t_nsec3",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x33",
+    "name": "ns_t_nsec3param",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "ns_t_hip",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "ns_t_spf",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF9",
+    "name": "ns_t_tkey",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA",
+    "name": "ns_t_tsig",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFB",
+    "name": "ns_t_ixfr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFC",
+    "name": "ns_t_axfr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFD",
+    "name": "ns_t_mailb",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "ns_t_maila",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "ns_t_any",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "ns_t_zxfr",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8001",
+    "name": "ns_t_dlv",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "ns_t_max",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_c_invalid",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_c_in",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_c_2",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_c_chaos",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_c_hs",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "ns_c_none",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "ns_c_any",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "ns_c_max",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_kt_rsa",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_kt_dh",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_kt_dsa",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "ns_kt_private",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cert_t_pkix",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "cert_t_spki",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "cert_t_pgp",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFD",
+    "name": "cert_t_url",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "cert_t_oid",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPEMASK",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_AUTH_CONF",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_CONF_ONLY",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_AUTH_ONLY",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_NO_KEY",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NO_AUTH",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NO_CONF",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED2",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_EXTENDED_FLAGS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED4",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED5",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_TYPE",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_USER",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_ENTITY",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_ZONE",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_RESERVED",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED8",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED9",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED10",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED11",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_SIGNATORYMASK",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED_BITMASK2",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NS_ALG_MD5RSA",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_ALG_DH",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_ALG_DSA",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFD",
+    "name": "NS_ALG_EXPIRE_ONLY",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFE",
+    "name": "NS_ALG_PRIVATE_OID",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NS_KEY_PROT_TLS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_KEY_PROT_EMAIL",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_KEY_PROT_DNSSEC",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_KEY_PROT_IPSEC",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NS_KEY_PROT_ANY",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "NS_MD5RSA_MIN_BITS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "NS_MD5RSA_MAX_BITS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29",
+    "name": "NS_DSA_SIG_SIZE",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD5",
+    "name": "NS_DSA_MIN_SIZE",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x195",
+    "name": "NS_DSA_MAX_BYTES",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_SIG_TYPE",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_SIG_ALG",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_SIG_LABELS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_SIG_OTTL",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NS_SIG_EXPIR",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "NS_SIG_SIGNED",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "NS_SIG_FOOT",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "NS_SIG_SIGNER",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NS_NXT_BITS",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "NS_NXT_MAX",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_OPT_DNSSEC_OK",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_OPT_NSID",
+    "source": "libresolv/arpa/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "datalength",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tarindex",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "state",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "state",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "state",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "libresolv/base64.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "INET_NTOP_AF_INET_OFFSET",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "INET_NTOP_AF_INET6_OFFSET",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SEARCH_COUNT_INIT",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_CONTROL_FLAG_DEBUG",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_CONTROL_FLAG_NO_MDNS",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DNS_DELAY_INTERVAL",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRIVATE_HANDLE_TYPE_SUPER",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DNS_PRIVATE_HANDLE_TYPE_PLAIN",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MDNS_MIN_TTL",
+    "source": "libresolv/dns.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "dns_control_mdns",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dns_control_debug",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "search_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "refresh",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refresh",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refresh",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refresh",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refresh",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "refresh",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sc_dns_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sc_dns_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "stattime",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "search_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dns_control_mdns",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dns_control_debug",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "local_control",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local_control",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "client_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "snooze",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "snooze",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "snooze",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dns_delay",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "append",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "append",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdns_count",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minstate",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minstate",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ndots",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fqdn",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "libresolv/dns.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pl",
+    "source": "libresolv/dns_async.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fl",
+    "source": "libresolv/dns_async.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pl",
+    "source": "libresolv/dns_async.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAG_DEBUG",
+    "source": "libresolv/dns_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAG_CHECK_RESOLVER_DIR",
+    "source": "libresolv/dns_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAG_HAVE_IPV6_SERVER",
+    "source": "libresolv/dns_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAG_OK_TO_SKIP_AAAA",
+    "source": "libresolv/dns_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAG_DEFAULT_RESOLVER",
+    "source": "libresolv/dns_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAG_FORWARD_TO_MDNSRESPONDER",
+    "source": "libresolv/dns_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRIVATE_HANDLE_TYPE_SUPER",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DNS_PRIVATE_HANDLE_TYPE_PLAIN",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "DNS_DEFAULT_RECEIVE_SIZE",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10000",
+    "name": "DNS_MAX_RECEIVE_SIZE",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SDNS_DEFAULT_STAT_LATENCY",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_QR_MASK",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_QR_QUERY",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_OPCODE_MASK",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_RCODE_MASK",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_AA",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_TC",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_RD",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_FLAGS_RA",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_SOCK_UDP",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DNS_SOCK_TCP_UNCONNECTED",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DNS_SOCK_TCP_CONNECTED",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "INET_NTOP_AF_INET_OFFSET",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "INET_NTOP_AF_INET6_OFFSET",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAXPACKET",
+    "source": "libresolv/dns_util.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "compressed",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "more",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "compressed",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "more",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mi",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bx",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "string_count",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "qdcount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ancount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arcount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ancount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arcount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arcount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arcount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unused",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "ref",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sign",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retry",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "retrans",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ndots",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nscount",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_family",
+    "source": "libresolv/dns_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_STATUS_OK",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DNS_STATUS_BAD_HANDLE",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DNS_STATUS_MALFORMED_QUERY",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DNS_STATUS_TIMEOUT",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DNS_STATUS_SEND_FAILED",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DNS_STATUS_RECEIVE_FAILED",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "DNS_STATUS_CONNECTION_FAILED",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "DNS_STATUS_WRONG_SERVER",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DNS_STATUS_WRONG_XID",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "DNS_STATUS_WRONG_QUESTION",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_XID",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_QR",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_OPCODE",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_AA",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_TC",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_RD",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_RA",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_PR",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_RCODE",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_QUESTION",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_ANSWER",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_AUTHORITY",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_ADDITIONAL",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_PRINT_SERVER",
+    "source": "libresolv/dns_util.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "RAW_KEY_SIZE",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SIG_MODE_INIT",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SIG_MODE_UPDATE",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SIG_MODE_FINAL",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DST_FORCE_READ",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DST_CAN_SIGN",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DST_NO_AUTHEN",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DST_EXTEND_FLAG",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DST_STANDARD",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DST_PRIVATE",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DST_PUBLIC",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DST_RAND_SEMI",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DST_RAND_STD",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DST_RAND_KEY",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DST_RAND_DSS",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "KEY_RSA",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "KEY_DH",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "KEY_DSA",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFE",
+    "name": "KEY_PRIVATE",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "KEY_EXPAND",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9D",
+    "name": "KEY_HMAC_MD5",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9E",
+    "name": "KEY_HMAC_SHA1",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNKNOWN_KEYALG",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DST_FLAGS_SIZE",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DST_KEY_PROT",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DST_KEY_ALG",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DST_EXT_FLAG",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DST_KEY_START",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SIGN_F_NOKEY",
+    "source": "libresolv/dst.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "done_init",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done_init",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pub",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loc",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "enc_len",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dk_id",
+    "source": "libresolv/dst_api.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "DST_HASH_SIZE",
+    "source": "libresolv/dst_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "HMAC_LEN",
+    "source": "libresolv/hmac_link.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HMAC_IPAD",
+    "source": "libresolv/hmac_link.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HMAC_OPAD",
+    "source": "libresolv/hmac_link.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "MD5_LEN",
+    "source": "libresolv/hmac_link.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sign_len",
+    "source": "libresolv/hmac_link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/hmac_link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key_len",
+    "source": "libresolv/hmac_link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/hmac_link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mt_key_initialized",
+    "source": "libresolv/mtctxres.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mt_key_initialized",
+    "source": "libresolv/mtctxres.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1328DBE",
+    "name": "__NAMESER",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "NS_PACKETSZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x401",
+    "name": "NS_MAXDNAME",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "NS_MAXMSG",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NS_MAXCDNAME",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3F",
+    "name": "NS_MAXLABEL",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "NS_MAXLABELS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "NS_MAXNNAME",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "NS_HFIXEDSZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_QFIXEDSZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "NS_RRFIXEDSZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_INT32SZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_INT16SZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NS_INT8SZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_INADDRSZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "NS_IN6ADDRSZ",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_CMPRSFLGS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x35",
+    "name": "NS_DEFAULTPORT",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_s_qd",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_s_zn",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_s_an",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_s_pr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_s_ns",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_s_ud",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_s_ar",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_s_max",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_o_query",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_o_iquery",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_o_status",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_o_notify",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ns_o_update",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ns_o_max",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_r_noerror",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_r_formerr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_r_servfail",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_r_nxdomain",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_r_notimpl",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ns_r_refused",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ns_r_yxdomain",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "ns_r_yxrrset",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ns_r_nxrrset",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "ns_r_notauth",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "ns_r_notzone",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "ns_r_max",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ns_r_badvers",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ns_r_badsig",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "ns_r_badkey",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "ns_r_badtime",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_uop_delete",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_uop_add",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_uop_max",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12C",
+    "name": "NS_TSIG_FUDGE",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "NS_TSIG_TCP_COUNT",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF6",
+    "name": "NS_TSIG_ERROR_NO_TSIG",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF5",
+    "name": "NS_TSIG_ERROR_NO_SPACE",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFF4",
+    "name": "NS_TSIG_ERROR_FORMERR",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_t_invalid",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_t_a",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_t_ns",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_t_md",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_t_mf",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "ns_t_cname",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ns_t_soa",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "ns_t_mb",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "ns_t_mg",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "ns_t_mr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "ns_t_null",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "ns_t_wks",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "ns_t_ptr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "ns_t_hinfo",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "ns_t_minfo",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "ns_t_mx",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "ns_t_txt",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "ns_t_rp",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "ns_t_afsdb",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "ns_t_x25",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "ns_t_isdn",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "ns_t_rt",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "ns_t_nsap",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "ns_t_nsap_ptr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "ns_t_sig",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "ns_t_key",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "ns_t_px",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "ns_t_gpos",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "ns_t_aaaa",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "ns_t_loc",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "ns_t_nxt",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "ns_t_eid",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "ns_t_nimloc",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "ns_t_srv",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x22",
+    "name": "ns_t_atma",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23",
+    "name": "ns_t_naptr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x24",
+    "name": "ns_t_kx",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x25",
+    "name": "ns_t_cert",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x26",
+    "name": "ns_t_a6",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "ns_t_dname",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "ns_t_sink",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29",
+    "name": "ns_t_opt",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "ns_t_apl",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2B",
+    "name": "ns_t_ds",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2C",
+    "name": "ns_t_sshfp",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2D",
+    "name": "ns_t_ipseckey",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2E",
+    "name": "ns_t_rrsig",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2F",
+    "name": "ns_t_nsec",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "ns_t_dnskey",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31",
+    "name": "ns_t_dhcid",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "ns_t_nsec3",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x33",
+    "name": "ns_t_nsec3param",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "ns_t_hip",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "ns_t_spf",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF9",
+    "name": "ns_t_tkey",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA",
+    "name": "ns_t_tsig",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFB",
+    "name": "ns_t_ixfr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFC",
+    "name": "ns_t_axfr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFD",
+    "name": "ns_t_mailb",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "ns_t_maila",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "ns_t_any",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "ns_t_zxfr",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8001",
+    "name": "ns_t_dlv",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "ns_t_max",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns_c_invalid",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_c_in",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_c_2",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_c_chaos",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ns_c_hs",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "ns_c_none",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "ns_c_any",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "ns_c_max",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ns_kt_rsa",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "ns_kt_dh",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "ns_kt_dsa",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "ns_kt_private",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cert_t_pkix",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "cert_t_spki",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "cert_t_pgp",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFD",
+    "name": "cert_t_url",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFE",
+    "name": "cert_t_oid",
+    "source": "libresolv/nameser.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPEMASK",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_AUTH_CONF",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_CONF_ONLY",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_AUTH_ONLY",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_TYPE_NO_KEY",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NO_AUTH",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NO_CONF",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED2",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_EXTENDED_FLAGS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED4",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED5",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_TYPE",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_USER",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_ENTITY",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_ZONE",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_NAME_RESERVED",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED8",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED9",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED10",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED11",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_SIGNATORYMASK",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_KEY_RESERVED_BITMASK2",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NS_ALG_MD5RSA",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_ALG_DH",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_ALG_DSA",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFD",
+    "name": "NS_ALG_EXPIRE_ONLY",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFE",
+    "name": "NS_ALG_PRIVATE_OID",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NS_KEY_PROT_TLS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_KEY_PROT_EMAIL",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_KEY_PROT_DNSSEC",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_KEY_PROT_IPSEC",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "NS_KEY_PROT_ANY",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "NS_MD5RSA_MIN_BITS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "NS_MD5RSA_MAX_BITS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29",
+    "name": "NS_DSA_SIG_SIZE",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD5",
+    "name": "NS_DSA_MIN_SIZE",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x195",
+    "name": "NS_DSA_MAX_BYTES",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_SIG_TYPE",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NS_SIG_ALG",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_SIG_LABELS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NS_SIG_OTTL",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NS_SIG_EXPIR",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "NS_SIG_SIGNED",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "NS_SIG_FOOT",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "NS_SIG_SIGNER",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NS_NXT_BITS",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F",
+    "name": "NS_NXT_MAX",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_OPT_DNSSEC_OK",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "NS_OPT_NSID",
+    "source": "libresolv/nameser.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "errp",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errp",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mdays",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x46",
+    "name": "i",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errp",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errp",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "errp",
+    "source": "libresolv/ns_date.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NS_TYPE_ELT",
+    "source": "libresolv/ns_name.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DNS_LABELTYPE_BITSTRING",
+    "source": "libresolv/ns_name.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "e",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escaped",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checked",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "first",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "blen",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "afterslash",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "afterslash",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blen",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "bitlen",
+    "source": "libresolv/ns_name.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PARSE_FMT_PRESO",
+    "source": "libresolv/ns_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PARSE_FMT_WIRE",
+    "source": "libresolv/ns_parse.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/ns_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/ns_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ttl",
+    "source": "libresolv/ns_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rdlength",
+    "source": "libresolv/ns_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ttl",
+    "source": "libresolv/ns_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rdlength",
+    "source": "libresolv/ns_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_rrnum",
+    "source": "libresolv/ns_parse.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x75BCD15",
+    "name": "0123456789ABCDEFGHIJKLMNOPQRSTUV",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcnt",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "lcnt",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key_id",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "spaced",
+    "source": "libresolv/ns_print.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escaped",
+    "source": "libresolv/ns_samedomain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siglen",
+    "source": "libresolv/ns_sign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siglen",
+    "source": "libresolv/ns_sign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ttl",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmp",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digits",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirty",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tmp",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "digits",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirty",
+    "source": "libresolv/ns_ttl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siglen",
+    "source": "libresolv/ns_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siglen",
+    "source": "libresolv/ns_verify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SA_LEN",
+    "source": "libresolv/port_after.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAS_INET6_STRUCTS",
+    "source": "libresolv/port_after.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SIN6_SCOPE_ID",
+    "source": "libresolv/port_after.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TIME_R",
+    "source": "libresolv/port_after.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_LIBC",
+    "source": "libresolv/port_before.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DO_PTHREADS",
+    "source": "libresolv/port_before.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USE_POLL",
+    "source": "libresolv/port_before.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MD5",
+    "source": "libresolv/port_before.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1328DBE",
+    "name": "__RES",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MAXNS",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MAXDFLSRCH",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "MAXDNSRCH",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LOCALDOMAINPARTS",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "RES_TIMEOUT",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "MAXRESOLVSORT",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "RES_MAXNDOTS",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "RES_MAXRETRANS",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "RES_MAXRETRY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "RES_DFLRETRY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "RES_MAXTIME",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_F_VC",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_F_CONN",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_F_EDNS0ERR",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_F__UNUSED",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_F_LASTMASK",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "RES_F_LASTSHIFT",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_EXHAUSTIVE",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_IPV4ONLY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_IPV6ONLY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_INIT",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_DEBUG",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_AAONLY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_USEVC",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRIMARY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_IGNTC",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_RECURSE",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_DEFNAMES",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_STAYOPEN",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_DNSRCH",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_INSECURE1",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_INSECURE2",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NOALIASES",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_USE_INET6",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_ROTATE",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NOCHECKNAME",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_KEEPTSIG",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_BLAST",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NSID",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NO_NIBBLE",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NO_BITSTRING",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NOTLDQUERY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_USE_DNSSEC",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_DEBUG2",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NSID",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_USE_DNAME",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_USE_A6",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_USE_EDNS0",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_NO_NIBBLE2",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_STATS",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_UPDATE",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_CLASS",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_CMD",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_QUES",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_ANS",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_AUTH",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_ADD",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_HEAD1",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_HEAD2",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_TTLID",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_HEADX",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_QUERY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_REPLY",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_INIT",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RES_PRF_TRUNC",
+    "source": "libresolv/resolv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PERIOD",
+    "source": "libresolv/res_comp.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/res_comp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escaped",
+    "source": "libresolv/res_comp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escaped",
+    "source": "libresolv/res_comp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "_pad",
+    "source": "libresolv/res_data.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "buflen",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rrnum",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mval",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exponent",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "mantissa",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deg",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "which",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "which",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "latit",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lltemp1",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "altmeters",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hp",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vp",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siz",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "which1",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "referencealt",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "libresolv/res_debug.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RR_NS_HAVE_V4",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RR_NS_HAVE_V6",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "li",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_findzonecut.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "INET_NTOP_AF_INET_OFFSET",
+    "source": "libresolv/res_init.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "INET_NTOP_AF_INET6_OFFSET",
+    "source": "libresolv/res_init.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "_pad",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ndots",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pfcode",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_flags",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nscount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dotcount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "semicount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_family",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ival",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ival",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nserv",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "haveenv",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "havesearch",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsort",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ndots",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pfcode",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_flags",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "reload_period",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxns",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsort",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "havesearch",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nserv",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "havesearch",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "havesearch",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_family",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "u",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dots",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nsearch",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "send_timeout",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nserv",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_family",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_family",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_family",
+    "source": "libresolv/res_init.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libresolv/res_mkquery.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "anslen",
+    "source": "libresolv/res_mkquery.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAXPORT",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "numrrs",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rttl",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r_size",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r_size",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r_size",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "multiline",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "multiline",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxbm",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxtype",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inquote",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seen_quote",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escape",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dig",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "escape",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dig",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_quote",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escape",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seendigit",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seendigit",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seendigit",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seendigit",
+    "source": "libresolv/res_mkupdate.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC17",
+    "name": "DNS_RES_STATUS_TIMEOUT",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC16",
+    "name": "DNS_RES_STATUS_CANCELLED",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC15",
+    "name": "DNS_RES_STATUS_INVALID_QUERY",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC14",
+    "name": "DNS_RES_STATUS_INVALID_ARGUMENT",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC13",
+    "name": "DNS_RES_STATUS_INVALID_RES_STATE",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC12",
+    "name": "DNS_RES_STATUS_INVALID_REPLY",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC11",
+    "name": "DNS_RES_STATUS_CONNECTION_REFUSED",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC10",
+    "name": "DNS_RES_STATUS_SEND_FAILED",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC0F",
+    "name": "DNS_RES_STATUS_CONNECTION_FAILED",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFC0E",
+    "name": "DNS_RES_STATUS_SYSTEM_ERROR",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "RES_EXT_SUFFIX_LEN",
+    "source": "libresolv/res_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "MAXPACKET",
+    "source": "libresolv/res_query.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "BILLION",
+    "source": "libresolv/res_query.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x48",
+    "name": "IPv6_REVERSE_LEN",
+    "source": "libresolv/res_query.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3A",
+    "name": "IPv6_REVERSE_LINK_LOCAL_TRAILING_CHAR",
+    "source": "libresolv/res_query.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "IPv6_REVERSE_LINK_LOCAL_SCOPE_ID_LOW",
+    "source": "libresolv/res_query.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cancelled",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rcode",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "qr",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iface",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_nsec",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "wait",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cancelled",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wait",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wait",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cancelled",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wait",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wait",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got_nodata",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tried_as_is",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searched",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dots",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trailing_dot",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "searched",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got_nodata",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tried_as_is",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searched",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dots",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trailing_dot",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "searched",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got_nodata",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tried_as_is",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "searched",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dots",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trailing_dot",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "searched",
+    "source": "libresolv/res_query.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "MAX_HOOK_RETRIES",
+    "source": "libresolv/res_send.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "RANDOM_BIND_MAX_TRIES",
+    "source": "libresolv/res_send.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interrupt_pipe_enabled",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "src_port",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interrupt_pipe_enabled",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "interrupt_pipe_enabled",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B9ACA00",
+    "name": "BILLION",
+    "source": "libresolv/res_send.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotsomewhere",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needclose",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tries",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ns",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "ThreadStateExitRequested",
+    "source": "libresolv/res_send.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "exit_requested",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "on",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "connreset",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "truncating",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "connreset",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "truncating",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tc",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "msg_iovlen",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rif",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "multicast",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin6_scope_id",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin6_scope_id",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin6_scope_id",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seconds",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "polltimeout",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotsomewhere",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iface",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotsomewhere",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "v_circuit",
+    "source": "libresolv/res_send.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usingTCP",
+    "source": "libresolv/res_sendsigned.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nscount",
+    "source": "libresolv/res_sendsigned.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usingTCP",
+    "source": "libresolv/res_sendsigned.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "usingTCP",
+    "source": "libresolv/res_sendsigned.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res_thr_keycreated",
+    "source": "libresolv/res_state.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ZG_F_ZONESECTADDED",
+    "source": "libresolv/res_update.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nzones",
+    "source": "libresolv/res_update.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "z_flags",
+    "source": "libresolv/res_update.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nscount",
+    "source": "libresolv/res_update.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libresolv/support.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ac",
+    "source": "libresolv/support.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "libresolv/support.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "a",
+    "source": "libresolv/support.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "TEST_STRINGS",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SERVER_NAMES",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libresolv/tests/libresolv_test.c",
+    "type": "EnumCase"
+  }
+]

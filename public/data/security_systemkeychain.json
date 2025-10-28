@@ -1,0 +1,260 @@
+[
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "security_systemkeychain/src/create_fv_user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "security_systemkeychain/src/create_fv_user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "result",
+    "source": "security_systemkeychain/src/create_fv_user.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CREATE_FILEVAULT_USER_H_",
+    "source": "security_systemkeychain/src/create_fv_user.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "security_systemkeychain/src/create_fv_user.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "security_systemkeychain/src/cs_utils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "security_systemkeychain/src/cs_utils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "security_systemkeychain/src/cs_utils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "security_systemkeychain/src/cs_utils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "security_systemkeychain/src/cs_utils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "security_systemkeychain/src/cs_utils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "exitSuccess",
+    "source": "security_systemkeychain/src/cs_utils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "exitFailure",
+    "source": "security_systemkeychain/src/cs_utils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "exitUsage",
+    "source": "security_systemkeychain/src/cs_utils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "exitNoverify",
+    "source": "security_systemkeychain/src/cs_utils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stop",
+    "source": "security_systemkeychain/src/cs_utils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "socket_count",
+    "source": "security_systemkeychain/src/systemkeychain.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "requestsProcessedSinceLastTimeoutCheck",
+    "source": "security_systemkeychain/src/systemkeychain.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "security_systemkeychain/src/systemkeychain.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "timeoutInterval",
+    "source": "security_systemkeychain/src/systemkeychain.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "requestsProcessedSinceLastTimeoutCheck",
+    "source": "security_systemkeychain/src/systemkeychain.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_TOKENADMIN_H_",
+    "source": "security_systemkeychain/src/tokenadmin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAX_LINE_LEN",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "MAX_ARGS",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_quiet",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_verbose",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optreset",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ix",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_help",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optreset",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_help",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_quiet",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_verbose",
+    "source": "security_systemkeychain/src/tokenadmin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "security_systemkeychain/src/TokenIDHelper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyuse",
+    "source": "security_systemkeychain/src/TokenIDHelper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "security_systemkeychain/src/TokenIDHelper.cpp",
+    "type": "EnumCase"
+  }
+]

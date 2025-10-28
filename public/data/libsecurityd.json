@@ -1,0 +1,428 @@
+[
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "outSize",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "itemLength",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurityd/lib/dictionary.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7069646B",
+    "name": "PID_KEY",
+    "source": "libsecurityd/lib/dictionary.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x6974656D",
+    "name": "ITEM_KEY",
+    "source": "libsecurityd/lib/dictionary.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x73737569",
+    "name": "SSUID_KEY",
+    "source": "libsecurityd/lib/dictionary.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x64626E6D",
+    "name": "DB_NAME",
+    "source": "libsecurityd/lib/dictionary.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x64626C63",
+    "name": "DB_LOCATION",
+    "source": "libsecurityd/lib/dictionary.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "noDb",
+    "source": "libsecurityd/lib/handletypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noKey",
+    "source": "libsecurityd/lib/handletypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noRecord",
+    "source": "libsecurityd/lib/handletypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "noSearch",
+    "source": "libsecurityd/lib/handletypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "libsecurityd/lib/sec_xdr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xdr_arena_magic",
+    "source": "libsecurityd/lib/sec_xdr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "xdr_size_magic",
+    "source": "libsecurityd/lib/sec_xdr.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "l",
+    "source": "libsecurityd/lib/sec_xdrmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "libsecurityd/lib/sec_xdrmem.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libsecurityd/lib/sec_xdr_array.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_base",
+    "source": "libsecurityd/lib/sec_xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_handy",
+    "source": "libsecurityd/lib/sec_xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_base",
+    "source": "libsecurityd/lib/sec_xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x_handy",
+    "source": "libsecurityd/lib/sec_xdr_sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mDataPtr",
+    "source": "libsecurityd/lib/SharedMemoryClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kSegmentSize",
+    "source": "libsecurityd/lib/SharedMemoryCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kNumberOfSegments",
+    "source": "libsecurityd/lib/SharedMemoryCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kBytesWrittenOffset",
+    "source": "libsecurityd/lib/SharedMemoryCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kBytesWrittenLength",
+    "source": "libsecurityd/lib/SharedMemoryCommon.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "magicNumber",
+    "source": "libsecurityd/lib/ssblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version_MacOS_10_0",
+    "source": "libsecurityd/lib/ssblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version_MacOS_10_1",
+    "source": "libsecurityd/lib/ssblob.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "maxUcspHashLength",
+    "source": "libsecurityd/lib/ssclient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4E20",
+    "name": "SSPROTOVERSION",
+    "source": "libsecurityd/lib/ssclient.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNotificationDomainAll",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNotificationDomainDatabase",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNotificationDomainPCSC",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kNotificationDomainCDSA",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNotificationEventLocked",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNotificationEventUnlocked",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kNotificationEventPassphraseChanged",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNotificationPCSCStateChange",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNotificationPCSCInitialized",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNotificationCDSAInsertion",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNotificationCDSARemoval",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kNotificationCDSAFailure",
+    "source": "libsecurityd/lib/ssnotify.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurityd/lib/sstransit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurityd/lib/sstransit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLength",
+    "source": "libsecurityd/lib/sstransit.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLength",
+    "source": "libsecurityd/lib/sstransit.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__MigTypeCheck",
+    "source": "libsecurityd/lib/ss_types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_attr_length",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ipcHRecord",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_attr_length",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ipcHRecord",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "out_attr_length",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rightSet_size",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "environ_size",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rightSet_size",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "environ_size",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultLength",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "guest",
+    "source": "libsecurityd/lib/transition.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UseStaticTemplates",
+    "source": "libsecurityd/lib/ucsp_types.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "libsecurityd/lib/xdr_auth.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clip",
+    "source": "libsecurityd/lib/xdr_cssm.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptr",
+    "source": "libsecurityd/lib/xdr_cssm.c",
+    "type": "EnumCase"
+  }
+]

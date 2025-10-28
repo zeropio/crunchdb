@@ -1,0 +1,1064 @@
+[
+  {
+    "hex": "0x0",
+    "name": "_currentCommand",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopMs",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unit",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unit",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unit",
+    "source": "AppleIntelPIIXATA/AppleIntelICHxSATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dtEntry",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAChannel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAChannel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAChannel.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_PIIX",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_PIIX3",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_PIIX4",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_ICH",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_ICH0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_ICH2_M",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_ICH2",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCI_ID_NONE",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_P_CMD_ADDR",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_P_CTL_ADDR",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_S_CMD_ADDR",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_S_CTL_ADDR",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kPIIX_P_IRQ",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kPIIX_S_IRQ",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_CHANNEL_PRIMARY",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIXPowerStateOff",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_CFID",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCICMD",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCISTS",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_RID",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PI",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_MLT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_HEDT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_BMIBA",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_S",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SIDETIM",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMACTL",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMATIM",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_MAP",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_BMIBA_RTE",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_BMIBA_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCICMD_IOSE",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCICMD_BME",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PRI_NATIVE_ENABLED",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PRI_NATIVE_SUPPORTED",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SEC_NATIVE_ENABLED",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SEC_NATIVE_SUPPORTED",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_BUS_MASTER_SUPPORTED",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_IDE",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_SITRE",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_ISP_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "kPIIX_PCI_IDETIM_ISP_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_ISP_5",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_ISP_4",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_ISP_3",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_ISP_2",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_RTC_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kPIIX_PCI_IDETIM_RTC_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_RTC_4",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_RTC_3",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_RTC_2",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_RTC_1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_DTE1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_PPE1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_IE1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_TIME1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_DTE0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_PPE0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_IE0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDETIM_TIME0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SIDETIM_SISP1_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kPIIX_PCI_SIDETIM_SISP1_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SIDETIM_SRTC1_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kPIIX_PCI_SIDETIM_SRTC1_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SIDETIM_PISP1_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPIIX_PCI_SIDETIM_PISP1_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SIDETIM_PRTC1_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_SIDETIM_PRTC1_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMACTL_SSDE1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMACTL_SSDE0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMACTL_PSDE1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMACTL_PSDE0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMATIM_PCT0_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMATIM_PCT0_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMATIM_PCT1_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kPIIX_PCI_UDMATIM_PCT1_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMATIM_SCT0_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kPIIX_PCI_UDMATIM_SCT0_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_UDMATIM_SCT1_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "kPIIX_PCI_UDMATIM_SCT1_SHIFT",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_PCB0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_PCB1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_SCB0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_SCB1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_PCR0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_PCR1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_SCR0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_SCR1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_WR_PP_EN",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_FAST_PCB0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_FAST_PCB1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_FAST_SCB0",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_IDECONFIG_FAST_SCB1",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P0E",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P1E",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P2E",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P3E",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P0P",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P1P",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P2P",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_PCI_PCS_P3P",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMICX",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMISX",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMIDTPX",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BM_OFFSET",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BM_MASK",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMICX_SSBM",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMICX_RWCON",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMISX_DMA1CAP",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMISX_DMA0CAP",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMISX_IDEINTS",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMISX_ERROR",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPIIX_IO_BMISX_BMIDEA",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATAHW.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_nubs",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_openNubs",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_provider",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_pciConfigLock",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entry",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mapValue",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "channelID",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nubSet",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdPort",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctrPort",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctrPort",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctrPort",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdPort",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctrPort",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "irq",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pcs",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATARoot.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "ISP",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXATATiming.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "kATAXferDMADesc",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "kMaxATAXfer",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfAltSDevCReg",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unit",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "milsSpent",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_tfSDHReg",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "units",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pioTiming",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmaTiming",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "udmaTiming",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmaTiming",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "udmaModeNumber",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "udmaClockShifts",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdPtr",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DMAStatus",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numSegments",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xferCount",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_prdTablePhysical",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferPtr",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "byteCount",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maskBits",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "disableBits",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "disableBits",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_currentCommand",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMaxDrives",
+    "source": "AppleIntelPIIXATA/AppleIntelPIIXPATA.h",
+    "type": "EnumCase"
+  }
+]

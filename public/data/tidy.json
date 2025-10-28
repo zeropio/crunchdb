@@ -1,0 +1,3194 @@
+[
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/fuzzers/tidy_general_fuzzer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/fuzzers/tidy_general_fuzzer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "true",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "false",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TABSIZE",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DOS_CRLF",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "UNIX_LF",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MAC_CR",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "length",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "curcol",
+    "source": "tidy/tidy/console/tab2space.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "contentErrors",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "contentWarnings",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accessWarnings",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wraplen",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "acclvl",
+    "source": "tidy/tidy/console/tidy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nPort",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "nPort",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "nPort",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextBytePos",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nBufSize",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nBufSize",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blanks",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blanks",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sourceData",
+    "source": "tidy/tidy/experimental/httpio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SUPPORT_ASIAN_ENCODINGS",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SUPPORT_UTF16_ENCODINGS",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SUPPORT_ACCESSIBILITY_CHECKS",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TIDY_APPLE_CHANGES",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAS_VSNPRINTF",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAS_VSNPRINTF",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAMES_CASE_SENSITIVE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAMES_CASE_SENSITIVE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAMES_CASE_SENSITIVE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAMES_CASE_SENSITIVE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FILENAMES_CASE_SENSITIVE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FILENAMES_CASE_SENSITIVE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRESERVE_FILE_TIMES",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PRESERVE_FILE_TIMES",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAS_FUTIME",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAS_FUTIME",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "UTIME_NEEDS_CLOSED_FILE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UTIME_NEEDS_CLOSED_FILE",
+    "source": "tidy/tidy/include/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errcode",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "red",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "blue",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numFrames",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numTR",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numValidTH",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numTH",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flag",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numTR",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasSkipOverLink",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matchingCount",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matchingCount",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ForID",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ForID",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numWords",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgcode",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgcode",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgcode",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wc",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgcode",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgcode",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasOnMouseDown",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasOnMouseUp",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasOnClick",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasOnMouseOut",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasOnMouseOver",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasOnMouseMove",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgcode",
+    "source": "tidy/tidy/src/access.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "TEXTBUF_SIZE",
+    "source": "tidy/tidy/src/access.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "FIRST_ACCESS_ERR",
+    "source": "tidy/tidy/src/access.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashval",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "esclen",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "esclen",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "esclen",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escape_count",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/attrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ATTRIBUTE_HASH_LOOKUP",
+    "source": "tidy/tidy/src/attrs.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB2",
+    "name": "ATTRIBUTE_HASH_SIZE",
+    "source": "tidy/tidy/src/attrs.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "tidy/tidy/src/buffio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "tidy/tidy/src/buffio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "tidy/tidy/src/buffio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "chunkSize",
+    "source": "tidy/tidy/src/buffio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "tidy/tidy/src/buffio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/charsets.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/charsets.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/charsets.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/charsets.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/charsets.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/charsets.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tidy/tidy/src/clean.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "i",
+    "source": "tidy/tidy/src/clean.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "indent",
+    "source": "tidy/tidy/src/clean.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "utf8BytesRead",
+    "source": "tidy/tidy/src/clean.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/clean.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "utf8BytesRead",
+    "source": "tidy/tidy/src/clean.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ixVal",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ixVal",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ixVal",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ixVal",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ixVal",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "TIDY_MAX_NAME",
+    "source": "tidy/tidy/src/config.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delim",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flag",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delim",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ix",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "tidy/tidy/src/config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/entities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/entities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "code",
+    "source": "tidy/tidy/src/entities.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "TC_INBUFSIZE",
+    "source": "tidy/tidy/src/iconvtc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "TC_OUTBUFSIZE",
+    "source": "tidy/tidy/src/iconvtc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "inbufsize",
+    "source": "tidy/tidy/src/iconvtc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "tidy/tidy/src/iconvtc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iconv_errno",
+    "source": "tidy/tidy/src/iconvtc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "istacklength",
+    "source": "tidy/tidy/src/istack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "score",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TextNode",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "StartTag",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "EndTag",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "StartEndTag",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "lines",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "columns",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "allocAmt",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "count",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "id",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "id",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "id",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entver",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otextlen",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otextsize",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nested",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "badcomment",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "skip",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pdelim",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quotewarning",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delim",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "delim",
+    "source": "tidy/tidy/src/lexer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "digit",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "letter",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "namechar",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "white",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "newline",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "lowercase",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "uppercase",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CM_UNKNOWN",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "xxxx",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HT20",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "HT32",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "H40S",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "H40T",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "H40F",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "H41S",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "H41T",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "H41F",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "X10S",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "X10T",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "X10F",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x800",
+    "name": "XH11",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "XB10",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "VERS_SUN",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4000",
+    "name": "VERS_NETSCAPE",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8000",
+    "name": "VERS_MICROSOFT",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10000",
+    "name": "VERS_XML",
+    "source": "tidy/tidy/src/lexer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/localize.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/localize.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "tidy/tidy/src/localize.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "tidy/tidy/src/localize.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf",
+    "source": "tidy/tidy/src/localize.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/localize.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "tidy/tidy/src/mappedio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "tidy/tidy/src/mappedio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MISSING_SEMICOLON",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MISSING_SEMICOLON_NCR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "UNKNOWN_ENTITY",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "UNESCAPED_AMPERSAND",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "APOS_UNDEFINED",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "MISSING_ENDTAG_FOR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "MISSING_ENDTAG_BEFORE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DISCARDING_UNEXPECTED",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "NESTED_EMPHASIS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "NON_MATCHING_ENDTAG",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "TAG_NOT_ALLOWED_IN",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "MISSING_STARTTAG",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "UNEXPECTED_ENDTAG",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "USING_BR_INPLACE_OF",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "INSERTING_TAG",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "SUSPECTED_MISSING_QUOTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "MISSING_TITLE_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12",
+    "name": "DUPLICATE_FRAMESET",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x13",
+    "name": "CANT_BE_NESTED",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "OBSOLETE_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x15",
+    "name": "PROPRIETARY_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x16",
+    "name": "UNKNOWN_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x17",
+    "name": "TRIM_EMPTY_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x18",
+    "name": "COERCE_TO_ENDTAG",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x19",
+    "name": "ILLEGAL_NESTING",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1A",
+    "name": "NOFRAMES_CONTENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B",
+    "name": "CONTENT_AFTER_BODY",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1C",
+    "name": "INCONSISTENT_VERSION",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1D",
+    "name": "MALFORMED_COMMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "BAD_COMMENT_CHARS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F",
+    "name": "BAD_XML_COMMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "BAD_CDATA_CONTENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x21",
+    "name": "INCONSISTENT_NAMESPACE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x22",
+    "name": "DOCTYPE_AFTER_TAGS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x23",
+    "name": "MALFORMED_DOCTYPE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "UNEXPECTED_END_OF_FILE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x25",
+    "name": "DTYPE_NOT_UPPER_CASE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x26",
+    "name": "TOO_MANY_ELEMENTS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x27",
+    "name": "UNESCAPED_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x28",
+    "name": "NESTED_QUOTATION",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x29",
+    "name": "ELEMENT_NOT_EMPTY",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A",
+    "name": "ENCODING_IO_CONFLICT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2B",
+    "name": "MIXED_CONTENT_IN_BLOCK",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2C",
+    "name": "MISSING_DOCTYPE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2D",
+    "name": "SPACE_PRECEDING_XMLDECL",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2E",
+    "name": "TOO_MANY_ELEMENTS_IN",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F",
+    "name": "UNEXPECTED_ENDTAG_IN",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x53",
+    "name": "REPLACING_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x54",
+    "name": "REPLACING_UNEX_ELEMENT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x55",
+    "name": "COERCE_TO_ENDTAG_WARN",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30",
+    "name": "UNKNOWN_ATTRIBUTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x31",
+    "name": "INSERTING_ATTRIBUTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x32",
+    "name": "MISSING_ATTR_VALUE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x33",
+    "name": "BAD_ATTRIBUTE_VALUE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x34",
+    "name": "UNEXPECTED_GT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x35",
+    "name": "PROPRIETARY_ATTRIBUTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x36",
+    "name": "PROPRIETARY_ATTR_VALUE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x37",
+    "name": "REPEATED_ATTRIBUTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x38",
+    "name": "MISSING_IMAGEMAP",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x39",
+    "name": "XML_ATTRIBUTE_VALUE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3A",
+    "name": "UNEXPECTED_QUOTEMARK",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3B",
+    "name": "MISSING_QUOTEMARK",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "ID_NAME_MISMATCH",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3D",
+    "name": "BACKSLASH_IN_URI",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E",
+    "name": "FIXED_BACKSLASH",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3F",
+    "name": "ILLEGAL_URI_REFERENCE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "ESCAPED_ILLEGAL_URI",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x41",
+    "name": "NEWLINE_IN_URI",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x42",
+    "name": "ANCHOR_NOT_UNIQUE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x44",
+    "name": "JOINING_ATTRIBUTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x45",
+    "name": "UNEXPECTED_EQUALSIGN",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x46",
+    "name": "ATTR_VALUE_NOT_LCASE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x47",
+    "name": "XML_ID_SYNTAX",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x48",
+    "name": "INVALID_ATTRIBUTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x49",
+    "name": "BAD_ATTRIBUTE_VALUE_REPLACED",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4A",
+    "name": "INVALID_XML_ID",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4B",
+    "name": "UNEXPECTED_END_OF_FILE_ATTR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x56",
+    "name": "MISSING_ATTRIBUTE",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x57",
+    "name": "WHITE_IN_URI",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4C",
+    "name": "VENDOR_SPECIFIC_CHARS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4D",
+    "name": "INVALID_SGML_CHARS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4E",
+    "name": "INVALID_UTF8",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F",
+    "name": "INVALID_UTF16",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x50",
+    "name": "ENCODING_MISMATCH",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x51",
+    "name": "INVALID_URI",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x52",
+    "name": "INVALID_NCR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MISSING_IMAGE_ALT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MISSING_LINK_ALT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MISSING_SUMMARY",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "MISSING_IMAGE_MAP",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "USING_FRAMES",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "USING_NOFRAMES",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "USING_SPACER",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "USING_LAYER",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "USING_NOBR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "USING_FONT",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "USING_BODY",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "REPLACED_CHAR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DISCARDED_CHAR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BC_VENDOR_SPECIFIC_CHARS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "BC_INVALID_SGML_CHARS",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "BC_INVALID_UTF8",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "BC_INVALID_UTF16",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "BC_ENCODING_MISMATCH",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "BC_INVALID_URI",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "BC_INVALID_NCR",
+    "source": "tidy/tidy/src/message.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "istackbase",
+    "source": "tidy/tidy/src/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasTitle",
+    "source": "tidy/tidy/src/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "HasBase",
+    "source": "tidy/tidy/src/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "tidy/tidy/src/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seenEndHtml",
+    "source": "tidy/tidy/src/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seenEndBody",
+    "source": "tidy/tidy/src/parser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "buflen",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ixInd",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ixInd",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrStringStart",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrValStart",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ixInd",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linelen",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linelen",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linelen",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "xtra",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xtra",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "contentIndent",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cindent",
+    "source": "tidy/tidy/src/pprint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NORMAL",
+    "source": "tidy/tidy/src/pprint.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PREFORMATTED",
+    "source": "tidy/tidy/src/pprint.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "COMMENT",
+    "source": "tidy/tidy/src/pprint.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "ATTRIBVALUE",
+    "source": "tidy/tidy/src/pprint.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "NOWRAP",
+    "source": "tidy/tidy/src/pprint.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "CDATA",
+    "source": "tidy/tidy/src/pprint.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "curline",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "curcol",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otextlen",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "otextsize",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "count",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "curcol",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "curcol",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c1",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "curcol",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numChars",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numChars",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "numChars",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numChars",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytesRead",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/streamio.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "CHARBUF_SIZE",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RAW",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ASCII",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LATIN0",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "LATIN1",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "UTF8",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "ISO2022",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "MACROMAN",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "WIN1252",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "IBM858",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "UTF16LE",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "UTF16BE",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "UTF16",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "BIG5",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xD",
+    "name": "SHIFTJIS",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "BIG5",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SHIFTJIS",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x24",
+    "name": "WIN32MLANG",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TIDY_CR",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "TIDY_LF",
+    "source": "tidy/tidy/src/streamio.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashval",
+    "source": "tidy/tidy/src/tags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/tags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cm",
+    "source": "tidy/tidy/src/tags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tagtype_null",
+    "source": "tidy/tidy/src/tags.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tagtype_empty",
+    "source": "tidy/tidy/src/tags.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "tagtype_inline",
+    "source": "tidy/tidy/src/tags.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "tagtype_block",
+    "source": "tidy/tidy/src/tags.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "tagtype_pre",
+    "source": "tidy/tidy/src/tags.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ELEMENT_HASH_LOOKUP",
+    "source": "tidy/tidy/src/tags.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB2",
+    "name": "ELEMENT_HASH_SIZE",
+    "source": "tidy/tidy/src/tags.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "opti",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "declIter",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "warnings",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "tidy/tidy/src/tidylib.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ncpy",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ncpy",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/tmbstr.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kNumUTF8Sequences",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMaxUTF8Bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUTF8ByteSwapNotAChar",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUTF8NotAChar",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMaxUTF8FromUCS4",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUTF16SurrogatesBegin",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMaxUTF16FromUCS4",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUTF16LowSurrogateBegin",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUTF16LowSurrogateEnd",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUTF16HighSurrogateBegin",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUTF16HighSurrogateEnd",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ch",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tempCount",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ix",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "count",
+    "source": "tidy/tidy/src/utf8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNICODE_BOM_BE",
+    "source": "tidy/tidy/src/utf8.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNICODE_BOM_LE",
+    "source": "tidy/tidy/src/utf8.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNICODE_BOM_UTF8",
+    "source": "tidy/tidy/src/utf8.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "TC_INBUFSIZE",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "TC_OUTBUFSIZE",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wincp",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "wincp",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inbufsize",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inbufsize",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "high",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inbufsize",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "high",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "low",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "tidy/tidy/src/win32tc.c",
+    "type": "EnumCase"
+  }
+]

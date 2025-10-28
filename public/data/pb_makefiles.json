@@ -1,0 +1,338 @@
+[
+  {
+    "hex": "0x10",
+    "name": "MAX_ARCH_LIST_SIZE",
+    "source": "pb_makefiles/arch_tool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "pb_makefiles/arch_tool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "pb_makefiles/arch_tool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "pb_makefiles/arch_tool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pb_makefiles/arch_tool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "F_OK",
+    "source": "pb_makefiles/clonehdrs.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "pb_makefiles/clonehdrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "pb_makefiles/clonehdrs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "YES",
+    "source": "pb_makefiles/dotdotify.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO",
+    "source": "pb_makefiles/dotdotify.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "BUFFERSIZE",
+    "source": "pb_makefiles/dotdotify.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "pb_makefiles/dotdotify.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nbBuckets",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index",
+    "source": "pb_makefiles/fastcp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "specialBuildType",
+    "source": "pb_makefiles/frameworkFlags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pb_makefiles/frameworkFlags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "specialBuildType",
+    "source": "pb_makefiles/frameworkFlags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "pb_makefiles/frameworkFlags.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "only_headers",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "silent",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allow_nonexistence",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "header",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "makefile",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "header",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "makefile",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flag",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "only_headers",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "silent",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "allow_nonexistence",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "only_headers",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "pb_makefiles/newer.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ofileDirLen",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numOfiles",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "good",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "good",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "good",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "pb_makefiles/ofileListTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dir",
+    "source": "pb_makefiles/readdir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "pb_makefiles/readdir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retdirent",
+    "source": "pb_makefiles/readdir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "__offset",
+    "source": "pb_makefiles/readdir.c",
+    "type": "EnumCase"
+  }
+]

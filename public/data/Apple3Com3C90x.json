@@ -1,0 +1,1136 @@
+[
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "_dnBurstThresh",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "_dnPriorityThresh",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "_txReclaimThresh",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "_txStartThresh_10",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "_txStartThresh_100",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "_upBurstThresh",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "_upPriorityThresh",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csum",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "loops",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "drvMbuf",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "drvMbuf",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_kdpMbuf",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPowerStateOff",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checksumMask",
+    "source": "Apple3Com3C90x/3C90x.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "Apple3Com3C90x/3C90x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg",
+    "source": "Apple3Com3C90x/3C90x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "arg",
+    "source": "Apple3Com3C90x/3C90x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "medium",
+    "source": "Apple3Com3C90x/3C90x.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_LOG_LEVEL",
+    "source": "Apple3Com3C90x/3C90xDebug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kTxRingSize",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "kRxRingSize",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kInvalidRegisterWindow",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kApertureSizeBoomerang",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kApertureSizeCyclone",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEEPROMSizeBoomerang",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEEPROMSizeCyclone",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kEEPROMSizeTornado",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kDescriptorAlignment",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kASIC_40_0502_00x",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kASIC_40_0483_00x",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kASIC_40_0476_001",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAdapterType3C90x",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMediaPort10BaseT",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kMediaPortAUI",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMediaPortAuto",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMediaPortDefault",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kMediaPort10Base2",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMediaPort100BaseTX",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kMediaPort100BaseFX",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kMediaPortMII",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kMediaPort100BaseT4",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kMediaPortAutoNeg",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIILinkNone",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "kPeriodicTimerMSInterval",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMediaCodeDef",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMediaCodeSQE",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMediaCode10TP",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMediaCodeLink",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMediaCodeMask",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAckInterruptLatch",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAckTxAvailable",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAckRxEarly",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAckIntRequested",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAckLinkEvent",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAckDnComplete",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAckUpComplete",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterIndividual",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterMulticast",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterBroadcast",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterPromiscuous",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterMulticastHash",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHashFilterBitOn",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kHashFilterBitOff",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromAddr0",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromAddr1",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromAddr2",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromID",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromDate",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromDiv",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromCode",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromManID",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromPCIParm",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRomInfo",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromOAddr0",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromOAddr1",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromOAddr2",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromSoftInfo",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromComp",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromSoftInfo2",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromCapable",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd1",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromConfig0",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromConfig1",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd2",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromSoftInfo3",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd3",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromSubVenID",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromSubID",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromMediaOpt",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd4",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd5",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd6",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd7",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd8",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromRsvd9",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromChecksum",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromChecksum2",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eepromChecksum3",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kTxFreeTreshSizePacket",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDnBurstThreshMax",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kDnPriorityThreshMax",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxReclaimThreshMin",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxReclaimThreshMax",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kTxStartThreshMin",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kTxStartThreshMax",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUpBurstThreshMax",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUpPriorityThreshMax",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kStationAddressWindow",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kStationAddressOffset",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kStationAddressMaskWindow",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kStationAddressMaskOffset",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTxFragmentCount",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kRxFragmentCount",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kMIIDelay",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIIFramePreamble",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "kMIIFrameSize",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPHYAddrMin",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "kPHYAddrCyclone",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "kPHYAddrMax",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPHYAddressInvalid",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPHYIDInvalid",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMIIRegisterControl",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kMIIRegisterStatus",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMIIRegisterID0",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kMIIRegisterID1",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMIIRegisterAdvertisement",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kMIIRegisterLinkPartner",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kMIIRegisterExpansion",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kMIIRegisterNextPage",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kPHYResetDelay",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "kPHYResetTimeout",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kPHYLinkDelay",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kPHYLinkTimeout",
+    "source": "Apple3Com3C90x/3C90xDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mem",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mem",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "drvMbuf",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_interruptMask",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextPtr",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_txRingInt",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retiredCount",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pktCount",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inputPkt",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xEngine.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pkt_len",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x186A0",
+    "name": "kSendPacketDelayLoops",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "kSendPacketSleepLoops",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "drvMbuf",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nextPtr",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xKDB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "us",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Crc",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "maxPollLoops",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kEEPROMPollLoops",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kEEPROMPollSleep",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMAC.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phyStatus",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "activeMedium",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "maxLoops",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csCounter",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "MBPS",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phyStatus",
+    "source": "Apple3Com3C90x/3C90xMedia.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "shifts",
+    "source": "Apple3Com3C90x/3C90xMIIPHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "Apple3Com3C90x/3C90xMIIPHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "Apple3Com3C90x/3C90xMIIPHY.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mask",
+    "source": "Apple3Com3C90x/3C90xMIIPHY.cpp",
+    "type": "EnumCase"
+  }
+]

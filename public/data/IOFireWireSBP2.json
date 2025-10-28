@@ -1,0 +1,2144 @@
+[
+  {
+    "hex": "0x0",
+    "name": "FWLOGGING",
+    "source": "IOFireWireSBP2/Source/Common/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FWASSERTS",
+    "source": "IOFireWireSBP2/Source/Common/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FWDIAGNOSTICS",
+    "source": "IOFireWireSBP2/Source/Common/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LSILOGGING",
+    "source": "IOFireWireSBP2/Source/Common/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LSIALLOCLOGGING",
+    "source": "IOFireWireSBP2/Source/Common/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PANIC_ON_DOUBLE_APPEND",
+    "source": "IOFireWireSBP2/Source/Common/FWDebugging.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "kIOFireWireSBP2LibConnection",
+    "source": "IOFireWireSBP2/Source/Common/IOFireWireSBP2UserClientCommon.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWSBP2NormalCommandStatus",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWSBP2NormalCommandTimeout",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kFWSBP2UnsolicitedStatus",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kFWSBP2NormalCommandReset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLoginCommandIdle",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kLoginCommandDoLogin",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kLoginCommandDoLogout",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kLoginAddORB",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kLoginRemoveORB",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kLoginFetchAgentReset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLoginStateIdle",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kLoginStateLoggingIn",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kLoginStateConnected",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kLoginStateReconnect",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kLoginStateLoggingOut",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kLoginStateTerminated",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUnitCharacteristicsKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kManagementAgentOffsetKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2RequestComplete",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWSBP2TransportFailure",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWSBP2IllegalRequest",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kFWSBP2VendorDependent",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2NoSense",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWSBP2RequestTypeNotSupported",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kFWSBP2SpeedNotSupported",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kFWSBP2PageSizeNotSupported",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kFWSBP2AccessDenied",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kFWSBP2LogicalUnitNotSupported",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWSBP2MaxPayloadTooSmall",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kFWSBP2FunctionRejected",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kFWSBP2LoginIDNotRecognized",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kFWSBP2DummyORBCompleted",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kFWSBP2RequestAborted",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2UnspecifiedError",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Login.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kMinPacketSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "kLowestPacketLimit",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedRangesCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedRangesCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedBytesCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fAllocatedBytesCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocByteCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seg_size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rangeTable",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seg_length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seg_count",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LSIWorkaroundDescriptor.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLUNumber",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2LUN.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTimeout",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFunction",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseLen",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseAddress",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unitCharacteristics",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseLen",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fResponseLen",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWSBP2QueryLogins",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2AbortTask",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2AbortTaskSet",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2LogicalUnitReset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2TargetReset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUnitCharacteristicsKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kManagementAgentOffsetKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ManagementORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCon",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMaxPayloadSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fCommandFlags",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fTimeoutDuration",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConstraintOptions",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "transferSizeBytes",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "transferSizeLog",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "maxPackLog",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "maxPackLog",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "maxPackLog",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "maxPackLog",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pageTableOffset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "num_segments",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numSegments",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeID",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPageTableSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "address_bits",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataDescriptorHi",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataDescriptorLo",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPTECount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataDescriptorHi",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataDescriptorLo",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPTECount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prepare",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pte",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "maxPageClipSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x800",
+    "name": "maxPageClipSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "maxPageClipSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "maxPageClipSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptes_allocated",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pte",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "phys",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lengthOfSegment",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numSegments",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "step",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "toMap",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataDescriptorHi",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataDescriptorLo",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPTECount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataDescriptorHi",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fPTECount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2MaxPageClusterSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2ORB.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOpenFromLUNCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIOCriticalSectionCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byteCount1",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "byteCount2",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdSpecID",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmdSet",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vendorID",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "softwareRev",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "firmwareRev",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lun",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "devType",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unitCharacteristics",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "managementOffset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "revision",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fastStart",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unit",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fastStart",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fastStart",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumberPendingMgtAgentOrbs",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCmdSpecIDKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCmdSetKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSoftwareRevKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFirmwareRevKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLUNKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLUNDirectoryKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kManagementAgentOffsetKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kUnitCharacteristicsKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kRevisionKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFastStartKey",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argument",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2Target.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "structInDesc",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSessionRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outHandle",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outHandle",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ranges",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "withCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rangeSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "addr",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ORBRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outHandle",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2/IOFireWireSBP2UserClient.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIODirectionNone",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kIODirectionIn",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kIODirectionOut",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kIODirectionInOut",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kFWSBP2QueryLogins",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2AbortTask",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2AbortTaskSet",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2LogicalUnitReset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFWSBP2TargetReset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kFWSBP2NormalCommandStatus",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kFWSBP2NormalCommandTimeout",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kFWSBP2UnsolicitedStatus",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kFWSBP2NormalCommandReset",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2Lib.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConnection",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoginRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCon",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoginRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ppv",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blockSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loginID",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setReconnectTime",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setReconnectTime",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLogin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ppv",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sessionRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibLUN.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConnection",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMgmtORBRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCon",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fMgmtORBRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "size",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ppv",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setCommandFunction",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "orbRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loginRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibMgmtORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCount",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fConnection",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fORBRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRefCon",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRangeScratchLength",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fORBRef",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ppv",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRangeScratchLength",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setCommandFlags",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setMaxORBPayloadSize",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setCommandTimeout",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setCommandGeneration",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRangeScratchLength",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fRangeScratchLength",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "IOFireWireSBP2/Source/IOFireWireSBP2Lib/IOFireWireSBP2LibORB.cpp",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,2966 @@
+[
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "netinfo/common/cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "c",
+    "source": "netinfo/common/cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "netinfo/common/cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "netinfo/common/cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "netinfo/common/cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "netinfo/common/cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b",
+    "source": "netinfo/common/cache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CACHE_FLAG_REPLACE",
+    "source": "netinfo/common/cache.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsassertion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSA_LESS",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DSA_LESS_OR_EQUAL",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DSA_EQUAL",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DSA_GREATER_OR_EQUAL",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DSA_GREATER",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DSA_APPROX",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "DSA_HAS_KEY",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "DSA_PREFIX",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DSA_SUBSTR",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "DSA_SUFFIX",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "DSA_PRECOMPUTED",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "L3False",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "L3True",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "L3Undefined",
+    "source": "netinfo/common/dsassertion.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "netinfo/common/dsattribute.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "CACHE_DEFAULT_SIZE",
+    "source": "netinfo/common/dscache.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CACHE_MIN_MERIT",
+    "source": "netinfo/common/dscache.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dscache.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_unique_cstring_count",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_unique_cstring_count",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bot",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iv",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uv",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsdata.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DataTypeNil",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DataTypeBlob",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DataTypeBool",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DataTypeInt",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "DataTypeUInt",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DataTypeFloat",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "DataTypeCStr",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "DataTypeUTF8Str",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DataTypeCaseCStr",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "DataTypeCaseUTF8Str",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "DataTypeInt8Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x41",
+    "name": "DataTypeUInt8Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x42",
+    "name": "DataTypeInt16Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x43",
+    "name": "DataTypeUInt16Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x44",
+    "name": "DataTypeInt32Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x45",
+    "name": "DataTypeUInt32Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x46",
+    "name": "DataTypeInt64Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x47",
+    "name": "DataTypeUInt64Array",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFB",
+    "name": "DataTypeDSReference",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFC",
+    "name": "DataTypeCPtr",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFD",
+    "name": "DataTypeDirectoryID",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFE",
+    "name": "DataTypeDSAttribute",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "DataTypeAny",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "DataTypeDSRecord",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DSDATA_STORAGE_HEADER_SIZE",
+    "source": "netinfo/common/dsdata.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "super",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_count",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "create",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "create",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "create",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numeric",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numeric",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plen",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirno",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirno",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirno",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dirno",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plen",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "match",
+    "source": "netinfo/common/dsengine.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NameTypeNetInfo",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NameTypeX500",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NameTypeUserName",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NameTypePrincipalName",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NameTypeDirectoryID",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSENGINE_FLAGS_NAMING_MASK",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSENGINE_FLAGS_NETINFO_NAMING",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSENGINE_FLAGS_X500_NAMING",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSENGINE_FLAGS_POSIX_NAMING",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSENGINE_FLAGS_DEREFERENCE_IDS",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSENGINE_FLAGS_NATIVE_AUTHORIZATION",
+    "source": "netinfo/common/dsengine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasUndef",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasUndef",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasUndef",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasUndef",
+    "source": "netinfo/common/dsfilter.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSF_OP_ASSERT",
+    "source": "netinfo/common/dsfilter.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DSF_OP_AND",
+    "source": "netinfo/common/dsfilter.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DSF_OP_OR",
+    "source": "netinfo/common/dsfilter.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DSF_OP_NOT",
+    "source": "netinfo/common/dsfilter.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "key_count",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val_count",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsid_count",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val_count",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsid_count",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsid_count",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val_count",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "w",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "w",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "netinfo/common/dsindex.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "valx",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serial",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_count",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "meta_count",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sub_count",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "merge",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "meta_count",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsrecord.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_ATTRIBUTE",
+    "source": "netinfo/common/dsrecord.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SELECT_META_ATTRIBUTE",
+    "source": "netinfo/common/dsrecord.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsreference.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serial",
+    "source": "netinfo/common/dsreference.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "timestamp",
+    "source": "netinfo/common/dsreference.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsreference.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "netinfo/common/dsreference.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsreference.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSStatusOK",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E9",
+    "name": "DSStatusInvalidStore",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3EA",
+    "name": "DSStatusNoFile",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3EB",
+    "name": "DSStatusReadFailed",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3EC",
+    "name": "DSStatusWriteFailed",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3ED",
+    "name": "DSStatusInvalidUpdate",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3EE",
+    "name": "DSStatusDuplicateRecord",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3EF",
+    "name": "DSStatusNoRootRecord",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F0",
+    "name": "DSStatusLocked",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D1",
+    "name": "DSStatusInvalidRecord",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D2",
+    "name": "DSStatusNoData",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D3",
+    "name": "DSStatusInvalidRecordID",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D4",
+    "name": "DSStatusInvalidPath",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D5",
+    "name": "DSStatusInvalidKey",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D6",
+    "name": "DSStatusStaleRecord",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D7",
+    "name": "DSStatusPathNotLocal",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D8",
+    "name": "DSStatusConstraintViolation",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D9",
+    "name": "DSStatusNamingViolation",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7DA",
+    "name": "DSStatusObjectClassViolation",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBB9",
+    "name": "DSStatusInvalidSessionMode",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xBBA",
+    "name": "DSStatusInvalidSession",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA1",
+    "name": "DSStatusAccessRestricted",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA2",
+    "name": "DSStatusReadRestricted",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA3",
+    "name": "DSStatusWriteRestricted",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x270F",
+    "name": "DSStatusFailed",
+    "source": "netinfo/common/dsstatus.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2BC",
+    "name": "DataStoreAccessMode",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "ReservedFileNameLength",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "DataQuantum",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "MIN_CACHE_SIZE",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "MAX_CACHE_SIZE",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "INDEX_ENTRY_SIZE",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STORE_INFO_FILE_FULL",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bot",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bot",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_count",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "check",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vers",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "check",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cache_enabled",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newstore",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newstore",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_empty",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "where",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_empty",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unlink_count",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "parent_ok",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TreeCheckOK",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TreeCheckUpdateFailed",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TreeCheckOrphanedChild",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TreeCheckKidnappedChild",
+    "source": "netinfo/common/dsstore.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "super",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_vers",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nichecksum",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_count",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "file_info_count",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_tree_checks",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_count",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_tree_checks",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_tree_checks",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cache_enabled",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "setfull",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setfull",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index_this",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index_this",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "index_this",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cache_enabled",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vers",
+    "source": "netinfo/common/dsstore.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DSSTORE_VERSION",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_ACCESS_MASK",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_ACCESS_READONLY",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_ACCESS_READWRITE",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_SERVER_MASK",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_SERVER_CLONE",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_SERVER_MASTER",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_CACHE_MASK",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_CACHE_ENABLED",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_CACHE_DISABLED",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_REMOTE_NETINFO",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_OPEN_BY_TAG",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_NOTIFY_CHANGES",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DSSTORE_FLAGS_NO_LOCK",
+    "source": "netinfo/common/dsstore.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "escapes",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_escape",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retain",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "offset",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "in_escape",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "in_escape",
+    "source": "netinfo/common/dsutil.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INQUOTE",
+    "source": "netinfo/common/dsx500.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "OUTQUOTE",
+    "source": "netinfo/common/dsx500.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NAME_TYPE_X500_RDN",
+    "source": "netinfo/common/dsx500.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NAME_TYPE_X500_DN",
+    "source": "netinfo/common/dsx500.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NAME_TYPE_NETINFO_PATH",
+    "source": "netinfo/common/dsx500.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have_equals",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "offset",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "need_ni_name",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "need_ni_name",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have_equals",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "endquote",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "endquote",
+    "source": "netinfo/common/dsx500.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "NCATEGORIES",
+    "source": "netinfo/common/DynaAPI.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "len",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "paren",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "paren",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scanning",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "netinfo/common/ffparser.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "netinfo/common/network.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/network.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x270F",
+    "name": "NI_FAILED",
+    "source": "netinfo/common/ni_shared.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "reuse",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SPARSENESS",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "uc_nextvictim",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reuse",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_addrlen",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_port",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dontblock",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xp_port",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "netinfo/common/rpc_extra.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "netinfo/common/socket_lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pm_port",
+    "source": "netinfo/common/socket_lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "port",
+    "source": "netinfo/common/socket_lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sin_port",
+    "source": "netinfo/common/socket_lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "MAX_RESV_RETRY",
+    "source": "netinfo/common/socket_lock.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/socket_lock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "named_lock_count",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "internal",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "locked",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "locked",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unlock_me",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "unlock_me",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "locked",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unset",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "unset",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/syslock.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "netinfo/common/system.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG_NONE",
+    "source": "netinfo/common/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEBUG_STDERR",
+    "source": "netinfo/common/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "DEBUG_SYSLOG",
+    "source": "netinfo/common/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialized",
+    "source": "netinfo/common/systhread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "systhread_list_count",
+    "source": "netinfo/common/systhread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "systhread_list_count",
+    "source": "netinfo/common/systhread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/systhread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/systhread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/systhread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/systhread.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "ThreadStateTerminal",
+    "source": "netinfo/common/systhread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ThreadStateInitial",
+    "source": "netinfo/common/systhread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ThreadStateIdle",
+    "source": "netinfo/common/systhread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ThreadStateActive",
+    "source": "netinfo/common/systhread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ThreadStateSleeping",
+    "source": "netinfo/common/systhread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCS4_INVALID",
+    "source": "netinfo/common/utf-8.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bytes",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "chars",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "normalize",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compare",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "netinfo/common/utf-8.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "DSUTIL_UTF8_CALLBACKS_VERSION",
+    "source": "netinfo/common/utf-8.h",
+    "type": "PreprocessorConstant"
+  }
+]

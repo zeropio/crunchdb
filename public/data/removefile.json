@@ -1,0 +1,368 @@
+[
+  {
+    "hex": "0x0",
+    "name": "CHECKINT_NO_ERROR",
+    "source": "removefile/checkint.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "MAXLONGPATHLEN",
+    "source": "removefile/removefile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "removefile/removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "removefile/removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cancelled",
+    "source": "removefile/removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cancelled",
+    "source": "removefile/removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "removefile/removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "REMOVEFILE_STATE_CONFIRM_CALLBACK",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "REMOVEFILE_STATE_CONFIRM_CONTEXT",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "REMOVEFILE_STATE_ERROR_CALLBACK",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "REMOVEFILE_STATE_ERROR_CONTEXT",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "REMOVEFILE_STATE_ERRNO",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "REMOVEFILE_STATE_STATUS_CALLBACK",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "REMOVEFILE_STATE_STATUS_CONTEXT",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "REMOVEFILE_STATE_FTSENT",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "REMOVEFILE_PROCEED",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "REMOVEFILE_SKIP",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "REMOVEFILE_STOP",
+    "source": "removefile/removefile.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AT_REMOVEDIR_DATALESS",
+    "source": "removefile/removefile_priv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "AT_SYSTEM_DISCARDED",
+    "source": "removefile/removefile_priv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/removefile_random.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "random_bytes_read",
+    "source": "removefile/removefile_random.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/removefile_random.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/removefile_rename_unlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/removefile_rename_unlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "removefile/removefile_sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/removefile_sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/removefile_sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "removefile/removefile_sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rsrc_fork_size",
+    "source": "removefile/removefile_sunlink.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "res",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "runtime_flags",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "open_flags",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fts_number",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error_num",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "INITIAL_DIRECTORIS_LEN",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "rval",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "level",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/removefile_tree_walker.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "FSEVENT_ARRAY_SIZE",
+    "source": "removefile/test/test-removefile.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "event_outstanding",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "age",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expected_spec_telem_flags",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_len",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_len",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "depth",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "removefile/test/test-removefile.c",
+    "type": "EnumCase"
+  }
+]

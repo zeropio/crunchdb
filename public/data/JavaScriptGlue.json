@@ -1,0 +1,2132 @@
+[
+  {
+    "hex": "0x1",
+    "name": "WTF_USE_V8",
+    "source": "JavaScriptGlue/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "WTF_USE_V8",
+    "source": "JavaScriptGlue/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_INTTYPES_H",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x30C1F",
+    "name": "U_IOSTREAM_SOURCE",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_INT8_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_HAVE_UINT8_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_INT16_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_HAVE_UINT16_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_INT32_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_HAVE_UINT32_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_INT64_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_HAVE_UINT64_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__uint8_t",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_NAMESPACE",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_IS_BIG_ENDIAN",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ICU_USE_THREADS",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_DEBUG",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_RELEASE",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_DISABLE_RENAMING",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_OVERRIDE_CXX_ALLOCATION",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_PLACEMENT_NEW",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_ENABLE_TRACING",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_HAVE_LIB_SUFFIX",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_WCHAR_H",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "U_SIZEOF_WCHAR_T",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_WCSCPY",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_NL_LANGINFO",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_NL_LANGINFO_CODESET",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_MMAP",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_HAVE_POPEN",
+    "source": "JavaScriptGlue/icu/unicode/platform.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCHAR_MIN_VALUE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCHAR_MAX_VALUE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCHAR_ALPHABETIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccc",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCHAR_BIDI_CLASS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCHAR_GENERAL_CATEGORY_MASK",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCHAR_NUMERIC_VALUE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCHAR_AGE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_UNASSIGNED",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_GENERAL_OTHER_TYPES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_UPPERCASE_LETTER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "U_LOWERCASE_LETTER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "U_TITLECASE_LETTER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "U_MODIFIER_LETTER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "U_OTHER_LETTER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "U_NON_SPACING_MARK",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "U_ENCLOSING_MARK",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "U_COMBINING_SPACING_MARK",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "U_DECIMAL_DIGIT_NUMBER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "U_LETTER_NUMBER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "U_OTHER_NUMBER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "U_SPACE_SEPARATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "U_LINE_SEPARATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "U_PARAGRAPH_SEPARATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "U_CONTROL_CHAR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "U_FORMAT_CHAR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "U_PRIVATE_USE_CHAR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "U_SURROGATE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "U_DASH_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "U_START_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "U_END_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "U_CONNECTOR_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "U_OTHER_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "U_MATH_SYMBOL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "U_CURRENCY_SYMBOL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "U_MODIFIER_SYMBOL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "U_OTHER_SYMBOL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "U_INITIAL_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "U_FINAL_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_LEFT_TO_RIGHT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_RIGHT_TO_LEFT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "U_EUROPEAN_NUMBER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "U_EUROPEAN_NUMBER_SEPARATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "U_EUROPEAN_NUMBER_TERMINATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "U_ARABIC_NUMBER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "U_COMMON_NUMBER_SEPARATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "U_BLOCK_SEPARATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "U_SEGMENT_SEPARATOR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "U_WHITE_SPACE_NEUTRAL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "U_OTHER_NEUTRAL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "U_LEFT_TO_RIGHT_EMBEDDING",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "U_LEFT_TO_RIGHT_OVERRIDE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "U_RIGHT_TO_LEFT_ARABIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "U_RIGHT_TO_LEFT_EMBEDDING",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "U_RIGHT_TO_LEFT_OVERRIDE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "U_POP_DIRECTIONAL_FORMAT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "U_DIR_NON_SPACING_MARK",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "U_BOUNDARY_NEUTRAL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UBLOCK_NO_BLOCK",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UBLOCK_BASIC_LATIN",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "UBLOCK_LATIN_1_SUPPLEMENT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "UBLOCK_LATIN_EXTENDED_A",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "UBLOCK_LATIN_EXTENDED_B",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "UBLOCK_IPA_EXTENSIONS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "UBLOCK_SPACING_MODIFIER_LETTERS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "UBLOCK_COMBINING_DIACRITICAL_MARKS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "UBLOCK_GREEK",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "UBLOCK_CYRILLIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "UBLOCK_ARMENIAN",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "UBLOCK_HEBREW",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "UBLOCK_ARABIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "UBLOCK_SYRIAC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "UBLOCK_THAANA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "UBLOCK_DEVANAGARI",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "UBLOCK_BENGALI",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "UBLOCK_GURMUKHI",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "UBLOCK_GUJARATI",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "UBLOCK_ORIYA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "UBLOCK_TAMIL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "UBLOCK_TELUGU",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "UBLOCK_KANNADA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "UBLOCK_MALAYALAM",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "UBLOCK_SINHALA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "UBLOCK_THAI",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "UBLOCK_LAO",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "UBLOCK_TIBETAN",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "UBLOCK_MYANMAR",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "UBLOCK_GEORGIAN",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "UBLOCK_HANGUL_JAMO",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "UBLOCK_ETHIOPIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "UBLOCK_CHEROKEE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "UBLOCK_UNIFIED_CANADIAN_ABORIGINAL_SYLLABICS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x22",
+    "name": "UBLOCK_OGHAM",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x23",
+    "name": "UBLOCK_RUNIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x24",
+    "name": "UBLOCK_KHMER",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x25",
+    "name": "UBLOCK_MONGOLIAN",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x26",
+    "name": "UBLOCK_LATIN_EXTENDED_ADDITIONAL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x27",
+    "name": "UBLOCK_GREEK_EXTENDED",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x28",
+    "name": "UBLOCK_GENERAL_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x29",
+    "name": "UBLOCK_SUPERSCRIPTS_AND_SUBSCRIPTS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "UBLOCK_CURRENCY_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2B",
+    "name": "UBLOCK_COMBINING_MARKS_FOR_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2C",
+    "name": "UBLOCK_LETTERLIKE_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2D",
+    "name": "UBLOCK_NUMBER_FORMS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2E",
+    "name": "UBLOCK_ARROWS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2F",
+    "name": "UBLOCK_MATHEMATICAL_OPERATORS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "UBLOCK_MISCELLANEOUS_TECHNICAL",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31",
+    "name": "UBLOCK_CONTROL_PICTURES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "UBLOCK_OPTICAL_CHARACTER_RECOGNITION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x33",
+    "name": "UBLOCK_ENCLOSED_ALPHANUMERICS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x34",
+    "name": "UBLOCK_BOX_DRAWING",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x35",
+    "name": "UBLOCK_BLOCK_ELEMENTS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x36",
+    "name": "UBLOCK_GEOMETRIC_SHAPES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "UBLOCK_MISCELLANEOUS_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x38",
+    "name": "UBLOCK_DINGBATS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x39",
+    "name": "UBLOCK_BRAILLE_PATTERNS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3A",
+    "name": "UBLOCK_CJK_RADICALS_SUPPLEMENT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3B",
+    "name": "UBLOCK_KANGXI_RADICALS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "UBLOCK_IDEOGRAPHIC_DESCRIPTION_CHARACTERS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3D",
+    "name": "UBLOCK_CJK_SYMBOLS_AND_PUNCTUATION",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E",
+    "name": "UBLOCK_HIRAGANA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "UBLOCK_KATAKANA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "UBLOCK_BOPOMOFO",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x41",
+    "name": "UBLOCK_HANGUL_COMPATIBILITY_JAMO",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x42",
+    "name": "UBLOCK_KANBUN",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x43",
+    "name": "UBLOCK_BOPOMOFO_EXTENDED",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x44",
+    "name": "UBLOCK_ENCLOSED_CJK_LETTERS_AND_MONTHS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x45",
+    "name": "UBLOCK_CJK_COMPATIBILITY",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x46",
+    "name": "UBLOCK_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_A",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x47",
+    "name": "UBLOCK_CJK_UNIFIED_IDEOGRAPHS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x48",
+    "name": "UBLOCK_YI_SYLLABLES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x49",
+    "name": "UBLOCK_YI_RADICALS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4A",
+    "name": "UBLOCK_HANGUL_SYLLABLES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4B",
+    "name": "UBLOCK_HIGH_SURROGATES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4C",
+    "name": "UBLOCK_HIGH_PRIVATE_USE_SURROGATES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4D",
+    "name": "UBLOCK_LOW_SURROGATES",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4E",
+    "name": "UBLOCK_PRIVATE_USE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4F",
+    "name": "UBLOCK_CJK_COMPATIBILITY_IDEOGRAPHS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "UBLOCK_ALPHABETIC_PRESENTATION_FORMS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x51",
+    "name": "UBLOCK_ARABIC_PRESENTATION_FORMS_A",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x52",
+    "name": "UBLOCK_COMBINING_HALF_MARKS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x53",
+    "name": "UBLOCK_CJK_COMPATIBILITY_FORMS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x54",
+    "name": "UBLOCK_SMALL_FORM_VARIANTS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x55",
+    "name": "UBLOCK_ARABIC_PRESENTATION_FORMS_B",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x56",
+    "name": "UBLOCK_SPECIALS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x57",
+    "name": "UBLOCK_HALFWIDTH_AND_FULLWIDTH_FORMS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x58",
+    "name": "UBLOCK_OLD_ITALIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x59",
+    "name": "UBLOCK_GOTHIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5A",
+    "name": "UBLOCK_DESERET",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5B",
+    "name": "UBLOCK_BYZANTINE_MUSICAL_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5C",
+    "name": "UBLOCK_MUSICAL_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5D",
+    "name": "UBLOCK_MATHEMATICAL_ALPHANUMERIC_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5E",
+    "name": "UBLOCK_CJK_UNIFIED_IDEOGRAPHS_EXTENSION_B",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5F",
+    "name": "UBLOCK_CJK_COMPATIBILITY_IDEOGRAPHS_SUPPLEMENT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x60",
+    "name": "UBLOCK_TAGS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x61",
+    "name": "UBLOCK_CYRILLIC_SUPPLEMENTARY",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x62",
+    "name": "UBLOCK_TAGALOG",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x63",
+    "name": "UBLOCK_HANUNOO",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "UBLOCK_BUHID",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x65",
+    "name": "UBLOCK_TAGBANWA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x66",
+    "name": "UBLOCK_MISCELLANEOUS_MATHEMATICAL_SYMBOLS_A",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x67",
+    "name": "UBLOCK_SUPPLEMENTAL_ARROWS_A",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x68",
+    "name": "UBLOCK_SUPPLEMENTAL_ARROWS_B",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x69",
+    "name": "UBLOCK_MISCELLANEOUS_MATHEMATICAL_SYMBOLS_B",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6A",
+    "name": "UBLOCK_SUPPLEMENTAL_MATHEMATICAL_OPERATORS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6B",
+    "name": "UBLOCK_KATAKANA_PHONETIC_EXTENSIONS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6C",
+    "name": "UBLOCK_VARIATION_SELECTORS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6D",
+    "name": "UBLOCK_SUPPLEMENTARY_PRIVATE_USE_AREA_A",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6E",
+    "name": "UBLOCK_SUPPLEMENTARY_PRIVATE_USE_AREA_B",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6F",
+    "name": "UBLOCK_LIMBU",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x70",
+    "name": "UBLOCK_TAI_LE",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x71",
+    "name": "UBLOCK_KHMER_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x72",
+    "name": "UBLOCK_PHONETIC_EXTENSIONS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x73",
+    "name": "UBLOCK_MISCELLANEOUS_SYMBOLS_AND_ARROWS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x74",
+    "name": "UBLOCK_YIJING_HEXAGRAM_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x75",
+    "name": "UBLOCK_LINEAR_B_SYLLABARY",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x76",
+    "name": "UBLOCK_LINEAR_B_IDEOGRAMS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x77",
+    "name": "UBLOCK_AEGEAN_NUMBERS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x78",
+    "name": "UBLOCK_UGARITIC",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x79",
+    "name": "UBLOCK_SHAVIAN",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7A",
+    "name": "UBLOCK_OSMANYA",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7B",
+    "name": "UBLOCK_CYPRIOT_SYLLABARY",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7C",
+    "name": "UBLOCK_TAI_XUAN_JING_SYMBOLS",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7D",
+    "name": "UBLOCK_VARIATION_SELECTORS_SUPPLEMENT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_FOLD_CASE_DEFAULT",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_FOLD_CASE_EXCLUDE_SPECIAL_I",
+    "source": "JavaScriptGlue/icu/unicode/uchar.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "UCNV_MAX_CONVERTER_NAME_LENGTH",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCNV_SI",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCNV_SO",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCNV_SBCS",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UCNV_DBCS",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "UCNV_MBCS",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "UCNV_LATIN_1",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "UCNV_UTF8",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "UCNV_UTF16_BigEndian",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "UCNV_UTF16_LittleEndian",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "UCNV_UTF32_BigEndian",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "UCNV_UTF32_LittleEndian",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "UCNV_EBCDIC_STATEFUL",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "UCNV_ISO_2022",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "UCNV_LMBCS_1",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCNV_IBM",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "U_CNV_SAFECLONE_BUFFERSIZE",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "signatureLength",
+    "source": "JavaScriptGlue/icu/unicode/ucnv.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "UCNV_UNASSIGNED",
+    "source": "JavaScriptGlue/icu/unicode/ucnv_err.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UCNV_ILLEGAL",
+    "source": "JavaScriptGlue/icu/unicode/ucnv_err.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "UCNV_IRREGULAR",
+    "source": "JavaScriptGlue/icu/unicode/ucnv_err.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "UCNV_RESET",
+    "source": "JavaScriptGlue/icu/unicode/ucnv_err.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "UCNV_CLOSE",
+    "source": "JavaScriptGlue/icu/unicode/ucnv_err.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "UCNV_CLONE",
+    "source": "JavaScriptGlue/icu/unicode/ucnv_err.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UCONFIG_NO_LEGACY_CONVERSION",
+    "source": "JavaScriptGlue/icu/unicode/uconfig.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "JavaScriptGlue/icu/unicode/uiter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "JavaScriptGlue/icu/unicode/uiter.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "U_SIZEOF_UCHAR",
+    "source": "JavaScriptGlue/icu/unicode/umachine.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_DISABLE_RENAMING",
+    "source": "JavaScriptGlue/icu/unicode/urename.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_COMPARE_CODE_POINT_ORDER",
+    "source": "JavaScriptGlue/icu/unicode/ustring.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "U16_MAX_LENGTH",
+    "source": "JavaScriptGlue/icu/unicode/utf16.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "U8_MAX_LENGTH",
+    "source": "JavaScriptGlue/icu/unicode/utf8.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "__count",
+    "source": "JavaScriptGlue/icu/unicode/utf8.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_ASCII_FAMILY",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_EBCDIC_FAMILY",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x52",
+    "name": "space",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NULL",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "const",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fgClassID",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "q",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "q",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "q",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "q",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_ZERO_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "U_ILLEGAL_ARGUMENT_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "U_MISSING_RESOURCE_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "U_INVALID_FORMAT_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "U_FILE_ACCESS_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "U_INTERNAL_PROGRAM_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "U_MESSAGE_PARSE_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "U_MEMORY_ALLOCATION_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "U_INDEX_OUTOFBOUNDS_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "U_PARSE_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "U_INVALID_CHAR_FOUND",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "U_TRUNCATED_CHAR_FOUND",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "U_ILLEGAL_CHAR_FOUND",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "U_INVALID_TABLE_FORMAT",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "U_INVALID_TABLE_FILE",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "U_BUFFER_OVERFLOW_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "U_UNSUPPORTED_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "U_RESOURCE_TYPE_MISMATCH",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "U_ILLEGAL_ESCAPE_SEQUENCE",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "U_UNSUPPORTED_ESCAPE_SEQUENCE",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "U_NO_SPACE_AVAILABLE",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "U_CE_NOT_FOUND_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x16",
+    "name": "U_PRIMARY_TOO_LONG_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x17",
+    "name": "U_STATE_TOO_OLD_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "U_TOO_MANY_ALIASES_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "U_ENUM_OUT_OF_SYNC_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "U_INVARIANT_CONVERSION_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1B",
+    "name": "U_INVALID_STATE_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1C",
+    "name": "U_COLLATOR_VERSION_MISMATCH",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "U_USELESS_COLLATOR_ERROR",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_BAD_VARIABLE_DEFINITION",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_PARSE_ERROR_START",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_UNEXPECTED_TOKEN",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_FMT_PARSE_ERROR_START",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_BRK_ERROR_START",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_REGEX_ERROR_START",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_IDNA_ERROR_START",
+    "source": "JavaScriptGlue/icu/unicode/utypes.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "U_COPYRIGHT_STRING_LENGTH",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "U_ICU_VERSION_MAJOR_NUM",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "U_ICU_VERSION_MINOR_NUM",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "U_ICU_VERSION_PATCHLEVEL_NUM",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "U_MAX_VERSION_LENGTH",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "U_MAX_VERSION_STRING_LENGTH",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "UCOL_RUNTIME_VERSION",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "UCOL_BUILDER_VERSION",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "UCA",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "UCOL_FRACTIONAL_UCA_VERSION",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "UCOL_TAILORINGS_VERSION",
+    "source": "JavaScriptGlue/icu/unicode/uversion.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sJSCFNullRef",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "version",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "callFunction",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cfResult",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "JavaScriptGlue/JavaScriptGlue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kJSFlagNone",
+    "source": "JavaScriptGlue/JavaScriptGlue.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kJSFlagDebug",
+    "source": "JavaScriptGlue/JavaScriptGlue.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kJSFlagConvertAssociativeArray",
+    "source": "JavaScriptGlue/JavaScriptGlue.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSObject.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSObject.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSObject.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSObject.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "JavaScriptGlue/JSUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kJSInvalidTypeID",
+    "source": "JavaScriptGlue/JSUtils.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSValueWrapper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSValueWrapper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSValueWrapper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "JavaScriptGlue/JSValueWrapper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/JSValueWrapper.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "x",
+    "source": "JavaScriptGlue/testjsglue.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "JavaScriptGlue/UserObjectImp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "JavaScriptGlue/UserObjectImp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "JavaScriptGlue/UserObjectImp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "JavaScriptGlue/UserObjectImp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "JavaScriptGlue/UserObjectImp.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "JavaScriptGlue/UserObjectImp.cpp",
+    "type": "EnumCase"
+  }
+]

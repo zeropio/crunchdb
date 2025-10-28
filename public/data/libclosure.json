@@ -1,0 +1,1286 @@
+[
+  {
+    "hex": "0x0",
+    "name": "_Block_descriptor_ptrauth_discriminator",
+    "source": "libclosure/Block_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_DESCRIPTOR_1",
+    "source": "libclosure/Block_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_DESCRIPTOR_2",
+    "source": "libclosure/Block_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_DESCRIPTOR_3",
+    "source": "libclosure/Block_private.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_ESCAPE",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_LAYOUT_NON_OBJECT_BYTES",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "BLOCK_LAYOUT_NON_OBJECT_WORDS",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "BLOCK_LAYOUT_STRONG",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "BLOCK_LAYOUT_BYREF",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "BLOCK_LAYOUT_WEAK",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "BLOCK_LAYOUT_UNRETAINED",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_7",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_8",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_9",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNKNOWN_WORDS_A",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_B",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_C",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_D",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_E",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_LAYOUT_UNUSED_F",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "BLOCK_FIELD_IS_OBJECT",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "BLOCK_FIELD_IS_BLOCK",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "BLOCK_FIELD_IS_BYREF",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "BLOCK_FIELD_IS_WEAK",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "BLOCK_BYREF_CALLER",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BLOCK_GENERIC_HELPER_NONE",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BLOCK_GENERIC_HELPER_FROM_LAYOUT",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "BLOCK_GENERIC_HELPER_INLINE",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "BLOCK_GENERIC_HELPER_OUTOFLINE",
+    "source": "libclosure/Block_private.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "HASBYREF",
+    "source": "libclosure/escapeTests/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FARIBORZ",
+    "source": "libclosure/escapeTests/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "useCounter",
+    "source": "libclosure/escapeTests/common.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bcounter",
+    "source": "libclosure/escapeTests/common.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/escapeTests/escape.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/escapeTests/escape2.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libclosure/escapeTests/escape2.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "libclosure/escapeTests/escape3.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/escapeTests/escape3.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "libclosure/escapeTests/escape4.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/escapeTests/escape4.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/escapeTests/escape5.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "inReverse",
+    "source": "libclosure/Examples/ArraySortExample/Sort.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inReverse",
+    "source": "libclosure/Examples/ArraySortExample/Sort.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "globalCount",
+    "source": "libclosure/Examples/BasicByRef/BasicByRef.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "localCount",
+    "source": "libclosure/Examples/BasicByRef/BasicByRef.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "numberOfSquesals",
+    "source": "libclosure/objectTests/block-static.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "numberOfSquesals",
+    "source": "libclosure/objectTests/block-static.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libclosure/objectTests/blockimport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefaccess.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefcopy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "var",
+    "source": "libclosure/objectTests/byrefcopycopy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "shouldbe",
+    "source": "libclosure/objectTests/byrefcopycopy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefcopycopy.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CalledRetain",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CalledRelease",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CalledSelf",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "CalledDealloc",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CalledRetain",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CalledRelease",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CalledSelf",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CalledDealloc",
+    "source": "libclosure/objectTests/byrefcopyid.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "a",
+    "source": "libclosure/objectTests/byrefcopyinner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "a",
+    "source": "libclosure/objectTests/byrefcopyinner.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefcopyint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefcopyint.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefcopystack.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GotHi",
+    "source": "libclosure/objectTests/byrefgc.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VersionCounter",
+    "source": "libclosure/objectTests/byrefgc.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefstruct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefstruct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/byrefstruct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN",
+    "source": "libclosure/objectTests/constassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "constructors",
+    "source": "libclosure/objectTests/copyconstructor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destructors",
+    "source": "libclosure/objectTests/copyconstructor.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Retained",
+    "source": "libclosure/objectTests/copyproperty.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Retained",
+    "source": "libclosure/objectTests/copyproperty.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GlobalInt",
+    "source": "libclosure/objectTests/copytest.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "libclosure/objectTests/copytest.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "libclosure/objectTests/counting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/counting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/counting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/counting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/counting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/counting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "counter",
+    "source": "libclosure/objectTests/dispatch_async.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "callCount",
+    "source": "libclosure/objectTests/enumerateObjectsUsingBlock.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "flags",
+    "source": "libclosure/objectTests/flagsisa.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/forin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/forin.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "val",
+    "source": "libclosure/objectTests/goto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "val",
+    "source": "libclosure/objectTests/goto.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Allocated",
+    "source": "libclosure/objectTests/importedblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Reclaimed",
+    "source": "libclosure/objectTests/importedblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/importedblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN",
+    "source": "libclosure/objectTests/k-and-r.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/large-struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/large-struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "libclosure/objectTests/localisglobal.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/member.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "constructors",
+    "source": "libclosure/objectTests/member.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destructors",
+    "source": "libclosure/objectTests/member.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Retained",
+    "source": "libclosure/objectTests/nestedBlock.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Retained",
+    "source": "libclosure/objectTests/nestedBlock.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Retained",
+    "source": "libclosure/objectTests/nestedId.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Global",
+    "source": "libclosure/objectTests/nestedimport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "libclosure/objectTests/nestedimport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "i",
+    "source": "libclosure/objectTests/nestedimport.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Retained",
+    "source": "libclosure/objectTests/nestedSelf.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Retained",
+    "source": "libclosure/objectTests/notcopied.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Retained",
+    "source": "libclosure/objectTests/notcopied.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AssignCalled",
+    "source": "libclosure/objectTests/objectassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DisposeCalled",
+    "source": "libclosure/objectTests/objectassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AssignCalled",
+    "source": "libclosure/objectTests/objectassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DisposeCalled",
+    "source": "libclosure/objectTests/objectassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "field",
+    "source": "libclosure/objectTests/objectassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN",
+    "source": "libclosure/objectTests/orbars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "__unused",
+    "source": "libclosure/objectTests/orbars.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "libclosure/objectTests/predicateBlock.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "libclosure/objectTests/rdar6396238.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "c",
+    "source": "libclosure/objectTests/rdar6414583.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/rdar6414583.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/recover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "constructors",
+    "source": "libclosure/objectTests/recovercpp.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destructors",
+    "source": "libclosure/objectTests/recovercpp.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovercpp.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovercpp.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovercpp.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovercpp.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovercpp.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "j",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "k",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/recovermany.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "libclosure/objectTests/recursive-assign-int.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cumulation",
+    "source": "libclosure/objectTests/recursive-block.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "done",
+    "source": "libclosure/objectTests/recursiveassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "done",
+    "source": "libclosure/objectTests/recursiveassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "libclosure/objectTests/recursiveassign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "i",
+    "source": "libclosure/objectTests/refcounting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/refcounting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/refcounting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/refcounting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/refcounting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/refcounting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/refcounting.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/reference.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "constructors",
+    "source": "libclosure/objectTests/reference.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destructors",
+    "source": "libclosure/objectTests/reference.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GlobalInt",
+    "source": "libclosure/objectTests/retainrelease.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN",
+    "source": "libclosure/objectTests/rettypepromotion.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN",
+    "source": "libclosure/objectTests/shorthandexpression.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "global",
+    "source": "libclosure/objectTests/simplerelease.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "global",
+    "source": "libclosure/objectTests/simplerelease.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN",
+    "source": "libclosure/objectTests/sizeof.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "a",
+    "source": "libclosure/objectTests/small-struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A",
+    "name": "b",
+    "source": "libclosure/objectTests/small-struct.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "libclosure/objectTests/structmember.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "VERBOSE",
+    "source": "libclosure/objectTests/test.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "libclosure/objectTests/test.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/test.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inuse",
+    "source": "libclosure/objectTests/test.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/this.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "constructors",
+    "source": "libclosure/objectTests/this.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "destructors",
+    "source": "libclosure/objectTests/this.mm",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "EQUAL",
+    "source": "libclosure/objectTests/this.mm",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "RUN",
+    "source": "libclosure/objectTests/varargs-bad-assign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "six",
+    "source": "libclosure/objectTests/varargs-bad-assign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libclosure/objectTests/varargs-bad-assign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/varargs-bad-assign.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libclosure/objectTests/varargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/varargs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "libclosure/objectTests/variadic.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GotCalled",
+    "source": "libclosure/objectTests/weakblock.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/weakblock.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GotCalled",
+    "source": "libclosure/objectTests/weakblock.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GotCalled",
+    "source": "libclosure/objectTests/weakblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Errors",
+    "source": "libclosure/objectTests/weakblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recovered",
+    "source": "libclosure/objectTests/weakblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "GotCalled",
+    "source": "libclosure/objectTests/weakblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/weakblockcopy.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Allocated",
+    "source": "libclosure/objectTests/weakblockrecover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Recovered",
+    "source": "libclosure/objectTests/weakblockrecover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "libclosure/objectTests/weakblockrecover.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "RetainCalled",
+    "source": "libclosure/objectTests/weakblockretain.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ReleaseCalled",
+    "source": "libclosure/objectTests/weakblockretain.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AllocationCounter",
+    "source": "libclosure/objectTests/__blockObjectAssign.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DellocationCounter",
+    "source": "libclosure/objectTests/__blockObjectAssign.m",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_WIN32_WINNT",
+    "source": "libclosure/RewriterBlockTest/BlockTest/stdafx.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "libclosure/RewriterBlockTest/simpleblock.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isa",
+    "source": "libclosure/RewriterBlockTest/simpleblock.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CRT_SECURE_NO_WARNINGS",
+    "source": "libclosure/runtime.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "BCK_DONE",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BCK_NON_OBJECT_BYTES",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "BCK_NON_OBJECT_WORDS",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "BCK_STRONG",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "BCK_BLOCK",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "BCK_BYREF",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "BCK_WEAK",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "capcounter",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "capcounter",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "pos",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "pos",
+    "source": "libclosure/runtime.cpp",
+    "type": "EnumCase"
+  }
+]

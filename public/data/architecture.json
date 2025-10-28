@@ -1,0 +1,350 @@
+[
+  {
+    "hex": "0x20",
+    "name": "C_ARGSAVE_LEN",
+    "source": "architecture/arm/cframe.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "C_STACK_ALIGN",
+    "source": "architecture/arm/cframe.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE0",
+    "name": "C_RED_ZONE",
+    "source": "architecture/arm/cframe.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "C_STACK_ALIGN",
+    "source": "architecture/arm/cframe.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "STACK_INCR",
+    "source": "architecture/arm/reg_help.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "STACK_INCR",
+    "source": "architecture/arm/reg_help.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_CODE_EXEC",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_CODE_READ",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_CODE_16B",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DESC_CODE_32B",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_GRAN_BYTE",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DESC_GRAN_PAGE",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_DATA_RONLY",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_DATA_WRITE",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_DATA_16B",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DESC_DATA_32B",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_LDT",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_CALL_GATE",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_TRAP_GATE",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_INTR_GATE",
+    "source": "architecture/i386/desc.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FP_TAG_VALID",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FP_TAG_ZERO",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FP_TAG_SPEC",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FP_TAG_EMPTY",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FP_PREC_24B",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FP_PREC_53B",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FP_PREC_64B",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FP_RND_NEAR",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FP_RND_DOWN",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FP_RND_UP",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "FP_CHOP",
+    "source": "architecture/i386/fpu.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ERR_GDT",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ERR_IDT",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ERR_LDT",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_CF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_PF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_AF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_ZF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_SF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_TF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_IF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_DF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_OF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_IOPL",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_NT",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_RF",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_VM",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_AC",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_CLR",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFL_SET",
+    "source": "architecture/i386/frame.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "STACK_INCR",
+    "source": "architecture/i386/reg_help.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "KERN_PRIV",
+    "source": "architecture/i386/sel.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "USER_PRIV",
+    "source": "architecture/i386/sel.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SEL_GDT",
+    "source": "architecture/i386/sel.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SEL_LDT",
+    "source": "architecture/i386/sel.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "DESC_TBL_MAX",
+    "source": "architecture/i386/table.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_TSS",
+    "source": "architecture/i386/tss.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DESC_TASK_GATE",
+    "source": "architecture/i386/tss.h",
+    "type": "PreprocessorConstant"
+  }
+]

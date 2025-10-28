@@ -1,0 +1,374 @@
+[
+  {
+    "hex": "0x800",
+    "name": "ZDEF_KEY_SIZE",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CRL_SUPPORTED",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "len",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pubKeyUse",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "privKeyUse",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumSelectionPredicates",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TimeLimit",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SizeLimit",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "QueryFlags",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfAttributes",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pubKeyUse",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "privKeyUse",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "derLen",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ccHand",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rawCspHand",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "derLen",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "derLen",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "validAfter",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "validAfter",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "SERIAL_NUM_LENGTH",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "numExts",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "numNames",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "numNames",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyUsage",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numNames",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "numPurposes",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numPurposes",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "Length",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serialNumber",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numIssuerNames",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notBefore",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfRequests",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "NumberOfPolicyIds",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cspHand",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tpHand",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clHand",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "keyUsage",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pwdLen",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "optArgs",
+    "source": "security_certtool/src/CertTool.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "security_certtool/src/CertUI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "security_certtool/src/CertUI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numNames",
+    "source": "security_certtool/src/CertUI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outNames",
+    "source": "security_certtool/src/CertUI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "security_certtool/src/CertUI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dex",
+    "source": "security_certtool/src/CertUI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "security_certtool/src/CertUI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "MAX_NAMES",
+    "source": "security_certtool/src/CertUI.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kKeyUseSigning",
+    "source": "security_certtool/src/CertUI.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kKeyUseEncrypting",
+    "source": "security_certtool/src/CertUI.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kKeyUseDerive",
+    "source": "security_certtool/src/CertUI.h",
+    "type": "PreprocessorConstant"
+  }
+]

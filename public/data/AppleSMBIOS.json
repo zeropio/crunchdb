@@ -1,0 +1,542 @@
+[
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SMBIOSTableLength",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memSizeTotal",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fSlotQueueHead",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "csum",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "slot",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmiMemory",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmiStructureCount",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tableAddr",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "checksum",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tableAddress",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "epsMemory",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dmiMemory",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isRemovable",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fROMNode",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ull",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memSizeTotal",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memoryType",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fROMNode",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "busSpeedMTs",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "itcSpeedMTs",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpuSpeedMHz",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cpuType",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "memoryNode",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bootMaxMem",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fROMNode",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "AppleSMBIOS/AppleSMBIOS.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kMemDataSize",
+    "source": "AppleSMBIOS/AppleSMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "minSize",
+    "source": "AppleSMBIOS/AppleSMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBTypeBIOSInformation",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSMBTypeSystemInformation",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSMBTypeBaseBoard",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSMBTypeSystemEnclosure",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSMBTypeProcessorInformation",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSMBTypeMemoryModule",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kSMBTypeCacheInformation",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kSMBTypeSystemSlot",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kSMBTypePhysicalMemoryArray",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "kSMBTypeMemoryDevice",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "kSMBType32BitMemoryErrorInfo",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "kSMBType64BitMemoryErrorInfo",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "kSMBTypeFirmwareVolume",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x82",
+    "name": "kSMBTypeMemorySPD",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x83",
+    "name": "kSMBTypeOemProcessorType",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x84",
+    "name": "kSMBTypeOemProcessorBusSpeed",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardUnknown",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardOther",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardServerBlade",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardConnectivitySwitch",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardSystemMgmtModule",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardProcessorModule",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardIOModule",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardMemoryModule",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardDaughter",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardMotherboard",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardProcessorMemoryModule",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardProcessorIOModule",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBBaseBoardInterconnect",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "CPU",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1A",
+    "name": "kSMBProcessorInformationMinSize",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryModuleSizeNotDeterminable",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryModuleSizeNotEnabled",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryModuleSizeNotInstalled",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayUseOther",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayUseUnknown",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayUseSystemMemory",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayUseVideoMemory",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayUseFlashMemory",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayUseNonVolatileMemory",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayUseCacheMemory",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayErrorCorrectionTypeOther",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayErrorCorrectionTypeUnknown",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayErrorCorrectionTypeNone",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayErrorCorrectionTypeParity",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayErrorCorrectionTypeSingleBitECC",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayErrorCorrectionTypeMultiBitECC",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSMBMemoryArrayErrorCorrectionTypeCRC",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FW_REGION_RESERVED",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "FW_REGION_RECOVERY",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "FW_REGION_MAIN",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "FW_REGION_NVRAM",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "FW_REGION_CONFIG",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "FW_REGION_DIAGVAULT",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "NUM_FLASHMAP_ENTRIES",
+    "source": "AppleSMBIOS/SMBIOS.h",
+    "type": "EnumCase"
+  }
+]

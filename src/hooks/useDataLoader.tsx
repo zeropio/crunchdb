@@ -4,40 +4,64 @@ import { DataItem } from '../types';
 export const useDataLoader = () => {
   const [data, setData] = useState<DataItem[]>([]);
   const [loading, setLoading] = useState(true);
+  const [progress, setProgress] = useState({ loaded: 0, total: 0 });
 
   useEffect(() => {
     const loadData = async () => {
       try {
         setLoading(true);
-        const allData: DataItem[] = [];
         
-        const jsonFiles = ['xnu.json'];
+        // Load the file list first
+        console.log('Loading file list...');
+        const fileListResponse = await fetch('/data/file-list.json');
         
-        for (const filename of jsonFiles) {
-          try {
-            console.log(`Loading: /data/${filename}`);
-            const response = await fetch(`/data/${filename}`);
-            console.log(`Status:`, response.status);
-            
-            if (response.ok) {
-              const responseText = await response.text();              
-              try {
-                const jsonData = JSON.parse(responseText);
-                allData.push(...(Array.isArray(jsonData) ? jsonData : [jsonData]));
-              } catch (parseError) {
-                console.error(`JSON error:`, parseError);
-              }
-            } else {
-              console.warn(`Failed: ${response.status}`);
-            }
-          } catch (err) {
-            console.warn(`Error:`, err);
-          }
+        if (!fileListResponse.ok) {
+          throw new Error('File list not found');
         }
         
-        setData(allData);
+        const jsonFiles = await fileListResponse.json();
+        console.log(`Found ${jsonFiles.length} files to load`);
+        setProgress({ loaded: 0, total: jsonFiles.length });
+
+        let allData: DataItem[] = [];
+        const batchSize = 5; // Reduce batch size for memory management
+        
+        for (let i = 0; i < jsonFiles.length; i += batchSize) {
+          const batch = jsonFiles.slice(i, i + batchSize);
+          console.log(`Loading batch ${Math.floor(i/batchSize) + 1}/${Math.ceil(jsonFiles.length/batchSize)}`);
+          
+          const batchPromises = batch.map(async (filename: string) => {
+            try {
+              const fileResponse = await fetch(`/data/${filename}`);
+              if (fileResponse.ok) {
+                const responseText = await fileResponse.text();
+                const jsonData = JSON.parse(responseText);
+                return Array.isArray(jsonData) ? jsonData : [jsonData];
+              }
+              return [];
+            } catch (err) {
+              console.warn(`Error loading ${filename}:`, err);
+              return [];
+            }
+          });
+          
+          const batchResults = await Promise.all(batchPromises);
+          const batchData = batchResults.flat();
+          
+          // Update state incrementally to avoid stack overflow
+          allData = [...allData, ...batchData];
+          setData(allData); // Update state with current progress
+          
+          setProgress({ loaded: Math.min(i + batchSize, jsonFiles.length), total: jsonFiles.length });
+          console.log(`Progress: ${allData.length} items from ${i + batchSize}/${jsonFiles.length} files`);
+
+          // Add a small delay to prevent overwhelming the browser
+          await new Promise(resolve => setTimeout(resolve, 50));
+        }
+        
+        console.log(`✅ Loaded ${allData.length} items from ${jsonFiles.length} files`);
       } catch (error) {
-        console.error('Error:', error);
+        console.error('Error loading data:', error);
       } finally {
         setLoading(false);
       }
@@ -46,5 +70,5 @@ export const useDataLoader = () => {
     loadData();
   }, []);
 
-  return { data, loading };
+  return { data, loading, progress };
 };

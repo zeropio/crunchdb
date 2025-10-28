@@ -1,0 +1,314 @@
+[
+  {
+    "hex": "0x0",
+    "name": "kiMCHCFG",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kiAPBASE",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kiAGPCTRL",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kiAPSIZE",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kiATTBASE",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kiAMTT",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kiLPTT",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "deviceNum",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "agpSpacePerPage",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "agpBytesPerGartByte",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "alignLen",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "agpCommandMask",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x31303137",
+    "name": "kNVBadRevision",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x20",
+    "name": "agpLength",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gartArray",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "agpRange",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "systemLength",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "AppleI386PCI/AppleI386AGP.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleI386PCI/AppleI386AGP.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleI386PCI/AppleI386AGP.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleI386PCI/AppleI386AGP.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleI386PCI/AppleI386AGP.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "AppleI386PCI/AppleI386AGP.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "maxDevNum",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "BIOS32Entry",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "maxDevNum",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "maxDevNum",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bits",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCI_CONFIG_ADDRESS",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCI_CONFIG_DATA",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCI_CSE_REGISTER",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCI_BUS_FORWARD",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PCI_DEFAULT_DATA",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "address",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reloc",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reloc",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reloc",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reloc",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reloc",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reloc",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cse",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cse",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cse",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cse",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "data",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cse",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cse",
+    "source": "AppleI386PCI/AppleI386PCI.cpp",
+    "type": "EnumCase"
+  }
+]

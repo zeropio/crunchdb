@@ -1,0 +1,4592 @@
+[
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "patch_cmds/cmp/cmp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OK_EXIT",
+    "source": "patch_cmds/cmp/extern.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DIFF_EXIT",
+    "source": "patch_cmds/cmp/extern.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "ERR_EXIT",
+    "source": "patch_cmds/cmp/extern.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "byte",
+    "source": "patch_cmds/cmp/link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/link.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/regular.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "line",
+    "source": "patch_cmds/cmp/regular.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info",
+    "source": "patch_cmds/cmp/regular.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/regular.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/special.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "line",
+    "source": "patch_cmds/cmp/special.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "info",
+    "source": "patch_cmds/cmp/special.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/special.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dfound",
+    "source": "patch_cmds/cmp/special.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/arraylist.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "patch_cmds/diff/arraylist.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "allocated",
+    "source": "patch_cmds/diff/arraylist.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "patch_cmds/diff/arraylist.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "tabsize",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotstdin",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dflags",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "prevoptind",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newarg",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "diff_context",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff_context",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suppress_common",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotstdin",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gotstdin",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "argsize",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blen",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "blen",
+    "source": "patch_cmds/diff/diff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_NORMAL",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "D_EDIT",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "D_REVERSE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "D_CONTEXT",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "D_UNIFIED",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "D_IFDEF",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "D_NREVERSE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "D_BRIEF",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "D_GFORMAT",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "D_SIDEBYSIDE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "D_UNSET",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_DIFFNONE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "D_DIFFSTONE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "D_DIFFMYERS",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "D_DIFFPATIENCE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_HEADER",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_EMPTY1",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_EMPTY2",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_FORCEASCII",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_FOLDBLANKS",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_MINIMAL",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_IGNORECASE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_PROTOTYPE",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_EXPANDTABS",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_IGNOREBLANKS",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_STRIPCR",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_SKIPBLANKLINES",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_MATCHLAST",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_SAME",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "D_DIFFER",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "D_BINARY",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "D_MISMATCH1",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "D_MISMATCH2",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "D_SKIPPED1",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "D_SKIPPED2",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "D_ERROR",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "COLORFLAG_NEVER",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "COLORFLAG_AUTO",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "COLORFLAG_ALWAYS",
+    "source": "patch_cmds/diff/diff.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/diff/diffdir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/diff/diffdir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len1",
+    "source": "patch_cmds/diff/diffdir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len2",
+    "source": "patch_cmds/diff/diffdir.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x37",
+    "name": "FUNCTION_CONTEXT_SIZE",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "anychange",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastline",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastmatchline",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hw",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hw",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clen",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "clistlen",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "sz",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pref",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suff",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldl",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numtries",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "jackpot",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ctnew",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "m",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "m",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i0",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "max_context",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "anychange",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "anychange",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inifdef",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "edoffset",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nc",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "inifdef",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sum",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "space",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "space",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lowa",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lowc",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_output",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_output",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lowa",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lowc",
+    "source": "patch_cmds/diff/diffreg.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFFREG_ALGO_MYERS_THEN_MYERS_DIVIDE",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DIFFREG_ALGO_MYERS_THEN_PATIENCE",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "DIFFREG_ALGO_PATIENCE",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "DIFFREG_ALGO_NONE",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "permitted_state_size",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "permitted_state_size",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff_flags",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "patch_cmds/diff/diffreg_new.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pow2",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "eol",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "pow2",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sa_flags",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hash",
+    "source": "patch_cmds/diff/diff_atomize_text.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "patch_cmds/diff/diff_debug.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "patch_cmds/diff/diff_debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "patch_cmds/diff/diff_debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "patch_cmds/diff/diff_debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "di",
+    "source": "patch_cmds/diff/diff_debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "patch_cmds/diff/diff_debug.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "left_count",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_count",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "left_count",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "right_count",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_count",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "right_count",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "DIFF_RESULT_ALLOC_BLOCKSIZE",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x37",
+    "name": "DIFF_FUNCTION_CONTEXT_SIZE",
+    "source": "patch_cmds/diff/diff_internal.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "il",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmp",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cmp",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2000",
+    "name": "chunksz",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "cmp",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmp",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmp",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cmp",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "equal_atoms_start",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "equal_atoms_end",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "l_idx",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "r_idx",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kd_buf_size",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "DIFF_RC_USE_DIFF_ALGO_FALLBACK",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_RC_OK",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_ATOMIZER_FOUND_BINARY_DATA",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_ATOMIZER_FILE_TRUNCATED",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_FLAG_IGNORE_WHITESPACE",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_FLAG_SHOW_PROTOTYPES",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_FLAG_FORCE_TEXT_DATA",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x20",
+    "name": "permitted_state_size",
+    "source": "patch_cmds/diff/diff_main.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "prev_k",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "1",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "DIFF_EFFORT_MIN",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "best_forward_i",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "best_forward_distance",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "best_backward_i",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "best_backward_distance",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backtrack_k",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "prev_k",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "1",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "backtrack_d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "backtrack_d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backtrack_k",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "x",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "y",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "d",
+    "source": "patch_cmds/diff/diff_myers.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "DIFF_OUTPUT_BUF_SIZE",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "outoff",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outlen",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbuf",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nbuf",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outoff",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offp",
+    "source": "patch_cmds/diff/diff_output.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_INPUT_LEFT_NONEXISTENT",
+    "source": "patch_cmds/diff/diff_output.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_INPUT_RIGHT_NONEXISTENT",
+    "source": "patch_cmds/diff/diff_output.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_LINE_HUNK",
+    "source": "patch_cmds/diff/diff_output.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_LINE_MINUS",
+    "source": "patch_cmds/diff/diff_output.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_LINE_PLUS",
+    "source": "patch_cmds/diff/diff_output.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_LINE_CONTEXT",
+    "source": "patch_cmds/diff/diff_output.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "DIFF_LINE_NONE",
+    "source": "patch_cmds/diff/diff_output.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "outoff",
+    "source": "patch_cmds/diff/diff_output_edscript.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_start",
+    "source": "patch_cmds/diff/diff_output_edscript.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_start",
+    "source": "patch_cmds/diff/diff_output_edscript.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output_edscript.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output_edscript.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_start",
+    "source": "patch_cmds/diff/diff_output_plain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_start",
+    "source": "patch_cmds/diff/diff_output_plain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outoff",
+    "source": "patch_cmds/diff/diff_output_plain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output_plain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output_plain.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "seen_minus",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nchunks_used",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_minus",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "seen_plus",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_prototype_idx",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outoff",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_start",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_start",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outoff",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check_left_pos",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "check_right_pos",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_output_unidiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "UNIQUE_STRATEGY",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found_in_b",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "found_in_b",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found_in_b",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unique_in_both_count",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count_first_side",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count_other_side",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lo",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lcs_count",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "patience_stacks_count",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xx",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "left_pos",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "right_pos",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/diff_patience.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10000",
+    "name": "size",
+    "source": "patch_cmds/diff/tests/libdiff_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff/tests/libdiff_test.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "DIFF_TYPE2",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "DIFF_TYPE3",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EFLAG_NONE",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EFLAG_OVERLAP",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "EFLAG_NOOVERLAP",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "EFLAG_UNMERGED",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufsize",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dup",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "dup",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nchar",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nline",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rlen",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "from",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "to",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diffargc",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nblabels",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Aflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Aflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "Tflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "strip_cr",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "oflag",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nleft",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diff3/diff3.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "STDC_HEADERS",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SEARCH_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_TYPES_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_STAT_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MEMORY_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRINGS_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_INTTYPES_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDINT_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LOCALE",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MKDTEMP",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_OPENDIR",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRDUP",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TSEARCH",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_LSTAT",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_UNISTD_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT_HEADER",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETOPT",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_POPEN",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_POPEN_PROTOTYPE",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_MBSTOWCWIDTH",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GETC_UNLOCKED",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_SYS_IOCTL_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TERMIOS_H",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TCGETATTR",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_TCSETATTR",
+    "source": "patch_cmds/diffstat/config.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "EXIT_SUCCESS",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "EXIT_FAILURE",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5C303333",
+    "name": "ESCAPE",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x5C313737",
+    "name": "DEL",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x1",
+    "name": "OPT_TRACE",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_NOTHING",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_GENERIC",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "HAVE_PATH",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "HAVE_PATH2",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FMT_CONCISE",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FMT_NORMAL",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FMT_FILLED",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FMT_VERBOSE",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "MARKS",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "cInsert",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dcNone",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "S_option",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "D_option",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "path_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "max_width",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "merge_names",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "num_marks",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quiet",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "round_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sort_names",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "summary_only",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "suppress_binary",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trim_escapes",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "table_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "trace_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unchanged",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verbose",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "number_len",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "q",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ok",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ok",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rc",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "first_size",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "second_size",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rc",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "localp",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "n",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freed",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "local",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "matched",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filename",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "merge",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "merge",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pending",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quoted",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quoted",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "limit",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fail",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "need",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "value",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fail",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffer",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "b_fname",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "length",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixed",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "freed",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_unify",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_unify",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "expect_unify",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_dft",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_dft",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "context",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "either",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line_no",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "marker",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "context",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "context",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "context",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "marker",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "context",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_size",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_size",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_unify",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "new_unify",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "expect_unify",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "unified",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "git_diff",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prev",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "either",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixup_diffs",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pass",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fixup_diffs",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "want",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "have",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "largest_count",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "max_remain",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "largest",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "largest_count",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "temp",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "used",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fixup",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fixup",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n2",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "source",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base_s",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "base_d",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "skip",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "prefix_len",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "min_name_wide",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_ins",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_del",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_mod",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "total_eql",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "files_added",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "files_equal",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "files_binary",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "files_removed",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num_files",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "plot_scale",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "plot_width",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "largest",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "number_len",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "verb",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirpath",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dirpath",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "num_marks",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "next",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "suppress_binary",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "show_colors",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "trace_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "trim_escapes",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "merge_names",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "count_files",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "names_only",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "merge_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "reverse_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "summary_only",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "table_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "table_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sort_names",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "verbose",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "quiet",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "merge_opt",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stdin_dir",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "got",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myfile",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "stdin_dir",
+    "source": "patch_cmds/diffstat/diffstat.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "opterr",
+    "source": "patch_cmds/diffstat/porting/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "patch_cmds/diffstat/porting/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sp",
+    "source": "patch_cmds/diffstat/porting/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sp",
+    "source": "patch_cmds/diffstat/porting/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sp",
+    "source": "patch_cmds/diffstat/porting/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sp",
+    "source": "patch_cmds/diffstat/porting/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sp",
+    "source": "patch_cmds/diffstat/porting/getopt.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "OLD_GETOPT_H",
+    "source": "patch_cmds/diffstat/porting/getopt.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRCHR",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_GETOPT_H",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_MALLOC_H",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STDLIB_H",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "HAVE_STRING_H",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SYS_MSDOS",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SYS_UNIX",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SYS_VMS",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "HAVE_GETOPT_HEADER",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PRINT_ROUNDS_DOWN",
+    "source": "patch_cmds/diffstat/porting/system.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "highest_version",
+    "source": "patch_cmds/patch/backupfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "patch_cmds/patch/backupfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "patch_cmds/patch/backupfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ambiguous",
+    "source": "patch_cmds/patch/backupfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/backupfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ambiguous",
+    "source": "patch_cmds/patch/backupfile.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30D40",
+    "name": "MAXHUNKSIZE",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D",
+    "name": "INITHUNKMAX",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "INITLINELEN",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "BUFFERSIZE",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MAXFILEC",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONTEXT_DIFF",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "NORMAL_DIFF",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "ED_DIFF",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "NEW_CONTEXT_DIFF",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "UNI_DIFF",
+    "source": "patch_cmds/patch/common.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i_size",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tireclen",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lines_allocated",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "lines_allocated",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iline",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "whichbuf",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "whichbuf",
+    "source": "patch_cmds/patch/inp.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "done",
+    "source": "patch_cmds/patch/mkpath.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x284",
+    "name": "filemode",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "MAXFILEC",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "debug",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3BD",
+    "name": "strippath",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff_type",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "input_lines",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "posix",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_frozen_line",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filec",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_offset",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "maxfuzz",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "where",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hunk",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "failed",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mismatch",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fuzz",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "where",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "compare_mtime",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "error",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "error",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "input_lines",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_frozen_line",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filec",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "last_offset",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diff_type",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "optind",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "settime_gmtoff",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "posix",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "offset",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "old",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OUTSIDE",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IN_IFNDEF",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "IN_IFDEF",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "IN_ELSE",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "pline",
+    "source": "patch_cmds/patch/patch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "p_context",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_input_line",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_first",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_newfirst",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_ptrn_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_repl_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_max",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_indent",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_trailing_ctx",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "this_line",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piece_of_git",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "off",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "off",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "off",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "off",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piece_of_git",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "context",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "repl_beginning",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fillcnt",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fillsrc",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filldst",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "repl_backtrack_position",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "repl_patch_line",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ptrn_copiable",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "p_context",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "context",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_trailing_ctx",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p_ptrn_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_ptrn_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p_first",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "filldst",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p_repl_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_repl_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p_newfirst",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_trailing_ctx",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_repl_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fillsrc",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fillcnt",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_ptrn_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p_ptrn_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "p_repl_lines",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fillold",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_end",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "p_context",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "context",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_trailing_ctx",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_trailing_ctx",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p_context",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lsz",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "indent",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "continuation",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "patch_cmds/patch/pch.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OLD_FILE",
+    "source": "patch_cmds/patch/pch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "NEW_FILE",
+    "source": "patch_cmds/patch/pch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "INDEX_FILE",
+    "source": "patch_cmds/patch/pch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "MAX_FILE",
+    "source": "patch_cmds/patch/pch.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "nr",
+    "source": "patch_cmds/patch/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/patch/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "quoted",
+    "source": "patch_cmds/patch/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/patch/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PROBE_WEAK",
+    "source": "patch_cmds/patch/vcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/vcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pos",
+    "source": "patch_cmds/patch/vcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/patch/vcs.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7E",
+    "name": "WIDTH",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "WIDTH_MIN",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x300",
+    "name": "MAX_CHECK",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "tabsize",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "diffargc",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "file2ln",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "col",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "linecap",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "patch_cmds/sdiff/sdiff.c",
+    "type": "EnumCase"
+  }
+]

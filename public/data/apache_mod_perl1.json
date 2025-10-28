@@ -1,0 +1,602 @@
+[
+  {
+    "hex": "0x0",
+    "name": "seqno",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "perl_is_running",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "mod_perl_socketexitoption",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mod_perl_weareaforkedchild",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "callbacks_this_request",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mp_request_rec",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "perl_is_running",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mp_debug",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "perl_destruct_level",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tryrsfp",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "argc",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mp_debug",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "assbackwards",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "setup_env",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setup_env",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "proxyreq",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "callbacks_this_request",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_method",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "is_method",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "do_store",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "do_store",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setup_env",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "is_method",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defined_sub",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PERL_DESTRUCT_LEVEL",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MPf_On",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "MPf_Off",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_None",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_INCPUSH",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_SENDHDR",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_SENTHDR",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_ENV",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_HASENV",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_DSTDERR",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_CLEANUP",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MPf_RCLEANUP",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PERL_DONE_STARTUP",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "PERL_DONE_STARTUP",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x130E0EF",
+    "name": "MMN_130",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x130E1A9",
+    "name": "MMN_131",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x130E206",
+    "name": "MMN_132",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1310730",
+    "name": "MMN_136",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PERL_IS_DSO",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "DONE",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFD66",
+    "name": "NO_HANDLERS",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PERL_DIR_CFG_T",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "PERL_SERVER_CFG_T",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "opset_len",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myopcode",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MP_DEFAULT_OPMASK",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/mod_perl_opmask.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "perl_sections_self_boot",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PerlTaintCheck",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PerlWarn",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "FreshRestart",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "setup_env",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "chop",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "chop",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "USE_ICASE",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "j",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "perl_sections_self_boot",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "perl_sections_self_boot",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "shift",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "shift",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shift",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "shift",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_config.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set_ids",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "set_ids",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "n",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "apache_mod_perl1/mod_perl/src/modules/perl/perl_util.c",
+    "type": "EnumCase"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "hex": "0x1000",
+    "name": "FIREWIRE_MTU",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "FIREWIRE_ADDR_LEN",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "FIREWIRE_TYPE_LEN",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "FIREWIRE_MIN_LEN",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "FIREWIRE_MAX_LEN",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FWTYPE_IP",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FWTYPE_ARP",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FWTYPE_IPV6",
+    "source": "IOFireWireIP/KernelHeaders/BSD/firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "FIREWIREMCAST_V4_LEN",
+    "source": "IOFireWireIP/KernelHeaders/BSD/if_firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FIREWIREMCAST_V6_LEN",
+    "source": "IOFireWireIP/KernelHeaders/BSD/if_firewire.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "MAX_ALLOWED_SEGS",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFireWireIPCommand.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "kWaitSecs",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "kUnicastArbs",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kMulticastArbs",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "kActiveDrbs",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x80",
+    "name": "kActiveRcbs",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kMaxChannels",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7F",
+    "name": "kMaxAsyncCommands",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kMaxAsyncStreamCommands",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kRCBExpirationtime",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x30",
+    "name": "kLowWaterMark",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kWatchDogTimerMS",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kMaxPseudoAddressSize",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kMaxBusyXAcksPerSecond",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "kMaxSecondsToTurnOffFastRetry",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPBusInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F",
+    "name": "DEFAULT_BROADCAST_CHANNEL",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "GASP_TAG",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOCAL_BUS_ID",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ETHER_TYPE_MCAP",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IP1394_SPEC_ID",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IP1394_VERSION",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "IP1394v6_VERSION",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "IPV4_ADDR_SIZE",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14",
+    "name": "IPV4_HDR_SIZE",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FW_M_BCAST",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FW_M_MCAST",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FW_M_UCAST",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FW_M_PKTHDR",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "UNFRAGMENTED",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "type",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "ARP_HDW_TYPE",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MCAST_TYPE",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MCAP_ADVERTISE",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "MCAP_SOLICIT",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MCAP_UNOWNED",
+    "source": "IOFireWireIP/KernelHeaders/IOKit/IOFWIPDefinitions.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "kIOFWAddressSize",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "kIOFWMaxPacketSize",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x40",
+    "name": "kIOFWMinPacketSize",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOFWCRCSize",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOFWWakeOnMagicPacket",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kIOFWWakeOnPacketAddressMatch",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWController.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "options",
+    "source": "IOFireWireIP/KernelHeaders/IONetworkingFamily/IOFWInterface.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INET",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "type",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "old_size",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_if_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sdl_nlen",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_inet6_pr_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sdl_slen",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_inet6_pr_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "demux_count",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_inet6_pr_module.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INET",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_inet_pr_module.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_inet_pr_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sdl_nlen",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_inet_pr_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sdl_slen",
+    "source": "IOFireWireIP/KernelSource/BSD/firewire_inet_pr_module.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "INET",
+    "source": "IOFireWireIP/KernelSource/BSD/if_firewire.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/BSD/if_firewire.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/BSD/if_firewire.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cp",
+    "source": "IOFireWireIP/KernelSource/BSD/if_firewire.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fFWBusInterface",
+    "source": "IOFireWireIP/KernelSource/IOKit/IOFireWireIPUnit.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "netif",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filters",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWController.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8A",
+    "name": "DLT_APPLE_IP_OVER_IEEE1394",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterOptionDeferIO",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterOptionNotInsideGate",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterOptionNoStateChange",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterOptionDisableZeroBits",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFilterOptionSyncPendingIO",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ivedonethis",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "filters",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_requiredFilters",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_activeFilters",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "_supportedFilters",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "multiAddrs",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mcData",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mcount",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ret",
+    "source": "IOFireWireIP/KernelSource/IONetworkingFamily/IOFWInterface.cpp",
+    "type": "EnumCase"
+  }
+]

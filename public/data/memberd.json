@@ -1,0 +1,728 @@
+[
+  {
+    "hex": "0x0",
+    "name": "fTableSize",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fNumEntries",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hashOffset",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "newSize",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numResults",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/HashTable.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gScaleNumerator",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gScaleDenominator",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gThreadsWaiting",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loop",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "workresult",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "workresult",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "gThreadsWaiting",
+    "source": "memberd/Listener.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kUseLoginTimeOutMask",
+    "source": "memberd/Listener.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1F4",
+    "name": "kMaxGUIDSInCacheClient",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C4",
+    "name": "kMaxGUIDSInCacheServer",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kDefaultExpirationServer",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "kDefaultNegativeExpirationServer",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kDefaultExpirationClient",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kDefaultNegativeExpirationClient",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kDefaultLoginExpiration",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFA",
+    "name": "kDefaultLogSize",
+    "source": "memberd/main.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "bsPort",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fServerPort",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "el_seqno",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1F5",
+    "name": "el_uid",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "el_gid",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "rewriteConfig",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rewriteConfig",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "rewriteConfig",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA",
+    "name": "maxCache",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF4240",
+    "name": "maxCache",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "defaultExpiration",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "defaultExpiration",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "logSize",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC350",
+    "name": "logSize",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "defaultNegExpiration",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x18",
+    "name": "defaultNegExpiration",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1E",
+    "name": "loginExpiration",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loginExpiration",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "oldstate",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "oldsize",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "newstate",
+    "source": "memberd/main.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/MembershipResolver.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numGroups",
+    "source": "memberd/MembershipResolver.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gDirRef",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gSearchNode",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "TYPE_USER",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "TYPE_GROUP",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TYPE_BOTH",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kUUIDBlock",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSmallSIDBlock",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kLargeSIDBlock",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSearchByID",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSearchByUUID",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSearchBySID",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSearchByName",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kCacheReset",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kFoundItem",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kItemInCache",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMembershipCheck",
+    "source": "memberd/UserGroup.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gLogSize",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curLogPtr",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gNumItemsInCache",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fExpiration",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fLoginExpiration",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fEntryType",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fEntryType",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "logType",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fNotFound",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isUser",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isUser",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numResults",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "temp",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataIndex",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isFirstNibble",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "isFirstNibble",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "isFirstNibble",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "recCount",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "buffSize",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalTime",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recCount",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "recordIndex",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attributeValueListRef",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attributeListRef",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasGUID",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "hasID",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fIsUser",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fIsUser",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "attrIndex",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasGUID",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasID",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "multiplier",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "multiplier",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "multiplier",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "multiplier",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "multiplier",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "hasID",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fStartID",
+    "source": "memberd/UserGroup.c",
+    "type": "EnumCase"
+  }
+]

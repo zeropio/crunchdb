@@ -1,0 +1,5732 @@
+[
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "DSNSLPlugins/AppleTalk/CNBPNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/AppleTalk/CNBPNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CNBPNodeLookupThread_",
+    "source": "DSNSLPlugins/AppleTalk/CNBPNodeLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x86004221",
+    "name": "gBundleIdentifier",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "numKeys",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scdStatus",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "kNBPThreadUSleepOnCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C4",
+    "name": "kNBPThreadUSleepInterval",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMaxZonesOnTryOne",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMaxServicesOnTryOne",
+    "source": "DSNSLPlugins/AppleTalk/CNBPPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "urlLen",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "urlLen",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kMaxSemaphoreQueueSize",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sWaitCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entryCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "error",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interval",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retries",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backoff",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "interval",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "retries",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "backoff",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x21",
+    "name": "len",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CNBPServiceLookupThread_",
+    "source": "DSNSLPlugins/AppleTalk/CNBPServiceLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "urlLength",
+    "source": "DSNSLPlugins/AppleTalk/GenericNBPURL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "bufLen",
+    "source": "DSNSLPlugins/AppleTalk/GenericNBPURL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "bufLen",
+    "source": "DSNSLPlugins/AppleTalk/GenericNBPURL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "bufLen",
+    "source": "DSNSLPlugins/AppleTalk/GenericNBPURL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnBufferLen",
+    "source": "DSNSLPlugins/AppleTalk/GenericNBPURL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/AppleTalk/GenericNBPURL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newTextBufferLen",
+    "source": "DSNSLPlugins/AppleTalk/GenericNBPURL.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bestGuess",
+    "source": "DSNSLPlugins/AppleTalk/nbputilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "bestGuess",
+    "source": "DSNSLPlugins/AppleTalk/nbputilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "state",
+    "source": "DSNSLPlugins/AppleTalk/nbputilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNBPInternalError",
+    "source": "DSNSLPlugins/AppleTalk/nbputilities.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kNBPAppleTalkOff",
+    "source": "DSNSLPlugins/AppleTalk/nbputilities.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kNever",
+    "source": "DSNSLPlugins/AppleTalk/NSLSemaphore.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6D74",
+    "name": "semDestroyedErr",
+    "source": "DSNSLPlugins/AppleTalk/NSLSemaphore.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initialCount",
+    "source": "DSNSLPlugins/AppleTalk/NSLSemaphore.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "entryCount",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualCount",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "actualCount",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kIOSize",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ZIP_FIRST_ZONE",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ZIP_NO_MORE_ZONES",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOOKUP_ALL",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LOOKUP_LOCAL",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LOOKUP_CURRENT",
+    "source": "DSNSLPlugins/AppleTalk/zonelist.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x491304C9",
+    "name": "kDNSBrowserThreadSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSBrowserThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x818D7190",
+    "name": "kCDNSNotifierCopyDesctriptionCallbackSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSBrowserThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopRef",
+    "source": "DSNSLPlugins/DNS/DNSBrowserThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopRef",
+    "source": "DSNSLPlugins/DNS/DNSBrowserThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/DNS/DNSBrowserThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_DNSBrowserThread_",
+    "source": "DSNSLPlugins/DNS/DNSBrowserThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "kOurSpecialRegRef",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA7EF4FE5",
+    "name": "kDNSSCDynamicStoreKeySAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x519C1222",
+    "name": "kWorkstationTypeSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x39",
+    "name": "kWorkstationPortSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x43B",
+    "name": "kSpaceLeftBracketSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x5D",
+    "name": "kRightBracketSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xEA41D13E",
+    "name": "kZeroedMACAddressSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopRef",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopRef",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scdStatus",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "key",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fCount",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kMaxLengthOfNamePortionOfString",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_DNSRegistrationThread_",
+    "source": "DSNSLPlugins/DNS/DNSRegistrationThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buf_len",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "list_size",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "list_count",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/DNS/LinkAddresses.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRunLoopRef",
+    "source": "DSNSLPlugins/DNS/mDNSNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSearchingBrowser",
+    "source": "DSNSLPlugins/DNS/mDNSNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_mDNSNodeLookupThread_",
+    "source": "DSNSLPlugins/DNS/mDNSNodeLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F7D699E",
+    "name": "gBundleIdentifier",
+    "source": "DSNSLPlugins/DNS/mDNSPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNSLPlugins/DNS/mDNSPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiStrLen",
+    "source": "DSNSLPlugins/DNS/mDNSPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_mDNSPlugin_",
+    "source": "DSNSLPlugins/DNS/mDNSPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x625DF6B",
+    "name": "kLocalSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/mDNSPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xBE960E23",
+    "name": "kLocalDotSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/mDNSPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xDF9A",
+    "name": "kColonSlashSlashSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/mDNSServiceLookupThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x3FA993CC",
+    "name": "kDNSServiceLookupThreadSAFE_CFSTR",
+    "source": "DSNSLPlugins/DNS/mDNSServiceLookupThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLastResult",
+    "source": "DSNSLPlugins/DNS/mDNSServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "DSNSLPlugins/DNS/mDNSServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/DNS/mDNSServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_mDNSServiceLookupThread_",
+    "source": "DSNSLPlugins/DNS/mDNSServiceLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "kMaxTimeToWaitBetweenServices",
+    "source": "DSNSLPlugins/DNS/mDNSServiceLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x95D0AD50",
+    "name": "gBundleIdentifier",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aRequest",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xmlDataLength",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mNumberOfNeighborhoodsToGenerate",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mNumberOfServicesToGenerate",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xmlDataLength",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xmlDataLength",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodePieceIndex",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeListIndex",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodePathIndex",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "kNBPThreadUSleepOnCount",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9C4",
+    "name": "kNBPThreadUSleepInterval",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMaxZonesOnTryOne",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMaxServicesOnTryOne",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6F746673",
+    "name": "kOnTheFlySetup",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x77636667",
+    "name": "kWriteDSTestConfigXMLData",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x72636667",
+    "name": "kReadDSTestConfigXMLData",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x72786D6C",
+    "name": "kReadDSTestStaticDataXMLData",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x77786D6C",
+    "name": "kWriteDSTestStaticDataXMLData",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x7266666C",
+    "name": "kReadDSTestStaticDataFromFile",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x6164746E",
+    "name": "kAddNewTopLevelNode",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x61646E6E",
+    "name": "kAddNewNode",
+    "source": "DSNSLPlugins/DSTestData/DSTestData.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x4",
+    "name": "kMaxArgs",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMinArgs",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6F746673",
+    "name": "kOnTheFlySetup",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x77636667",
+    "name": "kWriteDSTestConfigXMLData",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x72636667",
+    "name": "kReadDSTestConfigXMLData",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x72786D6C",
+    "name": "kReadDSTestStaticDataXMLData",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x77786D6C",
+    "name": "kWriteDSTestStaticDataXMLData",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x7266666C",
+    "name": "kReadDSTestStaticDataFromFile",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x6164746E",
+    "name": "kAddNewTopLevelNode",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x61646E6E",
+    "name": "kAddNewNode",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "serviceIndex",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dsRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "nameBufferSize",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeCount",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nodeCount",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "nodeIndex",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "recordBufferSize",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recEntryCount",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "recIndex",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "attrIndex",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "attrValueIndex",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrValueListRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attributeListRef",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/DSTestData/main.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mCurrentIndex",
+    "source": "DSNSLPlugins/NSLCommon/CNSLDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mDelCounter",
+    "source": "DSNSLPlugins/NSLCommon/CNSLDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRefCounter",
+    "source": "DSNSLPlugins/NSLCommon/CNSLDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mRecSearchLimit",
+    "source": "DSNSLPlugins/NSLCommon/CNSLDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/NSLCommon/CNSLDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLDirNodeRep.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CNSLDirNodeRep_",
+    "source": "DSNSLPlugins/NSLCommon/CNSLDirNodeRep.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CNSLNodeLookupThread_",
+    "source": "DSNSLPlugins/NSLCommon/CNSLNodeLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "Use_CFStringGetInstallationEncodingAndRegion",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "kNSLBuffDataDefaultSize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x200",
+    "name": "kNSLRecBuffDataDefaultSize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "LOG_CLEAR_DATA_BUFFER",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMinTimeBetweenNodeDefaultStateDiscoveriesConsideredValid",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "kBuffPad",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gOutstandingSearches",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLastNodeLookupStartTime",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLastTimeEmptyResultsReturned",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAttempts",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "siResult",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiOffset",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "uiCntr",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAttrCnt",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numAttributesSupported",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutNodeRef",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "countDownRecTypes",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutRecEntryCount",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "fOutRecEntryCount",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrTypeLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrCnt",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueCnt",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiIndex",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiAttrEntrySize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiOffset",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiTotalValueSize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "offset",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffSize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x200",
+    "name": "fAttributeValueMaxSize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueCnt",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usValueLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "usAttrNameLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiIndex",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffSize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "buffLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attrLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curServiceTypeLength",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "recordNameLength",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numAttrTypes",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numDataBlocks",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiStrLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "uiStrLen",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "DEQUEUE_LIFO",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kOffset",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "kHexData",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "kBufferTooBig",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2800",
+    "name": "kMaxBufSize",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "numCharsOnLine",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gsRegion",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "encoding",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "region",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CNSLPlugin_",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kTaskInterval",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kNodeTimerIntervalImmediate",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kOncePerDay",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "kMaxTimeBetweenNodeLookups",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMinTimeBetweenEmptyResults",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8ED226B",
+    "name": "kDSNSLQueuedSearchSAFE_CFSTR",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x10C05534",
+    "name": "kNetworkChangeNSLCopyStringCallbackSAFE_CFSTR",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x20D916E4",
+    "name": "kDNSTextRecordSAFE_CFSTR",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x2E",
+    "name": "kDotSAFE_CFSTR",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x53EFE1DE",
+    "name": "kDotUnderscoreTCPSAFE_CFSTR",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x5F",
+    "name": "kUnderscoreSAFE_CFSTR",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSecondsBeforeStartingNewNodeLookup",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kMaxNumOutstandingSearches",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLastNodeLookupStartTime",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3F",
+    "name": "MAX_DOMAIN_LABEL",
+    "source": "DSNSLPlugins/NSLCommon/CNSLPlugin.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CNSLResult_",
+    "source": "DSNSLPlugins/NSLCommon/CNSLResult.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CNSLServiceLookupThread_",
+    "source": "DSNSLPlugins/NSLCommon/CNSLServiceLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "DSNSLPlugins/NSLCommon/CNSLTimingUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "denom",
+    "source": "DSNSLPlugins/NSLCommon/CNSLTimingUtils.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gDebuggingNSL",
+    "source": "DSNSLPlugins/NSLCommon/NSLDebugLog.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUILDING_NSLDEBUG",
+    "source": "DSNSLPlugins/NSLCommon/NSLDebugLog.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TRACK_FUNCTION_TIMES",
+    "source": "DSNSLPlugins/NSLCommon/NSLDebugLog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOG_ALWAYS",
+    "source": "DSNSLPlugins/NSLCommon/NSLDebugLog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "BUILDING_NSLDEBUG",
+    "source": "DSNSLPlugins/NSLCommon/NSLDebugLog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXLINE",
+    "source": "DSNSLPlugins/NSLCommon/NSLDebugLog.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSLPRef",
+    "source": "DSNSLPlugins/SLP/CSLPNodeLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CSLPNodeLookupThread_",
+    "source": "DSNSLPlugins/SLP/CSLPNodeLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80",
+    "name": "kCommandParamsID",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF4572BF6",
+    "name": "kDSSLPPluginTagSAFE_CFSTR",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x60619476",
+    "name": "kSLPTagSAFE_CFSTR",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x57E0A472",
+    "name": "gBundleIdentifier",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xBFE69752",
+    "name": "kSLPDefaultRegistrationScopeTagSAFE_CFSTR",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xA99D215A",
+    "name": "kAttributeListSAFE_CFSTR",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xACF0CDA2",
+    "name": "kAttributeListForURLSAFE_CFSTR",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "runloopRef",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufLen",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scopePtrLength",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnBufferLen",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataBufferLen",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataBufferLen",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSize",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferSize",
+    "source": "DSNSLPlugins/SLP/CSLPPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSLPRef",
+    "source": "DSNSLPlugins/SLP/CSLPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kServiceTagLen",
+    "source": "DSNSLPlugins/SLP/CSLPServiceLookupThread.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "numCharsToAdvance",
+    "source": "DSNSLPlugins/SLP/CSLPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SLP/CSLPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "decodedTextBufferLen",
+    "source": "DSNSLPlugins/SLP/CSLPServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CSLPServiceLookupThread_",
+    "source": "DSNSLPlugins/SLP/CSLPServiceLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "_Signal",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kSignalMessage",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "msgh_descriptor_count",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tv_sec",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needToCheckDAList",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needToCheckDAList",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needToCheckDAList",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needToCheckDAList",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "needToCheckDAList",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "needToCheckDAList",
+    "source": "DSNSLPlugins/slpd/mslpd.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "turnOn",
+    "source": "DSNSLPlugins/slpd/mslpd_init.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "DSNSLPlugins/slpd/mslpd_init.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iIter",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "mask",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_mask.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "auths",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SAFESZ",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SAFESZ",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "connected",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "connected",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "connected",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SAFESZ",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "connected",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "connected",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "connected",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numRegErrors",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piNumResults",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piNumResults",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piNumResults",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piNumResults",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piNumResults",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnValue",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pI",
+    "source": "DSNSLPlugins/slpd/mslpd_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iNALen",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piGot",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iListLen",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piGot",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iSz",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iOverflow",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iOverflow",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iErr",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iOverflow",
+    "source": "DSNSLPlugins/slpd/mslpd_parse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_parse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "DSNSLPlugins/slpd/mslpd_parse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piGot",
+    "source": "DSNSLPlugins/slpd/mslpd_parse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iOverflow",
+    "source": "DSNSLPlugins/slpd/mslpd_parse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_parse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outSize",
+    "source": "DSNSLPlugins/slpd/mslpd_parse.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x35B670F9",
+    "name": "kProductBuildVersionSAFE_CFSTR",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0xD1421909",
+    "name": "kProductVersionSAFE_CFSTR",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x11",
+    "name": "INPAREN_TOK",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x15",
+    "name": "AND_TOK",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x19",
+    "name": "GE_TOK",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1D",
+    "name": "INIT_TOK",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piOutSz",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piGot",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piGot",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piGot",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "urlEntryLength",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curPtr",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curPtr",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i1",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "result",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iQOffset",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iSOffset",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initial_strict",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initial_strict",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initial_strict",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_query.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "lang",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ltime",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXLINE",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "item",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iValCount",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iValueOffset",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numvals",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "v_i",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "v_i",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gotScope",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numvals",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piScope",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piScope",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vListLen",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "vcount",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icount",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iListLen",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "icount",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iSTListLen",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_reader.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x32",
+    "name": "MSLPQ_INCR",
+    "source": "DSNSLPlugins/slpd/mslpd_stack.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "iSize",
+    "source": "DSNSLPlugins/slpd/mslpd_stack.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/mslpd_stack.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "AND_STATE",
+    "source": "DSNSLPlugins/slpd/mslpd_stack.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "TERM_STATE",
+    "source": "DSNSLPlugins/slpd/mslpd_stack.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TYPE_BOOL",
+    "source": "DSNSLPlugins/slpd/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TYPE_INT",
+    "source": "DSNSLPlugins/slpd/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TYPE_STR",
+    "source": "DSNSLPlugins/slpd/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TYPE_OPAQUE",
+    "source": "DSNSLPlugins/slpd/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TYPE_KEYWORD",
+    "source": "DSNSLPlugins/slpd/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "TYPE_UNKNOWN",
+    "source": "DSNSLPlugins/slpd/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kNumDAAdvertsToMake",
+    "source": "DSNSLPlugins/slpd/SLPDAAdvertiser.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "kNumAdditionalFirstTimeAdvertsToMake",
+    "source": "DSNSLPlugins/slpd/SLPDAAdvertiser.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "piOutSz",
+    "source": "DSNSLPlugins/slpd/SLPDAAdvertiser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/SLPDAAdvertiser.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x44BB4AC1",
+    "name": "kSLPDARegistererTaskSAFE_CFSTR",
+    "source": "DSNSLPlugins/slpd/SLPDARegisterer.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/slpd/SLPDARegisterer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slpd/SLPDARegisterer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/slpd/SLPDARegisterer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "k",
+    "source": "DSNSLPlugins/slpd/SLPDARegisterer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "runLoopRef",
+    "source": "DSNSLPlugins/slpd/SLPdSystemConfiguration.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "runLoopRef",
+    "source": "DSNSLPlugins/slpd/SLPdSystemConfiguration.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "clientLen",
+    "source": "DSNSLPlugins/slpd/SLPInternalProcessListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newsockfd",
+    "source": "DSNSLPlugins/slpd/SLPInternalProcessListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufferLen",
+    "source": "DSNSLPlugins/slpd/SLPInternalProcessListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "daScopeListTempLen",
+    "source": "DSNSLPlugins/slpd/SLPInternalProcessListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnBufLen",
+    "source": "DSNSLPlugins/slpd/SLPInternalProcessListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "curLogLevel",
+    "source": "DSNSLPlugins/slpd/SLPInternalProcessListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x578",
+    "name": "kUDPBufferSize",
+    "source": "DSNSLPlugins/slpd/SLPInternalProcessListener.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "DO_TIME_CHECKS_ON_TTLS",
+    "source": "DSNSLPlugins/slpd/SLPRegistrar.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTimeBetweenTTLTimeChecks",
+    "source": "DSNSLPlugins/slpd/SLPRegistrar.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "gTCPLRunning",
+    "source": "DSNSLPlugins/slpd/SLPTCPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gTCPLRunning",
+    "source": "DSNSLPlugins/slpd/SLPTCPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gTCPLRunning",
+    "source": "DSNSLPlugins/slpd/SLPTCPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gUDPLRunning",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mNumBadDescriptors",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gUDPLRunning",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loop",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gUDPLRunning",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "version",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFA",
+    "name": "kQueueAlertThreshold",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMinTimeToWaitToCheckForNewData",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "kTimeToBump",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "kMaxTimeBetweenNaps",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastprop",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kMaxNumFailures",
+    "source": "DSNSLPlugins/slpd/SLPUDPListener.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1000",
+    "name": "MAXLINE",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SLP_VER",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CASE_INSENSITIVE",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "CASE_SENSITIVE",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SRVRQST",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "SRVRPLY",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "SRVREG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "SRVDEREG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "SRVACK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "ATTRRQST",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "ATTRRPLY",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "DAADVERT",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "SRVTYPERQST",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "SRVTYPERPLY",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xB",
+    "name": "SAADVERT",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "PluginInfoReq",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCOPE_SPONSER_EXTENSION_ID",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_ERROR",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LANGUAGE_NOT_SUPPORTED",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "PARSE_ERROR",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INVALID_REGISTRATION",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SCOPE_NOT_SUPPORTED",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTHENTICATION_UNSUPP",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTHENTICATION_ABSENT",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "AUTHENTICATION_FAILED",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "VER_NOT_SUPPORTED",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INTERNAL_ERROR",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DA_BUSY_NOW",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "OPTION_NOT_UNDERSTOOD",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "INVALID_UPDATE",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "RQST_NOT_SUPPORTED",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "REFRESH_REJECTED",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "MCASTFLAG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "FRESHFLAG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "OVERFLOWFLAG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "VER",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "FUN",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "LEN",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "FLAGS",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "NEXTOP",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "XID",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xC",
+    "name": "LANGLEN",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xE",
+    "name": "HDRLEN",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "MAX_REPLY_LENGTH",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "IFI_NAME",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x8",
+    "name": "IFI_HADDR",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "IFI_ALIAS",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x64",
+    "name": "NUMBUCKETS",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D00",
+    "name": "kMaxSizeOfParam",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4B0",
+    "name": "kMaxScopeListLenForUDP",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "WAIT_MSEC",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3A98",
+    "name": "DADISCMSEC",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2000",
+    "name": "RECVMTU",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xBB8",
+    "name": "MAX_UNICAST_WAIT",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "LISTINCR",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A30",
+    "name": "MIN_REFRESH_DEFAULT",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "kSecsToReregisterBeforeExpiration",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_DROP",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_REG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_DA",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_MSG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_FAIL",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_ERR",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_DEBUG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_SA",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_RADMIN",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_EXP",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_SR",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_STATE",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_NOTIFICATIONS",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_CONFIG",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_LOG_SIGNAL",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOG_DEBUG_MESSAGES",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "SLPSRVURL_CALLBACK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SLPDAADVERT_CALLBACK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SLPATTR_CALLBACK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SLPSRVURL_CALLBACK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "SLPDAADVERT_CALLBACK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "SLPATTR_CALLBACK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "NO_CHECK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CHECK",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "runLoopRef",
+    "source": "DSNSLPlugins/slplibrary/mslp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "TYPE_BOOL",
+    "source": "DSNSLPlugins/slplibrary/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "TYPE_INT",
+    "source": "DSNSLPlugins/slplibrary/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "TYPE_STR",
+    "source": "DSNSLPlugins/slplibrary/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4",
+    "name": "TYPE_OPAQUE",
+    "source": "DSNSLPlugins/slplibrary/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "TYPE_KEYWORD",
+    "source": "DSNSLPlugins/slplibrary/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFF",
+    "name": "TYPE_UNKNOWN",
+    "source": "DSNSLPlugins/slplibrary/mslpd_store.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1AB",
+    "name": "port",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piUseDA",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piUseDA",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scopeListOffset",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piLastOne",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sLifetime",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piLastOne",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piLastOne",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piLastOne",
+    "source": "DSNSLPlugins/slplibrary/mslplib.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastCheckedSize",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newTextBufferLen",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "newTextBufferLen",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ALL_DONE",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "iLast",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "use_da",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "ttl",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tcp_used",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tcp_used",
+    "source": "DSNSLPlugins/slplibrary/mslplib_int.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "ttl",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piInSz",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "NUM_SECS_BETWEEN_REQUESTS",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "INTERVALS",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "iLast",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "sendit",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFF",
+    "name": "defaultTTL",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x578",
+    "name": "mtu",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lSum",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lTillNext",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lDelay",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "piSend",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "piSend",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tv_usec",
+    "source": "DSNSLPlugins/slplibrary/mslplib_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslplib_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslplib_opt.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslplib_prlist.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "empty",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "empty",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "DSNSLPlugins/slplibrary/mslplib_regipc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iSize",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iSASListSz",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "retval",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iStrikes",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iStrikes",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "retval",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "found",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "s_addr",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kNumberOfStrikesAllowed",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "DATINCR",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x100",
+    "name": "LISTINCR",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "kNumberOfStrikesAllowed",
+    "source": "DSNSLPlugins/slplibrary/mslp_dat.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "iNoSA",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iNoSA",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iTemp",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iErrorCode",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "extID",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iNoSA",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iNoSA",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iNoSA",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "f",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iNoSA",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_disc.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i1",
+    "source": "DSNSLPlugins/slplibrary/mslp_list.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i2",
+    "source": "DSNSLPlugins/slplibrary/mslp_list.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_list.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "initial",
+    "source": "DSNSLPlugins/slplibrary/mslp_list.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "initial",
+    "source": "DSNSLPlugins/slplibrary/mslp_list.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_list.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gMutextInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gMutextInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_macosx.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "INVALID_SOCKET",
+    "source": "DSNSLPlugins/slplibrary/mslp_macosx.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SOCKET_ERROR",
+    "source": "DSNSLPlugins/slplibrary/mslp_macosx.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslp_mcast.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slplibrary/mslp_mcast.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslp_mcast.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nread",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nwritten",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "nwritten",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x20",
+    "name": "kMaxIPAddrs",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "doaliases",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "err",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "lastlen",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x64",
+    "name": "len",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "myflags",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "cptr",
+    "source": "DSNSLPlugins/slplibrary/mslp_net.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gHashTableLockNotInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loop",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gHashTableLockNotInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/slplibrary/mslp_prefs.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "MSLP_CLIENT",
+    "source": "DSNSLPlugins/slplibrary/mslp_sd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2",
+    "name": "MSLP_SERVER",
+    "source": "DSNSLPlugins/slplibrary/mslp_sd.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "sysLogInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gethostbynameLockInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tempAdrs",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numOctets",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accum",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accum",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "gethostbynameLockInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xid",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iLangLen",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "offset",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iLen",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iNext",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iEndsSep",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iEndsSep",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gLastLogOption",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "sysLogInitialized",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "DSNSLPlugins/slplibrary/mslp_util.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "SLP_LAST_CALL",
+    "source": "DSNSLPlugins/slplibrary/slp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "SLP_OK",
+    "source": "DSNSLPlugins/slplibrary/slp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2A30",
+    "name": "SLP_LIFETIME_DEFAULT",
+    "source": "DSNSLPlugins/slplibrary/slp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "SLP_LIFETIME_MAXIMUM",
+    "source": "DSNSLPlugins/slplibrary/slp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "runLoopRef",
+    "source": "DSNSLPlugins/slplibrary/slp.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x578",
+    "name": "kTCPBufferSize",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1ED569A5",
+    "name": "kSLPRAdminNotificationSAFE_CFSTR",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "kSLPFirstMessageType",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kSLPDeregisterURL",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kSLPDAStatusQuery",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kSLPDAStatusReply",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kSLPTurnOnDA",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kSLPTurnOffDA",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kSLPGetScopeList",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x8",
+    "name": "kSLPSetScopeList",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kSLPAddScope",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kSLPDeleteScope",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xB",
+    "name": "kSLPScopeList",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xC",
+    "name": "kSLPGetLoggingLevel",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kSLPSetLoggingLevel",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xE",
+    "name": "kSLPGetRegisteredSvcs",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xF",
+    "name": "kSLPTurnOnRAdminNotifications",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kSLPTurnOffRAdminNotifications",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x11",
+    "name": "kSLPScopeDeleted",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x12",
+    "name": "kSLPStartUp",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x13",
+    "name": "kSLPShutDown",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSLPDARunning",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kSLPDANotRunning",
+    "source": "DSNSLPlugins/slplibrary/SLPComm.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mNumQueuedDAsToLookup",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSocket",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSocket",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSocket",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSocket",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iSize",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mNumQueuedDAsToLookup",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSocket",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iLast",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iLast",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONFIG_DA_FIND",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONFIG_DA_INITIAL_DELAY",
+    "source": "DSNSLPlugins/slplibrary/SLPDALocator.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A30",
+    "name": "CONFIG_DA_HEART_BEAT",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "kSLPPluginNotInitialized",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionRegDereg",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionExpirations",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionServiceRequests",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionDAInfoRequests",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionRejections",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionRAdminInteraction",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionErrors",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionDebuggingMessages",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kLogOptionAllMessages",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3C",
+    "name": "CONFIG_INTERVAL_0",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A30",
+    "name": "CONFIG_INTERVAL_1",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "CONFIG_INTERVAL_2",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1E",
+    "name": "CONFIG_INTERVAL_3",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CONFIG_INTERVAL_4",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3",
+    "name": "CONFIG_INTERVAL_5",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "CONFIG_INTERVAL_6",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "CONFIG_INTERVAL_7",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "CONFIG_INTERVAL_8",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2A30",
+    "name": "CONFIG_INTERVAL_9",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x12C",
+    "name": "CONFIG_INTERVAL_12",
+    "source": "DSNSLPlugins/slplibrary/SLPDefines.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4E",
+    "name": "DHCPTAG_SLP_DIRECTORY_AGENT",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F",
+    "name": "DHCPTAG_SLP_SERVICE_SCOPE",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x60619476",
+    "name": "kSLPTagSAFE_CFSTR",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x33F8DEAE",
+    "name": "kSLPTimeOfFirstStartSAFE_CFSTR",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSCRef",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSizeOfServerScopeSponsorData",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mSCRef",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scdStatus",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ipKey",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notifyKeys",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "notifyPatterns",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scdStatus",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x5",
+    "name": "kMaxNumRetries",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "retryNum",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "iOffset",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "runLoopRef",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "runLoopRef",
+    "source": "DSNSLPlugins/slplibrary/SLPSystemConfiguration.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "kMaxURLLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x400",
+    "name": "kMaxAttributeLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7",
+    "name": "kMaxArgs",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "urlLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "attributeListLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "i",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataBufferLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnBufferLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataBufferLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "returnBufferLen",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "a",
+    "source": "DSNSLPlugins/slp_reg/slp_reg.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "DEBUG",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_size",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "output_count",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pipe_fd",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "has_timedout",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "flags",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "line_output_size",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "has_timedout",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "argValue",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "p",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "pid",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "KILL_CHILDREN_IF_TIMEOUT",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "killed",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "killed",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x100",
+    "name": "MAX_FORMAT_STR_SIZE",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "result",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "ppid",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "nb_tries",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "success",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "found",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "success",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "try_again",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "try_again",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "__CommandLineUtilities__",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "ENOERR",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "kTimeOutVal",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x5",
+    "name": "DEFAULT_EXEC_DELAY",
+    "source": "DSNSLPlugins/SMB/CommandLineUtilities.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x78",
+    "name": "kMinNumSecsToWaitAfterStartup",
+    "source": "DSNSLPlugins/SMB/CSMBNodeLookupThread.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CSMBNodeLookupThread_",
+    "source": "DSNSLPlugins/SMB/CSMBNodeLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "kMaxWorkgroupLen",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x10",
+    "name": "kMaxNetBIOSNameLen",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMaxNumLMBsForAggressiveSearch",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x3C",
+    "name": "kInitialTimeBetweenNodeLookups",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x57E0A483",
+    "name": "gBundleIdentifier",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mConfFileModTime",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "scdStatus",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numChangedKeys",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x400",
+    "name": "kMaxSizeOfParam",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "modTimeOfFile",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "aRequest",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "bufLen",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "authRef",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "authRef",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kMaxTimeToWait",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "location",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "xmlDataLength",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "workgroupDataLen",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "workgroupDataLen",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "dataLen",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "fNumNodes",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kTimeToWaitBetweenFailedBroadcasts",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "timeToWaitForNextBroadcastCF",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "errno",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x72656164",
+    "name": "kReadSMBConfigData",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x77726974",
+    "name": "kWriteSMBConfigData",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x786D6C73",
+    "name": "kReadSMBConfigXMLDataSize",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x72786D6C",
+    "name": "kReadSMBConfigXMLData",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0x77786D6C",
+    "name": "kWriteSMBConfigXMLData",
+    "source": "DSNSLPlugins/SMB/CSMBPlugin.h",
+    "type": "FourCharCode"
+  },
+  {
+    "hex": "0xCA6ABD52",
+    "name": "kSMBColonSlashSlashSAFE_CFSTR",
+    "source": "DSNSLPlugins/SMB/CSMBServiceLookupThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x3B",
+    "name": "kColonSAFE_CFSTR",
+    "source": "DSNSLPlugins/SMB/CSMBServiceLookupThread.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/CSMBServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tryNum",
+    "source": "DSNSLPlugins/SMB/CSMBServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultPtr",
+    "source": "DSNSLPlugins/SMB/CSMBServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultPtr",
+    "source": "DSNSLPlugins/SMB/CSMBServiceLookupThread.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "_CSMBServiceLookupThread_",
+    "source": "DSNSLPlugins/SMB/CSMBServiceLookupThread.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2B0A49CC",
+    "name": "kGetPrimarySAFE_CFSTR",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "StringConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "mThreadsRunning",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "mLastTimeLMBsSearched",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "status",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultPtr",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultPtr",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "inTime",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "outTime",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "tryNum",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "resultPtr",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numCharsToPrimary",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "tempAdrs",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numOctets",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accum",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "accum",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "len",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "region",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "region",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xA",
+    "name": "kLMBGoodTimeOutVal",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "kMinTimeBetweenRetries",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.h",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xF",
+    "name": "kMinTimeToRecheckLMB",
+    "source": "DSNSLPlugins/SMB/LMBDiscoverer.h",
+    "type": "PreprocessorConstant"
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "hex": "0x0",
+    "name": "allInOne",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "allInOne",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "theEntry",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "anObj",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numSpeeds",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gpioOffset",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMCMonitorModeControl",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "propertyPtr",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numInstancesRegistered",
+    "source": "AppleCore99PE/Core99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kCore99TypePowerMac2_1",
+    "source": "AppleCore99PE/Core99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numCPUs",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numCPUs",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "start_paddr",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "priority",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gpioOffset",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gpioOffset",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gpioOffset",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gpioOffset",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "decBridge",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "gpioOffset",
+    "source": "AppleCore99PE/Core99CPU.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "number_of_power_states",
+    "source": "AppleCore99PE/IOPMSlots99.cpp",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "auxCapacity",
+    "source": "AppleCore99PE/IOPMSlots99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "totalPower",
+    "source": "AppleCore99PE/IOPMSlots99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "childCount",
+    "source": "AppleCore99PE/IOPMSlots99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "loopCount",
+    "source": "AppleCore99PE/IOPMSlots99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "milliwatts",
+    "source": "AppleCore99PE/IOPMSlots99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "AppleCore99PE/IOPMSlots99.cpp",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIStatusConfigOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIHeaderTypeConfigOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIHeaderTypeBitMask",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIStandardHeaderType",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPCItoPCIBridgeHeaderType",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPCICardBusBridgeHeaderType",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesPtrStandardConfigOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesPtrPCItoPCIBridgeConfigOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesPtrCardBusBridgeConfigOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilityID",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesMinOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesMaxOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPCIPowerCapabilitiesPMCRegisterOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x7",
+    "name": "kPCIPowerCapabilitiesDataRegisterOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x40",
+    "name": "kMaxPowerCapabilitiesListLoopCount",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kMinPCIPowerCapabilitiesVersion",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesPMCVersionBitMask",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x6",
+    "name": "kPCIPowerCapabilitiesPMCAuxCurrentOffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x14",
+    "name": "kPCIStandardSleepCurrentNeeded",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kMaxAuxPowerScalingFactorBitMask",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1388",
+    "name": "kSawtoothPowerSupplyMillivolts",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3E8",
+    "name": "kMillivoltsPerVolt",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x4",
+    "name": "kPCIPowerCapabilitiesPMCSROffset",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x9",
+    "name": "kPCIPowerCapabilitiesDataSelectBitShift",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesDataSelectBitMask",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x10",
+    "name": "kPCIPowerCapabilitiesDataSelectMaxCombinations",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "kPCIPowerCapabilitiesDataSelectD3PowerConsumed",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0xD",
+    "name": "kPCIPowerCapabilitiesDataScaleBitShift",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesDataScaleBitMask",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "kPCIPowerCapabilitiesDataScale10Divisor",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "kPCIPowerCapabilitiesDataScale100Divisor",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesPMESupportD3ColdBitMask",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "kPCIPowerCapabilitiesPMEEnableBitMask",
+    "source": "AppleCore99PE/IOPMSlots99.h",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x3",
+    "name": "number_of_power_states",
+    "source": "AppleCore99PE/IOPMUSB99.cpp",
+    "type": "PreprocessorConstant"
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "hex": "0xA",
+    "name": "RULE_0",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7D0",
+    "name": "RULE_1",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7DA",
+    "name": "RULE_2",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7E4",
+    "name": "RULE_3",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7EE",
+    "name": "RULE_4",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7F8",
+    "name": "RULE_5",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x802",
+    "name": "RULE_6",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x80C",
+    "name": "RULE_7",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x811",
+    "name": "fragRULE",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F94",
+    "name": "RULE_8",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x2F9E",
+    "name": "RULE_9",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4E20",
+    "name": "ICMPECHOREQRULE",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFF",
+    "name": "RULE_D",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x9",
+    "name": "NUM_DEFAULT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F56",
+    "name": "UDPRULEDNS",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F60",
+    "name": "UDPRULEBOOTP",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F61",
+    "name": "UDPRULEBOOTSERVER",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F62",
+    "name": "UDPRULEMDNSRESPONSE",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F6A",
+    "name": "UDPRULENTP",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F74",
+    "name": "UDPRULESMB",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F7E",
+    "name": "UDPRULESRVLOC",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F88",
+    "name": "UDPRULEIPP",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4F92",
+    "name": "UDPRULEMDNS",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x4FB0",
+    "name": "UDPRPCRULESTART",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x55F0",
+    "name": "UDPUSERDEFINEDSTARTS",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7724",
+    "name": "UDPRULECHECKSTATE",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x772E",
+    "name": "UDPRULEKEEPSTATE",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7738",
+    "name": "UDPRULEDEFAULTFRAG",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x88B8",
+    "name": "UDPRULEDEFAULTDENY",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x35",
+    "name": "DNSPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x43",
+    "name": "BOOTSERVERPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x44",
+    "name": "BOOTPCLIENTPPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6F",
+    "name": "RPCPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x7B",
+    "name": "NTPPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x89",
+    "name": "SMBPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1AB",
+    "name": "SRVLOCPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x277",
+    "name": "IPPPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x14E9",
+    "name": "MDNSPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xCD3",
+    "name": "ARDPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1B3A",
+    "name": "RSTPCLIENTPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x816",
+    "name": "RULE_START",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "SUCCESS",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x1",
+    "name": "ERROR",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "SIGNAL_FTP",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "kAppleRule",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFF",
+    "name": "kOneRule",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xFFFFFFFFFFFFFFFE",
+    "name": "kThirdPartyRule",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "LOGDEFAULTVALUE",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "STEALTHDEFAULTVALUE",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x6",
+    "name": "MAXDEFAULTUDPRULES",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x63",
+    "name": "error",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "status",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualDataSize",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numRules",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iterations",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numRulesExpected",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "num",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x2",
+    "name": "numRulesExpected",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualDataSize",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numRules",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iterations",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "numRulesExpected",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defaultRulesFound",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "defaultRulesFound",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "portCount",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "count",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x50",
+    "name": "MAXRPCUDPPORT",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0x0",
+    "name": "index",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "i",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "end",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "dataSize",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "actualDataSize",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "numRules",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x1",
+    "name": "iterations",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "j",
+    "source": "FirewallTool/FirewallTool.c",
+    "type": "EnumCase"
+  },
+  {
+    "hex": "0x0",
+    "name": "IPFWLOGEVENT",
+    "source": "FirewallTool/ipfwloggerd.c",
+    "type": "PreprocessorConstant"
+  },
+  {
+    "hex": "0xA",
+    "name": "KEV_LOG_SUBCLASS",
+    "source": "FirewallTool/ipfwloggerd.c",
+    "type": "PreprocessorConstant"
+  }
+]
