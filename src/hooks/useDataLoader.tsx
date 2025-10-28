@@ -28,7 +28,6 @@ export const useDataLoader = () => {
         
         for (let i = 0; i < jsonFiles.length; i += batchSize) {
           const batch = jsonFiles.slice(i, i + batchSize);
-          console.log(`Loading batch ${Math.floor(i/batchSize) + 1}/${Math.ceil(jsonFiles.length/batchSize)}`);
           
           const batchPromises = batch.map(async (filename: string) => {
             try {
@@ -53,13 +52,11 @@ export const useDataLoader = () => {
           setData(allData); // Update state with current progress
           
           setProgress({ loaded: Math.min(i + batchSize, jsonFiles.length), total: jsonFiles.length });
-          console.log(`Progress: ${allData.length} items from ${i + batchSize}/${jsonFiles.length} files`);
 
           // Add a small delay to prevent overwhelming the browser
           await new Promise(resolve => setTimeout(resolve, 50));
         }
         
-        console.log(`✅ Loaded ${allData.length} items from ${jsonFiles.length} files`);
       } catch (error) {
         console.error('Error loading data:', error);
       } finally {
