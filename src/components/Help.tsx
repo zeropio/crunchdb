@@ -9,8 +9,6 @@ export const Help = () => {
           <p className="text-gray-300">
             CrunchDB is Apple's Magic Number Database - a comprehensive collection of identifiers, 
             hex values, and their corresponding names used across Apple's ecosystem. Swift support WIP!
-
-            A real database will be implemented later for optimization. Now, "it just works".
           </p>
         </section>
 

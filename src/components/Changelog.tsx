@@ -7,6 +7,14 @@ interface ChangeItem {
 export const Changelog = () => {
   const changelogData: ChangeItem[] = [
     {
+      version: "1.0.0",
+      date: "2024-29-10",
+      changes: [
+        "CrunchDB launched",
+        "Database loaded",
+      ]
+    },
+    {
       version: "0.0.1",
       date: "2024-26-10",
       changes: [
