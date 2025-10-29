@@ -17,6 +17,24 @@ function App() {
   const { results, loading: searchLoading, pagination, search } = useSearch();
 
   useEffect(() => {
+    const handleHashChange = () => {
+      const hash = window.location.hash;
+      if (hash === '#/help') {
+        setCurrentView('help');
+      } else if (hash === '#/changelog') {
+        setCurrentView('changelog');
+      } else {
+        setCurrentView('search');
+      }
+    };
+
+    handleHashChange();
+    window.addEventListener('hashchange', handleHashChange);
+    
+    return () => window.removeEventListener('hashchange', handleHashChange);
+  }, []);
+
+  useEffect(() => {
     if (searchQuery.trim()) {
       search(searchQuery, currentPage);
     }
