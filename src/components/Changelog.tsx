@@ -8,7 +8,7 @@ export const Changelog = () => {
   const changelogData: ChangeItem[] = [
     {
       version: "1.0.0",
-      date: "2024-29-10",
+      date: "2025-10-29",
       changes: [
         "CrunchDB launched",
         "Database loaded",
@@ -16,7 +16,7 @@ export const Changelog = () => {
     },
     {
       version: "0.0.1",
-      date: "2024-26-10",
+      date: "2025-10-26",
       changes: [
         "Initial work of CrunchDB",
         "Basic search functionality",
